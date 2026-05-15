@@ -5,49 +5,49 @@
     "players": [
       {
         "position": "1",
-        "name": "Aldrich Potgieter",
-        "total": "-5",
+        "name": "Maverick McNealy",
+        "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "2",
+        "position": "T-2",
         "name": "Alex Smalley",
         "total": "-4",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-2",
+        "name": "Min Woo Lee",
+        "total": "-4",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
         "name": "Chris Gotterup",
         "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-4",
         "name": "Hideki Matsuyama",
         "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
-        "name": "Jason Day",
+        "position": "T-4",
+        "name": "Aldrich Potgieter",
         "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-4",
         "name": "Stephan Jaeger",
-        "total": "-3",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
-        "name": "Min Woo Lee",
         "total": "-3",
         "round_score": "-",
         "thru": "0"
@@ -61,14 +61,14 @@
       },
       {
         "position": "T-8",
-        "name": "Justin Thomas",
+        "name": "David Puig",
         "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-8",
-        "name": "Scottie Scheffler",
+        "name": "Justin Thomas",
         "total": "-2",
         "round_score": "-",
         "thru": "0"
