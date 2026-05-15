@@ -44,8 +44,7 @@ main {
   grid-template-rows: auto auto auto;
   grid-template-areas:
     "markets news"
-    "pga     news"
-    "liv     news";
+    "pga     liv";
   gap: 0.85rem;
 }
 

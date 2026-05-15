@@ -81,7 +81,7 @@ function renderMarkets(data) {
 }
 
 function renderNews(data) {
-  return data.items.slice(0, 8).map(item => {
+  return data.items.slice(0, 5).map(item => {
     const age = item.published ? relativeTime(item.published) : "";
     return `
       <div class="news-item">
