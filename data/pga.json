@@ -4,71 +4,71 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
-        "name": "Alex Smalley",
-        "total": "-3",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
+        "position": "1",
         "name": "Aldrich Potgieter",
+        "total": "-5",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "2",
+        "name": "Alex Smalley",
+        "total": "-4",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Chris Gotterup",
         "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-3",
+        "name": "Hideki Matsuyama",
+        "total": "-3",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Jason Day",
+        "total": "-3",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
         "name": "Stephan Jaeger",
         "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-3",
         "name": "Min Woo Lee",
         "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Ryo Hisatsune",
-        "total": "-3",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Patrick Reed",
+        "position": "T-8",
+        "name": "Cameron Young",
         "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Chandler Blanchet",
+        "position": "T-8",
+        "name": "Justin Thomas",
         "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Daniel Brown",
-        "total": "-2",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Sahith Theegala",
-        "total": "-2",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Max Greyserman",
+        "position": "T-8",
+        "name": "Scottie Scheffler",
         "total": "-2",
         "round_score": "-",
         "thru": "0"
