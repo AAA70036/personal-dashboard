@@ -5,6 +5,13 @@
     "players": [
       {
         "position": "T-1",
+        "name": "Rory McIlroy",
+        "total": "-4",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
         "name": "Maverick McNealy",
         "total": "-4",
         "round_score": "-",
@@ -18,58 +25,51 @@
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-4",
+        "name": "Xander Schauffele",
+        "total": "-3",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Jon Rahm",
+        "total": "-3",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Aaron Rai",
+        "total": "-3",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
         "name": "Chris Gotterup",
         "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-4",
         "name": "Hideki Matsuyama",
         "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-4",
         "name": "Max Greyserman",
         "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-4",
         "name": "Min Woo Lee",
         "total": "-3",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
-        "name": "Aldrich Potgieter",
-        "total": "-3",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
-        "name": "Stephan Jaeger",
-        "total": "-3",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Michael Kim",
-        "total": "-2",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Chris Kirk",
-        "total": "-2",
         "round_score": "-",
         "thru": "0"
       }
