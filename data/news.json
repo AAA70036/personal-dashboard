@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Trump and administration officials address Christian gathering on National Mall",
+      "link": "https://www.npr.org/2026/05/17/nx-s1-5825003/trump-christian-national-mall-prayer-service-250",
+      "source": "NPR",
+      "published": "2026-05-17T22:55:54+00:00"
+    },
+    {
+      "title": "W.H.O. Declares Ebola Outbreak a Global Health Emergency",
+      "link": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
+      "source": "NYT",
+      "published": "2026-05-17T21:40:06+00:00"
+    },
+    {
       "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
       "link": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -25,12 +37,6 @@
       "published": "2026-05-17T16:21:03+00:00"
     },
     {
-      "title": "W.H.O. Declares Ebola Outbreak a Global Health Emergency",
-      "link": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
-      "source": "NYT",
-      "published": "2026-05-17T16:01:08+00:00"
-    },
-    {
       "title": "Ukraine conducts large-scale drone strikes on Russia, killing 4 and wounding 12 others",
       "link": "https://www.npr.org/2026/05/17/nx-s1-5824987/ukrainian-drone-strikes-on-russia-kill-4-moscow",
       "source": "NPR",
@@ -53,12 +59,6 @@
       "link": "https://www.bbc.com/news/articles/clypg60k25ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-05-17T11:11:31+00:00"
-    },
-    {
-      "title": "One clinic tracks the heavy toll Trump's immigration crackdown takes on mental health",
-      "link": "https://www.npr.org/2026/05/17/nx-s1-5779576/immigration-ice-cbp-mental-health-children",
-      "source": "NPR",
-      "published": "2026-05-17T11:00:00+00:00"
     }
   ]
 }

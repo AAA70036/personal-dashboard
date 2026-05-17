@@ -4,67 +4,67 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
-        "name": "Matti Schmid",
-        "total": "-6",
-        "round_score": "-2",
-        "thru": "6"
+        "position": "1",
+        "name": "Aaron Rai",
+        "total": "-9",
+        "round_score": "-5",
+        "thru": "F"
       },
       {
-        "position": "T-1",
+        "position": "T-2",
+        "name": "Jon Rahm",
+        "total": "-6",
+        "round_score": "-2",
+        "thru": "F"
+      },
+      {
+        "position": "T-2",
         "name": "Alex Smalley",
         "total": "-6",
         "round_score": "E",
-        "thru": "5"
+        "thru": "F"
       },
       {
-        "position": "T-3",
+        "position": "T-4",
         "name": "Justin Thomas",
         "total": "-5",
         "round_score": "-5",
         "thru": "F"
       },
       {
-        "position": "T-3",
+        "position": "T-4",
+        "name": "Matti Schmid",
+        "total": "-5",
+        "round_score": "-1",
+        "thru": "F"
+      },
+      {
+        "position": "T-4",
+        "name": "Ludvig \u00c5berg",
+        "total": "-5",
+        "round_score": "-1",
+        "thru": "F"
+      },
+      {
+        "position": "T-7",
         "name": "Cameron Smith",
-        "total": "-5",
-        "round_score": "-3",
-        "thru": "12"
+        "total": "-4",
+        "round_score": "-2",
+        "thru": "F"
       },
       {
-        "position": "T-3",
-        "name": "Nick Taylor",
-        "total": "-5",
+        "position": "T-7",
+        "name": "Xander Schauffele",
+        "total": "-4",
         "round_score": "-1",
-        "thru": "6"
-      },
-      {
-        "position": "T-3",
-        "name": "Jon Rahm",
-        "total": "-5",
-        "round_score": "-1",
-        "thru": "6"
+        "thru": "F"
       },
       {
         "position": "T-7",
         "name": "Rory McIlroy",
         "total": "-4",
         "round_score": "-1",
-        "thru": "8"
-      },
-      {
-        "position": "T-7",
-        "name": "Aaron Rai",
-        "total": "-4",
-        "round_score": "E",
-        "thru": "7"
-      },
-      {
-        "position": "T-7",
-        "name": "Ludvig \u00c5berg",
-        "total": "-4",
-        "round_score": "E",
-        "thru": "7"
+        "thru": "F"
       },
       {
         "position": "T-10",
