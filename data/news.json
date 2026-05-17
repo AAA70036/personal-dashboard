@@ -1,22 +1,34 @@
 {
   "items": [
     {
-      "title": "Executions nearly doubled in the U.S. last year, and soared abroad",
-      "link": "https://www.npr.org/2026/05/17/nx-s1-5824521/executions-amnesty-international-report",
+      "title": "W.H.O. Declares Ebola Outbreak a Global Health Emergency",
+      "link": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
+      "source": "NYT",
+      "published": "2026-05-17T14:59:16+00:00"
+    },
+    {
+      "title": "Ukraine conducts large-scale drone strikes on Russia, killing 4 and wounding 12 others",
+      "link": "https://www.npr.org/2026/05/17/nx-s1-5824987/ukrainian-drone-strikes-on-russia-kill-4-moscow",
       "source": "NPR",
-      "published": "2026-05-17T12:01:00+00:00"
+      "published": "2026-05-17T14:49:07+00:00"
+    },
+    {
+      "title": "Runoff in Peru Offers Two Starkly Differing Visions for the Nation",
+      "link": "https://www.nytimes.com/2026/05/17/world/americas/peru-runoff-election.html",
+      "source": "NYT",
+      "published": "2026-05-17T14:47:09+00:00"
+    },
+    {
+      "title": "How worrying is the Ebola outbreak in DR Congo?",
+      "link": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-05-17T13:31:00+00:00"
     },
     {
       "title": "Erdogan Wants Turkey to Have More Babies. Few Parents Are Listening.",
       "link": "https://www.nytimes.com/2026/05/17/world/europe/erdogan-turkey-demography-babies-family-planning-economy.html",
       "source": "NYT",
       "published": "2026-05-17T11:54:55+00:00"
-    },
-    {
-      "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
-      "link": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-05-17T11:28:02+00:00"
     },
     {
       "title": "Personal decision for Starmer on whether to fight leadership contest, minister says",
@@ -37,12 +49,6 @@
       "published": "2026-05-17T10:14:00+00:00"
     },
     {
-      "title": "Wave of Ukrainian Strikes Kills at Least 4, Russia Says",
-      "link": "https://www.nytimes.com/2026/05/17/world/europe/russia-ukraine-strikes-moscow.html",
-      "source": "NYT",
-      "published": "2026-05-17T10:00:15+00:00"
-    },
-    {
       "title": "Forty-three arrests after \u00a34.5m police operation to keep rival London protests apart",
       "link": "https://www.bbc.com/news/articles/ckgpznn202po?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -53,12 +59,6 @@
       "link": "https://www.npr.org/2026/05/17/g-s1-113270/uyghurs-china-syria-war-fighters-rebels-bashar-al-assad",
       "source": "NPR",
       "published": "2026-05-17T09:02:00+00:00"
-    },
-    {
-      "title": "How Birding Apps Are Boosting Tourism in the World\u2019s Top Bird Destination",
-      "link": "https://www.nytimes.com/2026/05/17/world/americas/colombia-birding-app-merlin-ebird-tourism.html",
-      "source": "NYT",
-      "published": "2026-05-17T09:01:59+00:00"
     }
   ]
 }
