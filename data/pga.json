@@ -5,8 +5,8 @@
     "players": [
       {
         "position": "1",
-        "name": "Aaron Rai",
-        "total": "-5",
+        "name": "Alex Smalley",
+        "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
@@ -26,6 +26,13 @@
       },
       {
         "position": "T-2",
+        "name": "Aaron Rai",
+        "total": "-4",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
         "name": "Jon Rahm",
         "total": "-4",
         "round_score": "-",
@@ -33,42 +40,35 @@
       },
       {
         "position": "T-2",
-        "name": "Chris Gotterup",
+        "name": "Ludvig \u00c5berg",
         "total": "-4",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
+        "position": "T-7",
         "name": "Rory McIlroy",
         "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
+        "position": "T-7",
         "name": "Xander Schauffele",
         "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
+        "position": "T-7",
         "name": "Patrick Reed",
         "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Ludvig \u00c5berg",
-        "total": "-3",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Max Greyserman",
+        "position": "T-7",
+        "name": "Maverick McNealy",
         "total": "-3",
         "round_score": "-",
         "thru": "0"
