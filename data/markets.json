@@ -15,48 +15,48 @@
     "Nasdaq": {
       "symbol": "^IXIC",
       "price": 25870.71,
-      "change": -220.03,
+      "change": -220.02,
       "pct_change": -0.84
     }
   },
   "gainers": [
     {
+      "symbol": "JNJ",
+      "price": 230.0,
+      "change": 1.75,
+      "pct_change": 0.77
+    },
+    {
+      "symbol": "UNH",
+      "price": 389.24,
+      "change": 2.19,
+      "pct_change": 0.57
+    },
+    {
       "symbol": "LLY",
       "price": 1021.41,
-      "change": 31.51,
-      "pct_change": 3.18
-    },
-    {
-      "symbol": "MRK",
-      "price": 114.24,
-      "change": 1.91,
-      "pct_change": 1.7
-    },
-    {
-      "symbol": "XOM",
-      "price": 162.55,
-      "change": 2.06,
-      "pct_change": 1.28
+      "change": 3.83,
+      "pct_change": 0.38
     }
   ],
   "losers": [
     {
-      "symbol": "ORCL",
-      "price": 181.46,
-      "change": -5.26,
-      "pct_change": -2.82
+      "symbol": "NVDA",
+      "price": 220.61,
+      "change": -0.93,
+      "pct_change": -0.42
     },
     {
-      "symbol": "GOOGL",
-      "price": 387.66,
-      "change": -11.14,
-      "pct_change": -2.79
+      "symbol": "BRK-B",
+      "price": 480.46,
+      "change": -1.45,
+      "pct_change": -0.3
     },
     {
-      "symbol": "AMZN",
-      "price": 259.34,
-      "change": -5.56,
-      "pct_change": -2.1
+      "symbol": "JPM",
+      "price": 295.7,
+      "change": -0.55,
+      "pct_change": -0.19
     }
   ]
 }
