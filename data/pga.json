@@ -4,72 +4,72 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "1",
+        "position": "T-1",
         "name": "Brooks Koepka",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "T-1",
+        "name": "Taylor Moore",
+        "total": "-8",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
         "name": "Emiliano Grillo",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "T-3",
         "name": "Keith Mitchell",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "T-3",
         "name": "Si Woo Kim",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "T-3",
         "name": "Stephan Jaeger",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "T-3",
         "name": "Michael Thorbjornsen",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-7",
+        "position": "T-3",
+        "name": "Jesper Svensson",
+        "total": "-7",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-9",
         "name": "Doug Ghim",
         "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-7",
+        "position": "T-9",
         "name": "Mackenzie Hughes",
         "total": "-6",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Mark Hubbard",
-        "total": "-5",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Erik van Rooyen",
-        "total": "-5",
         "round_score": "-",
         "thru": "0"
       }
