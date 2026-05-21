@@ -1,75 +1,75 @@
 {
   "leaderboard": {
     "tournament": "THE CJ CUP Byron Nelson",
-    "status": "Scheduled",
+    "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
-        "name": "S.Y. Noh",
-        "total": "E",
+        "position": "1",
+        "name": "Brooks Koepka",
+        "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-2",
         "name": "Emiliano Grillo",
-        "total": "E",
+        "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Mark Hubbard",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Cameron Champ",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Doug Ghim",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Tom Kim",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Martin Laird",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Robert Streb",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Mackenzie Hughes",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
+        "position": "T-2",
         "name": "Keith Mitchell",
-        "total": "E",
+        "total": "-7",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "Si Woo Kim",
+        "total": "-7",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "Stephan Jaeger",
+        "total": "-7",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "Michael Thorbjornsen",
+        "total": "-7",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-7",
+        "name": "Doug Ghim",
+        "total": "-6",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-7",
+        "name": "Mackenzie Hughes",
+        "total": "-6",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-9",
+        "name": "Mark Hubbard",
+        "total": "-5",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-9",
+        "name": "Erik van Rooyen",
+        "total": "-5",
         "round_score": "-",
         "thru": "0"
       }
