@@ -4,72 +4,72 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
+        "position": "1",
+        "name": "Taylor Moore",
+        "total": "-9",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
         "name": "Brooks Koepka",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Taylor Moore",
+        "position": "T-2",
+        "name": "Jesper Svensson",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-4",
         "name": "Emiliano Grillo",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-4",
         "name": "Keith Mitchell",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-4",
         "name": "Si Woo Kim",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-4",
         "name": "Stephan Jaeger",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-4",
         "name": "Michael Thorbjornsen",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
-        "name": "Jesper Svensson",
+        "position": "T-4",
+        "name": "Tyler Duncan",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-9",
-        "name": "Doug Ghim",
-        "total": "-6",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Mackenzie Hughes",
-        "total": "-6",
+        "position": "T-4",
+        "name": "Kensei Hirata",
+        "total": "-7",
         "round_score": "-",
         "thru": "0"
       }
