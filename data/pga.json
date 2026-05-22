@@ -5,6 +5,13 @@
     "players": [
       {
         "position": "1",
+        "name": "Si Woo Kim",
+        "total": "-17",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
         "name": "Sungjae Im",
         "total": "-13",
         "round_score": "-",
@@ -12,64 +19,57 @@
       },
       {
         "position": "T-2",
+        "name": "Kensei Hirata",
+        "total": "-13",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "Keith Mitchell",
+        "total": "-13",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "Scottie Scheffler",
+        "total": "-13",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
         "name": "Jordan Spieth",
         "total": "-12",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
-        "name": "Kensei Hirata",
+        "position": "T-6",
+        "name": "Tyler Duncan",
         "total": "-12",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "4",
-        "name": "Tyler Duncan",
+        "position": "T-8",
+        "name": "Zach Bauchou",
         "total": "-11",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
-        "name": "Mac Meissner",
-        "total": "-10",
+        "position": "T-8",
+        "name": "Chan Kim",
+        "total": "-11",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
-        "name": "Luke List",
-        "total": "-10",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
+        "position": "T-8",
         "name": "Taylor Moore",
-        "total": "-10",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-8",
-        "name": "Pierceson Coody",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-8",
-        "name": "Chris Kirk",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-8",
-        "name": "Hank Lebioda",
-        "total": "-9",
+        "total": "-11",
         "round_score": "-",
         "thru": "0"
       }
