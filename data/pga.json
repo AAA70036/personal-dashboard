@@ -5,71 +5,71 @@
     "players": [
       {
         "position": "1",
+        "name": "Sungjae Im",
+        "total": "-13",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "Jordan Spieth",
+        "total": "-12",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "Kensei Hirata",
+        "total": "-12",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "4",
+        "name": "Tyler Duncan",
+        "total": "-11",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-5",
+        "name": "Mac Meissner",
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-5",
+        "name": "Luke List",
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-5",
         "name": "Taylor Moore",
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-8",
+        "name": "Pierceson Coody",
         "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
-        "name": "Brooks Koepka",
-        "total": "-8",
+        "position": "T-8",
+        "name": "Chris Kirk",
+        "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
-        "name": "Jesper Svensson",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Emiliano Grillo",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Keith Mitchell",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Si Woo Kim",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Stephan Jaeger",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Michael Thorbjornsen",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Tyler Duncan",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Kensei Hirata",
-        "total": "-7",
+        "position": "T-8",
+        "name": "Hank Lebioda",
+        "total": "-9",
         "round_score": "-",
         "thru": "0"
       }
