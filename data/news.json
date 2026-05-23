@@ -1,28 +1,34 @@
 {
   "items": [
     {
-      "title": "Iran 'getting a lot closer' to agreement with US, Trump says",
+      "title": "Trump says a deal with Iran and opening of Strait of Hormuz are 'largely negotiated'",
+      "link": "https://www.npr.org/2026/05/23/g-s1-124145/trump-iran-deal-strait-of-hormuz",
+      "source": "NPR",
+      "published": "2026-05-23T23:00:02+00:00"
+    },
+    {
+      "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
       "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-05-23T19:46:54+00:00"
+      "published": "2026-05-23T22:10:24+00:00"
+    },
+    {
+      "title": "A Lull in Fighting Gave Time to Bury Their Dead",
+      "link": "https://www.nytimes.com/2026/05/23/world/europe/lebanon-war-burials.html",
+      "source": "NYT",
+      "published": "2026-05-23T22:05:35+00:00"
+    },
+    {
+      "title": "Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 82 in China",
+      "link": "https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html",
+      "source": "NYT",
+      "published": "2026-05-23T20:45:31+00:00"
     },
     {
       "title": "France Bans Israeli Minister Over Treatment of Detained Flotilla Activists",
       "link": "https://www.nytimes.com/2026/05/23/world/middleeast/ben-gvir-travel-ban-france.html",
       "source": "NYT",
       "published": "2026-05-23T18:54:49+00:00"
-    },
-    {
-      "title": "A Lull in Fighting Gave Time to Bury Their Dead",
-      "link": "https://www.nytimes.com/2026/05/23/world/europe/lebanon-war-burials.html",
-      "source": "NYT",
-      "published": "2026-05-23T18:21:01+00:00"
-    },
-    {
-      "title": "Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 82 in China",
-      "link": "https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html",
-      "source": "NYT",
-      "published": "2026-05-23T18:08:40+00:00"
     },
     {
       "title": "What will Trump do next with Iran?",
@@ -53,12 +59,6 @@
       "link": "https://www.nytimes.com/2026/05/23/world/middleeast/israel-trump-iran.html",
       "source": "NYT",
       "published": "2026-05-23T15:05:17+00:00"
-    },
-    {
-      "title": "French mum and partner held until trial after sons abandoned by road in Portugal",
-      "link": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-05-23T14:24:48+00:00"
     }
   ]
 }
