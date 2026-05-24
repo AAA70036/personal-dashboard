@@ -1,77 +1,77 @@
 {
   "leaderboard": {
     "tournament": "THE CJ CUP Byron Nelson",
-    "status": "In Progress",
+    "status": "Final",
     "players": [
       {
         "position": "1",
-        "name": "Si Woo Kim",
-        "total": "-24",
-        "round_score": "-3",
-        "thru": "10"
+        "name": "Wyndham Clark",
+        "total": "-30",
+        "round_score": "-11",
+        "thru": "F"
       },
       {
         "position": "2",
-        "name": "Wyndham Clark",
-        "total": "-23",
-        "round_score": "-4",
-        "thru": "10"
+        "name": "Si Woo Kim",
+        "total": "-27",
+        "round_score": "-6",
+        "thru": "F"
       },
       {
-        "position": "T-3",
+        "position": "3",
+        "name": "Scottie Scheffler",
+        "total": "-25",
+        "round_score": "-6",
+        "thru": "F"
+      },
+      {
+        "position": "4",
         "name": "Jackson Suber",
+        "total": "-23",
+        "round_score": "-8",
+        "thru": "F"
+      },
+      {
+        "position": "5",
+        "name": "Keith Mitchell",
         "total": "-22",
         "round_score": "-7",
-        "thru": "12"
+        "thru": "F"
       },
       {
-        "position": "T-3",
-        "name": "Scottie Scheffler",
-        "total": "-22",
-        "round_score": "-3",
-        "thru": "10"
-      },
-      {
-        "position": "T-5",
+        "position": "T-6",
         "name": "Tony Finau",
         "total": "-20",
         "round_score": "-6",
-        "thru": "13"
+        "thru": "F"
       },
       {
-        "position": "T-5",
-        "name": "Keith Mitchell",
+        "position": "T-6",
+        "name": "Zach Bauchou",
         "total": "-20",
-        "round_score": "-5",
-        "thru": "12"
+        "round_score": "-4",
+        "thru": "F"
       },
       {
-        "position": "T-5",
+        "position": "T-6",
         "name": "Tom Hoge",
         "total": "-20",
         "round_score": "-3",
-        "thru": "11"
+        "thru": "F"
       },
       {
-        "position": "T-8",
+        "position": "T-9",
         "name": "Johnny Keefer",
         "total": "-19",
         "round_score": "-8",
         "thru": "F"
       },
       {
-        "position": "T-8",
-        "name": "Zach Bauchou",
+        "position": "T-9",
+        "name": "Jesper Svensson",
         "total": "-19",
-        "round_score": "-3",
-        "thru": "11"
-      },
-      {
-        "position": "T-10",
-        "name": "Taylor Moore",
-        "total": "-18",
-        "round_score": "-5",
-        "thru": "16"
+        "round_score": "-6",
+        "thru": "F"
       }
     ]
   }
