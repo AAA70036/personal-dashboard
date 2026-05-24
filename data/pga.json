@@ -6,72 +6,72 @@
       {
         "position": "1",
         "name": "Si Woo Kim",
-        "total": "-21",
-        "round_score": "-",
-        "thru": "0"
+        "total": "-24",
+        "round_score": "-3",
+        "thru": "10"
       },
       {
-        "position": "T-2",
+        "position": "2",
         "name": "Wyndham Clark",
-        "total": "-19",
-        "round_score": "-",
-        "thru": "0"
+        "total": "-23",
+        "round_score": "-4",
+        "thru": "10"
       },
       {
-        "position": "T-2",
+        "position": "T-3",
+        "name": "Jackson Suber",
+        "total": "-22",
+        "round_score": "-7",
+        "thru": "12"
+      },
+      {
+        "position": "T-3",
         "name": "Scottie Scheffler",
-        "total": "-19",
-        "round_score": "-",
-        "thru": "0"
+        "total": "-22",
+        "round_score": "-3",
+        "thru": "10"
       },
       {
-        "position": "T-4",
-        "name": "Stephan Jaeger",
-        "total": "-17",
-        "round_score": "-",
-        "thru": "0"
+        "position": "T-5",
+        "name": "Tony Finau",
+        "total": "-20",
+        "round_score": "-6",
+        "thru": "13"
       },
       {
-        "position": "T-4",
-        "name": "Tom Hoge",
-        "total": "-17",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Sungjae Im",
-        "total": "-17",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "7",
-        "name": "Zach Bauchou",
-        "total": "-16",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-8",
-        "name": "Max Greyserman",
-        "total": "-15",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-8",
-        "name": "Brooks Koepka",
-        "total": "-15",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-8",
+        "position": "T-5",
         "name": "Keith Mitchell",
-        "total": "-15",
-        "round_score": "-",
-        "thru": "0"
+        "total": "-20",
+        "round_score": "-5",
+        "thru": "12"
+      },
+      {
+        "position": "T-5",
+        "name": "Tom Hoge",
+        "total": "-20",
+        "round_score": "-3",
+        "thru": "11"
+      },
+      {
+        "position": "T-8",
+        "name": "Johnny Keefer",
+        "total": "-19",
+        "round_score": "-8",
+        "thru": "F"
+      },
+      {
+        "position": "T-8",
+        "name": "Zach Bauchou",
+        "total": "-19",
+        "round_score": "-3",
+        "thru": "11"
+      },
+      {
+        "position": "T-10",
+        "name": "Taylor Moore",
+        "total": "-18",
+        "round_score": "-5",
+        "thru": "16"
       }
     ]
   }
