@@ -1,77 +1,77 @@
 {
   "leaderboard": {
-    "tournament": "THE CJ CUP Byron Nelson",
-    "status": "Final",
+    "tournament": "Charles Schwab Challenge",
+    "status": "Scheduled",
     "players": [
       {
-        "position": "1",
-        "name": "Wyndham Clark",
-        "total": "-30",
-        "round_score": "-11",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Kevin Kisner",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "2",
-        "name": "Si Woo Kim",
-        "total": "-27",
-        "round_score": "-6",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Zac Blair",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "3",
-        "name": "Scottie Scheffler",
-        "total": "-25",
-        "round_score": "-6",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Christiaan Bezuidenhout",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "4",
-        "name": "Jackson Suber",
-        "total": "-23",
-        "round_score": "-8",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Nick Hardy",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "5",
-        "name": "Keith Mitchell",
-        "total": "-22",
-        "round_score": "-7",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Michael Thorbjornsen",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Tony Finau",
-        "total": "-20",
-        "round_score": "-6",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Nick Dunlap",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Zach Bauchou",
-        "total": "-20",
-        "round_score": "-4",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Lanto Griffin",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Tom Hoge",
-        "total": "-20",
-        "round_score": "-3",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Max Homa",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-9",
-        "name": "Johnny Keefer",
-        "total": "-19",
-        "round_score": "-8",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Rasmus H\u00f8jgaard",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-9",
-        "name": "Jesper Svensson",
-        "total": "-19",
-        "round_score": "-6",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Max McGreevy",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       }
     ]
   }
