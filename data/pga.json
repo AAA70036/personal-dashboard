@@ -4,72 +4,72 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "1",
-        "name": "Michael Thorbjornsen",
-        "total": "-3",
+        "position": "T-1",
+        "name": "Ryan Gerard",
+        "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
-        "name": "Nick Hardy",
-        "total": "-1",
+        "position": "T-1",
+        "name": "Andrew Putnam",
+        "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
-        "name": "Vince Whaley",
-        "total": "-1",
+        "position": "T-1",
+        "name": "Erik van Rooyen",
+        "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
-        "name": "Thorbj\u00f8rn Olesen",
-        "total": "-1",
+        "position": "T-1",
+        "name": "Tom Kim",
+        "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "T-5",
         "name": "Ricky Castillo",
-        "total": "-1",
+        "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
-        "name": "Davis Riley",
-        "total": "-1",
+        "position": "T-5",
+        "name": "Brian Harman",
+        "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
-        "name": "Andrew Novak",
-        "total": "-1",
+        "position": "T-5",
+        "name": "Keegan Bradley",
+        "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-8",
-        "name": "Kevin Kisner",
-        "total": "E",
+        "position": "T-5",
+        "name": "Alex Smalley",
+        "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-8",
-        "name": "Christiaan Bezuidenhout",
-        "total": "E",
+        "position": "T-5",
+        "name": "Kevin Yu",
+        "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-8",
-        "name": "Nick Dunlap",
-        "total": "E",
+        "position": "T-5",
+        "name": "Jordan Smith",
+        "total": "-5",
         "round_score": "-",
         "thru": "0"
       }
