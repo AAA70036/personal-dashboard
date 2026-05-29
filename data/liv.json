@@ -4,71 +4,71 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
+        "position": "1",
+        "name": "Talor Gooch",
+        "total": "-8",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "2",
+        "name": "Bryson DeChambeau",
+        "total": "-7",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Cameron Smith",
+        "total": "-5",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Thomas Pieters",
+        "total": "-5",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Joaqu\u00edn Niemann",
+        "total": "-5",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
         "name": "Charles Howell III",
         "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-3",
         "name": "Scott Vincent",
         "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Bryson DeChambeau",
-        "total": "-5",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Ian Poulter",
+        "position": "T-8",
+        "name": "Doyeob Mun",
         "total": "-4",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
-        "name": "Thomas Pieters",
-        "total": "-4",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Joaqu\u00edn Niemann",
-        "total": "-4",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-7",
+        "position": "T-8",
         "name": "Sergio Garc\u00eda",
-        "total": "-3",
+        "total": "-4",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-7",
-        "name": "Charl Schwartzel",
-        "total": "-3",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-7",
-        "name": "Laurie Canter",
-        "total": "-3",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-7",
-        "name": "Cameron Smith",
+        "position": "T-10",
+        "name": "Lucas Herbert",
         "total": "-3",
         "round_score": "-",
         "thru": "0"

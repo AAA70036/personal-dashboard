@@ -5,71 +5,71 @@
     "players": [
       {
         "position": "T-1",
-        "name": "Ryan Gerard",
-        "total": "-6",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Andrew Putnam",
-        "total": "-6",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Tom Kim",
-        "total": "-6",
+        "name": "Akshay Bhatia",
+        "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-1",
         "name": "J.J. Spaun",
-        "total": "-6",
+        "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Matt McCarty",
-        "total": "-6",
+        "position": "3",
+        "name": "Michael Thorbjornsen",
+        "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Lee Hodges",
-        "total": "-6",
+        "position": "T-4",
+        "name": "Mackenzie Hughes",
+        "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-7",
-        "name": "Ricky Castillo",
-        "total": "-5",
+        "position": "T-4",
+        "name": "Jordan Smith",
+        "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-7",
+        "position": "T-6",
+        "name": "A.J. Ewart",
+        "total": "-7",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Michael Brennan",
+        "total": "-7",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
         "name": "Brian Harman",
-        "total": "-5",
+        "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-7",
+        "position": "T-6",
         "name": "Keegan Bradley",
-        "total": "-5",
+        "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-7",
-        "name": "Alex Smalley",
-        "total": "-5",
+        "position": "T-6",
+        "name": "Ryan Gerard",
+        "total": "-7",
         "round_score": "-",
         "thru": "0"
       }
