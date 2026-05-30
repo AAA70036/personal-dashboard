@@ -4,71 +4,71 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "1",
-        "name": "Jordan Smith",
+        "position": "T-1",
+        "name": "Eric Cole",
+        "total": "-11",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
+        "name": "Mac Meissner",
+        "total": "-11",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Russell Henley",
         "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
-        "name": "Hideki Matsuyama",
-        "total": "-9",
+        "position": "T-3",
+        "name": "J.J. Spaun",
+        "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
-        "name": "Michael Thorbjornsen",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-2",
-        "name": "Brian Harman",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-2",
+        "position": "T-3",
         "name": "Ryan Gerard",
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Gary Woodland",
         "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Akshay Bhatia",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Brice Garnett",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Russell Henley",
-        "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-6",
         "name": "Alex Smalley",
-        "total": "-8",
+        "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-6",
-        "name": "J.J. Spaun",
+        "name": "Jordan Smith",
+        "total": "-9",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-9",
+        "name": "Nico Echavarria",
+        "total": "-8",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-9",
+        "name": "Mackenzie Hughes",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
