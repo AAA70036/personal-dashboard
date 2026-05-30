@@ -4,22 +4,22 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
+        "position": "1",
         "name": "Eric Cole",
-        "total": "-11",
+        "total": "-12",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Mac Meissner",
+        "position": "2",
+        "name": "Ryan Gerard",
         "total": "-11",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-3",
-        "name": "Russell Henley",
+        "name": "Mac Meissner",
         "total": "-10",
         "round_score": "-",
         "thru": "0"
@@ -32,42 +32,42 @@
         "thru": "0"
       },
       {
-        "position": "T-3",
-        "name": "Ryan Gerard",
-        "total": "-10",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Gary Woodland",
+        "position": "T-5",
+        "name": "Russell Henley",
         "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
+        "position": "T-5",
         "name": "Alex Smalley",
         "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Jordan Smith",
+        "position": "T-5",
+        "name": "Hideki Matsuyama",
         "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-9",
+        "position": "T-8",
         "name": "Nico Echavarria",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-9",
+        "position": "T-8",
+        "name": "Michael Brennan",
+        "total": "-8",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-8",
         "name": "Mackenzie Hughes",
         "total": "-8",
         "round_score": "-",
