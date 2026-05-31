@@ -1,77 +1,77 @@
 {
   "leaderboard": {
     "tournament": "Charles Schwab Challenge",
-    "status": "In Progress",
+    "status": "Final",
     "players": [
       {
         "position": "1",
+        "name": "Russell Henley",
+        "total": "-13",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "2",
         "name": "Eric Cole",
-        "total": "-11",
-        "round_score": "+1",
-        "thru": "10"
+        "total": "-12",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "T-3",
         "name": "Ben Griffin",
-        "total": "-10",
-        "round_score": "-4",
-        "thru": "15"
+        "total": "-11",
+        "round_score": "-5",
+        "thru": "F"
       },
       {
-        "position": "T-2",
+        "position": "T-3",
+        "name": "Alex Smalley",
+        "total": "-11",
+        "round_score": "-2",
+        "thru": "F"
+      },
+      {
+        "position": "T-3",
+        "name": "Mac Meissner",
+        "total": "-11",
+        "round_score": "-1",
+        "thru": "F"
+      },
+      {
+        "position": "T-6",
+        "name": "Gary Woodland",
+        "total": "-10",
+        "round_score": "-3",
+        "thru": "F"
+      },
+      {
+        "position": "T-6",
+        "name": "Nico Echavarria",
+        "total": "-10",
+        "round_score": "-2",
+        "thru": "F"
+      },
+      {
+        "position": "T-6",
         "name": "Michael Brennan",
         "total": "-10",
         "round_score": "-2",
-        "thru": "12"
+        "thru": "F"
       },
       {
-        "position": "T-2",
+        "position": "T-6",
         "name": "J.J. Spaun",
         "total": "-10",
         "round_score": "E",
-        "thru": "11"
-      },
-      {
-        "position": "T-2",
-        "name": "Mac Meissner",
-        "total": "-10",
-        "round_score": "E",
-        "thru": "10"
-      },
-      {
-        "position": "T-2",
-        "name": "Ryan Gerard",
-        "total": "-10",
-        "round_score": "+1",
-        "thru": "10"
-      },
-      {
-        "position": "T-7",
-        "name": "Michael Thorbjornsen",
-        "total": "-9",
-        "round_score": "-1",
-        "thru": "12"
-      },
-      {
-        "position": "T-7",
-        "name": "Mackenzie Hughes",
-        "total": "-9",
-        "round_score": "-1",
-        "thru": "11"
-      },
-      {
-        "position": "T-7",
-        "name": "Hideki Matsuyama",
-        "total": "-9",
-        "round_score": "E",
-        "thru": "11"
+        "thru": "F"
       },
       {
         "position": "T-10",
         "name": "Steven Fisk",
-        "total": "-8",
-        "round_score": "-4",
-        "thru": "17"
+        "total": "-9",
+        "round_score": "-5",
+        "thru": "F"
       }
     ]
   }
