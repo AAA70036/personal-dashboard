@@ -1,76 +1,76 @@
 {
   "leaderboard": {
     "tournament": "LIV Golf Korea",
-    "status": "In Progress",
+    "status": "Final",
     "players": [
       {
         "position": "T-1",
         "name": "Joaqu\u00edn Niemann",
-        "total": "-9",
+        "total": "-12",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-1",
         "name": "Talor Gooch",
-        "total": "-9",
+        "total": "-12",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "3",
-        "name": "Scott Vincent",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Cameron Smith",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Charles Howell III",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Dustin Johnson",
-        "total": "-6",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Ben Campbell",
-        "total": "-6",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
         "name": "Bryson DeChambeau",
-        "total": "-6",
-        "round_score": "-",
+        "total": "-11",
+        "round_score": "-5",
         "thru": "0"
       },
       {
-        "position": "T-9",
-        "name": "Marc Leishman",
-        "total": "-5",
-        "round_score": "-",
+        "position": "4",
+        "name": "Dustin Johnson",
+        "total": "-10",
+        "round_score": "-4",
         "thru": "0"
       },
       {
-        "position": "T-9",
+        "position": "5",
+        "name": "Scott Vincent",
+        "total": "-9",
+        "round_score": "-1",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Brendan Steele",
+        "total": "-8",
+        "round_score": "-5",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
         "name": "Harold Varner III",
-        "total": "-5",
-        "round_score": "-",
+        "total": "-8",
+        "round_score": "-3",
+        "thru": "0"
+      },
+      {
+        "position": "T-8",
+        "name": "Travis Smyth",
+        "total": "-7",
+        "round_score": "-3",
+        "thru": "0"
+      },
+      {
+        "position": "T-8",
+        "name": "Lucas Herbert",
+        "total": "-7",
+        "round_score": "-3",
+        "thru": "0"
+      },
+      {
+        "position": "T-8",
+        "name": "Marc Leishman",
+        "total": "-7",
+        "round_score": "-2",
         "thru": "0"
       }
     ]
