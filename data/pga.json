@@ -1,77 +1,77 @@
 {
   "leaderboard": {
-    "tournament": "Charles Schwab Challenge",
-    "status": "Final",
+    "tournament": "the Memorial Tournament pres. by Workday",
+    "status": "Scheduled",
     "players": [
       {
-        "position": "1",
-        "name": "Russell Henley",
-        "total": "-13",
+        "position": "T-1",
+        "name": "Brian Campbell",
+        "total": "E",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "2",
-        "name": "Eric Cole",
-        "total": "-12",
+        "position": "T-1",
+        "name": "Pierceson Coody",
+        "total": "E",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
-        "name": "Ben Griffin",
-        "total": "-11",
-        "round_score": "-5",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Ryan Fox",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-3",
-        "name": "Alex Smalley",
-        "total": "-11",
-        "round_score": "-2",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Daniel Berger",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-3",
-        "name": "Mac Meissner",
-        "total": "-11",
-        "round_score": "-1",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Jason Day",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Gary Woodland",
-        "total": "-10",
-        "round_score": "-3",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Jordan Spieth",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Nico Echavarria",
-        "total": "-10",
-        "round_score": "-2",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Billy Horschel",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Michael Brennan",
-        "total": "-10",
-        "round_score": "-2",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Sam Stevens",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "J.J. Spaun",
-        "total": "-10",
-        "round_score": "E",
-        "thru": "F"
+        "position": "T-1",
+        "name": "J.T. Poston",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-10",
-        "name": "Steven Fisk",
-        "total": "-9",
-        "round_score": "-5",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Ryo Hisatsune",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       }
     ]
   }
