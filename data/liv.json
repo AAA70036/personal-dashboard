@@ -5,6 +5,13 @@
     "players": [
       {
         "position": "T-1",
+        "name": "Sergio Garc\u00eda",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
         "name": "Charles Howell III",
         "total": "E",
         "round_score": "-",
@@ -62,13 +69,6 @@
       {
         "position": "T-1",
         "name": "Peter Uihlein",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Anthony Kim",
         "total": "E",
         "round_score": "-",
         "thru": "0"
