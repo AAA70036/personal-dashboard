@@ -4,29 +4,29 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "1",
-        "name": "Ryan Gerard",
-        "total": "-6",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-2",
+        "position": "T-1",
         "name": "J.J. Spaun",
         "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "T-1",
         "name": "Wyndham Clark",
         "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "T-1",
         "name": "Tommy Fleetwood",
+        "total": "-5",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
+        "name": "Ryan Gerard",
         "total": "-5",
         "round_score": "-",
         "thru": "0"
@@ -53,22 +53,22 @@
         "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Ludvig \u00c5berg",
-        "total": "-3",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
+        "position": "T-8",
         "name": "Ryan Fox",
         "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-9",
+        "position": "T-8",
         "name": "J.T. Poston",
+        "total": "-2",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-8",
+        "name": "Shane Lowry",
         "total": "-2",
         "round_score": "-",
         "thru": "0"
