@@ -5,6 +5,13 @@
     "players": [
       {
         "position": "T-1",
+        "name": "Ryan Gerard",
+        "total": "-5",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
         "name": "J.J. Spaun",
         "total": "-5",
         "round_score": "-",
@@ -20,13 +27,6 @@
       {
         "position": "T-1",
         "name": "Tommy Fleetwood",
-        "total": "-5",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Ryan Gerard",
         "total": "-5",
         "round_score": "-",
         "thru": "0"
@@ -54,21 +54,21 @@
       },
       {
         "position": "T-8",
+        "name": "Tony Finau",
+        "total": "-2",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-8",
+        "name": "Patrick Cantlay",
+        "total": "-2",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-8",
         "name": "Ryan Fox",
-        "total": "-2",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-8",
-        "name": "J.T. Poston",
-        "total": "-2",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-8",
-        "name": "Shane Lowry",
         "total": "-2",
         "round_score": "-",
         "thru": "0"
