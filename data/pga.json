@@ -5,21 +5,21 @@
     "players": [
       {
         "position": "1",
+        "name": "J.T. Poston",
+        "total": "-9",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "2",
         "name": "Ryan Gerard",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "2",
-        "name": "J.T. Poston",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
         "position": "3",
-        "name": "Wyndham Clark",
+        "name": "Sam Burns",
         "total": "-6",
         "round_score": "-",
         "thru": "0"
@@ -27,49 +27,49 @@
       {
         "position": "4",
         "name": "Tommy Fleetwood",
-        "total": "-5",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Shane Lowry",
         "total": "-4",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
-        "name": "Sam Burns",
-        "total": "-4",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "J.J. Spaun",
-        "total": "-4",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-8",
+        "position": "5",
         "name": "Eric Cole",
         "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-8",
+        "position": "T-6",
         "name": "Xander Schauffele",
-        "total": "-3",
+        "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-8",
-        "name": "Justin Rose",
-        "total": "-3",
+        "position": "T-6",
+        "name": "Patrick Cantlay",
+        "total": "-2",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Wyndham Clark",
+        "total": "-2",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-9",
+        "name": "Aaron Rai",
+        "total": "-1",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-9",
+        "name": "Alex Fitzpatrick",
+        "total": "-1",
         "round_score": "-",
         "thru": "0"
       }
