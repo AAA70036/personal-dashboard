@@ -4,72 +4,72 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
-        "name": "Ryan Gerard",
-        "total": "-9",
+        "position": "1",
+        "name": "J.T. Poston",
+        "total": "-12",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "J.T. Poston",
-        "total": "-9",
+        "position": "2",
+        "name": "Ryan Gerard",
+        "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "3",
         "name": "Sam Burns",
-        "total": "-8",
+        "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "4",
-        "name": "Eric Cole",
+        "position": "T-4",
+        "name": "Wyndham Clark",
         "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
-        "name": "Keegan Bradley",
-        "total": "-4",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Wyndham Clark",
-        "total": "-4",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
+        "position": "T-4",
         "name": "Tommy Fleetwood",
+        "total": "-6",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "6",
+        "name": "Eric Cole",
+        "total": "-5",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-7",
+        "name": "Alex Noren",
         "total": "-4",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "8",
+        "position": "T-7",
+        "name": "Maverick McNealy",
+        "total": "-4",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-7",
         "name": "J.J. Spaun",
+        "total": "-4",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-10",
+        "name": "Scottie Scheffler",
         "total": "-3",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Justin Rose",
-        "total": "-2",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Alex Noren",
-        "total": "-2",
         "round_score": "-",
         "thru": "0"
       }
