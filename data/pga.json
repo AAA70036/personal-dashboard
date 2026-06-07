@@ -6,72 +6,72 @@
       {
         "position": "1",
         "name": "J.T. Poston",
-        "total": "-12",
-        "round_score": "-",
-        "thru": "0"
+        "total": "-11",
+        "round_score": "+1",
+        "thru": "11"
       },
       {
-        "position": "2",
-        "name": "Ryan Gerard",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "3",
+        "position": "T-2",
         "name": "Sam Burns",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
+        "total": "-10",
+        "round_score": "-3",
+        "thru": "11"
+      },
+      {
+        "position": "T-2",
+        "name": "Ryan Gerard",
+        "total": "-10",
+        "round_score": "-2",
+        "thru": "11"
       },
       {
         "position": "T-4",
         "name": "Wyndham Clark",
-        "total": "-6",
-        "round_score": "-",
-        "thru": "0"
+        "total": "-9",
+        "round_score": "-3",
+        "thru": "12"
       },
       {
         "position": "T-4",
         "name": "Tommy Fleetwood",
-        "total": "-6",
-        "round_score": "-",
-        "thru": "0"
+        "total": "-9",
+        "round_score": "-3",
+        "thru": "12"
       },
       {
-        "position": "6",
+        "position": "T-6",
+        "name": "Alex Fitzpatrick",
+        "total": "-8",
+        "round_score": "-7",
+        "thru": "15"
+      },
+      {
+        "position": "T-6",
         "name": "Eric Cole",
-        "total": "-5",
-        "round_score": "-",
-        "thru": "0"
+        "total": "-8",
+        "round_score": "-3",
+        "thru": "12"
       },
       {
-        "position": "T-7",
+        "position": "8",
+        "name": "Kristoffer Reitan",
+        "total": "-7",
+        "round_score": "-6",
+        "thru": "14"
+      },
+      {
+        "position": "T-9",
         "name": "Alex Noren",
-        "total": "-4",
-        "round_score": "-",
-        "thru": "0"
+        "total": "-6",
+        "round_score": "-2",
+        "thru": "12"
       },
       {
-        "position": "T-7",
-        "name": "Maverick McNealy",
-        "total": "-4",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-7",
+        "position": "T-9",
         "name": "J.J. Spaun",
-        "total": "-4",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-10",
-        "name": "Scottie Scheffler",
-        "total": "-3",
-        "round_score": "-",
-        "thru": "0"
+        "total": "-6",
+        "round_score": "-2",
+        "thru": "12"
       }
     ]
   }
