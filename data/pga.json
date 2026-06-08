@@ -1,77 +1,77 @@
 {
   "leaderboard": {
     "tournament": "the Memorial Tournament pres. by Workday",
-    "status": "In Progress",
+    "status": "Final",
     "players": [
       {
-        "position": "1",
+        "position": "T-1",
         "name": "J.T. Poston",
-        "total": "-11",
-        "round_score": "+1",
-        "thru": "11"
+        "total": "-12",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-2",
-        "name": "Sam Burns",
-        "total": "-10",
-        "round_score": "-3",
-        "thru": "11"
-      },
-      {
-        "position": "T-2",
+        "position": "T-1",
         "name": "Ryan Gerard",
-        "total": "-10",
-        "round_score": "-2",
-        "thru": "11"
+        "total": "-12",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-4",
+        "position": "3",
         "name": "Wyndham Clark",
-        "total": "-9",
-        "round_score": "-3",
-        "thru": "12"
+        "total": "-11",
+        "round_score": "-5",
+        "thru": "F"
       },
       {
         "position": "T-4",
         "name": "Tommy Fleetwood",
-        "total": "-9",
+        "total": "-10",
+        "round_score": "-4",
+        "thru": "F"
+      },
+      {
+        "position": "T-4",
+        "name": "Sam Burns",
+        "total": "-10",
         "round_score": "-3",
-        "thru": "12"
+        "thru": "F"
+      },
+      {
+        "position": "T-6",
+        "name": "Kristoffer Reitan",
+        "total": "-8",
+        "round_score": "-7",
+        "thru": "F"
       },
       {
         "position": "T-6",
         "name": "Alex Fitzpatrick",
         "total": "-8",
         "round_score": "-7",
-        "thru": "15"
-      },
-      {
-        "position": "T-6",
-        "name": "Eric Cole",
-        "total": "-8",
-        "round_score": "-3",
-        "thru": "12"
+        "thru": "F"
       },
       {
         "position": "8",
-        "name": "Kristoffer Reitan",
+        "name": "Eric Cole",
         "total": "-7",
-        "round_score": "-6",
-        "thru": "14"
+        "round_score": "-2",
+        "thru": "F"
       },
       {
-        "position": "T-9",
+        "position": "9",
         "name": "Alex Noren",
         "total": "-6",
         "round_score": "-2",
-        "thru": "12"
+        "thru": "F"
       },
       {
-        "position": "T-9",
-        "name": "J.J. Spaun",
-        "total": "-6",
-        "round_score": "-2",
-        "thru": "12"
+        "position": "T-10",
+        "name": "Si Woo Kim",
+        "total": "-5",
+        "round_score": "-6",
+        "thru": "F"
       }
     ]
   }
