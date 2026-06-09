@@ -1,77 +1,77 @@
 {
   "leaderboard": {
-    "tournament": "the Memorial Tournament pres. by Workday",
-    "status": "Final",
+    "tournament": "RBC Canadian Open",
+    "status": "Scheduled",
     "players": [
       {
         "position": "T-1",
-        "name": "J.T. Poston",
-        "total": "-12",
+        "name": "Keith Mitchell",
+        "total": "E",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-1",
-        "name": "Ryan Gerard",
-        "total": "-12",
+        "name": "Ben Silverman",
+        "total": "E",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "3",
-        "name": "Wyndham Clark",
-        "total": "-11",
-        "round_score": "-5",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Kevin Roy",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-4",
-        "name": "Tommy Fleetwood",
-        "total": "-10",
-        "round_score": "-4",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Dylan Wu",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-4",
-        "name": "Sam Burns",
-        "total": "-10",
-        "round_score": "-3",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Matti Schmid",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Kristoffer Reitan",
-        "total": "-8",
-        "round_score": "-7",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Mac Meissner",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Alex Fitzpatrick",
-        "total": "-8",
-        "round_score": "-7",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Danny Willett",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "8",
-        "name": "Eric Cole",
-        "total": "-7",
-        "round_score": "-2",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Roger Sloan",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "9",
-        "name": "Alex Noren",
-        "total": "-6",
-        "round_score": "-2",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Justin Lower",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-10",
-        "name": "Si Woo Kim",
-        "total": "-5",
-        "round_score": "-6",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Austin Smotherman",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       }
     ]
   }
