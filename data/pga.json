@@ -4,74 +4,74 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
-        "name": "Matthew Anderson",
-        "total": "-14",
-        "round_score": "-6",
-        "thru": "9"
-      },
-      {
-        "position": "T-1",
-        "name": "Jimmy Stanger",
-        "total": "-14",
+        "position": "1",
+        "name": "Bud Cauley",
+        "total": "-16",
         "round_score": "-4",
-        "thru": "7"
+        "thru": "12"
       },
       {
-        "position": "T-1",
+        "position": "T-2",
+        "name": "Jimmy Stanger",
+        "total": "-15",
+        "round_score": "-5",
+        "thru": "13"
+      },
+      {
+        "position": "T-2",
         "name": "Jackson Suber",
-        "total": "-14",
-        "round_score": "-1",
-        "thru": "5"
+        "total": "-15",
+        "round_score": "-2",
+        "thru": "12"
       },
       {
         "position": "4",
-        "name": "Bud Cauley",
-        "total": "-13",
-        "round_score": "-1",
-        "thru": "5"
+        "name": "Matt Fitzpatrick",
+        "total": "-14",
+        "round_score": "-5",
+        "thru": "14"
+      },
+      {
+        "position": "T-5",
+        "name": "Aldrich Potgieter",
+        "total": "-12",
+        "round_score": "-5",
+        "thru": "F"
+      },
+      {
+        "position": "T-5",
+        "name": "Justin Matthews",
+        "total": "-12",
+        "round_score": "-5",
+        "thru": "16"
+      },
+      {
+        "position": "T-5",
+        "name": "Viktor Hovland",
+        "total": "-12",
+        "round_score": "-3",
+        "thru": "14"
+      },
+      {
+        "position": "T-5",
+        "name": "Ryan Fox",
+        "total": "-12",
+        "round_score": "-2",
+        "thru": "14"
       },
       {
         "position": "T-5",
         "name": "Sam Burns",
         "total": "-12",
         "round_score": "-2",
-        "thru": "8"
-      },
-      {
-        "position": "T-5",
-        "name": "Tommy Fleetwood",
-        "total": "-12",
-        "round_score": "-1",
-        "thru": "6"
+        "thru": "14"
       },
       {
         "position": "T-5",
         "name": "Brice Garnett",
         "total": "-12",
         "round_score": "-1",
-        "thru": "6"
-      },
-      {
-        "position": "T-8",
-        "name": "Justin Matthews",
-        "total": "-11",
-        "round_score": "-4",
-        "thru": "9"
-      },
-      {
-        "position": "T-8",
-        "name": "Viktor Hovland",
-        "total": "-11",
-        "round_score": "-2",
-        "thru": "8"
-      },
-      {
-        "position": "T-8",
-        "name": "Matt Fitzpatrick",
-        "total": "-11",
-        "round_score": "-2",
-        "thru": "8"
+        "thru": "12"
       }
     ]
   }
