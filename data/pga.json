@@ -4,21 +4,14 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
-        "name": "Jesper Svensson",
-        "total": "-13",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
+        "position": "1",
         "name": "Jackson Suber",
         "total": "-13",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "2",
         "name": "Bud Cauley",
         "total": "-12",
         "round_score": "-",
@@ -26,50 +19,57 @@
       },
       {
         "position": "T-3",
-        "name": "Tommy Fleetwood",
-        "total": "-12",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "5",
         "name": "Wyndham Clark",
         "total": "-11",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
+        "position": "T-3",
+        "name": "Tommy Fleetwood",
+        "total": "-11",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Brice Garnett",
+        "total": "-11",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Jesper Svensson",
+        "total": "-11",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-7",
         "name": "Billy Horschel",
         "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
+        "position": "T-7",
         "name": "Sudarshan Yellamaraju",
         "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-8",
-        "name": "Jacob Bridgeman",
-        "total": "-9",
+        "position": "T-7",
+        "name": "Ryan Fox",
+        "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-8",
-        "name": "Viktor Hovland",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-8",
-        "name": "David Skinns",
-        "total": "-9",
+        "position": "T-7",
+        "name": "Jimmy Stanger",
+        "total": "-10",
         "round_score": "-",
         "thru": "0"
       }
