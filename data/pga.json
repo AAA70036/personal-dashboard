@@ -6,72 +6,72 @@
       {
         "position": "1",
         "name": "Bud Cauley",
-        "total": "-16",
-        "round_score": "-4",
-        "thru": "12"
-      },
-      {
-        "position": "T-2",
-        "name": "Jimmy Stanger",
-        "total": "-15",
+        "total": "-17",
         "round_score": "-5",
-        "thru": "13"
+        "thru": "17"
       },
       {
-        "position": "T-2",
-        "name": "Jackson Suber",
-        "total": "-15",
-        "round_score": "-2",
-        "thru": "12"
-      },
-      {
-        "position": "4",
+        "position": "2",
         "name": "Matt Fitzpatrick",
+        "total": "-15",
+        "round_score": "-6",
+        "thru": "F"
+      },
+      {
+        "position": "3",
+        "name": "Viktor Hovland",
         "total": "-14",
         "round_score": "-5",
-        "thru": "14"
+        "thru": "F"
       },
       {
-        "position": "T-5",
+        "position": "T-4",
+        "name": "Jimmy Stanger",
+        "total": "-13",
+        "round_score": "-3",
+        "thru": "F"
+      },
+      {
+        "position": "T-4",
+        "name": "Brice Garnett",
+        "total": "-13",
+        "round_score": "-2",
+        "thru": "17"
+      },
+      {
+        "position": "T-4",
+        "name": "Jackson Suber",
+        "total": "-13",
+        "round_score": "E",
+        "thru": "17"
+      },
+      {
+        "position": "T-7",
         "name": "Aldrich Potgieter",
         "total": "-12",
         "round_score": "-5",
         "thru": "F"
       },
       {
-        "position": "T-5",
-        "name": "Justin Matthews",
-        "total": "-12",
-        "round_score": "-5",
-        "thru": "16"
-      },
-      {
-        "position": "T-5",
-        "name": "Viktor Hovland",
-        "total": "-12",
-        "round_score": "-3",
-        "thru": "14"
-      },
-      {
-        "position": "T-5",
+        "position": "T-7",
         "name": "Ryan Fox",
         "total": "-12",
         "round_score": "-2",
-        "thru": "14"
+        "thru": "F"
       },
       {
-        "position": "T-5",
-        "name": "Sam Burns",
+        "position": "T-7",
+        "name": "Sudarshan Yellamaraju",
         "total": "-12",
         "round_score": "-2",
-        "thru": "14"
+        "thru": "F"
       },
       {
-        "position": "T-5",
-        "name": "Brice Garnett",
+        "position": "T-7",
+        "name": "Wyndham Clark",
         "total": "-12",
         "round_score": "-1",
-        "thru": "12"
+        "thru": "17"
       }
     ]
   }
