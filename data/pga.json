@@ -1,14 +1,14 @@
 {
   "leaderboard": {
     "tournament": "RBC Canadian Open",
-    "status": "In Progress",
+    "status": "Final",
     "players": [
       {
         "position": "1",
         "name": "Bud Cauley",
         "total": "-17",
         "round_score": "-5",
-        "thru": "17"
+        "thru": "F"
       },
       {
         "position": "2",
@@ -36,42 +36,42 @@
         "name": "Brice Garnett",
         "total": "-13",
         "round_score": "-2",
-        "thru": "17"
+        "thru": "F"
+      },
+      {
+        "position": "T-4",
+        "name": "Jesper Svensson",
+        "total": "-13",
+        "round_score": "-2",
+        "thru": "F"
       },
       {
         "position": "T-4",
         "name": "Jackson Suber",
         "total": "-13",
         "round_score": "E",
-        "thru": "17"
+        "thru": "F"
       },
       {
-        "position": "T-7",
+        "position": "T-8",
         "name": "Aldrich Potgieter",
         "total": "-12",
         "round_score": "-5",
         "thru": "F"
       },
       {
-        "position": "T-7",
-        "name": "Ryan Fox",
-        "total": "-12",
-        "round_score": "-2",
-        "thru": "F"
-      },
-      {
-        "position": "T-7",
+        "position": "T-8",
         "name": "Sudarshan Yellamaraju",
         "total": "-12",
         "round_score": "-2",
         "thru": "F"
       },
       {
-        "position": "T-7",
-        "name": "Wyndham Clark",
+        "position": "T-8",
+        "name": "Ryan Fox",
         "total": "-12",
-        "round_score": "-1",
-        "thru": "17"
+        "round_score": "-2",
+        "thru": "F"
       }
     ]
   }

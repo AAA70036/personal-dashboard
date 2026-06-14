@@ -1,34 +1,40 @@
 {
   "items": [
     {
+      "title": "Iran War Live Updates: Trump Announces Cease-Fire Agreement",
+      "link": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
+      "source": "NYT",
+      "published": "2026-06-14T22:50:20+00:00"
+    },
+    {
+      "title": "The U.S. and Iran announce a deal to end the war",
+      "link": "https://www.npr.org/2026/06/14/nx-s1-5858099/us-iran-trump-deal-end-war-hormuz",
+      "source": "NPR",
+      "published": "2026-06-14T22:30:42+00:00"
+    },
+    {
+      "title": "Starmer set to ban under-16s from major social media platforms",
+      "link": "https://www.bbc.com/news/articles/cly7njlw95qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-06-14T22:16:48+00:00"
+    },
+    {
+      "title": "Assisted dying returns to parliament as MP urges peers to 'finish the job'",
+      "link": "https://www.bbc.com/news/articles/c4gyxgwkyxyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-06-14T21:43:48+00:00"
+    },
+    {
       "title": "Roy Hattersley, former Labour deputy leader, dies aged 93",
       "link": "https://www.bbc.com/news/articles/cvgq1egykr9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-06-14T21:39:02+00:00"
     },
     {
-      "title": "New social media restrictions will end 'system failing our kids', PM says",
-      "link": "https://www.bbc.com/news/articles/cly7njlw95qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-06-14T21:32:21+00:00"
-    },
-    {
-      "title": "Iran War Live Updates: U.S. and Iran Near Cease-Fire Agreement, Officials Say",
-      "link": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
-      "source": "NYT",
-      "published": "2026-06-14T21:31:40+00:00"
-    },
-    {
       "title": "Former Republican Senate Majority Leader Mitch McConnell hospitalized",
       "link": "https://www.npr.org/2026/06/14/g-s1-128089/mitch-mcconnell-hospital",
       "source": "NPR",
       "published": "2026-06-14T20:45:20+00:00"
-    },
-    {
-      "title": "Assisted dying returns to parliament as MP urges peers to 'finish the job'",
-      "link": "https://www.bbc.com/news/articles/c4gyxgwkyxyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-06-14T20:05:21+00:00"
     },
     {
       "title": "Deadlocked Wars: How Major Powers Misread the Regions They Attacked",
@@ -53,12 +59,6 @@
       "link": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-06-14T17:25:09+00:00"
-    },
-    {
-      "title": "Switzerland Rejects Measure to Cap Its Population at 10 Million",
-      "link": "https://www.nytimes.com/2026/06/14/world/europe/switzerland-population-cap-referendum.html",
-      "source": "NYT",
-      "published": "2026-06-14T16:49:35+00:00"
     }
   ]
 }
