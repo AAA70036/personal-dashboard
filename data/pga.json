@@ -4,71 +4,71 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "1",
-        "name": "Ryder Cowan",
+        "position": "T-1",
+        "name": "Dustin Johnson",
         "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "T-1",
+        "name": "Wyndham Clark",
+        "total": "-3",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
         "name": "Sam Stevens",
         "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
-        "name": "Wyndham Clark",
+        "position": "T-3",
+        "name": "Matt Fitzpatrick",
         "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
-        "name": "Bryson DeChambeau",
+        "position": "T-3",
+        "name": "Corey Conners",
         "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
-        "name": "Xander Schauffele",
+        "position": "T-3",
+        "name": "Jon Rahm",
         "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
+        "position": "T-7",
         "name": "Rory McIlroy",
         "total": "-1",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
+        "position": "T-7",
         "name": "Ludvig \u00c5berg",
         "total": "-1",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
+        "position": "T-7",
         "name": "Brian Harman",
         "total": "-1",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
+        "position": "T-7",
         "name": "Max Greyserman",
-        "total": "-1",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Ben James",
         "total": "-1",
         "round_score": "-",
         "thru": "0"
