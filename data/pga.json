@@ -4,71 +4,71 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
+        "position": "1",
+        "name": "Rory McIlroy",
+        "total": "-3",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
         "name": "Sam Stevens",
-        "total": "-1",
+        "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Sam Burns",
-        "total": "-1",
+        "position": "T-2",
+        "name": "Ben James",
+        "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-4",
         "name": "Ludvig \u00c5berg",
         "total": "-1",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Keegan Bradley",
+        "position": "T-4",
+        "name": "Brian Harman",
         "total": "-1",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Patrick Reed",
+        "position": "T-4",
+        "name": "Laurie Canter",
         "total": "-1",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Ben James",
+        "position": "T-4",
+        "name": "Neal Shipley",
         "total": "-1",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-7",
-        "name": "Adrien Dumont de Chassart",
+        "position": "T-8",
+        "name": "Keith Mitchell",
         "total": "E",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-7",
+        "position": "T-8",
         "name": "Kristoffer Reitan",
         "total": "E",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-7",
-        "name": "Brooks Koepka",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-7",
-        "name": "Rory McIlroy",
+        "position": "T-8",
+        "name": "Keegan Bradley",
         "total": "E",
         "round_score": "-",
         "thru": "0"
