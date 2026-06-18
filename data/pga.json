@@ -1,29 +1,8 @@
 {
   "leaderboard": {
     "tournament": "U.S. Open",
-    "status": "Scheduled",
+    "status": "In Progress",
     "players": [
-      {
-        "position": "T-1",
-        "name": "Harry Higgs",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Taylor Montgomery",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Chandler Phillips",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
       {
         "position": "T-1",
         "name": "James Nicholas",
@@ -34,20 +13,6 @@
       {
         "position": "T-1",
         "name": "Caleb Surratt",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Hamilton Coleman",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Nathan Kimsey",
         "total": "E",
         "round_score": "-",
         "thru": "0"
@@ -70,6 +35,41 @@
         "position": "T-1",
         "name": "Cooper Dossey",
         "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
+        "name": "Ethan Fang",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
+        "name": "Alejandro Tosti",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
+        "name": "Chase Kyes",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-9",
+        "name": "Harry Higgs",
+        "total": "+1",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-9",
+        "name": "Taylor Montgomery",
+        "total": "+1",
         "round_score": "-",
         "thru": "0"
       }
