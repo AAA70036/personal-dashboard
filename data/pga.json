@@ -5,71 +5,71 @@
     "players": [
       {
         "position": "T-1",
-        "name": "James Nicholas",
-        "total": "E",
+        "name": "Sam Stevens",
+        "total": "-1",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-1",
-        "name": "Caleb Surratt",
-        "total": "E",
+        "name": "Sam Burns",
+        "total": "-1",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-1",
-        "name": "Jayden Schaper",
-        "total": "E",
+        "name": "Ludvig \u00c5berg",
+        "total": "-1",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-1",
-        "name": "Jackson Suber",
-        "total": "E",
+        "name": "Keegan Bradley",
+        "total": "-1",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-1",
-        "name": "Cooper Dossey",
-        "total": "E",
+        "name": "Patrick Reed",
+        "total": "-1",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-1",
-        "name": "Ethan Fang",
+        "name": "Ben James",
+        "total": "-1",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-7",
+        "name": "Adrien Dumont de Chassart",
         "total": "E",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Alejandro Tosti",
+        "position": "T-7",
+        "name": "Kristoffer Reitan",
         "total": "E",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Chase Kyes",
+        "position": "T-7",
+        "name": "Brooks Koepka",
         "total": "E",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-9",
-        "name": "Harry Higgs",
-        "total": "+1",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Taylor Montgomery",
-        "total": "+1",
+        "position": "T-7",
+        "name": "Rory McIlroy",
+        "total": "E",
         "round_score": "-",
         "thru": "0"
       }
