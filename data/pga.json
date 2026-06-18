@@ -5,7 +5,7 @@
     "players": [
       {
         "position": "1",
-        "name": "Rory McIlroy",
+        "name": "Ryder Cowan",
         "total": "-3",
         "round_score": "-",
         "thru": "0"
@@ -19,57 +19,57 @@
       },
       {
         "position": "T-2",
-        "name": "Ben James",
+        "name": "Wyndham Clark",
         "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
+        "position": "T-2",
+        "name": "Bryson DeChambeau",
+        "total": "-2",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "Xander Schauffele",
+        "total": "-2",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Rory McIlroy",
+        "total": "-1",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
         "name": "Ludvig \u00c5berg",
         "total": "-1",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
+        "position": "T-6",
         "name": "Brian Harman",
         "total": "-1",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
-        "name": "Laurie Canter",
+        "position": "T-6",
+        "name": "Max Greyserman",
         "total": "-1",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
-        "name": "Neal Shipley",
+        "position": "T-6",
+        "name": "Ben James",
         "total": "-1",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-8",
-        "name": "Keith Mitchell",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-8",
-        "name": "Kristoffer Reitan",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-8",
-        "name": "Keegan Bradley",
-        "total": "E",
         "round_score": "-",
         "thru": "0"
       }
