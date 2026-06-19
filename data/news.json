@@ -1,10 +1,52 @@
 {
   "items": [
     {
-      "title": "Mideast Live Updates: Deadly Attacks in Lebanon and Delay in Talks Test U.S.-Iran Deal",
+      "title": "U.K. Updates: Starmer Under Pressure After Labour Rival Wins Key Election",
+      "link": "https://www.nytimes.com/live/2026/06/19/world/makerfield-election-results-uk-burnham",
+      "source": "NYT",
+      "published": "2026-06-19T15:23:48+00:00"
+    },
+    {
+      "title": "Mideast Live Updates: Iran Delayed Talks After Israeli Attacks in Lebanon, Diplomats Say",
       "link": "https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal",
       "source": "NYT",
-      "published": "2026-06-19T11:53:23+00:00"
+      "published": "2026-06-19T15:19:16+00:00"
+    },
+    {
+      "title": "Boy, 3, hurt at zoo was attacked by a crocodile",
+      "link": "https://www.bbc.com/news/articles/cp9l2278m8no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-06-19T14:59:10+00:00"
+    },
+    {
+      "title": "\u2018Game Changer\u2019? Too Soon to Tell. But Ukraine Flexed in Striking Moscow.",
+      "link": "https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html",
+      "source": "NYT",
+      "published": "2026-06-19T14:53:23+00:00"
+    },
+    {
+      "title": "Henry Zeffman: What does Keir Starmer do next after Andy Burnham's Makerfield win?",
+      "link": "https://www.bbc.com/news/articles/c3ryp0nejdro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-06-19T14:34:47+00:00"
+    },
+    {
+      "title": "'Neither I nor Italy ever beg': Meloni says Trump made up story about photo",
+      "link": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-06-19T13:42:47+00:00"
+    },
+    {
+      "title": "Historic by-election win sends message to Labour and SNP, says Badenoch",
+      "link": "https://www.bbc.com/news/articles/cn8q4p34qg4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-06-19T13:20:44+00:00"
+    },
+    {
+      "title": "A Missing Ingredient in Ukraine\u2019s Barrages on Russia: Ballistic Missiles",
+      "link": "https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attacks-ballistic-missiles.html",
+      "source": "NYT",
+      "published": "2026-06-19T13:15:07+00:00"
     },
     {
       "title": "US-Iran talks in Switzerland canceled. And, DHS to give police facial recognition app",
@@ -13,52 +55,10 @@
       "published": "2026-06-19T11:27:49+00:00"
     },
     {
-      "title": "Boy, 3, was attacked by crocodile at zoo as man bailed",
-      "link": "https://www.bbc.com/news/articles/cp9l2278m8no?at_medium=RSS&at_campaign=rss",
+      "title": "Amber extreme heat warning issued as 35C heatwave approaches",
+      "link": "https://www.bbc.com/weather/articles/cz0jde5xkjvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-06-19T11:02:38+00:00"
-    },
-    {
-      "title": "Farage blames Makerfield defeat on anti-Starmer votes",
-      "link": "https://www.bbc.com/news/articles/cvgqvj8dkz7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-06-19T10:57:45+00:00"
-    },
-    {
-      "title": "\u2018Game Changer\u2019? Too Soon to Tell. But Ukraine Flexed in Striking Moscow.",
-      "link": "https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html",
-      "source": "NYT",
-      "published": "2026-06-19T10:42:22+00:00"
-    },
-    {
-      "title": "What you need to know about the preliminary U.S.-Iran agreement signed by Trump",
-      "link": "https://www.npr.org/2026/06/19/nx-s1-5863544/trump-us-iran-agreement",
-      "source": "NPR",
-      "published": "2026-06-19T10:30:52+00:00"
-    },
-    {
-      "title": "Scottish Conservatives win first Westminster by-election in more than 50 years",
-      "link": "https://www.bbc.com/news/articles/cpv3kk3nlj1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-06-19T09:07:56+00:00"
-    },
-    {
-      "title": "Mexico\u2019s Laws Have a New Target: Journalists",
-      "link": "https://www.nytimes.com/2026/06/19/world/americas/mexico-politicians-silence-journalists.html",
-      "source": "NYT",
-      "published": "2026-06-19T09:00:10+00:00"
-    },
-    {
-      "title": "Big dogs, Buc-ee's and the great BBQ debate: World Cup fans discover everyday America",
-      "link": "https://www.npr.org/2026/06/19/nx-s1-5860711/world-cup-america-tourists",
-      "source": "NPR",
-      "published": "2026-06-19T09:00:00+00:00"
-    },
-    {
-      "title": "It's toys vs. tech in 'Toy Story 5.' Here are 4 ways to keep tech in check this summer",
-      "link": "https://www.npr.org/2026/06/19/nx-s1-5845874/toy-story-5-tech-social-media-screentime-summer-movie",
-      "source": "NPR",
-      "published": "2026-06-19T09:00:00+00:00"
+      "published": "2026-06-19T11:14:57+00:00"
     }
   ]
 }

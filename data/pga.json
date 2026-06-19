@@ -6,72 +6,72 @@
       {
         "position": "1",
         "name": "Wyndham Clark",
-        "total": "-6",
-        "round_score": "-",
-        "thru": "0"
+        "total": "-5",
+        "round_score": "+1",
+        "thru": "11"
       },
       {
-        "position": "2",
-        "name": "Dustin Johnson",
-        "total": "-4",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
-        "name": "Matt Fitzpatrick",
-        "total": "-3",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
-        "name": "Gary Woodland",
-        "total": "-3",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Ryder Cowan",
+        "position": "T-2",
+        "name": "William Mouw",
         "total": "-2",
-        "round_score": "E",
-        "thru": "3"
+        "round_score": "-2",
+        "thru": "15"
       },
       {
-        "position": "T-5",
+        "position": "T-2",
+        "name": "Xander Schauffele",
+        "total": "-2",
+        "round_score": "-3",
+        "thru": "11"
+      },
+      {
+        "position": "T-2",
+        "name": "Corey Conners",
+        "total": "-2",
+        "round_score": "-1",
+        "thru": "11"
+      },
+      {
+        "position": "T-2",
+        "name": "Dustin Johnson",
+        "total": "-2",
+        "round_score": "+2",
+        "thru": "11"
+      },
+      {
+        "position": "T-2",
         "name": "Sam Stevens",
         "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
-        "name": "Jon Rahm",
-        "total": "-2",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Spencer Tibbits",
-        "total": "-2",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "William Mouw",
+        "position": "T-7",
+        "name": "Niklas N\u00f8rgaard",
         "total": "-1",
-        "round_score": "-1",
-        "thru": "3"
+        "round_score": "-2",
+        "thru": "14"
       },
       {
-        "position": "T-9",
-        "name": "Max McGreevy",
+        "position": "T-7",
+        "name": "Collin Morikawa",
         "total": "-1",
-        "round_score": "+1",
-        "thru": "2"
+        "round_score": "-4",
+        "thru": "13"
+      },
+      {
+        "position": "T-7",
+        "name": "Matt Fitzpatrick",
+        "total": "-1",
+        "round_score": "+2",
+        "thru": "12"
+      },
+      {
+        "position": "T-7",
+        "name": "Justin Thomas",
+        "total": "-1",
+        "round_score": "-2",
+        "thru": "11"
       }
     ]
   }
