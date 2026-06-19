@@ -11,67 +11,67 @@
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "2",
+        "name": "Dustin Johnson",
+        "total": "-4",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Matt Fitzpatrick",
+        "total": "-3",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Gary Woodland",
+        "total": "-3",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-5",
+        "name": "Ryder Cowan",
+        "total": "-2",
+        "round_score": "E",
+        "thru": "3"
+      },
+      {
+        "position": "T-5",
         "name": "Sam Stevens",
         "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
-        "name": "Ryder Cowan",
-        "total": "-2",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-2",
-        "name": "Max McGreevy",
-        "total": "-2",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-2",
-        "name": "Matt Fitzpatrick",
-        "total": "-2",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-2",
-        "name": "Dustin Johnson",
-        "total": "-2",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-2",
-        "name": "Gary Woodland",
-        "total": "-2",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-2",
+        "position": "T-5",
         "name": "Jon Rahm",
         "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-9",
-        "name": "Rory McIlroy",
-        "total": "-1",
+        "position": "T-5",
+        "name": "Spencer Tibbits",
+        "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-9",
-        "name": "Ludvig \u00c5berg",
+        "name": "William Mouw",
         "total": "-1",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "-1",
+        "thru": "3"
+      },
+      {
+        "position": "T-9",
+        "name": "Max McGreevy",
+        "total": "-1",
+        "round_score": "+1",
+        "thru": "2"
       }
     ]
   }
