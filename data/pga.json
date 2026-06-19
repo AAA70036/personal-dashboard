@@ -19,17 +19,17 @@
       },
       {
         "position": "T-2",
-        "name": "Matt Fitzpatrick",
+        "name": "Sam Stevens",
         "total": "-3",
-        "round_score": "E",
+        "round_score": "-1",
         "thru": "F"
       },
       {
         "position": "T-2",
-        "name": "Sam Stevens",
+        "name": "Matt Fitzpatrick",
         "total": "-3",
-        "round_score": "-1",
-        "thru": "17"
+        "round_score": "E",
+        "thru": "F"
       },
       {
         "position": "T-5",
@@ -40,38 +40,38 @@
       },
       {
         "position": "T-5",
-        "name": "Sam Burns",
+        "name": "Tom Kim",
         "total": "-2",
-        "round_score": "-3",
-        "thru": "14"
+        "round_score": "-2",
+        "thru": "15"
       },
       {
-        "position": "T-5",
-        "name": "Rory McIlroy",
-        "total": "-2",
-        "round_score": "-1",
-        "thru": "14"
-      },
-      {
-        "position": "T-8",
+        "position": "T-7",
         "name": "Justin Thomas",
         "total": "-1",
         "round_score": "-2",
         "thru": "F"
       },
       {
-        "position": "T-8",
+        "position": "T-7",
         "name": "Harry Higgs",
         "total": "-1",
         "round_score": "-2",
         "thru": "F"
       },
       {
-        "position": "T-8",
+        "position": "T-7",
+        "name": "Sam Burns",
+        "total": "-1",
+        "round_score": "-2",
+        "thru": "F"
+      },
+      {
+        "position": "T-7",
         "name": "Maverick McNealy",
         "total": "-1",
         "round_score": "-3",
-        "thru": "13"
+        "thru": "16"
       }
     ]
   }
