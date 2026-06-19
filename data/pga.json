@@ -4,71 +4,71 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
-        "name": "Dustin Johnson",
-        "total": "-3",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
+        "position": "1",
         "name": "Wyndham Clark",
-        "total": "-3",
+        "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-2",
         "name": "Sam Stevens",
         "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-2",
+        "name": "Ryder Cowan",
+        "total": "-2",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "Max McGreevy",
+        "total": "-2",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
         "name": "Matt Fitzpatrick",
         "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
-        "name": "Corey Conners",
+        "position": "T-2",
+        "name": "Dustin Johnson",
         "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-2",
+        "name": "Gary Woodland",
+        "total": "-2",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
         "name": "Jon Rahm",
         "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-7",
+        "position": "T-9",
         "name": "Rory McIlroy",
         "total": "-1",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-7",
+        "position": "T-9",
         "name": "Ludvig \u00c5berg",
-        "total": "-1",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-7",
-        "name": "Brian Harman",
-        "total": "-1",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-7",
-        "name": "Max Greyserman",
         "total": "-1",
         "round_score": "-",
         "thru": "0"
