@@ -12,66 +12,66 @@
       },
       {
         "position": "T-2",
+        "name": "Xander Schauffele",
+        "total": "-3",
+        "round_score": "-4",
+        "thru": "F"
+      },
+      {
+        "position": "T-2",
         "name": "Matt Fitzpatrick",
         "total": "-3",
         "round_score": "E",
         "thru": "F"
       },
       {
-        "position": "T-2",
-        "name": "Xander Schauffele",
-        "total": "-3",
-        "round_score": "-4",
-        "thru": "17"
-      },
-      {
-        "position": "T-2",
-        "name": "Sam Stevens",
-        "total": "-3",
-        "round_score": "-1",
-        "thru": "1"
-      },
-      {
-        "position": "5",
+        "position": "T-4",
         "name": "Collin Morikawa",
         "total": "-2",
         "round_score": "-5",
         "thru": "F"
       },
       {
-        "position": "T-6",
-        "name": "Ben Kohles",
+        "position": "T-4",
+        "name": "Harry Higgs",
+        "total": "-2",
+        "round_score": "-3",
+        "thru": "9"
+      },
+      {
+        "position": "T-4",
+        "name": "Max Greyserman",
+        "total": "-2",
+        "round_score": "-1",
+        "thru": "2"
+      },
+      {
+        "position": "T-7",
+        "name": "Justin Thomas",
+        "total": "-1",
+        "round_score": "-2",
+        "thru": "F"
+      },
+      {
+        "position": "T-7",
+        "name": "Sam Stevens",
+        "total": "-1",
+        "round_score": "+1",
+        "thru": "6"
+      },
+      {
+        "position": "T-7",
+        "name": "Keegan Bradley",
         "total": "-1",
         "round_score": "-1",
-        "thru": "14"
+        "thru": "5"
       },
       {
-        "position": "T-6",
+        "position": "T-7",
         "name": "Rory McIlroy",
         "total": "-1",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Ludvig \u00c5berg",
-        "total": "-1",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Brian Harman",
-        "total": "-1",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Max Greyserman",
-        "total": "-1",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "E",
+        "thru": "4"
       }
     ]
   }
