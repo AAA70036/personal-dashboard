@@ -29,49 +29,49 @@
         "name": "Sam Stevens",
         "total": "-3",
         "round_score": "-1",
-        "thru": "12"
+        "thru": "17"
       },
       {
-        "position": "T-2",
-        "name": "Rory McIlroy",
-        "total": "-3",
-        "round_score": "-2",
-        "thru": "9"
-      },
-      {
-        "position": "T-2",
-        "name": "Max Greyserman",
-        "total": "-3",
-        "round_score": "-2",
-        "thru": "7"
-      },
-      {
-        "position": "T-7",
+        "position": "T-5",
         "name": "Collin Morikawa",
         "total": "-2",
         "round_score": "-5",
         "thru": "F"
       },
       {
-        "position": "T-7",
-        "name": "Harry Higgs",
+        "position": "T-5",
+        "name": "Sam Burns",
         "total": "-2",
         "round_score": "-3",
         "thru": "14"
       },
       {
-        "position": "T-7",
-        "name": "Sam Burns",
-        "total": "-2",
-        "round_score": "-3",
-        "thru": "10"
-      },
-      {
-        "position": "T-7",
-        "name": "Ben James",
+        "position": "T-5",
+        "name": "Rory McIlroy",
         "total": "-2",
         "round_score": "-1",
-        "thru": "6"
+        "thru": "14"
+      },
+      {
+        "position": "T-8",
+        "name": "Justin Thomas",
+        "total": "-1",
+        "round_score": "-2",
+        "thru": "F"
+      },
+      {
+        "position": "T-8",
+        "name": "Harry Higgs",
+        "total": "-1",
+        "round_score": "-2",
+        "thru": "F"
+      },
+      {
+        "position": "T-8",
+        "name": "Maverick McNealy",
+        "total": "-1",
+        "round_score": "-3",
+        "thru": "13"
       }
     ]
   }
