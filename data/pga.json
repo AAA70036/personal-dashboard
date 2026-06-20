@@ -6,72 +6,72 @@
       {
         "position": "1",
         "name": "Wyndham Clark",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
+        "total": "-6",
+        "round_score": "+1",
+        "thru": "2"
       },
       {
-        "position": "T-2",
+        "position": "2",
+        "name": "Sam Stevens",
+        "total": "-4",
+        "round_score": "-1",
+        "thru": "2"
+      },
+      {
+        "position": "3",
         "name": "Xander Schauffele",
         "total": "-3",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "E",
+        "thru": "2"
       },
       {
-        "position": "T-2",
-        "name": "Tom Kim",
-        "total": "-3",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-2",
-        "name": "Sam Stevens",
-        "total": "-3",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-2",
-        "name": "Matt Fitzpatrick",
-        "total": "-3",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "6",
-        "name": "Collin Morikawa",
+        "position": "T-4",
+        "name": "Rory McIlroy",
         "total": "-2",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "-2",
+        "thru": "8"
       },
       {
-        "position": "T-7",
-        "name": "Emiliano Grillo",
+        "position": "T-4",
+        "name": "Sam Burns",
+        "total": "-2",
+        "round_score": "-1",
+        "thru": "5"
+      },
+      {
+        "position": "T-6",
+        "name": "Maverick McNealy",
         "total": "-1",
-        "round_score": "-4",
-        "thru": "16"
+        "round_score": "-1",
+        "thru": "8"
       },
       {
-        "position": "T-7",
+        "position": "T-6",
+        "name": "Keith Mitchell",
+        "total": "-1",
+        "round_score": "-1",
+        "thru": "8"
+      },
+      {
+        "position": "T-6",
         "name": "Sahith Theegala",
         "total": "-1",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "E",
+        "thru": "5"
       },
       {
-        "position": "T-7",
-        "name": "Justin Thomas",
+        "position": "T-6",
+        "name": "Collin Morikawa",
         "total": "-1",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "+1",
+        "thru": "3"
       },
       {
-        "position": "T-7",
-        "name": "Harry Higgs",
+        "position": "T-6",
+        "name": "Tom Kim",
         "total": "-1",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "+2",
+        "thru": "3"
       }
     ]
   }
