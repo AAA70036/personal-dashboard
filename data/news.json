@@ -1,10 +1,22 @@
 {
   "items": [
     {
-      "title": "Mideast Live Updates: Fighting Persists in Lebanon, Complicating Iran Peace Talks",
+      "title": "Mideast Live Updates: Iranian Forces Say They Closed Strait of Hormuz",
       "link": "https://www.nytimes.com/live/2026/06/20/world/iran-trump-israel-lebanon",
       "source": "NYT",
-      "published": "2026-06-20T12:52:14+00:00"
+      "published": "2026-06-20T15:14:27+00:00"
+    },
+    {
+      "title": "Trump hits out at Italy's Meloni after pushback on G7 photo claim",
+      "link": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-06-20T14:24:35+00:00"
+    },
+    {
+      "title": "Extreme heat warning expanded as 36C heatwave approaches UK",
+      "link": "https://www.bbc.com/weather/articles/cp8lye61jk6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-06-20T13:41:51+00:00"
     },
     {
       "title": "A 175-Year-Old Shipwreck, Lots of Booze and a Korean Island\u2019s Quest to Survive",
@@ -13,7 +25,7 @@
       "published": "2026-06-20T12:33:29+00:00"
     },
     {
-      "title": "What we know so far about the collision and how it is affecting travel",
+      "title": "What we know so far about the collision and emergency response",
       "link": "https://www.bbc.com/news/articles/cn75z3nl048o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-06-20T12:15:27+00:00"
@@ -28,7 +40,7 @@
       "title": "After Andy Burnham\u2019s Win, the UK Is Set to Test How Far Charisma Can Shift Electoral Dynamics",
       "link": "https://www.nytimes.com/2026/06/20/world/europe/burnham-starmer-labour-uk-reform.html",
       "source": "NYT",
-      "published": "2026-06-20T11:36:30+00:00"
+      "published": "2026-06-20T11:36:31+00:00"
     },
     {
       "title": "Talk of Starmer staying on to fight is fading - fast",
@@ -47,18 +59,6 @@
       "link": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-06-20T10:19:34+00:00"
-    },
-    {
-      "title": "Fighting persists in Lebanon despite a ceasefire as  U.S.-Iran deal is under threat",
-      "link": "https://www.npr.org/2026/06/20/nx-s1-5865006/fighting-lebanon-despite-ceasefire",
-      "source": "NPR",
-      "published": "2026-06-20T10:02:05+00:00"
-    },
-    {
-      "title": "Palestinian-American kids find inspiration, and escape, on the soccer pitch",
-      "link": "https://www.npr.org/2026/06/20/nx-s1-5854466/palestinian-american-kids-find-inspiration-and-escape-on-the-soccer-pitch",
-      "source": "NPR",
-      "published": "2026-06-20T10:00:00+00:00"
     }
   ]
 }
