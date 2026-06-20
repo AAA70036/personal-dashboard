@@ -47,6 +47,13 @@
       },
       {
         "position": "T-7",
+        "name": "Emiliano Grillo",
+        "total": "-1",
+        "round_score": "-4",
+        "thru": "9"
+      },
+      {
+        "position": "T-7",
         "name": "Sahith Theegala",
         "total": "-1",
         "round_score": "-",
@@ -62,13 +69,6 @@
       {
         "position": "T-7",
         "name": "Harry Higgs",
-        "total": "-1",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-7",
-        "name": "Sam Burns",
         "total": "-1",
         "round_score": "-",
         "thru": "0"
