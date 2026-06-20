@@ -8,70 +8,70 @@
         "name": "Wyndham Clark",
         "total": "-6",
         "round_score": "+1",
-        "thru": "2"
+        "thru": "8"
       },
       {
         "position": "2",
         "name": "Sam Stevens",
         "total": "-4",
         "round_score": "-1",
-        "thru": "2"
+        "thru": "9"
       },
       {
-        "position": "3",
-        "name": "Xander Schauffele",
-        "total": "-3",
-        "round_score": "E",
-        "thru": "2"
-      },
-      {
-        "position": "T-4",
-        "name": "Rory McIlroy",
-        "total": "-2",
-        "round_score": "-2",
-        "thru": "8"
-      },
-      {
-        "position": "T-4",
-        "name": "Sam Burns",
-        "total": "-2",
-        "round_score": "-1",
-        "thru": "5"
-      },
-      {
-        "position": "T-6",
-        "name": "Maverick McNealy",
-        "total": "-1",
-        "round_score": "-1",
-        "thru": "8"
-      },
-      {
-        "position": "T-6",
-        "name": "Keith Mitchell",
-        "total": "-1",
-        "round_score": "-1",
-        "thru": "8"
-      },
-      {
-        "position": "T-6",
-        "name": "Sahith Theegala",
-        "total": "-1",
-        "round_score": "E",
-        "thru": "5"
-      },
-      {
-        "position": "T-6",
-        "name": "Collin Morikawa",
-        "total": "-1",
-        "round_score": "+1",
-        "thru": "3"
-      },
-      {
-        "position": "T-6",
+        "position": "T-3",
         "name": "Tom Kim",
+        "total": "-2",
+        "round_score": "+1",
+        "thru": "10"
+      },
+      {
+        "position": "T-3",
+        "name": "Xander Schauffele",
+        "total": "-2",
+        "round_score": "+1",
+        "thru": "9"
+      },
+      {
+        "position": "T-5",
+        "name": "Scottie Scheffler",
         "total": "-1",
+        "round_score": "-1",
+        "thru": "15"
+      },
+      {
+        "position": "T-5",
+        "name": "Sam Burns",
+        "total": "-1",
+        "round_score": "E",
+        "thru": "11"
+      },
+      {
+        "position": "T-7",
+        "name": "Emiliano Grillo",
+        "total": "E",
+        "round_score": "-3",
+        "thru": "F"
+      },
+      {
+        "position": "T-7",
+        "name": "Sahith Theegala",
+        "total": "E",
+        "round_score": "+1",
+        "thru": "11"
+      },
+      {
+        "position": "T-7",
+        "name": "Collin Morikawa",
+        "total": "E",
         "round_score": "+2",
-        "thru": "3"
+        "thru": "10"
+      },
+      {
+        "position": "T-10",
+        "name": "Tommy Fleetwood",
+        "total": "+1",
+        "round_score": "E",
+        "thru": "F"
       }
     ]
   }
