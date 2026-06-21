@@ -1,10 +1,22 @@
 {
   "items": [
     {
-      "title": "Mideast Live Updates: Strains Quickly Emerge on First Day of U.S.-Iran Talks",
+      "title": "Abelardo De La Espriella, Trump-Backed Rightist, Headed for Win in Colombia",
+      "link": "https://www.nytimes.com/2026/06/21/world/americas/colombia-election-de-la-espriella.html",
+      "source": "NYT",
+      "published": "2026-06-21T22:46:57+00:00"
+    },
+    {
+      "title": "Mideast Live Updates: Strains Emerge on First Day of U.S.-Iran Talks",
       "link": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon",
       "source": "NYT",
-      "published": "2026-06-21T20:57:58+00:00"
+      "published": "2026-06-21T22:42:32+00:00"
+    },
+    {
+      "title": "Leading Lebanese conservationist dies after Israeli airstrike on her home",
+      "link": "https://www.npr.org/2026/06/21/nx-s1-5865705/lebanon-turtle-conservationist-killed-israeli-airstrike",
+      "source": "NPR",
+      "published": "2026-06-21T21:37:22+00:00"
     },
     {
       "title": "Family of driver killed in Bedford train crash 'devastated' by loss",
@@ -31,7 +43,7 @@
       "published": "2026-06-21T18:07:17+00:00"
     },
     {
-      "title": "Trump threatens to 'hit Iran very hard again' while Vance in Switzerland for talks",
+      "title": "Trump threatens to 'hit Iran very hard again' while Vance is in Switzerland for talks",
       "link": "https://www.npr.org/2026/06/21/g-s1-129222/us-iran-deal-lebanon-israel-strait-hormuz-jd-vance",
       "source": "NPR",
       "published": "2026-06-21T17:29:57+00:00"
@@ -47,18 +59,6 @@
       "link": "https://www.bbc.com/news/articles/cn8k1my75gno?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-06-21T16:56:17+00:00"
-    },
-    {
-      "title": "Keir Starmer Reflects on \u2018Political Challenges\u2019 as Pressure to Resign Mounts",
-      "link": "https://www.nytimes.com/2026/06/21/world/europe/keir-starmer-andy-burnham-uk.html",
-      "source": "NYT",
-      "published": "2026-06-21T16:23:36+00:00"
-    },
-    {
-      "title": "Ukrainian attacks prompt Russian-held Crimea to halt civilian gasoline sales",
-      "link": "https://www.npr.org/2026/06/21/g-s1-129200/ukrainian-attacks-russia-crimea-halt-gas-sales",
-      "source": "NPR",
-      "published": "2026-06-21T13:55:06+00:00"
     }
   ]
 }

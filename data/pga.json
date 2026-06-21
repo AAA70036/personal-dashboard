@@ -1,48 +1,48 @@
 {
   "leaderboard": {
     "tournament": "U.S. Open",
-    "status": "In Progress",
+    "status": "Final",
     "players": [
       {
         "position": "1",
         "name": "Wyndham Clark",
         "total": "-4",
         "round_score": "+3",
-        "thru": "13"
+        "thru": "F"
       },
       {
         "position": "2",
         "name": "Sam Burns",
         "total": "-3",
         "round_score": "-3",
-        "thru": "16"
+        "thru": "F"
       },
       {
-        "position": "T-3",
-        "name": "Keith Mitchell",
-        "total": "-1",
-        "round_score": "-1",
-        "thru": "16"
-      },
-      {
-        "position": "T-3",
+        "position": "3",
         "name": "Tom Kim",
         "total": "-1",
         "round_score": "E",
-        "thru": "14"
+        "thru": "F"
       },
       {
-        "position": "T-3",
-        "name": "Scottie Scheffler",
-        "total": "-1",
-        "round_score": "E",
-        "thru": "13"
-      },
-      {
-        "position": "6",
+        "position": "T-4",
         "name": "J.T. Poston",
         "total": "E",
         "round_score": "-3",
+        "thru": "F"
+      },
+      {
+        "position": "T-4",
+        "name": "Keith Mitchell",
+        "total": "E",
+        "round_score": "E",
+        "thru": "F"
+      },
+      {
+        "position": "T-4",
+        "name": "Scottie Scheffler",
+        "total": "E",
+        "round_score": "+1",
         "thru": "F"
       },
       {
@@ -68,10 +68,10 @@
       },
       {
         "position": "T-7",
-        "name": "Tommy Fleetwood",
+        "name": "Sam Stevens",
         "total": "+1",
-        "round_score": "E",
-        "thru": "17"
+        "round_score": "+2",
+        "thru": "F"
       }
     ]
   }
