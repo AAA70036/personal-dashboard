@@ -40,6 +40,13 @@
       },
       {
         "position": "T-6",
+        "name": "Xander Schauffele",
+        "total": "E",
+        "round_score": "E",
+        "thru": "1"
+      },
+      {
+        "position": "T-6",
         "name": "Emiliano Grillo",
         "total": "E",
         "round_score": "-",
@@ -60,18 +67,11 @@
         "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Xander Schauffele",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
         "position": "T-10",
-        "name": "Tommy Fleetwood",
+        "name": "Joaqu\u00edn Niemann",
         "total": "+1",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "-4",
+        "thru": "14"
       }
     ]
   }
