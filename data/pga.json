@@ -6,72 +6,72 @@
       {
         "position": "1",
         "name": "Wyndham Clark",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
+        "total": "-5",
+        "round_score": "+2",
+        "thru": "5"
       },
       {
-        "position": "T-2",
+        "position": "2",
+        "name": "Sam Burns",
+        "total": "-3",
+        "round_score": "-3",
+        "thru": "9"
+      },
+      {
+        "position": "T-3",
+        "name": "J.T. Poston",
+        "total": "-1",
+        "round_score": "-4",
+        "thru": "13"
+      },
+      {
+        "position": "T-3",
+        "name": "Keith Mitchell",
+        "total": "-1",
+        "round_score": "-1",
+        "thru": "9"
+      },
+      {
+        "position": "T-3",
         "name": "Scottie Scheffler",
         "total": "-1",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-2",
-        "name": "Sahith Theegala",
-        "total": "-1",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-2",
-        "name": "Tom Kim",
-        "total": "-1",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-2",
-        "name": "Sam Stevens",
-        "total": "-1",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Xander Schauffele",
-        "total": "E",
         "round_score": "E",
-        "thru": "1"
+        "thru": "5"
       },
       {
         "position": "T-6",
-        "name": "Emiliano Grillo",
+        "name": "Tommy Fleetwood",
         "total": "E",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "-1",
+        "thru": "9"
       },
       {
         "position": "T-6",
-        "name": "Keith Mitchell",
+        "name": "Tom Kim",
         "total": "E",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "+1",
+        "thru": "7"
       },
       {
-        "position": "T-6",
-        "name": "Sam Burns",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-10",
+        "position": "T-8",
         "name": "Joaqu\u00edn Niemann",
         "total": "+1",
         "round_score": "-4",
-        "thru": "14"
+        "thru": "F"
+      },
+      {
+        "position": "T-8",
+        "name": "Tyrrell Hatton",
+        "total": "+1",
+        "round_score": "-3",
+        "thru": "F"
+      },
+      {
+        "position": "T-8",
+        "name": "Gary Woodland",
+        "total": "+1",
+        "round_score": "-2",
+        "thru": "17"
       }
     ]
   }
