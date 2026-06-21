@@ -7,71 +7,71 @@
         "position": "1",
         "name": "Wyndham Clark",
         "total": "-7",
-        "round_score": "E",
-        "thru": "14"
+        "round_score": "-",
+        "thru": "0"
       },
       {
         "position": "T-2",
         "name": "Scottie Scheffler",
         "total": "-1",
-        "round_score": "-1",
-        "thru": "F"
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "Sahith Theegala",
+        "total": "-1",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "Tom Kim",
+        "total": "-1",
+        "round_score": "-",
+        "thru": "0"
       },
       {
         "position": "T-2",
         "name": "Sam Stevens",
         "total": "-1",
-        "round_score": "+2",
-        "thru": "14"
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-4",
+        "position": "T-6",
         "name": "Emiliano Grillo",
         "total": "E",
-        "round_score": "-3",
-        "thru": "F"
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-4",
+        "position": "T-6",
         "name": "Keith Mitchell",
         "total": "E",
-        "round_score": "E",
-        "thru": "F"
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-4",
-        "name": "Sahith Theegala",
-        "total": "E",
-        "round_score": "+1",
-        "thru": "17"
-      },
-      {
-        "position": "T-4",
+        "position": "T-6",
         "name": "Sam Burns",
         "total": "E",
-        "round_score": "+1",
-        "thru": "17"
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-4",
-        "name": "Tom Kim",
+        "position": "T-6",
+        "name": "Xander Schauffele",
         "total": "E",
-        "round_score": "+3",
-        "thru": "15"
-      },
-      {
-        "position": "T-4",
-        "name": "Matt Fitzpatrick",
-        "total": "E",
-        "round_score": "+3",
-        "thru": "14"
+        "round_score": "-",
+        "thru": "0"
       },
       {
         "position": "T-10",
         "name": "Tommy Fleetwood",
         "total": "+1",
-        "round_score": "E",
-        "thru": "F"
+        "round_score": "-",
+        "thru": "0"
       }
     ]
   }
