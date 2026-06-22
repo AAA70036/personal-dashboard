@@ -1,10 +1,28 @@
 {
   "items": [
     {
+      "title": "Keir Starmer Resigns as UK Prime Minister",
+      "link": "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html",
+      "source": "NYT",
+      "published": "2026-06-22T21:31:10+00:00"
+    },
+    {
       "title": "Mideast Live Updates: U.S. Eases Sanctions on Iranian Oil, but Progress on Nuclear Issues Is Muddy",
       "link": "https://www.nytimes.com/live/2026/06/22/world/iran-us-trump-lebanon",
       "source": "NYT",
-      "published": "2026-06-22T19:40:41+00:00"
+      "published": "2026-06-22T21:27:42+00:00"
+    },
+    {
+      "title": "Analysis: Everything points to Burnham becoming PM within weeks",
+      "link": "https://www.bbc.com/news/articles/c20y1zvg50lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-06-22T21:11:38+00:00"
+    },
+    {
+      "title": "Supreme Court declines to hear Texas man's intellectual disability case in capital case",
+      "link": "https://www.npr.org/2026/06/22/nx-s1-5866741/supreme-court-texas-death-penalty",
+      "source": "NPR",
+      "published": "2026-06-22T20:13:51+00:00"
     },
     {
       "title": "Magnificent Messi makes history, breaks all-time World Cup scoring record",
@@ -17,18 +35,6 @@
       "link": "https://www.bbc.com/news/videos/cze9rj6d7rgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-06-22T18:26:07+00:00"
-    },
-    {
-      "title": "Keir Starmer Resigns as UK Prime Minister",
-      "link": "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html",
-      "source": "NYT",
-      "published": "2026-06-22T17:41:12+00:00"
-    },
-    {
-      "title": "Analysis: Everything points to Burnham becoming PM within weeks",
-      "link": "https://www.bbc.com/news/articles/c20y1zvg50lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-06-22T17:20:49+00:00"
     },
     {
       "title": "Did you know? Alan Greenspan and Ayn Rand were close friends",
@@ -53,12 +59,6 @@
       "link": "https://www.nytimes.com/2026/06/22/world/europe/ukraine-donetsk-donbas-sloviansk-kramatorsk-russia.html",
       "source": "NYT",
       "published": "2026-06-22T15:57:38+00:00"
-    },
-    {
-      "title": "Cuba\u2019s Fuel Crisis Brings Schools to a Standstill",
-      "link": "https://www.nytimes.com/2026/06/22/world/americas/cuba-oil-gas-crisis-schools-education.html",
-      "source": "NYT",
-      "published": "2026-06-22T14:29:39+00:00"
     }
   ]
 }
