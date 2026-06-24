@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "U.S. and Iran Offer Conflicting Accounts of Nuclear Discussions",
+      "link": "https://www.nytimes.com/live/2026/06/23/world/iran-us-trump-lebanon",
+      "source": "NYT",
+      "published": "2026-06-23T23:58:20+00:00"
+    },
+    {
+      "title": "The UK's summers are getting hotter - but how prepared are we?",
+      "link": "https://www.bbc.co.uk/news/articles/c9d2xl3555xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-06-23T23:46:03+00:00"
+    },
+    {
       "title": "Ten years on, Brexit's economic impact is becoming clearer",
       "link": "https://www.bbc.co.uk/news/articles/cyv0m164m84o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -13,28 +25,28 @@
       "published": "2026-06-23T23:06:39+00:00"
     },
     {
-      "title": "U.S. and Iran Offer Conflicting Accounts of Nuclear Discussions",
-      "link": "https://www.nytimes.com/live/2026/06/23/world/iran-us-trump-lebanon",
-      "source": "NYT",
-      "published": "2026-06-23T23:06:00+00:00"
-    },
-    {
-      "title": "Germany rail network comes to complete halt nationwide due to IT malfunction",
-      "link": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-06-23T22:44:57+00:00"
-    },
-    {
       "title": "Supreme Court rules that prison guards can't be sued for shaving Rastafarian's head",
       "link": "https://www.npr.org/2026/06/23/nx-s1-5867684/supreme-court-prison-guards-rastafarian-dreadlocks",
       "source": "NPR",
       "published": "2026-06-23T22:33:08+00:00"
     },
     {
+      "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
+      "link": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-06-23T21:04:11+00:00"
+    },
+    {
       "title": "In symbolic vote, Congress directs Trump to remove forces from Iran war",
       "link": "https://www.npr.org/2026/06/23/nx-s1-5868599/senate-iran-war-powers-resolution",
       "source": "NPR",
       "published": "2026-06-23T20:50:44+00:00"
+    },
+    {
+      "title": "Congress passes the largest housing affordability bill in decades",
+      "link": "https://www.npr.org/2026/06/23/nx-s1-5867575/congress-passes-housing-affordability-bill",
+      "source": "NPR",
+      "published": "2026-06-23T20:46:10+00:00"
     },
     {
       "title": "Hundreds of schools plan closures ahead of red heat alerts",
@@ -47,18 +59,6 @@
       "link": "https://www.npr.org/2026/06/23/nx-s1-5867633/ai-selloff-tech-stocks-bubble-nasdaq",
       "source": "NPR",
       "published": "2026-06-23T19:31:54+00:00"
-    },
-    {
-      "title": "Portugal's Ronaldo shakes off World Cup doubters, scores 2 after sluggish start",
-      "link": "https://www.npr.org/2026/06/23/nx-s1-5867692/2026-world-cup-fifa-cristiano-ronaldo-goal",
-      "source": "NPR",
-      "published": "2026-06-23T18:59:56+00:00"
-    },
-    {
-      "title": "How Mark Rutte of NATO Manages an Unpredictable Trump",
-      "link": "https://www.nytimes.com/2026/06/23/world/europe/mark-rutte-nato-trump.html",
-      "source": "NYT",
-      "published": "2026-06-23T18:40:09+00:00"
     }
   ]
 }
