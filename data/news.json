@@ -1,10 +1,52 @@
 {
   "items": [
     {
-      "title": "Long before the World Cup, Ukrainian immigrants built a soccer powerhouse in Philly",
-      "link": "https://www.npr.org/2026/06/25/nx-s1-5845366/world-cup-ukraine-immigrants-philadelphia-soccer-leagues",
+      "title": "Live Updates: As Europe Bakes, Spain Warns of Possible High Death Toll",
+      "link": "https://www.nytimes.com/live/2026/06/25/weather/europe-heat-wave-uk-france",
+      "source": "NYT",
+      "published": "2026-06-25T12:00:03+00:00"
+    },
+    {
+      "title": "Venezuela Live Updates: Death Toll Rises as Rescuers Mount Frantic Search for Quake Survivors",
+      "link": "https://www.nytimes.com/live/2026/06/25/world/venezuela-earthquake",
+      "source": "NYT",
+      "published": "2026-06-25T11:44:38+00:00"
+    },
+    {
+      "title": "King Charles III to Release Tax Details, a First for Any British Monarch",
+      "link": "https://www.nytimes.com/2026/06/25/world/europe/king-charles-taxes-uk.html",
+      "source": "NYT",
+      "published": "2026-06-25T11:36:41+00:00"
+    },
+    {
+      "title": "Bodies found in state of 'advanced deterioration' at under-fire trust",
+      "link": "https://www.bbc.co.uk/news/articles/ce95r7gvm5go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-06-25T11:30:58+00:00"
+    },
+    {
+      "title": "2 earthquakes in Venezuela kill at least 164. And, Trump cancels housing bill signing",
+      "link": "https://www.npr.org/2026/06/25/g-s1-130184/up-first-newsletter-venezuela-earthquakes-trump-senate-tensions-chris-donahue",
       "source": "NPR",
-      "published": "2026-06-25T09:00:00+00:00"
+      "published": "2026-06-25T11:09:35+00:00"
+    },
+    {
+      "title": "How brands banned from the World Cup became the story",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cdejrjpe8w3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-06-25T10:53:31+00:00"
+    },
+    {
+      "title": "Iraq\u2019s New Leader Faces Resistance Trying to Bring Militias Under State Control",
+      "link": "https://www.nytimes.com/2026/06/25/world/middleeast/iraq-militias-state-control.html",
+      "source": "NYT",
+      "published": "2026-06-25T09:15:28+00:00"
+    },
+    {
+      "title": "Can a Youth Boom Survive South Sudan\u2019s Education Crisis?",
+      "link": "https://www.nytimes.com/2026/06/25/world/africa/south-sudan-usaid-education.html",
+      "source": "NYT",
+      "published": "2026-06-25T09:01:32+00:00"
     },
     {
       "title": "4 surprising things to know about abortion in America since Dobbs",
@@ -13,52 +55,10 @@
       "published": "2026-06-25T09:00:00+00:00"
     },
     {
-      "title": "How to find middle ground when your partner wants kids \u2014 and you don't",
-      "link": "https://www.npr.org/2026/06/25/nx-s1-5758051/how-to-find-middle-ground-when-your-partner-wants-kids-and-you-dont",
-      "source": "NPR",
-      "published": "2026-06-25T09:00:00+00:00"
-    },
-    {
-      "title": "Trump keeps sabotaging legislation over a voting bill. Here's what's in it",
-      "link": "https://www.npr.org/2026/06/25/nx-s1-5869577/trump-voting-save-america-act",
-      "source": "NPR",
-      "published": "2026-06-25T09:00:00+00:00"
-    },
-    {
       "title": "'They can kill you': Immigrants fear a surge in xenophobic violence in South Africa",
       "link": "https://www.npr.org/2026/06/25/nx-s1-5866241/they-can-kill-you-immigrants-fear-a-surge-in-xenophobic-violence-in-south-africa",
       "source": "NPR",
       "published": "2026-06-25T09:00:00+00:00"
-    },
-    {
-      "title": "Jail time and unlimited fines planned under conversion practices ban",
-      "link": "https://www.bbc.co.uk/news/articles/cpwev2x4jw9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-06-25T08:33:22+00:00"
-    },
-    {
-      "title": "Bodies found in 'advanced deterioration' at under-fire trust",
-      "link": "https://www.bbc.co.uk/news/articles/ce95r7gvm5go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-06-25T07:16:44+00:00"
-    },
-    {
-      "title": "Reeves backs Burnham to become next prime minister",
-      "link": "https://www.bbc.co.uk/news/articles/cvgm9mj262qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-06-25T05:00:07+00:00"
-    },
-    {
-      "title": "How to cope in a heatwave - according to you",
-      "link": "https://www.bbc.co.uk/news/articles/cze9w9xnprno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-06-25T00:18:35+00:00"
-    },
-    {
-      "title": "Watch: Moment earthquakes hit airport and buildings in Caracas",
-      "link": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-06-24T23:40:47+00:00"
     }
   ]
 }
