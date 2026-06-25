@@ -1,75 +1,75 @@
 {
   "leaderboard": {
     "tournament": "Travelers Championship",
-    "status": "Scheduled",
+    "status": "In Progress",
     "players": [
       {
         "position": "T-1",
-        "name": "Ryan Fox",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Matt McCarty",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
         "name": "Tom Hoge",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Jackson Suber",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Nicolai H\u00f8jgaard",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Min Woo Lee",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Lucas Glover",
-        "total": "E",
+        "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-1",
         "name": "Eric Cole",
-        "total": "E",
+        "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-1",
-        "name": "Jake Knapp",
-        "total": "E",
+        "name": "Ben James",
+        "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Ryan Gerard",
-        "total": "E",
+        "position": "T-4",
+        "name": "Robert MacIntyre",
+        "total": "-2",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Harry Hall",
+        "total": "-2",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Ben Griffin",
+        "total": "-2",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Nick Taylor",
+        "total": "-2",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Matt Fitzpatrick",
+        "total": "-2",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-9",
+        "name": "Matt McCarty",
+        "total": "-1",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-9",
+        "name": "Jackson Suber",
+        "total": "-1",
         "round_score": "-",
         "thru": "0"
       }
