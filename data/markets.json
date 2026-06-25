@@ -14,8 +14,8 @@
     },
     "Nasdaq": {
       "symbol": "^IXIC",
-      "price": 25476.63,
-      "change": -110.41,
+      "price": 25476.64,
+      "change": -110.4,
       "pct_change": -0.43
     }
   },
