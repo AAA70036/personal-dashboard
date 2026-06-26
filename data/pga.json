@@ -4,36 +4,36 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
+        "position": "1",
+        "name": "Scottie Scheffler",
+        "total": "-16",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "2",
+        "name": "Viktor Hovland",
+        "total": "-14",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
         "name": "Akshay Bhatia",
         "total": "-12",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Viktor Hovland",
-        "total": "-12",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Scottie Scheffler",
-        "total": "-12",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Bud Cauley",
-        "total": "-10",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
+        "position": "T-3",
         "name": "Eric Cole",
+        "total": "-12",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "5",
+        "name": "Bud Cauley",
         "total": "-10",
         "round_score": "-",
         "thru": "0"
@@ -47,29 +47,29 @@
       },
       {
         "position": "T-6",
+        "name": "Tommy Fleetwood",
+        "total": "-9",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
         "name": "J.J. Spaun",
         "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-8",
-        "name": "Kurt Kitayama",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-8",
-        "name": "Harris English",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-10",
+        "position": "T-6",
         "name": "Justin Rose",
-        "total": "-7",
+        "total": "-9",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Patrick Cantlay",
+        "total": "-9",
         "round_score": "-",
         "thru": "0"
       }
