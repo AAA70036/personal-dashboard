@@ -1,16 +1,28 @@
 {
   "items": [
     {
-      "title": "Venezuela Live Updates: Rescuers Search for Quake Survivors as Leader Calls to \u2018Militarize\u2019 Area",
+      "title": "Venezuela Live Updates: Hospitals Overwhelmed as International Rescue Teams Arrive",
       "link": "https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake",
       "source": "NYT",
-      "published": "2026-06-26T19:47:19+00:00"
+      "published": "2026-06-26T21:15:04+00:00"
     },
     {
-      "title": "Trump Says Iran Attack on Cargo Ship Violated the Cease-fire",
+      "title": "U.S. Says It Struck Iran in Retaliation for Attack on Vessel in Strait of Hormuz",
       "link": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
       "source": "NYT",
-      "published": "2026-06-26T19:45:12+00:00"
+      "published": "2026-06-26T21:09:59+00:00"
+    },
+    {
+      "title": "US conducts strikes on Iran after attack on cargo ship",
+      "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-06-26T21:05:16+00:00"
+    },
+    {
+      "title": "She posted about ICE. Five months later, DHS agents told her to take her post down",
+      "link": "https://www.npr.org/2026/06/26/nx-s1-5871369/new-york-ice-instagram-immigration-dhs-paigelynne-gonyea",
+      "source": "NPR",
+      "published": "2026-06-26T20:21:35+00:00"
     },
     {
       "title": "Hottest June day record broken for third day in row as temperature hits 37.3C",
@@ -47,18 +59,6 @@
       "link": "https://www.npr.org/2026/06/26/nx-s1-5828767/israel-palestinian-man-killed-west-bank",
       "source": "NPR",
       "published": "2026-06-26T15:45:25+00:00"
-    },
-    {
-      "title": "Ukraine unleashes one of its heaviest drone bombardments, as Russia strikes Ukraine",
-      "link": "https://www.npr.org/2026/06/26/nx-s1-5872256/russia-ukraine-war-drone-strikes",
-      "source": "NPR",
-      "published": "2026-06-26T15:08:14+00:00"
-    },
-    {
-      "title": "Plane crashes into Beijing's tallest building; damage reported",
-      "link": "https://www.npr.org/2026/06/26/g-s1-130388/beijings-tallest-building-is-damaged-after-small-airplane-reportedly-crashed-into-it",
-      "source": "NPR",
-      "published": "2026-06-26T15:05:48+00:00"
     }
   ]
 }
