@@ -5,28 +5,28 @@
     "players": [
       {
         "position": "1",
-        "name": "Scottie Scheffler",
+        "name": "Viktor Hovland",
         "total": "-20",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "2",
-        "name": "Viktor Hovland",
+        "name": "Scottie Scheffler",
         "total": "-19",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "3",
-        "name": "Akshay Bhatia",
-        "total": "-16",
+        "position": "T-3",
+        "name": "Patrick Cantlay",
+        "total": "-15",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "4",
-        "name": "Patrick Cantlay",
+        "position": "T-3",
+        "name": "Akshay Bhatia",
         "total": "-15",
         "round_score": "-",
         "thru": "0"
@@ -60,15 +60,15 @@
         "thru": "0"
       },
       {
-        "position": "T-9",
-        "name": "Keith Mitchell",
-        "total": "-12",
+        "position": "T-5",
+        "name": "Eric Cole",
+        "total": "-13",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-9",
-        "name": "Si Woo Kim",
+        "position": "T-10",
+        "name": "Keith Mitchell",
         "total": "-12",
         "round_score": "-",
         "thru": "0"
