@@ -1,16 +1,22 @@
 {
   "items": [
     {
-      "title": "Venezuela Live Updates: Rescuers Work as Window Narrows to Find Quake Survivors",
+      "title": "Venezuela Live Updates: Window Narrowing to Find Survivors as Quake Death Toll Surpasses 1,400",
       "link": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake",
       "source": "NYT",
-      "published": "2026-06-27T17:27:12+00:00"
+      "published": "2026-06-27T18:48:48+00:00"
     },
     {
       "title": "Live Updates: Mideast Hostilities Flare, Testing Fragile U.S.-Iran Truce",
       "link": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz",
       "source": "NYT",
-      "published": "2026-06-27T17:13:01+00:00"
+      "published": "2026-06-27T18:41:03+00:00"
+    },
+    {
+      "title": "Burnham will need a Moscow test as well as Makerfield test, says ex-military chief",
+      "link": "https://www.bbc.co.uk/news/articles/cdxdwr0xk55o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-06-27T17:01:45+00:00"
     },
     {
       "title": "Thunderstorms delay hundreds of Heathrow and Gatwick flights",
@@ -53,12 +59,6 @@
       "link": "https://www.npr.org/2026/06/27/nx-s1-5865082/opinion-ranch-dressing-is-a-winner-at-the-world-cup-games",
       "source": "NPR",
       "published": "2026-06-27T12:00:00+00:00"
-    },
-    {
-      "title": "Trump administration partially lifts export ban on Anthropic's most advanced AI model",
-      "link": "https://www.npr.org/2026/06/27/nx-s1-5871245/trump-administration-imposes-restrictions-for-anthropic-to-halt-access-to-2-ai-models",
-      "source": "NPR",
-      "published": "2026-06-27T11:40:32+00:00"
     }
   ]
 }
