@@ -1,31 +1,43 @@
 {
   "items": [
     {
+      "title": "Trump\u2019s Vow to \u2018Run\u2019 Venezuela Is Tested After Quakes",
+      "link": "https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake",
+      "source": "NYT",
+      "published": "2026-06-27T07:17:00+00:00"
+    },
+    {
+      "title": "Mahmood announces new refugee sponsorship route into UK",
+      "link": "https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-06-27T07:04:04+00:00"
+    },
+    {
+      "title": "There's a beef about beef at the World Cup, as Argentina fans pour into Texas",
+      "link": "https://www.npr.org/2026/06/27/nx-s1-5873328/beef-about-beef-world-cup",
+      "source": "NPR",
+      "published": "2026-06-27T07:03:18+00:00"
+    },
+    {
       "title": "U.S. strikes Iran in response to a drone attack on a ship",
       "link": "https://www.npr.org/2026/06/27/nx-s1-5872954/us-strikes-iran",
       "source": "NPR",
       "published": "2026-06-27T04:12:23+00:00"
     },
     {
-      "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
-      "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-06-27T04:09:24+00:00"
-    },
-    {
-      "title": "Venezuela Live Updates: Trump\u2019s Vow to \u2018Run\u2019 Venezuela Is Tested After Quakes",
-      "link": "https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake",
+      "title": "Exiled Chefs From Myanmar Give Burmese Food Chance to Shine on International Stage",
+      "link": "https://www.nytimes.com/2026/06/27/world/asia/burmese-food-myanmar.html",
       "source": "NYT",
-      "published": "2026-06-27T04:08:02+00:00"
+      "published": "2026-06-27T04:01:12+00:00"
     },
     {
-      "title": "Hottest June day record broken for third day in row as temperature hits 37.3C",
-      "link": "https://www.bbc.co.uk/news/articles/cn4d0n1l8zno?at_medium=RSS&at_campaign=rss",
+      "title": "Are we in for a summer of serial heatwaves?",
+      "link": "https://www.bbc.co.uk/weather/articles/cgrk4w57e74o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-06-27T03:25:44+00:00"
+      "published": "2026-06-27T03:16:46+00:00"
     },
     {
-      "title": "US conducts strikes on Iran after attack on cargo ship",
+      "title": "US strikes Iran after attack on cargo ship",
       "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-06-27T02:48:12+00:00"
@@ -37,28 +49,16 @@
       "published": "2026-06-27T01:36:11+00:00"
     },
     {
-      "title": "Home Office to introduce new asylum routes to UK",
-      "link": "https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-06-27T01:03:00+00:00"
-    },
-    {
       "title": "Pete Buttigieg and his kids subject to CPS, police investigation after false report",
       "link": "https://www.npr.org/2026/06/26/nx-s1-5872821/pete-buttigieg-cps-police-swatting",
       "source": "NPR",
       "published": "2026-06-27T00:26:52+00:00"
     },
     {
-      "title": "Three unusual things about the King's tax bill",
-      "link": "https://www.bbc.co.uk/news/articles/ce8kg7zg09ko?at_medium=RSS&at_campaign=rss",
+      "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
+      "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-06-26T23:00:30+00:00"
-    },
-    {
-      "title": "5 million have dropped ACA insurance after Trump and the GOP let prices skyrocket",
-      "link": "https://www.npr.org/2026/06/26/nx-s1-5860746/aca-health-insurance-subsidies-rates-premiums",
-      "source": "NPR",
-      "published": "2026-06-26T22:54:23+00:00"
+      "published": "2026-06-26T23:01:50+00:00"
     }
   ]
 }
