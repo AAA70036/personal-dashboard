@@ -1,28 +1,34 @@
 {
   "items": [
     {
-      "title": "Live Updates: Hostilities Flare Between U.S. and Iran, Testing Truce",
-      "link": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz",
-      "source": "NYT",
-      "published": "2026-06-27T22:25:55+00:00"
-    },
-    {
       "title": "Venezuela Live Updates: Window Narrowing to Find Survivors as Quake Death Toll Surpasses 1,400",
       "link": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake",
       "source": "NYT",
-      "published": "2026-06-27T22:02:36+00:00"
+      "published": "2026-06-27T23:37:27+00:00"
+    },
+    {
+      "title": "Mideast Live Updates: U.S. Strikes Iran Again, Testing Truce",
+      "link": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz",
+      "source": "NYT",
+      "published": "2026-06-27T23:36:32+00:00"
+    },
+    {
+      "title": "US conducts retaliatory strikes on Iran after second shipping attack",
+      "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-06-27T23:06:40+00:00"
+    },
+    {
+      "title": "Scotland's elimination from World Cup confirmed",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cddl508zgp5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-06-27T22:58:57+00:00"
     },
     {
       "title": "Trump nominates former Oklahoma state trooper to head ICE",
       "link": "https://www.npr.org/2026/06/27/nx-s1-5873485/trump-nominates-lance-schroyer-ice-director",
       "source": "NPR",
       "published": "2026-06-27T22:01:36+00:00"
-    },
-    {
-      "title": "Burnham will need a Moscow test as well as Makerfield test, says ex-military chief",
-      "link": "https://www.bbc.co.uk/news/articles/cdxdwr0xk55o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-06-27T21:39:15+00:00"
     },
     {
       "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
@@ -53,12 +59,6 @@
       "link": "https://www.npr.org/2026/06/27/g-s1-129705/uzbekistan-world-cup",
       "source": "NPR",
       "published": "2026-06-27T13:45:19+00:00"
-    },
-    {
-      "title": "Australia Says It Will Toughen Its Social Media Ban for Children",
-      "link": "https://www.nytimes.com/2026/06/27/world/australia/social-media-ban-children.html",
-      "source": "NYT",
-      "published": "2026-06-27T12:30:04+00:00"
     }
   ]
 }
