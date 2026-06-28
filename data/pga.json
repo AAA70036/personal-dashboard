@@ -4,74 +4,74 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "1",
+        "position": "T-1",
+        "name": "Collin Morikawa",
+        "total": "-20",
+        "round_score": "-9",
+        "thru": "F"
+      },
+      {
+        "position": "T-1",
         "name": "Scottie Scheffler",
         "total": "-20",
         "round_score": "-1",
-        "thru": "5"
-      },
-      {
-        "position": "2",
-        "name": "Viktor Hovland",
-        "total": "-19",
-        "round_score": "+1",
-        "thru": "5"
-      },
-      {
-        "position": "3",
-        "name": "Akshay Bhatia",
-        "total": "-18",
-        "round_score": "-3",
-        "thru": "6"
-      },
-      {
-        "position": "T-4",
-        "name": "Corey Conners",
-        "total": "-17",
-        "round_score": "-7",
-        "thru": "16"
-      },
-      {
-        "position": "T-4",
-        "name": "Collin Morikawa",
-        "total": "-17",
-        "round_score": "-6",
         "thru": "12"
       },
       {
-        "position": "T-4",
-        "name": "Patrick Cantlay",
-        "total": "-17",
-        "round_score": "-2",
-        "thru": "6"
-      },
-      {
-        "position": "T-7",
+        "position": "T-3",
         "name": "Matt Fitzpatrick",
-        "total": "-16",
-        "round_score": "-3",
-        "thru": "9"
+        "total": "-18",
+        "round_score": "-5",
+        "thru": "14"
       },
       {
-        "position": "T-7",
+        "position": "T-3",
         "name": "Wyndham Clark",
-        "total": "-16",
+        "total": "-18",
+        "round_score": "-5",
+        "thru": "13"
+      },
+      {
+        "position": "T-3",
+        "name": "Akshay Bhatia",
+        "total": "-18",
         "round_score": "-3",
-        "thru": "8"
+        "thru": "13"
+      },
+      {
+        "position": "T-3",
+        "name": "Viktor Hovland",
+        "total": "-18",
+        "round_score": "+2",
+        "thru": "12"
       },
       {
         "position": "T-7",
-        "name": "Ben Griffin",
-        "total": "-16",
-        "round_score": "-3",
-        "thru": "8"
+        "name": "Corey Conners",
+        "total": "-17",
+        "round_score": "-7",
+        "thru": "F"
       },
       {
-        "position": "10",
-        "name": "Brian Harman",
-        "total": "-15",
-        "round_score": "-4",
-        "thru": "11"
+        "position": "T-7",
+        "name": "Alex Fitzpatrick",
+        "total": "-17",
+        "round_score": "-6",
+        "thru": "F"
+      },
+      {
+        "position": "T-7",
+        "name": "J.J. Spaun",
+        "total": "-17",
+        "round_score": "-6",
+        "thru": "F"
+      },
+      {
+        "position": "T-10",
+        "name": "Robert MacIntyre",
+        "total": "-16",
+        "round_score": "-5",
+        "thru": "F"
       }
     ]
   }
