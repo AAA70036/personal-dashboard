@@ -19,6 +19,34 @@
       },
       {
         "position": "T-3",
+        "name": "Denny McCarthy",
+        "total": "-15",
+        "round_score": "-6",
+        "thru": "12"
+      },
+      {
+        "position": "T-3",
+        "name": "Jackson Suber",
+        "total": "-15",
+        "round_score": "-4",
+        "thru": "6"
+      },
+      {
+        "position": "T-3",
+        "name": "Brian Harman",
+        "total": "-15",
+        "round_score": "-4",
+        "thru": "4"
+      },
+      {
+        "position": "T-3",
+        "name": "Ben Griffin",
+        "total": "-15",
+        "round_score": "-2",
+        "thru": "2"
+      },
+      {
+        "position": "T-3",
         "name": "Patrick Cantlay",
         "total": "-15",
         "round_score": "-",
@@ -32,46 +60,18 @@
         "thru": "0"
       },
       {
-        "position": "T-5",
-        "name": "Denny McCarthy",
-        "total": "-13",
-        "round_score": "-4",
-        "thru": "5"
+        "position": "T-9",
+        "name": "Nicolai H\u00f8jgaard",
+        "total": "-14",
+        "round_score": "-8",
+        "thru": "F"
       },
       {
-        "position": "T-5",
+        "position": "T-9",
         "name": "J.J. Spaun",
-        "total": "-13",
-        "round_score": "-2",
-        "thru": "2"
-      },
-      {
-        "position": "T-5",
-        "name": "Shane Lowry",
-        "total": "-13",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Wyndham Clark",
-        "total": "-13",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Ben Griffin",
-        "total": "-13",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Matt Fitzpatrick",
-        "total": "-13",
-        "round_score": "-",
-        "thru": "0"
+        "total": "-14",
+        "round_score": "-3",
+        "thru": "7"
       }
     ]
   }
