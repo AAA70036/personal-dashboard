@@ -33,6 +33,20 @@
       },
       {
         "position": "T-5",
+        "name": "Denny McCarthy",
+        "total": "-13",
+        "round_score": "-4",
+        "thru": "5"
+      },
+      {
+        "position": "T-5",
+        "name": "J.J. Spaun",
+        "total": "-13",
+        "round_score": "-2",
+        "thru": "2"
+      },
+      {
+        "position": "T-5",
         "name": "Shane Lowry",
         "total": "-13",
         "round_score": "-",
@@ -56,20 +70,6 @@
         "position": "T-5",
         "name": "Matt Fitzpatrick",
         "total": "-13",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Eric Cole",
-        "total": "-13",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-10",
-        "name": "Keith Mitchell",
-        "total": "-12",
         "round_score": "-",
         "thru": "0"
       }
