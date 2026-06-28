@@ -5,73 +5,73 @@
     "players": [
       {
         "position": "1",
-        "name": "Viktor Hovland",
+        "name": "Scottie Scheffler",
         "total": "-20",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "-1",
+        "thru": "5"
       },
       {
         "position": "2",
-        "name": "Scottie Scheffler",
+        "name": "Viktor Hovland",
         "total": "-19",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "+1",
+        "thru": "5"
       },
       {
-        "position": "T-3",
-        "name": "Denny McCarthy",
-        "total": "-15",
+        "position": "3",
+        "name": "Akshay Bhatia",
+        "total": "-18",
+        "round_score": "-3",
+        "thru": "6"
+      },
+      {
+        "position": "T-4",
+        "name": "Corey Conners",
+        "total": "-17",
+        "round_score": "-7",
+        "thru": "16"
+      },
+      {
+        "position": "T-4",
+        "name": "Collin Morikawa",
+        "total": "-17",
         "round_score": "-6",
         "thru": "12"
       },
       {
-        "position": "T-3",
-        "name": "Jackson Suber",
-        "total": "-15",
-        "round_score": "-4",
+        "position": "T-4",
+        "name": "Patrick Cantlay",
+        "total": "-17",
+        "round_score": "-2",
         "thru": "6"
       },
       {
-        "position": "T-3",
+        "position": "T-7",
+        "name": "Matt Fitzpatrick",
+        "total": "-16",
+        "round_score": "-3",
+        "thru": "9"
+      },
+      {
+        "position": "T-7",
+        "name": "Wyndham Clark",
+        "total": "-16",
+        "round_score": "-3",
+        "thru": "8"
+      },
+      {
+        "position": "T-7",
+        "name": "Ben Griffin",
+        "total": "-16",
+        "round_score": "-3",
+        "thru": "8"
+      },
+      {
+        "position": "10",
         "name": "Brian Harman",
         "total": "-15",
         "round_score": "-4",
-        "thru": "4"
-      },
-      {
-        "position": "T-3",
-        "name": "Ben Griffin",
-        "total": "-15",
-        "round_score": "-2",
-        "thru": "2"
-      },
-      {
-        "position": "T-3",
-        "name": "Patrick Cantlay",
-        "total": "-15",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
-        "name": "Akshay Bhatia",
-        "total": "-15",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Nicolai H\u00f8jgaard",
-        "total": "-14",
-        "round_score": "-8",
-        "thru": "F"
-      },
-      {
-        "position": "T-9",
-        "name": "J.J. Spaun",
-        "total": "-14",
-        "round_score": "-3",
-        "thru": "7"
+        "thru": "11"
       }
     ]
   }
