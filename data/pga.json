@@ -4,46 +4,46 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "1",
+        "position": "T-1",
         "name": "Scottie Scheffler",
         "total": "-21",
-        "round_score": "-2",
-        "thru": "13"
+        "round_score": "E",
+        "thru": "2"
       },
       {
-        "position": "2",
+        "position": "T-1",
+        "name": "Viktor Hovland",
+        "total": "-21",
+        "round_score": "-1",
+        "thru": "15"
+      },
+      {
+        "position": "3",
         "name": "Collin Morikawa",
         "total": "-20",
         "round_score": "-9",
         "thru": "F"
       },
       {
-        "position": "T-3",
-        "name": "Wyndham Clark",
+        "position": "4",
+        "name": "Matt Fitzpatrick",
         "total": "-19",
         "round_score": "-6",
-        "thru": "14"
-      },
-      {
-        "position": "T-3",
-        "name": "Viktor Hovland",
-        "total": "-19",
-        "round_score": "+1",
-        "thru": "13"
+        "thru": "17"
       },
       {
         "position": "T-5",
-        "name": "Matt Fitzpatrick",
+        "name": "Wyndham Clark",
         "total": "-18",
         "round_score": "-5",
-        "thru": "15"
+        "thru": "17"
       },
       {
         "position": "T-5",
         "name": "Akshay Bhatia",
         "total": "-18",
         "round_score": "-3",
-        "thru": "14"
+        "thru": "16"
       },
       {
         "position": "T-7",
@@ -67,7 +67,7 @@
         "thru": "F"
       },
       {
-        "position": "T-10",
+        "position": "10",
         "name": "Robert MacIntyre",
         "total": "-16",
         "round_score": "-5",
