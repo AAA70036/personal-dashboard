@@ -4,15 +4,15 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
-        "name": "Scottie Scheffler",
-        "total": "-21",
+        "position": "1",
+        "name": "Viktor Hovland",
+        "total": "-22",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Viktor Hovland",
+        "position": "2",
+        "name": "Scottie Scheffler",
         "total": "-21",
         "round_score": "-",
         "thru": "0"
