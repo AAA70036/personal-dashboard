@@ -7,15 +7,15 @@
         "position": "T-1",
         "name": "Scottie Scheffler",
         "total": "-21",
-        "round_score": "E",
-        "thru": "2"
+        "round_score": "-",
+        "thru": "0"
       },
       {
         "position": "T-1",
         "name": "Viktor Hovland",
         "total": "-21",
-        "round_score": "-1",
-        "thru": "15"
+        "round_score": "-",
+        "thru": "0"
       },
       {
         "position": "3",
@@ -29,21 +29,21 @@
         "name": "Matt Fitzpatrick",
         "total": "-19",
         "round_score": "-6",
-        "thru": "17"
+        "thru": "F"
       },
       {
         "position": "T-5",
         "name": "Wyndham Clark",
         "total": "-18",
         "round_score": "-5",
-        "thru": "17"
+        "thru": "F"
       },
       {
         "position": "T-5",
         "name": "Akshay Bhatia",
         "total": "-18",
         "round_score": "-3",
-        "thru": "16"
+        "thru": "F"
       },
       {
         "position": "T-7",
@@ -67,7 +67,7 @@
         "thru": "F"
       },
       {
-        "position": "10",
+        "position": "T-10",
         "name": "Robert MacIntyre",
         "total": "-16",
         "round_score": "-5",

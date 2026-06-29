@@ -1,34 +1,46 @@
 {
   "items": [
     {
-      "title": "Mideast Live Updates: Dispute Over Strait Deepens as U.S. and Iran Trade Attacks",
+      "title": "Navy to build drone-equipped warships instead of replacing ageing destroyers",
+      "link": "https://www.bbc.co.uk/news/articles/c2ky95ndx92o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-06-29T03:18:06+00:00"
+    },
+    {
+      "title": "Burnham to promise devolution in first major speech since launching No 10 bid",
+      "link": "https://www.bbc.co.uk/news/articles/c14yr0mgdp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-06-29T02:52:55+00:00"
+    },
+    {
+      "title": "Mideast Live Updates: U.S. Indicates a Deal to Suspend Attacks in Strait but Iran Hasn\u2019t Confirmed",
       "link": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
       "source": "NYT",
-      "published": "2026-06-28T23:41:20+00:00"
+      "published": "2026-06-29T02:38:20+00:00"
+    },
+    {
+      "title": "Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend",
+      "link": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-06-29T01:23:32+00:00"
+    },
+    {
+      "title": "Rescuers in \u2018Critical Hours\u2019 as Window to Find Survivors Closes",
+      "link": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake",
+      "source": "NYT",
+      "published": "2026-06-29T01:07:57+00:00"
+    },
+    {
+      "title": "White working-class children failed by education system, says inquiry",
+      "link": "https://www.bbc.co.uk/news/articles/cq51j10q601o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-06-29T00:21:50+00:00"
     },
     {
       "title": "A 'heat dome' is driving dangerous heat across the U.S. into the July 4 weekend",
       "link": "https://www.npr.org/2026/06/28/nx-s1-5874019/weather-extreme-heat-wave-north-carolina-ohio-july-4-danger-prepare",
       "source": "NPR",
       "published": "2026-06-28T23:37:11+00:00"
-    },
-    {
-      "title": "Emma Raducanu withdraws from Wimbledon because of stress fracture",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/c15y0q31522o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-06-28T23:31:07+00:00"
-    },
-    {
-      "title": "Venezuela Live Updates: Rescuers in \u2018Critical Hours\u2019 as Window to Find Survivors Closes",
-      "link": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake",
-      "source": "NYT",
-      "published": "2026-06-28T23:10:52+00:00"
-    },
-    {
-      "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
-      "link": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-06-28T21:58:45+00:00"
     },
     {
       "title": "Chris Mason: Burnham begins to sketch out vision but faces huge and imminent questions",
@@ -47,18 +59,6 @@
       "link": "https://www.npr.org/2026/06/28/nx-s1-5828903/trump-gordie-howe-bridge-canada-blocked",
       "source": "NPR",
       "published": "2026-06-28T20:17:22+00:00"
-    },
-    {
-      "title": "England captain Ben Stokes says retiring from international cricket 'best thing' for him",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c3dymxr4187o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-06-28T18:57:03+00:00"
-    },
-    {
-      "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
-      "link": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-06-28T18:34:07+00:00"
     }
   ]
 }
