@@ -1,10 +1,46 @@
 {
   "items": [
     {
-      "title": "Mideast Live Updates: U.S. and Iran Gear Up for Meetings in Qatar",
+      "title": "Rep. Tom Kean returns to Congress, says depression is why he went missing for months",
+      "link": "https://www.npr.org/2026/06/30/nx-s1-5876222/tom-kean-new-jersey-congress-depression",
+      "source": "NPR",
+      "published": "2026-06-30T16:29:37+00:00"
+    },
+    {
+      "title": "Mideast Live Updates: U.S. and Iran to Meet with Mediators in Qatar",
       "link": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz",
       "source": "NYT",
-      "published": "2026-06-30T14:40:30+00:00"
+      "published": "2026-06-30T16:17:07+00:00"
+    },
+    {
+      "title": "Will Starmer's plan for defence help UK hit Nato's spending target?",
+      "link": "https://www.bbc.co.uk/news/articles/cn07ey43xpeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-06-30T16:04:06+00:00"
+    },
+    {
+      "title": "Shortages of Rescue Equipment Hampered Venezuela\u2019s Earthquake Response",
+      "link": "https://www.nytimes.com/2026/06/30/world/americas/venezuela-earthquake-rescue-equipment-aid.html",
+      "source": "NYT",
+      "published": "2026-06-30T15:28:54+00:00"
+    },
+    {
+      "title": "Burnham plans to work some days in Manchester as PM",
+      "link": "https://www.bbc.co.uk/news/articles/c1ey985nyqpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-06-30T15:09:30+00:00"
+    },
+    {
+      "title": "After U.S.-Iran War, Oman Is Said to Propose Strait of Hormuz Fee Plan",
+      "link": "https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html",
+      "source": "NYT",
+      "published": "2026-06-30T15:04:20+00:00"
+    },
+    {
+      "title": "Editor's note: NPR retracts Justice Samuel Alito story",
+      "link": "https://www.npr.org/2026/06/30/nx-s1-4622951/samuel-alito-retires",
+      "source": "NPR",
+      "published": "2026-06-30T14:51:23+00:00"
     },
     {
       "title": "Supreme Court upholds birthright citizenship on constitutional grounds",
@@ -23,42 +59,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cddlgqpg7mzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-06-30T14:25:42+00:00"
-    },
-    {
-      "title": "Parcel Bomb Explodes in Monaco, Injuring 3",
-      "link": "https://www.nytimes.com/2026/06/30/world/europe/monaco-parcel-bomb-explosion.html",
-      "source": "NYT",
-      "published": "2026-06-30T14:20:02+00:00"
-    },
-    {
-      "title": "Tricks to help you spend less money at restaurants",
-      "link": "https://www.npr.org/2026/06/30/nx-s1-5862777/how-to-spend-less-money-restaurants-takeout",
-      "source": "NPR",
-      "published": "2026-06-30T14:07:25+00:00"
-    },
-    {
-      "title": "Supreme Court upholds bans on transgender athletes participating in women and girls' sports",
-      "link": "https://www.npr.org/2026/06/30/nx-s1-5836513/supreme-court-transgender-athletes",
-      "source": "NPR",
-      "published": "2026-06-30T14:06:48+00:00"
-    },
-    {
-      "title": "After U.S.-Iran War, Oman Is Said to Propose Strait of Hormuz Fee Plan",
-      "link": "https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html",
-      "source": "NYT",
-      "published": "2026-06-30T13:45:35+00:00"
-    },
-    {
-      "title": "Manhunt after bomb injures Ukrainian oligarch in Monaco",
-      "link": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-06-30T13:22:15+00:00"
-    },
-    {
-      "title": "SCOTUS to rule on birthright citizenship. And, U.S. murder rate nears new low",
-      "link": "https://www.npr.org/2026/06/30/g-s1-131004/up-first-newsletter-supreme-court-tps-birthright-citizenship-iran-war-us-murder-rate",
-      "source": "NPR",
-      "published": "2026-06-30T11:46:50+00:00"
     }
   ]
 }
