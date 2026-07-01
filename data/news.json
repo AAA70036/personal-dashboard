@@ -1,22 +1,34 @@
 {
   "items": [
     {
+      "title": "Trump made more than $1bn from crypto in first year back in office",
+      "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-01T03:31:08+00:00"
+    },
+    {
+      "title": "U.S. and Iran to Meet with Mediators in Qatar",
+      "link": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz",
+      "source": "NYT",
+      "published": "2026-07-01T01:50:44+00:00"
+    },
+    {
       "title": "Why Gen Z are planning for life without a state pension",
       "link": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-06-30T23:05:19+00:00"
     },
     {
-      "title": "E-scooters being advertised for commuting despite UK road ban",
-      "link": "https://www.bbc.co.uk/news/articles/cj3g20yxvm4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-06-30T23:05:08+00:00"
-    },
-    {
       "title": "Plea for households to read energy meter as prices rise",
       "link": "https://www.bbc.co.uk/news/articles/c5yzqrpw2g8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-06-30T23:02:02+00:00"
+    },
+    {
+      "title": "What the Supreme Court did on the final day of its term",
+      "link": "https://www.npr.org/2026/06/30/nx-s1-5876238/the-biggest-news-from-the-final-day-of-this-supreme-court-term",
+      "source": "NPR",
+      "published": "2026-06-30T21:46:16+00:00"
     },
     {
       "title": "NPR discusses error in reporting on the last day of the Supreme Court term",
@@ -29,12 +41,6 @@
       "link": "https://www.nytimes.com/2026/06/30/world/europe/russia-ukraine-prom.html",
       "source": "NYT",
       "published": "2026-06-30T20:50:39+00:00"
-    },
-    {
-      "title": "U.S. and Iran to Meet with Mediators in Qatar",
-      "link": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz",
-      "source": "NYT",
-      "published": "2026-06-30T20:49:38+00:00"
     },
     {
       "title": "Meta considered buying Kalshi before developing its own prediction market app",
@@ -53,12 +59,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c9q250511neo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-06-30T20:02:42+00:00"
-    },
-    {
-      "title": "Shortages of Rescue Equipment Hampered Venezuela\u2019s Earthquake Response",
-      "link": "https://www.nytimes.com/2026/06/30/world/americas/venezuela-earthquake-rescue-equipment-aid.html",
-      "source": "NYT",
-      "published": "2026-06-30T19:58:35+00:00"
     }
   ]
 }
