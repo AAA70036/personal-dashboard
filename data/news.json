@@ -1,10 +1,34 @@
 {
   "items": [
     {
-      "title": "Trump made more than $1bn from crypto in first year back in office",
-      "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+      "title": "U.S. and Iran Set to Hold Indirect Talks After Trading Attacks: What to Know",
+      "link": "https://www.nytimes.com/2026/07/01/world/middleeast/us-iran-diplomacy-qatar.html",
+      "source": "NYT",
+      "published": "2026-07-01T13:53:03+00:00"
+    },
+    {
+      "title": "Judge wrong to spare rapists from custody, court told",
+      "link": "https://www.bbc.co.uk/news/articles/clye2enp0lxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-07-01T11:41:13+00:00"
+      "published": "2026-07-01T13:51:41+00:00"
+    },
+    {
+      "title": "England's warmest June on record down to record-breaking heatwave",
+      "link": "https://www.bbc.co.uk/weather/articles/cjdg98g8lg8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-01T13:49:42+00:00"
+    },
+    {
+      "title": "Underground Births, Under Bombardment: Childbearing in Ukraine",
+      "link": "https://www.nytimes.com/2026/07/01/world/europe/ukraine-war-pregnant-women-hospitals.html",
+      "source": "NYT",
+      "published": "2026-07-01T12:33:26+00:00"
+    },
+    {
+      "title": "After Venezuela Earthquakes, Deportees from the U.S. Are Missing or Found Dead",
+      "link": "https://www.nytimes.com/2026/07/01/world/americas/venezuela-earthquakes-deportees-us-deaths.html",
+      "source": "NYT",
+      "published": "2026-07-01T11:50:21+00:00"
     },
     {
       "title": "SCOTUS upholds birthright citizenship. And, key results from Colorado's primaries",
@@ -17,12 +41,6 @@
       "link": "https://www.bbc.co.uk/news/articles/ce8j24ng6p0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-07-01T11:24:45+00:00"
-    },
-    {
-      "title": "Two dead after plane crashed during flight experience",
-      "link": "https://www.bbc.co.uk/news/articles/cn8k7p74z31o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-01T11:23:18+00:00"
     },
     {
       "title": "Nowak case officers face gross misconduct investigation",
@@ -41,24 +59,6 @@
       "link": "https://www.nytimes.com/2026/07/01/world/middleeast/syria-trump-hezbollah-lebanon.html",
       "source": "NYT",
       "published": "2026-07-01T09:42:46+00:00"
-    },
-    {
-      "title": "After Venezuela Earthquakes, Deportees from the U.S. Are Missing or Found Dead",
-      "link": "https://www.nytimes.com/2026/07/01/world/americas/venezuela-earthquakes-deportees-us-deaths.html",
-      "source": "NYT",
-      "published": "2026-07-01T09:03:34+00:00"
-    },
-    {
-      "title": "A Risky Burial in the Heart of an Ebola Outbreak",
-      "link": "https://www.nytimes.com/2026/07/01/world/africa/ebola-congo-burials.html",
-      "source": "NYT",
-      "published": "2026-07-01T09:01:58+00:00"
-    },
-    {
-      "title": "A Town in Quebec Is the First Governing Body to Adopt the Universal Declaration of the Rights of Trees",
-      "link": "https://www.nytimes.com/2026/07/01/world/canada/quebec-trees-rights-canada-terrasse-vaudreuil.html",
-      "source": "NYT",
-      "published": "2026-07-01T09:01:16+00:00"
     }
   ]
 }
