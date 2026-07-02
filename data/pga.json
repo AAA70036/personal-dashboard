@@ -1,73 +1,73 @@
 {
   "leaderboard": {
     "tournament": "John Deere Classic",
-    "status": "Scheduled",
+    "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
-        "name": "Luke List",
-        "total": "E",
+        "position": "1",
+        "name": "Pierceson Coody",
+        "total": "-1",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Ryan Brehm",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Rafael Campos",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Beau Hossler",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
+        "position": "T-2",
         "name": "Tyler Duncan",
         "total": "E",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Pierceson Coody",
+        "position": "T-2",
+        "name": "Luke List",
         "total": "E",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-2",
+        "name": "Ryan Brehm",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "Rafael Campos",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "Beau Hossler",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
         "name": "Fabi\u00e1n G\u00f3mez",
         "total": "E",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-2",
         "name": "Brendon Todd",
         "total": "E",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-2",
         "name": "Troy Merritt",
         "total": "E",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-2",
         "name": "Mark Hubbard",
         "total": "E",
         "round_score": "-",
