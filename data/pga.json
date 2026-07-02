@@ -4,72 +4,72 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
-        "name": "Rafael Campos",
-        "total": "-4",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
+        "position": "1",
         "name": "Lucas Glover",
-        "total": "-4",
+        "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Stephan Jaeger",
-        "total": "-4",
+        "position": "T-2",
+        "name": "Lee Hodges",
+        "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
-        "name": "Tyler Duncan",
-        "total": "-3",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Austin Smotherman",
-        "total": "-3",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Michael Brennan",
-        "total": "-3",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
+        "position": "T-2",
         "name": "Zac Blair",
-        "total": "-3",
+        "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
-        "name": "Max McGreevy",
-        "total": "-3",
+        "position": "T-2",
+        "name": "Ben Kohles",
+        "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-9",
-        "name": "Ryan Brehm",
-        "total": "-2",
+        "position": "T-5",
+        "name": "Rafael Campos",
+        "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-9",
-        "name": "Troy Merritt",
-        "total": "-2",
+        "position": "T-5",
+        "name": "Tyler Duncan",
+        "total": "-5",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-5",
+        "name": "Austin Smotherman",
+        "total": "-5",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-5",
+        "name": "Andrew Putnam",
+        "total": "-5",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-5",
+        "name": "Nick Dunlap",
+        "total": "-5",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-5",
+        "name": "Webb Simpson",
+        "total": "-5",
         "round_score": "-",
         "thru": "0"
       }
