@@ -6,13 +6,20 @@
       {
         "position": "1",
         "name": "Zach Johnson",
-        "total": "-10",
+        "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-2",
-        "name": "Pontus Nyholm",
+        "name": "Chris Gotterup",
+        "total": "-8",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "Jackson Suber",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
@@ -32,44 +39,37 @@
         "thru": "0"
       },
       {
-        "position": "T-5",
+        "position": "T-6",
         "name": "Harry Higgs",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
+        "position": "T-6",
         "name": "Tom Kim",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
-        "name": "Kevin Yu",
+        "position": "T-6",
+        "name": "Christiaan Bezuidenhout",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
+        "position": "T-6",
         "name": "Lee Hodges",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
+        "position": "T-6",
         "name": "Stephan Jaeger",
         "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-10",
-        "name": "Sungjae Im",
-        "total": "-6",
         "round_score": "-",
         "thru": "0"
       }
