@@ -5,6 +5,13 @@
     "players": [
       {
         "position": "T-1",
+        "name": "Zach Johnson",
+        "total": "-8",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
         "name": "Lucas Glover",
         "total": "-8",
         "round_score": "-",
@@ -18,22 +25,15 @@
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-4",
         "name": "Lee Hodges",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-4",
         "name": "Stephan Jaeger",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
-        "name": "Zach Johnson",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
@@ -61,14 +61,14 @@
       },
       {
         "position": "T-9",
-        "name": "Rafael Campos",
+        "name": "Sungjae Im",
         "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-9",
-        "name": "Tyler Duncan",
+        "name": "Harry Higgs",
         "total": "-5",
         "round_score": "-",
         "thru": "0"
