@@ -1,16 +1,28 @@
 {
   "items": [
     {
-      "title": "U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators",
-      "link": "https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html",
+      "title": "A U.S. Independence Celebration Damaged a Museum in Belgium",
+      "link": "https://www.nytimes.com/2026/07/03/world/europe/belgium-building-damaged-america-250-fireworks.html",
       "source": "NYT",
-      "published": "2026-07-03T16:16:06+00:00"
+      "published": "2026-07-03T17:19:51+00:00"
+    },
+    {
+      "title": "Polish PM warns critical months ahead in face of Russian threat",
+      "link": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-03T16:41:00+00:00"
     },
     {
       "title": "Three men found not guilty of journalist Lyra McKee's murder",
       "link": "https://www.bbc.co.uk/news/articles/cpd357j7020o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-07-03T16:12:32+00:00"
+    },
+    {
+      "title": "Nowak killer appeals against conviction and sentence",
+      "link": "https://www.bbc.co.uk/news/articles/c3wy26p5lexo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-03T16:11:14+00:00"
     },
     {
       "title": "It\u2019s Day 1 of the Supreme Leader\u2019s Funeral, and Allies Gather in Iran",
@@ -31,12 +43,6 @@
       "published": "2026-07-03T14:54:03+00:00"
     },
     {
-      "title": "NHS to reward people who walk 30 minutes a day",
-      "link": "https://www.bbc.co.uk/news/articles/cj6g0rdy40jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-03T14:22:55+00:00"
-    },
-    {
       "title": "Police criticise timing of decision on pubs staying open for England match",
       "link": "https://www.bbc.co.uk/news/articles/cd95v388k5jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -53,12 +59,6 @@
       "link": "https://www.npr.org/2026/07/03/nx-s1-5879531/birth-pregnancy-costs-healthcare-us",
       "source": "NPR",
       "published": "2026-07-03T11:03:00+00:00"
-    },
-    {
-      "title": "Former USAID head grieves its closure while hoping for its future",
-      "link": "https://www.npr.org/2026/07/03/nx-s1-5877408/former-usaid-head-grieves-its-closure-while-hoping-for-its-future",
-      "source": "NPR",
-      "published": "2026-07-03T11:00:00+00:00"
     }
   ]
 }

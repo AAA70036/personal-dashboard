@@ -4,71 +4,71 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "1",
-        "name": "Zach Johnson",
-        "total": "-9",
+        "position": "T-1",
+        "name": "Jackson Suber",
+        "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "T-1",
+        "name": "Lucas Glover",
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Pontus Nyholm",
+        "total": "-8",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
         "name": "Chris Gotterup",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
-        "name": "Jackson Suber",
+        "position": "T-3",
+        "name": "Zach Johnson",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
-        "name": "Lucas Glover",
+        "position": "T-3",
+        "name": "Troy Merritt",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
-        "name": "Zac Blair",
+        "position": "T-3",
+        "name": "Lee Hodges",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
+        "position": "T-3",
+        "name": "Stephan Jaeger",
+        "total": "-8",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-9",
         "name": "Harry Higgs",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
+        "position": "T-9",
         "name": "Tom Kim",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Christiaan Bezuidenhout",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Lee Hodges",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Stephan Jaeger",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
