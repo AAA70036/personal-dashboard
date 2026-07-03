@@ -40,6 +40,13 @@
       },
       {
         "position": "T-4",
+        "name": "Ryo Hisatsune",
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
         "name": "Tyler Duncan",
         "total": "-10",
         "round_score": "-",
@@ -54,21 +61,14 @@
       },
       {
         "position": "T-4",
-        "name": "Ryo Hisatsune",
+        "name": "Ben Kohles",
         "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-9",
+        "position": "10",
         "name": "Max Homa",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Ben Kohles",
         "total": "-9",
         "round_score": "-",
         "thru": "0"
