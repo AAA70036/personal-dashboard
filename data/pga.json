@@ -4,71 +4,71 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
+        "position": "1",
+        "name": "Zac Blair",
+        "total": "-16",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "Ben Kohles",
+        "total": "-15",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
         "name": "Jackson Suber",
         "total": "-15",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Zac Blair",
+        "position": "T-2",
+        "name": "Lee Hodges",
         "total": "-15",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-2",
         "name": "Lucas Glover",
         "total": "-15",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "4",
+        "position": "6",
         "name": "Doug Ghim",
         "total": "-14",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
-        "name": "Ben Kohles",
+        "position": "7",
+        "name": "Zach Johnson",
         "total": "-13",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
-        "name": "Lee Hodges",
-        "total": "-13",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-7",
+        "position": "T-8",
         "name": "Chandler Phillips",
         "total": "-12",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-7",
+        "position": "T-8",
         "name": "Preston Stout",
         "total": "-12",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-7",
-        "name": "Zach Johnson",
-        "total": "-12",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-7",
-        "name": "Ryo Hisatsune",
+        "position": "T-8",
+        "name": "Max Homa",
         "total": "-12",
         "round_score": "-",
         "thru": "0"
