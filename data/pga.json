@@ -6,70 +6,70 @@
       {
         "position": "1",
         "name": "Lucas Glover",
+        "total": "-16",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "Jackson Suber",
         "total": "-14",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "2",
+        "position": "T-2",
+        "name": "Zac Blair",
+        "total": "-14",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Ryo Hisatsune",
+        "total": "-13",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
         "name": "Lee Hodges",
+        "total": "-13",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "6",
+        "name": "David Lipsky",
         "total": "-12",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-7",
+        "name": "Doug Ghim",
+        "total": "-11",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-7",
+        "name": "Chris Gotterup",
+        "total": "-11",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-7",
         "name": "Zach Johnson",
         "total": "-11",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-7",
         "name": "Max Homa",
         "total": "-11",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
-        "name": "Jackson Suber",
-        "total": "-11",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
-        "name": "Troy Merritt",
-        "total": "-11",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
-        "name": "Ben Kohles",
-        "total": "-11",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
-        "name": "Zac Blair",
-        "total": "-11",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Doug Ghim",
-        "total": "-10",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Ben Griffin",
-        "total": "-10",
         "round_score": "-",
         "thru": "0"
       }
