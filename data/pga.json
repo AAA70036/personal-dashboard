@@ -5,13 +5,6 @@
     "players": [
       {
         "position": "T-1",
-        "name": "Zac Blair",
-        "total": "-16",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
         "name": "Lee Hodges",
         "total": "-16",
         "round_score": "-",
@@ -25,15 +18,22 @@
         "thru": "0"
       },
       {
-        "position": "T-4",
+        "position": "T-3",
         "name": "Jackson Suber",
         "total": "-15",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
+        "position": "T-3",
         "name": "Ben Kohles",
+        "total": "-15",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Zac Blair",
         "total": "-15",
         "round_score": "-",
         "thru": "0"

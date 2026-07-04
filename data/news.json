@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Prince Harry Will Travel to London, but Without His Family",
+      "link": "https://www.nytimes.com/2026/07/04/world/europe/prince-harry-london-trip-meghan-children.html",
+      "source": "NYT",
+      "published": "2026-07-04T23:18:51+00:00"
+    },
+    {
+      "title": "Prince Harry and Meghan: Will they or won't they, and will we care?",
+      "link": "https://www.bbc.co.uk/news/articles/c621jwpld8zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-04T23:18:36+00:00"
+    },
+    {
       "title": "NHS app to use AI to determine which service best for patients",
       "link": "https://www.bbc.co.uk/news/articles/c0my2kjjnp2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -25,12 +37,6 @@
       "published": "2026-07-04T20:34:31+00:00"
     },
     {
-      "title": "Prince Harry Will Travel to London, but Without His Family",
-      "link": "https://www.nytimes.com/2026/07/04/world/europe/prince-harry-london-trip-meghan-children.html",
-      "source": "NYT",
-      "published": "2026-07-04T20:26:16+00:00"
-    },
-    {
       "title": "Police leadership needs 'ethical reset', Lord Blunkett tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/cy0429yx1k9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -53,12 +59,6 @@
       "link": "https://www.npr.org/2026/07/04/nx-s1-5882179/washingtons-july-4-heat-cancellations",
       "source": "NPR",
       "published": "2026-07-04T16:42:10+00:00"
-    },
-    {
-      "title": "Move over Chutes & Ladders: Schisto & Ladders has educational value plus worms",
-      "link": "https://www.npr.org/2026/07/04/g-s1-129679/chutes-ladders-schistosomiasis-worms-parasites",
-      "source": "NPR",
-      "published": "2026-07-04T15:51:49+00:00"
     }
   ]
 }
