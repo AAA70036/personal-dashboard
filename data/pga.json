@@ -18,58 +18,58 @@
         "thru": "0"
       },
       {
-        "position": "3",
+        "position": "T-3",
+        "name": "Zach Johnson",
+        "total": "-11",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Max Homa",
+        "total": "-11",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Jackson Suber",
+        "total": "-11",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Troy Merritt",
+        "total": "-11",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Ben Kohles",
+        "total": "-11",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
         "name": "Zac Blair",
         "total": "-11",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
-        "name": "Jackson Suber",
+        "position": "T-9",
+        "name": "Doug Ghim",
         "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
-        "name": "David Lipsky",
+        "position": "T-9",
+        "name": "Ben Griffin",
         "total": "-10",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Ryo Hisatsune",
-        "total": "-10",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Tyler Duncan",
-        "total": "-10",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Troy Merritt",
-        "total": "-10",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Ben Kohles",
-        "total": "-10",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-10",
-        "name": "Patrick Fishburn",
-        "total": "-9",
         "round_score": "-",
         "thru": "0"
       }
