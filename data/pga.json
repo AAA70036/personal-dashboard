@@ -4,72 +4,72 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "1",
-        "name": "Zac Blair",
-        "total": "-17",
+        "position": "T-1",
+        "name": "Jackson Suber",
+        "total": "-15",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "2",
+        "position": "T-1",
+        "name": "Zac Blair",
+        "total": "-15",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
         "name": "Lucas Glover",
         "total": "-15",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "3",
-        "name": "Jackson Suber",
+        "position": "4",
+        "name": "Doug Ghim",
+        "total": "-14",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-5",
+        "name": "Ben Kohles",
         "total": "-13",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
+        "position": "T-5",
+        "name": "Lee Hodges",
+        "total": "-13",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-7",
         "name": "Chandler Phillips",
         "total": "-12",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
-        "name": "Doug Ghim",
+        "position": "T-7",
+        "name": "Preston Stout",
         "total": "-12",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
+        "position": "T-7",
+        "name": "Zach Johnson",
+        "total": "-12",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-7",
         "name": "Ryo Hisatsune",
         "total": "-12",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Ben Kohles",
-        "total": "-12",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Lee Hodges",
-        "total": "-12",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Beau Hossler",
-        "total": "-11",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Preston Stout",
-        "total": "-11",
         "round_score": "-",
         "thru": "0"
       }
