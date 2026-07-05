@@ -4,74 +4,74 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
+        "position": "1",
         "name": "Ben Kohles",
-        "total": "-17",
-        "round_score": "-2",
-        "thru": "2"
+        "total": "-19",
+        "round_score": "-4",
+        "thru": "7"
       },
       {
-        "position": "T-1",
+        "position": "T-2",
+        "name": "Chris Gotterup",
+        "total": "-17",
+        "round_score": "-6",
+        "thru": "10"
+      },
+      {
+        "position": "T-2",
         "name": "Lee Hodges",
         "total": "-17",
         "round_score": "-1",
-        "thru": "2"
+        "thru": "7"
       },
       {
-        "position": "T-1",
+        "position": "T-2",
         "name": "Lucas Glover",
         "total": "-17",
         "round_score": "-1",
-        "thru": "2"
+        "thru": "7"
       },
       {
-        "position": "T-4",
+        "position": "T-5",
         "name": "Mac Meissner",
-        "total": "-15",
-        "round_score": "-5",
-        "thru": "6"
+        "total": "-16",
+        "round_score": "-6",
+        "thru": "10"
       },
       {
-        "position": "T-4",
-        "name": "Chris Gotterup",
-        "total": "-15",
+        "position": "T-5",
+        "name": "Ryo Hisatsune",
+        "total": "-16",
         "round_score": "-4",
-        "thru": "5"
+        "thru": "8"
       },
       {
-        "position": "T-4",
+        "position": "T-5",
+        "name": "Jackson Suber",
+        "total": "-16",
+        "round_score": "-1",
+        "thru": "7"
+      },
+      {
+        "position": "T-5",
+        "name": "Zac Blair",
+        "total": "-16",
+        "round_score": "-1",
+        "thru": "7"
+      },
+      {
+        "position": "9",
         "name": "Doug Ghim",
         "total": "-15",
         "round_score": "-1",
-        "thru": "3"
+        "thru": "7"
       },
       {
-        "position": "T-4",
-        "name": "Jackson Suber",
-        "total": "-15",
-        "round_score": "E",
-        "thru": "3"
-      },
-      {
-        "position": "T-4",
-        "name": "Zac Blair",
-        "total": "-15",
-        "round_score": "E",
-        "thru": "3"
-      },
-      {
-        "position": "T-9",
-        "name": "Ryo Hisatsune",
+        "position": "T-10",
+        "name": "Kevin Yu",
         "total": "-14",
-        "round_score": "-2",
-        "thru": "4"
-      },
-      {
-        "position": "T-9",
-        "name": "Preston Stout",
-        "total": "-14",
-        "round_score": "-2",
-        "thru": "3"
+        "round_score": "-5",
+        "thru": "14"
       }
     ]
   }
