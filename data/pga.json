@@ -1,42 +1,42 @@
 {
   "leaderboard": {
     "tournament": "John Deere Classic",
-    "status": "In Progress",
+    "status": "Final",
     "players": [
       {
-        "position": "T-1",
+        "position": "1",
         "name": "Chris Gotterup",
         "total": "-20",
         "round_score": "-9",
         "thru": "F"
       },
       {
-        "position": "T-1",
-        "name": "Ben Kohles",
-        "total": "-20",
-        "round_score": "-5",
-        "thru": "16"
-      },
-      {
-        "position": "3",
+        "position": "2",
         "name": "Max Homa",
         "total": "-19",
         "round_score": "-7",
         "thru": "F"
       },
       {
-        "position": "T-4",
+        "position": "T-3",
+        "name": "Ben Kohles",
+        "total": "-18",
+        "round_score": "-3",
+        "thru": "F"
+      },
+      {
+        "position": "T-3",
         "name": "Lee Hodges",
         "total": "-18",
         "round_score": "-2",
-        "thru": "16"
+        "thru": "F"
       },
       {
-        "position": "T-4",
+        "position": "T-3",
         "name": "Lucas Glover",
         "total": "-18",
         "round_score": "-2",
-        "thru": "16"
+        "thru": "F"
       },
       {
         "position": "T-6",
@@ -47,31 +47,31 @@
       },
       {
         "position": "T-6",
+        "name": "Doug Ghim",
+        "total": "-17",
+        "round_score": "-3",
+        "thru": "F"
+      },
+      {
+        "position": "T-6",
         "name": "Jackson Suber",
         "total": "-17",
         "round_score": "-2",
-        "thru": "16"
+        "thru": "F"
       },
       {
-        "position": "T-8",
+        "position": "T-9",
         "name": "Ryo Hisatsune",
         "total": "-16",
         "round_score": "-4",
         "thru": "F"
       },
       {
-        "position": "T-8",
+        "position": "T-9",
         "name": "Zach Johnson",
         "total": "-16",
         "round_score": "-3",
-        "thru": "17"
-      },
-      {
-        "position": "T-8",
-        "name": "Doug Ghim",
-        "total": "-16",
-        "round_score": "-2",
-        "thru": "16"
+        "thru": "F"
       }
     ]
   }
