@@ -1,10 +1,22 @@
 {
   "items": [
     {
-      "title": "'Posh George': Who is aristocrat and convicted criminal at heart of Farage controversy?",
-      "link": "https://www.bbc.co.uk/news/articles/c5yzzw5vk8vo?at_medium=RSS&at_campaign=rss",
+      "title": "National Guard troops fatally shoot a man in downtown Memphis",
+      "link": "https://www.npr.org/2026/07/05/nx-s1-5883091/national-guard-fatal-shooting-memphis",
+      "source": "NPR",
+      "published": "2026-07-05T19:40:37+00:00"
+    },
+    {
+      "title": "Reform denies rules broken by Farage after benefits from ally not declared",
+      "link": "https://www.bbc.co.uk/news/articles/cy0424end7vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-07-05T17:57:46+00:00"
+      "published": "2026-07-05T19:22:47+00:00"
+    },
+    {
+      "title": "Folarin Balogun's ban is lifted by FIFA, allowing U.S. striker to play Belgium",
+      "link": "https://www.npr.org/2026/07/05/g-s1-132061/folarin-balogun-soccer-reinstated-ban-suspended-fifa-belgium",
+      "source": "NPR",
+      "published": "2026-07-05T18:37:19+00:00"
     },
     {
       "title": "Emotion and politics merge in Tehran at funeral of former supreme leader",
@@ -16,7 +28,13 @@
       "title": "Exhausted by Iran War, Tehran Transforms for Khamenei\u2019s Funeral",
       "link": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-khamenei-tehran.html",
       "source": "NYT",
-      "published": "2026-07-05T17:45:43+00:00"
+      "published": "2026-07-05T17:45:44+00:00"
+    },
+    {
+      "title": "EasyJet reaches 'agreement in principle' over potential takeover",
+      "link": "https://www.bbc.co.uk/news/articles/cgjxx7ngz51o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-05T17:30:55+00:00"
     },
     {
       "title": "Guam and surrounding Pacific islands brace for impact of Super Typhoon Bavi",
@@ -41,24 +59,6 @@
       "link": "https://www.npr.org/2026/07/05/g-s1-129643/construction-business-women-kenya",
       "source": "NPR",
       "published": "2026-07-05T14:10:38+00:00"
-    },
-    {
-      "title": "Mourners Chant \u2018Revenge\u2019 at Funeral Prayers for Iran\u2019s Slain Supreme Leader",
-      "link": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-supreme-leader.html",
-      "source": "NYT",
-      "published": "2026-07-05T13:31:26+00:00"
-    },
-    {
-      "title": "Reform denies rules broken by Farage after benefits from ally not declared",
-      "link": "https://www.bbc.co.uk/news/articles/cy0424end7vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-05T12:31:39+00:00"
-    },
-    {
-      "title": "A new law in California will clarify 'sell by' dates to reduce food waste",
-      "link": "https://www.npr.org/2026/07/05/nx-s1-5879284/a-new-law-in-california-will-clarify-sell-by-dates-to-reduce-food-waste",
-      "source": "NPR",
-      "published": "2026-07-05T12:26:17+00:00"
     }
   ]
 }

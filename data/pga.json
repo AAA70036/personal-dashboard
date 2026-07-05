@@ -4,74 +4,74 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "1",
+        "position": "T-1",
+        "name": "Chris Gotterup",
+        "total": "-19",
+        "round_score": "-8",
+        "thru": "15"
+      },
+      {
+        "position": "T-1",
         "name": "Ben Kohles",
         "total": "-19",
         "round_score": "-4",
-        "thru": "7"
+        "thru": "12"
       },
       {
-        "position": "T-2",
-        "name": "Chris Gotterup",
+        "position": "T-3",
+        "name": "Mac Meissner",
         "total": "-17",
-        "round_score": "-6",
-        "thru": "10"
+        "round_score": "-7",
+        "thru": "16"
       },
       {
-        "position": "T-2",
+        "position": "T-3",
+        "name": "Max Homa",
+        "total": "-17",
+        "round_score": "-5",
+        "thru": "14"
+      },
+      {
+        "position": "T-3",
+        "name": "Jackson Suber",
+        "total": "-17",
+        "round_score": "-2",
+        "thru": "12"
+      },
+      {
+        "position": "T-3",
         "name": "Lee Hodges",
         "total": "-17",
         "round_score": "-1",
-        "thru": "7"
+        "thru": "12"
       },
       {
-        "position": "T-2",
+        "position": "T-3",
         "name": "Lucas Glover",
         "total": "-17",
         "round_score": "-1",
-        "thru": "7"
+        "thru": "11"
       },
       {
-        "position": "T-5",
-        "name": "Mac Meissner",
+        "position": "T-8",
+        "name": "Doug Ghim",
         "total": "-16",
-        "round_score": "-6",
-        "thru": "10"
+        "round_score": "-2",
+        "thru": "12"
       },
       {
-        "position": "T-5",
-        "name": "Ryo Hisatsune",
-        "total": "-16",
-        "round_score": "-4",
-        "thru": "8"
-      },
-      {
-        "position": "T-5",
-        "name": "Jackson Suber",
-        "total": "-16",
-        "round_score": "-1",
-        "thru": "7"
-      },
-      {
-        "position": "T-5",
+        "position": "T-8",
         "name": "Zac Blair",
         "total": "-16",
         "round_score": "-1",
-        "thru": "7"
-      },
-      {
-        "position": "9",
-        "name": "Doug Ghim",
-        "total": "-15",
-        "round_score": "-1",
-        "thru": "7"
+        "thru": "12"
       },
       {
         "position": "T-10",
-        "name": "Kevin Yu",
-        "total": "-14",
-        "round_score": "-5",
-        "thru": "14"
+        "name": "Christiaan Bezuidenhout",
+        "total": "-15",
+        "round_score": "-6",
+        "thru": "F"
       }
     ]
   }
