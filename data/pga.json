@@ -5,71 +5,71 @@
     "players": [
       {
         "position": "T-1",
+        "name": "Ben Kohles",
+        "total": "-17",
+        "round_score": "-2",
+        "thru": "2"
+      },
+      {
+        "position": "T-1",
         "name": "Lee Hodges",
-        "total": "-16",
-        "round_score": "-",
-        "thru": "0"
+        "total": "-17",
+        "round_score": "-1",
+        "thru": "2"
       },
       {
         "position": "T-1",
         "name": "Lucas Glover",
-        "total": "-16",
-        "round_score": "-",
-        "thru": "0"
+        "total": "-17",
+        "round_score": "-1",
+        "thru": "2"
       },
       {
-        "position": "T-3",
+        "position": "T-4",
+        "name": "Mac Meissner",
+        "total": "-15",
+        "round_score": "-5",
+        "thru": "6"
+      },
+      {
+        "position": "T-4",
+        "name": "Chris Gotterup",
+        "total": "-15",
+        "round_score": "-4",
+        "thru": "5"
+      },
+      {
+        "position": "T-4",
+        "name": "Doug Ghim",
+        "total": "-15",
+        "round_score": "-1",
+        "thru": "3"
+      },
+      {
+        "position": "T-4",
         "name": "Jackson Suber",
         "total": "-15",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "E",
+        "thru": "3"
       },
       {
-        "position": "T-3",
-        "name": "Ben Kohles",
-        "total": "-15",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
+        "position": "T-4",
         "name": "Zac Blair",
         "total": "-15",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "E",
+        "thru": "3"
       },
       {
-        "position": "6",
-        "name": "Doug Ghim",
+        "position": "T-9",
+        "name": "Ryo Hisatsune",
         "total": "-14",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "7",
-        "name": "Zach Johnson",
-        "total": "-13",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-8",
-        "name": "Davis Thompson",
-        "total": "-12",
-        "round_score": "-3",
+        "round_score": "-2",
         "thru": "4"
       },
       {
-        "position": "T-8",
-        "name": "Christiaan Bezuidenhout",
-        "total": "-12",
-        "round_score": "-3",
-        "thru": "4"
-      },
-      {
-        "position": "T-8",
-        "name": "Tyler Duncan",
-        "total": "-12",
+        "position": "T-9",
+        "name": "Preston Stout",
+        "total": "-14",
         "round_score": "-2",
         "thru": "3"
       }
