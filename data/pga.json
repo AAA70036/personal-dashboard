@@ -1,77 +1,77 @@
 {
   "leaderboard": {
-    "tournament": "John Deere Classic",
-    "status": "Final",
+    "tournament": "Genesis Scottish Open",
+    "status": "Scheduled",
     "players": [
       {
-        "position": "1",
-        "name": "Chris Gotterup",
-        "total": "-20",
-        "round_score": "-9",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Joost Luiten",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "2",
-        "name": "Max Homa",
-        "total": "-19",
-        "round_score": "-7",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Max McGreevy",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-3",
-        "name": "Ben Kohles",
-        "total": "-18",
-        "round_score": "-3",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Frederic LaCroix",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-3",
-        "name": "Lee Hodges",
-        "total": "-18",
-        "round_score": "-2",
-        "thru": "F"
-      },
-      {
-        "position": "T-3",
-        "name": "Lucas Glover",
-        "total": "-18",
-        "round_score": "-2",
-        "thru": "F"
-      },
-      {
-        "position": "T-6",
+        "position": "T-1",
         "name": "Mac Meissner",
-        "total": "-17",
-        "round_score": "-7",
-        "thru": "F"
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Doug Ghim",
-        "total": "-17",
-        "round_score": "-3",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Martin Couvra",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Jackson Suber",
-        "total": "-17",
-        "round_score": "-2",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Ryggs Johnston",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-9",
-        "name": "Ryo Hisatsune",
-        "total": "-16",
-        "round_score": "-4",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Ryan Fox",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-9",
-        "name": "Zach Johnson",
-        "total": "-16",
-        "round_score": "-3",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Ashun Wu",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
+        "name": "Marcus Armitage",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
+        "name": "Taylor Moore",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       }
     ]
   }
