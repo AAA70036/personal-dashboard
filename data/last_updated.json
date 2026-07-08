@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-07-08T03:47:21.866933+00:00",
+  "timestamp": "2026-07-08T06:30:29.556170+00:00",
   "statuses": {
-    "markets": "ok",
+    "markets": "failed: Failed to perform, curl: (60) SSL: no alternative certificate subject name matches target hostname 'fc.yahoo.com'. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.",
     "news": "ok",
     "golf": "ok"
   }
