@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-07-08T17:10:41.923796+00:00",
+  "timestamp": "2026-07-08T18:47:21.066111+00:00",
   "statuses": {
-    "markets": "failed: Too Many Requests. Rate limited. Try after a while.",
+    "markets": "ok",
     "news": "ok",
     "golf": "ok"
   }
