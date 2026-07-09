@@ -19,13 +19,6 @@
       },
       {
         "position": "T-1",
-        "name": "Min Woo Lee",
-        "total": "-5",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
         "name": "Patrick Cantlay",
         "total": "-5",
         "round_score": "-",
@@ -33,43 +26,50 @@
       },
       {
         "position": "T-1",
-        "name": "Oliver Lindell",
+        "name": "Rory McIlroy",
         "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Matt McCarty",
+        "position": "T-5",
+        "name": "Brooks Koepka",
         "total": "-4",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
+        "position": "T-5",
+        "name": "Min Woo Lee",
+        "total": "-4",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-5",
         "name": "Michael Thorbjornsen",
         "total": "-4",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
+        "position": "T-5",
         "name": "Kurt Kitayama",
         "total": "-4",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-9",
-        "name": "Joost Luiten",
-        "total": "-3",
+        "position": "T-5",
+        "name": "Angel Ayora",
+        "total": "-4",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-9",
-        "name": "Brooks Koepka",
-        "total": "-3",
+        "position": "T-5",
+        "name": "Oliver Lindell",
+        "total": "-4",
         "round_score": "-",
         "thru": "0"
       }
