@@ -1,22 +1,34 @@
 {
   "items": [
     {
+      "title": "UK bakes in 35C highs as heatwave to continue next week",
+      "link": "https://www.bbc.co.uk/weather/articles/c0my38l4ex3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-09T23:08:58+00:00"
+    },
+    {
+      "title": "US and Iran trade attacks as Khamenei is buried",
+      "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-09T23:02:18+00:00"
+    },
+    {
       "title": "Live Updates: U.S. and Iran Sink Into Violent Cycle After Latest Strikes",
       "link": "https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump",
       "source": "NYT",
-      "published": "2026-07-09T21:54:49+00:00"
+      "published": "2026-07-09T22:44:27+00:00"
+    },
+    {
+      "title": "France downs Morocco 2-0 to advance to the World Cup semifinal",
+      "link": "https://www.npr.org/2026/07/09/nx-s1-5887619/2026-world-cup-fifa-france-morocco-quarterfinal",
+      "source": "NPR",
+      "published": "2026-07-09T22:01:54+00:00"
     },
     {
       "title": "Final Stage of Ayatollah Ali Khamenei\u2019s Funeral Begins After Delay",
       "link": "https://www.nytimes.com/2026/07/09/world/middleeast/khamenei-funeral-iran.html",
       "source": "NYT",
-      "published": "2026-07-09T21:23:18+00:00"
-    },
-    {
-      "title": "Tehran launches more strikes after explosions reported in southern Iran",
-      "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-09T21:13:49+00:00"
+      "published": "2026-07-09T21:59:16+00:00"
     },
     {
       "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
@@ -37,12 +49,6 @@
       "published": "2026-07-09T19:46:02+00:00"
     },
     {
-      "title": "Heat health alerts extended as record for most 34C days in a year broken",
-      "link": "https://www.bbc.co.uk/news/articles/cyv0znm6y2eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-09T19:37:11+00:00"
-    },
-    {
       "title": "Sifting Through Venezuela Earthquakes\u2019 Rubble, and the Ashes of a Revolution",
       "link": "https://www.nytimes.com/2026/07/09/world/americas/jacqueline-zuniga-venezuela-earthquakes-socialist-revolution.html",
       "source": "NYT",
@@ -53,12 +59,6 @@
       "link": "https://www.npr.org/2026/07/09/nx-s1-5886319/gas-prices-budget",
       "source": "NPR",
       "published": "2026-07-09T19:10:47+00:00"
-    },
-    {
-      "title": "EPA proposes weakening heavy-duty truck pollution rules",
-      "link": "https://www.npr.org/2026/07/09/nx-s1-5886354/epa-heavy-duty-truck-emissions",
-      "source": "NPR",
-      "published": "2026-07-09T19:03:41+00:00"
     }
   ]
 }
