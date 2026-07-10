@@ -1,34 +1,40 @@
 {
   "items": [
     {
-      "title": "Man Arrested on Suspicion of Murdering Ann Widdecombe, Former U.K. Politician",
-      "link": "https://www.nytimes.com/2026/07/10/world/europe/murder-investigation-uk-ann-widdecombe.html",
+      "title": "Bedford triple murder suspect arrested in South Africa",
+      "link": "https://www.bbc.co.uk/news/articles/cx2vq71473yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-10T19:50:03+00:00"
+    },
+    {
+      "title": "Royal Rapprochement: Harry and Meghan Pay a Rare Visit to the King and Queen",
+      "link": "https://www.nytimes.com/2026/07/10/world/europe/harry-meghan-visit-charles-camilla.html",
       "source": "NYT",
-      "published": "2026-07-10T17:35:52+00:00"
+      "published": "2026-07-10T19:43:26+00:00"
     },
     {
-      "title": "Watch: Police confirm 26 year-old suspect in custody",
-      "link": "https://www.bbc.co.uk/news/videos/c1ly3glepr1o?at_medium=RSS&at_campaign=rss",
+      "title": "Man arrested on suspicion of murder after death of Ann Widdecombe",
+      "link": "https://www.bbc.co.uk/news/articles/cvg50lk22jpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-07-10T17:18:02+00:00"
+      "published": "2026-07-10T19:39:00+00:00"
     },
     {
-      "title": "Ann Widdecombe murder probe: What we know so far",
-      "link": "https://www.bbc.co.uk/news/articles/c3vyqkqkvr9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-10T17:04:40+00:00"
+      "title": "Houston neighbors started seeing more ICE agents around. Then came a fatal shooting.",
+      "link": "https://www.npr.org/2026/07/10/nx-s1-5886481/houston-neighbors-started-seeing-more-ice-agents-around-then-came-a-fatal-shooting",
+      "source": "NPR",
+      "published": "2026-07-10T19:08:57+00:00"
     },
     {
-      "title": "Watch: 'Shocked' Starmer and Badenoch react to murder investigation",
-      "link": "https://www.bbc.co.uk/news/videos/c0lydpe9722o?at_medium=RSS&at_campaign=rss",
+      "title": "Harry visits King with Meghan and children for first time in four years",
+      "link": "https://www.bbc.co.uk/news/articles/cj4g79exkzlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-07-10T16:47:24+00:00"
+      "published": "2026-07-10T18:50:54+00:00"
     },
     {
-      "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
-      "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-10T16:42:24+00:00"
+      "title": "At Least 12 People Die in Southern Spain Wildfire",
+      "link": "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html",
+      "source": "NYT",
+      "published": "2026-07-10T18:45:03+00:00"
     },
     {
       "title": "Iran\u2019s Supreme Leader Remains Absent, a Void at the Top of the Regime",
@@ -43,22 +49,16 @@
       "published": "2026-07-10T14:55:21+00:00"
     },
     {
+      "title": "Top Boy actor Micheal Ward found not guilty of rape",
+      "link": "https://www.bbc.co.uk/news/articles/cewq9vznzz5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-10T14:52:59+00:00"
+    },
+    {
       "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
       "link": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-07-10T14:08:26+00:00"
-    },
-    {
-      "title": "At Least 12 People Die in Southern Spain Wildfire",
-      "link": "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html",
-      "source": "NYT",
-      "published": "2026-07-10T13:40:44+00:00"
-    },
-    {
-      "title": "Moscow Still Has Art and Culture. Just Don\u2019t Say \u2018Ukraine.\u2019",
-      "link": "https://www.nytimes.com/2026/07/10/world/europe/russia-moscow-ukraine-war.html",
-      "source": "NYT",
-      "published": "2026-07-10T13:03:33+00:00"
     }
   ]
 }
