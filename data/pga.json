@@ -4,72 +4,72 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "1",
+        "position": "T-1",
         "name": "Jordan Smith",
         "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "2",
+        "position": "T-1",
+        "name": "Rory McIlroy",
+        "total": "-9",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
         "name": "Matt Fitzpatrick",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "3",
+        "position": "T-3",
+        "name": "Tom Kim",
+        "total": "-8",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "5",
         "name": "Nicolai von Dellingshausen",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
+        "position": "T-6",
         "name": "Karl Vilips",
         "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
+        "position": "T-6",
         "name": "Danny Willett",
         "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
-        "name": "Tom Kim",
+        "position": "T-6",
+        "name": "Joost Luiten",
         "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
+        "position": "T-6",
+        "name": "Marcus Armitage",
+        "total": "-6",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
         "name": "Michael Thorbjornsen",
         "total": "-6",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Rory McIlroy",
-        "total": "-6",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Darius Van Driel",
-        "total": "-5",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Guido Migliozzi",
-        "total": "-5",
         "round_score": "-",
         "thru": "0"
       }
