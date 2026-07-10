@@ -4,71 +4,71 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
+        "position": "1",
         "name": "Jordan Smith",
-        "total": "-6",
+        "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "2",
         "name": "Matt Fitzpatrick",
-        "total": "-6",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
-        "name": "Michael Brennan",
-        "total": "-5",
+        "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-3",
         "name": "Danny Willett",
-        "total": "-5",
+        "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-3",
-        "name": "Ryan Gerard",
-        "total": "-5",
+        "name": "Guido Migliozzi",
+        "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-3",
-        "name": "Rasmus H\u00f8jgaard",
-        "total": "-5",
+        "name": "Nicolai von Dellingshausen",
+        "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-3",
+        "name": "Patrick Reed",
+        "total": "-6",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-7",
+        "name": "Darius Van Driel",
+        "total": "-5",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-7",
+        "name": "Calum Hill",
+        "total": "-5",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-7",
+        "name": "Karl Vilips",
+        "total": "-5",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-7",
         "name": "Tom Kim",
-        "total": "-5",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
-        "name": "Bernd Wiesberger",
-        "total": "-5",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
-        "name": "Patrick Cantlay",
-        "total": "-5",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
-        "name": "Rory McIlroy",
         "total": "-5",
         "round_score": "-",
         "thru": "0"
