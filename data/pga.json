@@ -5,71 +5,71 @@
     "players": [
       {
         "position": "T-1",
-        "name": "Tom Kim",
-        "total": "-5",
+        "name": "Jordan Smith",
+        "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-1",
-        "name": "Bernd Wiesberger",
+        "name": "Matt Fitzpatrick",
+        "total": "-6",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Michael Brennan",
         "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Patrick Cantlay",
+        "position": "T-3",
+        "name": "Danny Willett",
         "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Rory McIlroy",
+        "position": "T-3",
+        "name": "Ryan Gerard",
         "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-3",
         "name": "Rasmus H\u00f8jgaard",
         "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Brooks Koepka",
-        "total": "-4",
+        "position": "T-3",
+        "name": "Tom Kim",
+        "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Min Woo Lee",
-        "total": "-4",
+        "position": "T-3",
+        "name": "Bernd Wiesberger",
+        "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Michael Thorbjornsen",
-        "total": "-4",
+        "position": "T-3",
+        "name": "Patrick Cantlay",
+        "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Kurt Kitayama",
-        "total": "-4",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Angel Ayora",
-        "total": "-4",
+        "position": "T-3",
+        "name": "Rory McIlroy",
+        "total": "-5",
         "round_score": "-",
         "thru": "0"
       }
