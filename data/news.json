@@ -1,34 +1,52 @@
 {
   "items": [
     {
-      "title": "Taliban declares war on smartphones",
-      "link": "https://www.npr.org/2026/07/10/g-s1-132396/smartphones-taliban-afghanistan-ban",
-      "source": "NPR",
-      "published": "2026-07-10T11:12:39+00:00"
-    },
-    {
-      "title": "At Least 11 People Die in Southern Spain Wildfire",
+      "title": "At Least 12 People Die in Southern Spain Wildfire",
       "link": "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html",
       "source": "NYT",
-      "published": "2026-07-10T10:45:54+00:00"
+      "published": "2026-07-10T13:40:43+00:00"
     },
     {
-      "title": "Brexit-backing, animal-loving Strictly star Ann Widdecombe dies aged 78",
-      "link": "https://www.bbc.co.uk/news/articles/c2kyw4nqd5do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-10T10:13:12+00:00"
-    },
-    {
-      "title": "Vapes to have less enticing names and flavours to protect children",
-      "link": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-10T09:54:49+00:00"
+      "title": "Fighting Fires With Figures, These Experts Are Trying to Stop Europe From Burning",
+      "link": "https://www.nytimes.com/2026/07/10/world/europe/fire-climate-change-heat-wave-global-warming.html",
+      "source": "NYT",
+      "published": "2026-07-10T13:08:41+00:00"
     },
     {
       "title": "Moscow Still Has Art and Culture. Just Don\u2019t Say \u2018Ukraine.\u2019",
       "link": "https://www.nytimes.com/2026/07/10/world/europe/russia-moscow-ukraine-war.html",
       "source": "NYT",
-      "published": "2026-07-10T09:09:31+00:00"
+      "published": "2026-07-10T13:03:33+00:00"
+    },
+    {
+      "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+      "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-10T12:31:08+00:00"
+    },
+    {
+      "title": "Ann Widdecombe obituary: Brexit-backing former minister turned Strictly star",
+      "link": "https://www.bbc.co.uk/news/articles/c2kyw4nqd5do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-10T11:53:06+00:00"
+    },
+    {
+      "title": "Met police investigating Reform over election donations - reports",
+      "link": "https://www.bbc.co.uk/news/articles/c3eyq2np7qgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-10T11:46:03+00:00"
+    },
+    {
+      "title": "U.S.-Iran fighting appears to pause. And, life inside Israel's military zones in Gaza",
+      "link": "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas",
+      "source": "NPR",
+      "published": "2026-07-10T11:43:38+00:00"
+    },
+    {
+      "title": "Taliban declares war on smartphones",
+      "link": "https://www.npr.org/2026/07/10/g-s1-132396/smartphones-taliban-afghanistan-ban",
+      "source": "NPR",
+      "published": "2026-07-10T11:12:39+00:00"
     },
     {
       "title": "After Venezuela Earthquakes, a Youth Baseball League Counts the Dead",
@@ -37,28 +55,10 @@
       "published": "2026-07-10T09:01:59+00:00"
     },
     {
-      "title": "Fighting Fires With Figures, These Experts Are Trying to Stop Europe from Burning",
-      "link": "https://www.nytimes.com/2026/07/10/world/europe/fire-climate-change-heat-wave-global-warming.html",
-      "source": "NYT",
-      "published": "2026-07-10T09:00:43+00:00"
-    },
-    {
       "title": "Iran\u2019s Supreme Leader Remains Absent, a Void at the Top of the Regime",
       "link": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-supreme-leader-mojtaba-khamenei.html",
       "source": "NYT",
       "published": "2026-07-10T09:00:06+00:00"
-    },
-    {
-      "title": "Shelling at night, gunfire by day in Israel's expanding zone of control in Gaza",
-      "link": "https://www.npr.org/2026/07/10/nx-s1-5887357/israel-gaza-war-trump-ceasefire-military-control",
-      "source": "NPR",
-      "published": "2026-07-10T09:00:00+00:00"
-    },
-    {
-      "title": "Waymo called the cops on teen riders, raising privacy concerns",
-      "link": "https://www.npr.org/2026/07/10/nx-s1-5886113/waymo-police-privacy-driverless-autonomous-vehicles",
-      "source": "NPR",
-      "published": "2026-07-10T09:00:00+00:00"
     }
   ]
 }

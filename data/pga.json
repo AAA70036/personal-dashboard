@@ -13,62 +13,62 @@
       {
         "position": "2",
         "name": "Matt Fitzpatrick",
+        "total": "-8",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "3",
+        "name": "Nicolai von Dellingshausen",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-4",
+        "name": "Karl Vilips",
+        "total": "-6",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
         "name": "Danny Willett",
         "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
-        "name": "Guido Migliozzi",
+        "position": "T-4",
+        "name": "Tom Kim",
         "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
-        "name": "Nicolai von Dellingshausen",
+        "position": "T-4",
+        "name": "Michael Thorbjornsen",
         "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
-        "name": "Patrick Reed",
+        "position": "T-4",
+        "name": "Rory McIlroy",
         "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-7",
+        "position": "T-9",
         "name": "Darius Van Driel",
         "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-7",
-        "name": "Calum Hill",
-        "total": "-5",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-7",
-        "name": "Karl Vilips",
-        "total": "-5",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-7",
-        "name": "Tom Kim",
+        "position": "T-9",
+        "name": "Guido Migliozzi",
         "total": "-5",
         "round_score": "-",
         "thru": "0"
