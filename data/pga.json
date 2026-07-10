@@ -12,64 +12,64 @@
       },
       {
         "position": "T-1",
+        "name": "Tom Kim",
+        "total": "-9",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
         "name": "Rory McIlroy",
         "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-4",
         "name": "Matt Fitzpatrick",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
-        "name": "Tom Kim",
+        "position": "T-4",
+        "name": "Min Woo Lee",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "5",
+        "position": "T-4",
+        "name": "Chris Gotterup",
+        "total": "-8",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-7",
         "name": "Nicolai von Dellingshausen",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Karl Vilips",
-        "total": "-6",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Danny Willett",
-        "total": "-6",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
+        "position": "T-7",
         "name": "Joost Luiten",
-        "total": "-6",
+        "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Marcus Armitage",
-        "total": "-6",
+        "position": "T-7",
+        "name": "Robert MacIntyre",
+        "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Michael Thorbjornsen",
-        "total": "-6",
+        "position": "T-7",
+        "name": "Victor Perez",
+        "total": "-7",
         "round_score": "-",
         "thru": "0"
       }
