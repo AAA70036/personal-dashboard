@@ -1,16 +1,40 @@
 {
   "items": [
     {
+      "title": "Bayeux Tapestry delivered to British Museum in dead of night",
+      "link": "https://www.bbc.co.uk/news/articles/cly9r54e5r4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-10T05:00:04+00:00"
+    },
+    {
+      "title": "President Trump cleans house at the bipartisan Election Assistance Commission",
+      "link": "https://www.npr.org/2026/07/09/nx-s1-5887690/trump-election-assistance-commission",
+      "source": "NPR",
+      "published": "2026-07-10T02:52:32+00:00"
+    },
+    {
+      "title": "Twelve die in wildfire in Spain as heatwave continues in southern Europe",
+      "link": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-10T02:44:18+00:00"
+    },
+    {
+      "title": "Iran War Updates: U.S. and Iran Sink Into Violent Cycle After Latest Strikes",
+      "link": "https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump",
+      "source": "NYT",
+      "published": "2026-07-10T02:08:04+00:00"
+    },
+    {
+      "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
+      "link": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-10T01:33:45+00:00"
+    },
+    {
       "title": "In private call, Education Dept. tried, but failed, to reassure disability advocates",
       "link": "https://www.npr.org/2026/07/09/nx-s1-5887650/education-department-special-ed-hhs",
       "source": "NPR",
       "published": "2026-07-10T01:03:56+00:00"
-    },
-    {
-      "title": "Live Updates: U.S. and Iran Sink Into Violent Cycle After Latest Strikes",
-      "link": "https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump",
-      "source": "NYT",
-      "published": "2026-07-10T01:00:58+00:00"
     },
     {
       "title": "Trump's arch clears another hurdle, setting up a big debate: Do height limits apply?",
@@ -31,34 +55,10 @@
       "published": "2026-07-09T23:08:58+00:00"
     },
     {
-      "title": "US and Iran trade attacks as Khamenei is buried",
-      "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-09T23:02:18+00:00"
-    },
-    {
       "title": "France downs Morocco 2-0 to advance to the World Cup semifinal",
       "link": "https://www.npr.org/2026/07/09/nx-s1-5887619/2026-world-cup-fifa-france-morocco-quarterfinal",
       "source": "NPR",
       "published": "2026-07-09T22:01:54+00:00"
-    },
-    {
-      "title": "Final Stage of Ayatollah Ali Khamenei\u2019s Funeral Begins After Delay",
-      "link": "https://www.nytimes.com/2026/07/09/world/middleeast/khamenei-funeral-iran.html",
-      "source": "NYT",
-      "published": "2026-07-09T21:59:16+00:00"
-    },
-    {
-      "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
-      "link": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-09T20:47:41+00:00"
-    },
-    {
-      "title": "Palestinian Authority Sets Date for First Major Elections in 20 Years",
-      "link": "https://www.nytimes.com/2026/07/09/world/middleeast/palestinian-authority-elections-abbas.html",
-      "source": "NYT",
-      "published": "2026-07-09T19:53:05+00:00"
     }
   ]
 }
