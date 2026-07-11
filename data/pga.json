@@ -12,14 +12,14 @@
       },
       {
         "position": "T-1",
-        "name": "Tom Kim",
+        "name": "Rory McIlroy",
         "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-1",
-        "name": "Rory McIlroy",
+        "name": "Tom Kim",
         "total": "-9",
         "round_score": "-",
         "thru": "0"
@@ -40,13 +40,6 @@
       },
       {
         "position": "T-6",
-        "name": "Nicolai von Dellingshausen",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
         "name": "Victor Perez",
         "total": "-7",
         "round_score": "-",
@@ -54,7 +47,7 @@
       },
       {
         "position": "T-6",
-        "name": "Chris Gotterup",
+        "name": "Nicolai von Dellingshausen",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
@@ -68,7 +61,14 @@
       },
       {
         "position": "T-6",
-        "name": "Joost Luiten",
+        "name": "Chris Gotterup",
+        "total": "-7",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Keita Nakajima",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
