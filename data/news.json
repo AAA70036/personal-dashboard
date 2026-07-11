@@ -1,10 +1,40 @@
 {
   "items": [
     {
+      "title": "England and Norway Resurrect a Rivalry for the World Cup",
+      "link": "https://www.nytimes.com/2026/07/11/world/europe/england-norway-world-cup.html",
+      "source": "NYT",
+      "published": "2026-07-11T13:37:16+00:00"
+    },
+    {
+      "title": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
+      "link": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html",
+      "source": "NYT",
+      "published": "2026-07-11T13:26:24+00:00"
+    },
+    {
+      "title": "Man Arrested in Killing of U.K. Ex-Lawmaker Is Released",
+      "link": "https://www.nytimes.com/2026/07/11/world/europe/uk-ann-widdecombe-suspect-released.html",
+      "source": "NYT",
+      "published": "2026-07-11T13:16:54+00:00"
+    },
+    {
+      "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+      "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-11T13:14:19+00:00"
+    },
+    {
       "title": "TV presenter Dermot Murnaghan dies aged 68",
       "link": "https://www.bbc.co.uk/news/articles/c20yvg13nqpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-07-11T12:16:53+00:00"
+      "published": "2026-07-11T12:41:10+00:00"
+    },
+    {
+      "title": "Pubs can stay open for full Norway game - even if kick-off delayed",
+      "link": "https://www.bbc.co.uk/news/articles/cm204lgrv10o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-11T12:26:08+00:00"
     },
     {
       "title": "Reeves tells BBC: Burnham needs worked-through plan to govern from the start",
@@ -29,36 +59,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-07-11T11:45:55+00:00"
-    },
-    {
-      "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-      "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-11T11:42:46+00:00"
-    },
-    {
-      "title": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
-      "link": "https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html",
-      "source": "NYT",
-      "published": "2026-07-11T11:17:18+00:00"
-    },
-    {
-      "title": "Minnesota is pulling troops early from D.C., as pressure grows on Michigan",
-      "link": "https://www.npr.org/2026/07/11/nx-s1-5887666/national-guard-dc-trump-michigan-minnesota",
-      "source": "NPR",
-      "published": "2026-07-11T10:00:00+00:00"
-    },
-    {
-      "title": "England and Norway, Old Friends, Resurrect a Rivalry for the World Cup",
-      "link": "https://www.nytimes.com/2026/07/11/world/europe/england-norway-world-cup.html",
-      "source": "NYT",
-      "published": "2026-07-11T09:02:19+00:00"
-    },
-    {
-      "title": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
-      "link": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html",
-      "source": "NYT",
-      "published": "2026-07-11T09:00:17+00:00"
     }
   ]
 }
