@@ -5,7 +5,7 @@
     "players": [
       {
         "position": "T-1",
-        "name": "Kevin Roy",
+        "name": "Michael Thorbjornsen",
         "total": "-11",
         "round_score": "-",
         "thru": "0"
@@ -26,6 +26,20 @@
       },
       {
         "position": "T-3",
+        "name": "Kevin Roy",
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Wyndham Clark",
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
         "name": "Chris Gotterup",
         "total": "-10",
         "round_score": "-",
@@ -39,35 +53,21 @@
         "thru": "0"
       },
       {
-        "position": "T-6",
+        "position": "T-3",
+        "name": "Jordan Smith",
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-9",
         "name": "Rasmus Neergaard-Petersen",
         "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Wyndham Clark",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Karl Vilips",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Michael Thorbjornsen",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
+        "position": "T-9",
         "name": "Robert MacIntyre",
         "total": "-9",
         "round_score": "-",
