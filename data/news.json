@@ -1,16 +1,34 @@
 {
   "items": [
     {
-      "title": "Royal Rapprochement: Harry and Meghan Pay a Rare Visit to the King and Queen",
-      "link": "https://www.nytimes.com/2026/07/10/world/europe/harry-meghan-visit-charles-camilla.html",
+      "title": "After Being Delayed by Trump, a Canada-U.S. Bridge is Set to Open",
+      "link": "https://www.nytimes.com/2026/07/10/world/canada/gordie-howe-bridge-canada-us-michigan.html",
       "source": "NYT",
-      "published": "2026-07-11T01:37:41+00:00"
+      "published": "2026-07-11T06:07:32+00:00"
+    },
+    {
+      "title": "Trump administration rolls back a key protection for imperiled wildlife",
+      "link": "https://www.npr.org/2026/07/11/nx-s1-5890025/trump-administration-imperiled-wildlife",
+      "source": "NPR",
+      "published": "2026-07-11T05:48:40+00:00"
     },
     {
       "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
       "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-07-11T01:24:49+00:00"
+      "published": "2026-07-11T04:56:33+00:00"
+    },
+    {
+      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+      "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-11T04:06:56+00:00"
+    },
+    {
+      "title": "\u2018They Don\u2019t Need People\u2019: The Workers Left Behind by China\u2019s Robot Drive",
+      "link": "https://www.nytimes.com/2026/07/11/world/asia/china-workers-robots-factories.html",
+      "source": "NYT",
+      "published": "2026-07-11T04:01:08+00:00"
     },
     {
       "title": "Chaos and confusion reign as Harry loses media battle",
@@ -19,10 +37,10 @@
       "published": "2026-07-10T23:36:03+00:00"
     },
     {
-      "title": "Man arrested on suspicion of murder after death of Ann Widdecombe",
-      "link": "https://www.bbc.co.uk/news/articles/cvg50lk22jpo?at_medium=RSS&at_campaign=rss",
+      "title": "Meet the crypto billionaires building a world where money buys you a vote",
+      "link": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-07-10T21:38:20+00:00"
+      "published": "2026-07-10T23:03:11+00:00"
     },
     {
       "title": "Pugnacious, charismatic and she always answered the question - Chris Mason on Widdecombe",
@@ -37,28 +55,10 @@
       "published": "2026-07-10T21:22:01+00:00"
     },
     {
-      "title": "Triple murder suspect arrested in South Africa",
-      "link": "https://www.bbc.co.uk/news/articles/cx2vq71473yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-10T20:09:57+00:00"
-    },
-    {
       "title": "Patriotic art gets the spotlight as NEA funding shifts. Cue 'The Ronald Reagan Overture'",
       "link": "https://www.npr.org/2026/07/10/nx-s1-5870578/ronald-reagan-250th-patriotic-art",
       "source": "NPR",
       "published": "2026-07-10T20:00:00+00:00"
-    },
-    {
-      "title": "Houston neighbors started seeing more ICE agents around. Then came a fatal shooting.",
-      "link": "https://www.npr.org/2026/07/10/nx-s1-5886481/houston-neighbors-started-seeing-more-ice-agents-around-then-came-a-fatal-shooting",
-      "source": "NPR",
-      "published": "2026-07-10T19:08:57+00:00"
-    },
-    {
-      "title": "At Least 12 People Die in Southern Spain Wildfire",
-      "link": "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html",
-      "source": "NYT",
-      "published": "2026-07-10T18:45:03+00:00"
     }
   ]
 }
