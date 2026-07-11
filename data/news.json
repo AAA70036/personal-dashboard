@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "title": "TV presenter Dermot Murnaghan dies aged 68",
+      "link": "https://www.bbc.co.uk/news/articles/c20yvg13nqpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-11T11:17:48+00:00"
+    },
+    {
+      "title": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
+      "link": "https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html",
+      "source": "NYT",
+      "published": "2026-07-11T11:17:18+00:00"
+    },
+    {
+      "title": "Minnesota is pulling troops early from D.C., as pressure grows on Michigan",
+      "link": "https://www.npr.org/2026/07/11/nx-s1-5887666/national-guard-dc-trump-michigan-minnesota",
+      "source": "NPR",
+      "published": "2026-07-11T10:00:00+00:00"
+    },
+    {
       "title": "England and Norway, Old Friends, Resurrect a Rivalry for the World Cup",
       "link": "https://www.nytimes.com/2026/07/11/world/europe/england-norway-world-cup.html",
       "source": "NYT",
@@ -19,14 +37,14 @@
       "published": "2026-07-11T09:00:17+00:00"
     },
     {
-      "title": "With the white nationalist group Patriot Front, what you see is not what you get",
-      "link": "https://www.npr.org/2026/07/11/nx-s1-5888571/patriot-front-washington-dc",
+      "title": "Shy on the dance floor? Virtual reality 'partners' aim to help you find your groove",
+      "link": "https://www.npr.org/2026/07/11/nx-s1-5882228/dance-virtual-reality-vr-app-augmented-world-expo-weddings",
       "source": "NPR",
       "published": "2026-07-11T09:00:00+00:00"
     },
     {
-      "title": "Shy on the dance floor? Virtual reality 'partners' aim to help you find your groove",
-      "link": "https://www.npr.org/2026/07/11/nx-s1-5882228/dance-virtual-reality-vr-app-augmented-world-expo-weddings",
+      "title": "With the white nationalist group Patriot Front, what you see is not what you get",
+      "link": "https://www.npr.org/2026/07/11/nx-s1-5888571/patriot-front-washington-dc",
       "source": "NPR",
       "published": "2026-07-11T09:00:00+00:00"
     },
@@ -41,24 +59,6 @@
       "link": "https://www.npr.org/2026/07/11/nx-s1-5890030/spain-will-face-france-world-cup-semifinal",
       "source": "NPR",
       "published": "2026-07-11T06:58:56+00:00"
-    },
-    {
-      "title": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
-      "link": "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran",
-      "source": "NPR",
-      "published": "2026-07-11T06:34:09+00:00"
-    },
-    {
-      "title": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
-      "link": "https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html",
-      "source": "NYT",
-      "published": "2026-07-11T06:25:20+00:00"
-    },
-    {
-      "title": "Trump administration rolls back a key protection for imperiled wildlife",
-      "link": "https://www.npr.org/2026/07/11/nx-s1-5890025/trump-administration-imperiled-wildlife",
-      "source": "NPR",
-      "published": "2026-07-11T05:48:40+00:00"
     }
   ]
 }
