@@ -1,10 +1,40 @@
 {
   "items": [
     {
+      "title": "England and Norway, Old Friends, Resurrect a Rivalry for the World Cup",
+      "link": "https://www.nytimes.com/2026/07/11/world/europe/england-norway-world-cup.html",
+      "source": "NYT",
+      "published": "2026-07-11T09:02:19+00:00"
+    },
+    {
       "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
       "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-07-11T07:46:09+00:00"
+      "published": "2026-07-11T09:01:15+00:00"
+    },
+    {
+      "title": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
+      "link": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html",
+      "source": "NYT",
+      "published": "2026-07-11T09:00:17+00:00"
+    },
+    {
+      "title": "With the white nationalist group Patriot Front, what you see is not what you get",
+      "link": "https://www.npr.org/2026/07/11/nx-s1-5888571/patriot-front-washington-dc",
+      "source": "NPR",
+      "published": "2026-07-11T09:00:00+00:00"
+    },
+    {
+      "title": "Shy on the dance floor? Virtual reality 'partners' aim to help you find your groove",
+      "link": "https://www.npr.org/2026/07/11/nx-s1-5882228/dance-virtual-reality-vr-app-augmented-world-expo-weddings",
+      "source": "NPR",
+      "published": "2026-07-11T09:00:00+00:00"
+    },
+    {
+      "title": "Man Arrested in Killing of U.K. Ex-Lawmaker Is Released",
+      "link": "https://www.nytimes.com/2026/07/11/world/europe/uk-ann-widdecombe-suspect-released.html",
+      "source": "NYT",
+      "published": "2026-07-11T08:36:56+00:00"
     },
     {
       "title": "Spain edges Belgium and will face France in World Cup semifinal",
@@ -19,46 +49,16 @@
       "published": "2026-07-11T06:34:09+00:00"
     },
     {
-      "title": "After Being Delayed by Trump, a Canada-U.S. Bridge is Set to Open",
-      "link": "https://www.nytimes.com/2026/07/10/world/canada/gordie-howe-bridge-canada-us-michigan.html",
+      "title": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
+      "link": "https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html",
       "source": "NYT",
-      "published": "2026-07-11T06:07:32+00:00"
+      "published": "2026-07-11T06:25:20+00:00"
     },
     {
       "title": "Trump administration rolls back a key protection for imperiled wildlife",
       "link": "https://www.npr.org/2026/07/11/nx-s1-5890025/trump-administration-imperiled-wildlife",
       "source": "NPR",
       "published": "2026-07-11T05:48:40+00:00"
-    },
-    {
-      "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-      "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-11T04:56:33+00:00"
-    },
-    {
-      "title": "\u2018They Don\u2019t Need People\u2019: The Workers Left Behind by China\u2019s Robot Drive",
-      "link": "https://www.nytimes.com/2026/07/11/world/asia/china-workers-robots-factories.html",
-      "source": "NYT",
-      "published": "2026-07-11T04:01:08+00:00"
-    },
-    {
-      "title": "Chaos and confusion reign as Harry loses media battle",
-      "link": "https://www.bbc.co.uk/news/articles/c78yp5j2e8eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-10T23:36:03+00:00"
-    },
-    {
-      "title": "Meet the crypto billionaires building a world where money buys you a vote",
-      "link": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-10T23:03:11+00:00"
-    },
-    {
-      "title": "Pugnacious, charismatic and she always answered the question - Chris Mason on Ann Widdecombe",
-      "link": "https://www.bbc.co.uk/news/articles/czrxdnmlk5no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-10T21:27:28+00:00"
     }
   ]
 }
