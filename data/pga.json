@@ -5,71 +5,71 @@
     "players": [
       {
         "position": "T-1",
-        "name": "Michael Thorbjornsen",
-        "total": "-11",
+        "name": "Robert MacIntyre",
+        "total": "-12",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-1",
         "name": "Matt Fitzpatrick",
+        "total": "-12",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
+        "name": "Min Woo Lee",
+        "total": "-12",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
+        "name": "Tom Kim",
+        "total": "-12",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-5",
+        "name": "Michael Thorbjornsen",
         "total": "-11",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-5",
+        "name": "Chris Gotterup",
+        "total": "-11",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-7",
         "name": "Johnny Keefer",
         "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-7",
         "name": "Kevin Roy",
         "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-7",
         "name": "Wyndham Clark",
         "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
-        "name": "Chris Gotterup",
+        "position": "T-7",
+        "name": "Keita Nakajima",
         "total": "-10",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
-        "name": "Min Woo Lee",
-        "total": "-10",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
-        "name": "Jordan Smith",
-        "total": "-10",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
-        "name": "Tom Kim",
-        "total": "-10",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-10",
-        "name": "Rasmus Neergaard-Petersen",
-        "total": "-9",
         "round_score": "-",
         "thru": "0"
       }
