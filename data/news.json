@@ -1,16 +1,28 @@
 {
   "items": [
     {
-      "title": "Man arrested on suspicion of murder of Ann Widdecombe",
-      "link": "https://www.bbc.co.uk/news/articles/cz6v5z9zz8jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-12T02:29:56+00:00"
-    },
-    {
       "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
       "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-07-12T01:55:03+00:00"
+      "published": "2026-07-12T04:39:18+00:00"
+    },
+    {
+      "title": "Alvarez's 112th-minute goal helps lift Argentina past Switzerland 3-1 and into World Cup semifinals",
+      "link": "https://www.npr.org/2026/07/12/nx-s1-5890774/argentina-switzerland-3-1-world-cup-semifinals",
+      "source": "NPR",
+      "published": "2026-07-12T04:10:30+00:00"
+    },
+    {
+      "title": "Messi and Argentina survive another close call to reach the World Cup semifinals",
+      "link": "https://www.npr.org/2026/07/11/nx-s1-5888612/2026-world-cup-fifa-argentina-switzerland-quarterfinal",
+      "source": "NPR",
+      "published": "2026-07-12T03:45:57+00:00"
+    },
+    {
+      "title": "Man arrested in South Yorkshire on suspicion of Ann Widdecombe murder",
+      "link": "https://www.bbc.co.uk/news/articles/cz6v5z9zz8jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-12T02:29:56+00:00"
     },
     {
       "title": "200 young campers rescued as flooding hits parts of Missouri and Kentucky",
@@ -47,18 +59,6 @@
       "link": "https://www.nytimes.com/2026/07/11/world/europe/england-norway-world-cup.html",
       "source": "NYT",
       "published": "2026-07-12T00:12:39+00:00"
-    },
-    {
-      "title": "In a nailbiter, England moves on to the World Cup semifinals, defeating Norway 2-1",
-      "link": "https://www.npr.org/2026/07/11/nx-s1-5890169/2026-world-cup-fifa-england-norway-quarterfinal",
-      "source": "NPR",
-      "published": "2026-07-11T23:46:50+00:00"
-    },
-    {
-      "title": "Palestinian aid worker who organized World Cup screenings killed in Israeli strike",
-      "link": "https://www.npr.org/2026/07/11/nx-s1-5890044/palestinian-aid-worker-who-organized-world-cup-screenings-killed-in-israeli-strike",
-      "source": "NPR",
-      "published": "2026-07-11T21:09:56+00:00"
     }
   ]
 }
