@@ -12,13 +12,6 @@
       },
       {
         "position": "T-1",
-        "name": "Matt Fitzpatrick",
-        "total": "-12",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
         "name": "Min Woo Lee",
         "total": "-12",
         "round_score": "-",
@@ -26,21 +19,28 @@
       },
       {
         "position": "T-1",
-        "name": "Tom Kim",
+        "name": "Matt Fitzpatrick",
         "total": "-12",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
+        "position": "T-4",
         "name": "Michael Thorbjornsen",
         "total": "-11",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
+        "position": "T-4",
         "name": "Chris Gotterup",
+        "total": "-11",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Tom Kim",
         "total": "-11",
         "round_score": "-",
         "thru": "0"
