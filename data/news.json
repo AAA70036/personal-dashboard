@@ -1,10 +1,40 @@
 {
   "items": [
     {
-      "title": "Bill for Hillsborough Law set to be approved by MPs",
-      "link": "https://www.bbc.co.uk/news/articles/cz754eey3xeo?at_medium=RSS&at_campaign=rss",
+      "title": "Live Updates: Iran Targets Gulf States After Night of Intense U.S. Strikes",
+      "link": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz",
+      "source": "NYT",
+      "published": "2026-07-12T17:28:54+00:00"
+    },
+    {
+      "title": "Toronto police looking for suspects after deadly shooting at festival",
+      "link": "https://www.npr.org/2026/07/12/g-s1-133229/toronto-shooting-salsa-festival",
+      "source": "NPR",
+      "published": "2026-07-12T17:22:29+00:00"
+    },
+    {
+      "title": "Lindsey Graham Championed Israel, Even as Wars Eroded American Support",
+      "link": "https://www.nytimes.com/2026/07/12/world/middleeast/lindsey-graham-iran-israel-gaza-war.html",
+      "source": "NYT",
+      "published": "2026-07-12T17:11:00+00:00"
+    },
+    {
+      "title": "What to know about the cyclosporiasis outbreak hitting more than half of U.S. states",
+      "link": "https://www.npr.org/2026/07/12/nx-s1-5890935/cyclosporiasis-outbreak-diarrhea-nausea-where-states-us",
+      "source": "NPR",
+      "published": "2026-07-12T16:48:41+00:00"
+    },
+    {
+      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+      "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-07-12T16:30:36+00:00"
+      "published": "2026-07-12T16:46:24+00:00"
+    },
+    {
+      "title": "How Trump Failed to Secure the Strait of Hormuz in His Iran Deal",
+      "link": "https://www.nytimes.com/2026/07/12/us/politics/trump-strait-of-hormuz-iran-deal.html",
+      "source": "NYT",
+      "published": "2026-07-12T16:43:37+00:00"
     },
     {
       "title": "Residents of Spanish Towns Caught in Fierce Blazes Recount Harrowing Escapes",
@@ -19,46 +49,16 @@
       "published": "2026-07-12T13:35:01+00:00"
     },
     {
-      "title": "At World Cup Ticket Prices, Even Messi Can\u2019t Fill a Stadium",
-      "link": "https://www.nytimes.com/2026/07/12/world/europe/messi-argentina-world-cup-empty-seats.html",
-      "source": "NYT",
-      "published": "2026-07-12T13:23:24+00:00"
-    },
-    {
       "title": "Police say no suggestion of political motive in Widdecombe killing after new arrest",
       "link": "https://www.bbc.co.uk/news/articles/c8628q3eqdeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-07-12T13:06:22+00:00"
     },
     {
-      "title": "How Putin Turned Japan Into a Den of Spies",
-      "link": "https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html",
-      "source": "NYT",
-      "published": "2026-07-12T12:14:21+00:00"
-    },
-    {
-      "title": "A Bible passage is at the center of a debate over how the U.S. should treat immigrants",
-      "link": "https://www.npr.org/2026/07/12/nx-s1-5885947/a-bibe-passage-is-at-the-center-of-a-debate-over-how-the-u-s-should-treat-immigrants",
-      "source": "NPR",
-      "published": "2026-07-12T11:57:10+00:00"
-    },
-    {
-      "title": "Hard-Liners in Iran Want to Keep Fighting America",
-      "link": "https://www.nytimes.com/2026/07/12/world/middleeast/iran-united-states-hard-liners.html",
-      "source": "NYT",
-      "published": "2026-07-12T11:24:54+00:00"
-    },
-    {
-      "title": "A promising tale from Senegal of fish, rice .... and dangerous worms",
-      "link": "https://www.npr.org/2026/07/12/nx-s1-5803170/farmers-fish-rice-snails-tropical-disease",
-      "source": "NPR",
-      "published": "2026-07-12T10:49:40+00:00"
-    },
-    {
-      "title": "An artist brought 'I.C.E. pops' to a Texas campus. The show was shut down in days",
-      "link": "https://www.npr.org/2026/07/12/nx-s1-5783832/ice-pop-texas-victor-marka27-quinonez-artist",
-      "source": "NPR",
-      "published": "2026-07-12T09:00:00+00:00"
+      "title": "Tuchel wasn't happy with the performance. So why do England keep winning?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c7vy25lqll6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-12T12:19:03+00:00"
     }
   ]
 }
