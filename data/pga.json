@@ -1,7 +1,7 @@
 {
   "leaderboard": {
     "tournament": "Genesis Scottish Open",
-    "status": "In Progress",
+    "status": "Final",
     "players": [
       {
         "position": "1",
@@ -15,7 +15,7 @@
         "name": "Min Woo Lee",
         "total": "-15",
         "round_score": "-3",
-        "thru": "17"
+        "thru": "F"
       },
       {
         "position": "T-3",
@@ -36,14 +36,14 @@
         "name": "Robert MacIntyre",
         "total": "-13",
         "round_score": "-1",
-        "thru": "17"
+        "thru": "F"
       },
       {
         "position": "T-3",
         "name": "Matt Fitzpatrick",
         "total": "-13",
         "round_score": "-1",
-        "thru": "17"
+        "thru": "F"
       },
       {
         "position": "T-7",
