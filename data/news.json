@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
+      "link": "https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html",
+      "source": "NYT",
+      "published": "2026-07-14T19:17:56+00:00"
+    },
+    {
+      "title": "U.S. and Iran Reignite War Over Strait of Hormuz",
+      "link": "https://www.nytimes.com/live/2026/07/14/world/iran-war-trump-hormuz",
+      "source": "NYT",
+      "published": "2026-07-14T19:03:15+00:00"
+    },
+    {
+      "title": "Starmer and Burnham hail Hillsborough Law as MPs give approval",
+      "link": "https://www.bbc.co.uk/news/articles/c9q2qwnvd75o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-14T18:41:01+00:00"
+    },
+    {
+      "title": "Police say Ann Widdecombe killed in 'targeted attack' as motive investigated",
+      "link": "https://www.bbc.co.uk/news/articles/c0ryr74zjzvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-14T18:07:08+00:00"
+    },
+    {
       "title": "E. Jean Carroll receives $5.6 million from Trump in sexual abuse and defamation case",
       "link": "https://www.npr.org/2026/07/14/nx-s1-5893598/e-jean-carroll-trump-sexual-abuse-defamation",
       "source": "NPR",
@@ -25,12 +49,6 @@
       "published": "2026-07-14T16:46:18+00:00"
     },
     {
-      "title": "U.S. and Iran Reignite War Over Strait of Hormuz",
-      "link": "https://www.nytimes.com/live/2026/07/14/world/iran-war-trump-hormuz",
-      "source": "NYT",
-      "published": "2026-07-14T16:06:01+00:00"
-    },
-    {
       "title": "Investigative journalist reports on the abuse inside ICE's largest detention facility",
       "link": "https://www.npr.org/2026/07/14/nx-s1-5893335/investigative-journalist-reports-on-the-abuse-inside-ices-largest-detention-facility",
       "source": "NPR",
@@ -41,24 +59,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c0qyq800n44o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-07-14T15:37:52+00:00"
-    },
-    {
-      "title": "Why your favorite international artist might be reconsidering their next U.S. tour",
-      "link": "https://www.npr.org/2026/07/14/nx-s1-5783845/visa-process-artists-us",
-      "source": "NPR",
-      "published": "2026-07-14T14:46:11+00:00"
-    },
-    {
-      "title": "Inflation slowed sharply -- but it may not last",
-      "link": "https://www.npr.org/2026/07/14/nx-s1-5893379/inflation-economy-consumer-prices-federal-reserve",
-      "source": "NPR",
-      "published": "2026-07-14T14:40:20+00:00"
-    },
-    {
-      "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
-      "link": "https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html",
-      "source": "NYT",
-      "published": "2026-07-14T14:13:11+00:00"
     }
   ]
 }
