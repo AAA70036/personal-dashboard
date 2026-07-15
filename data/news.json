@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "title": "Morning news brief",
+      "link": "https://www.npr.org/2026/07/15/nx-s1-5891559/morning-news-brief",
+      "source": "NPR",
+      "published": "2026-07-15T08:50:19+00:00"
+    },
+    {
+      "title": "Midnight social media curfew proposed for UK teens aged 16 and 17 - but they can opt out",
+      "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-15T08:41:16+00:00"
+    },
+    {
+      "title": "Briton's Iran jail sentence extended by two years, family says",
+      "link": "https://www.bbc.co.uk/news/articles/c4gygp4pk31o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-15T08:33:27+00:00"
+    },
+    {
+      "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
+      "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-15T08:17:28+00:00"
+    },
+    {
+      "title": "Review of MP security needed after Widdecombe death, Burnham says",
+      "link": "https://www.bbc.co.uk/news/articles/c8e2eyg2p40o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-15T07:50:59+00:00"
+    },
+    {
+      "title": "Six Dead in an Elevator After Fire in Central Brussels",
+      "link": "https://www.nytimes.com/2026/07/14/world/europe/six-dead-in-fire-central-brussels.html",
+      "source": "NYT",
+      "published": "2026-07-15T07:01:30+00:00"
+    },
+    {
       "title": "Mystery bidder buys T. rex nicknamed 'Gus' for a record $50 million",
       "link": "https://www.npr.org/2026/07/15/nx-s1-5894586/mystery-bidder-buys-t-rex",
       "source": "NPR",
@@ -19,46 +55,10 @@
       "published": "2026-07-15T05:39:55+00:00"
     },
     {
-      "title": "England's biggest match since 1966 as Three Lions close in on immortality",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c20y0zzdx9go?at_medium=RSS&at_campaign=rss",
+      "title": "I still feel pain of '98 but this can be different for England, says Shearer",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6212j5zw3ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-07-15T05:02:16+00:00"
-    },
-    {
-      "title": "Ann Widdecombe Was Killed in \u2018Targeted Attack,\u2019 UK Police Say",
-      "link": "https://www.nytimes.com/2026/07/14/world/europe/ann-widdecombe-targeted-attack.html",
-      "source": "NYT",
-      "published": "2026-07-15T04:38:50+00:00"
-    },
-    {
-      "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
-      "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-15T03:57:17+00:00"
-    },
-    {
-      "title": "Supreme Court Justices give chilling accounts of threats to their safety",
-      "link": "https://www.npr.org/2026/07/14/nx-s1-5893664/supreme-court-justices-kagan-barrett-give-chilling-accounts-of-threats-to-their-safety",
-      "source": "NPR",
-      "published": "2026-07-15T03:19:25+00:00"
-    },
-    {
-      "title": "Midnight social media curfew proposed for older UK teens",
-      "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-14T23:17:23+00:00"
-    },
-    {
-      "title": "Spain into World Cup final with victory over France",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cq6160n8y71o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-14T21:32:59+00:00"
-    },
-    {
-      "title": "Review of MP security needed after Widdecombe death, Burnham says",
-      "link": "https://www.bbc.co.uk/news/articles/c8e2eyg2p40o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-14T21:30:15+00:00"
+      "published": "2026-07-15T05:02:28+00:00"
     }
   ]
 }

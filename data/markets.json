@@ -21,42 +21,42 @@
   },
   "gainers": [
     {
-      "symbol": "NVDA",
-      "price": 211.8,
-      "change": 8.55,
-      "pct_change": 4.21
+      "symbol": "GOOGL",
+      "price": 359.51,
+      "change": 0.84,
+      "pct_change": 0.23
     },
     {
       "symbol": "JPM",
       "price": 342.89,
-      "change": 8.27,
-      "pct_change": 2.47
+      "change": 0.35,
+      "pct_change": 0.1
     },
     {
-      "symbol": "GOOGL",
-      "price": 359.51,
-      "change": 6.43,
-      "pct_change": 1.82
+      "symbol": "TSLA",
+      "price": 396.18,
+      "change": 0.38,
+      "pct_change": 0.1
     }
   ],
   "losers": [
     {
       "symbol": "ORCL",
       "price": 127.94,
-      "change": -3.35,
-      "pct_change": -2.55
+      "change": -1.06,
+      "pct_change": -0.82
     },
     {
-      "symbol": "LLY",
-      "price": 1152.54,
-      "change": -29.4,
-      "pct_change": -2.49
+      "symbol": "MSFT",
+      "price": 384.93,
+      "change": -1.57,
+      "pct_change": -0.41
     },
     {
-      "symbol": "MRK",
-      "price": 120.78,
-      "change": -2.96,
-      "pct_change": -2.39
+      "symbol": "AMZN",
+      "price": 247.49,
+      "change": -0.8,
+      "pct_change": -0.32
     }
   ]
 }
