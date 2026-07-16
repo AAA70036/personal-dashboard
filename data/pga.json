@@ -4,72 +4,72 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "1",
-        "name": "Alex Smalley",
-        "total": "-5",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-2",
+        "position": "T-1",
         "name": "Daniel Brown",
         "total": "-4",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "T-1",
         "name": "Sungjae Im",
         "total": "-4",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
+        "position": "T-3",
         "name": "Thomas Detry",
         "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
+        "position": "T-3",
         "name": "Robert MacIntyre",
         "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
+        "position": "T-3",
         "name": "Francesco Molinari",
         "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
-        "name": "Scottie Scheffler",
+        "position": "T-3",
+        "name": "Alex Smalley",
         "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
+        "position": "T-3",
         "name": "Bryson DeChambeau",
         "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
-        "name": "Nick Taylor",
+        "position": "T-3",
+        "name": "Ryan Gerard",
         "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
-        "name": "Ryan Gerard",
-        "total": "-3",
+        "position": "T-9",
+        "name": "Henrik Stenson",
+        "total": "-2",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-9",
+        "name": "Jordan Smith",
+        "total": "-2",
         "round_score": "-",
         "thru": "0"
       }
