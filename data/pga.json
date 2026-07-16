@@ -5,71 +5,71 @@
     "players": [
       {
         "position": "1",
+        "name": "Alex Smalley",
+        "total": "-4",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "2",
+        "name": "Thomas Detry",
+        "total": "-3",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
         "name": "Robert MacIntyre",
         "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
-        "name": "Thomas Detry",
-        "total": "-1",
+        "position": "T-3",
+        "name": "Alex Fitzpatrick",
+        "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
-        "name": "Matthew Baldwin",
-        "total": "-1",
+        "position": "T-3",
+        "name": "Bryson DeChambeau",
+        "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
-        "name": "Matthew Southgate",
-        "total": "-1",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
+        "position": "T-6",
         "name": "Andy Sullivan",
-        "total": "E",
+        "total": "-1",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
-        "name": "Henrik Stenson",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
+        "position": "T-6",
         "name": "Joe Dean",
-        "total": "E",
+        "total": "-1",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
-        "name": "Max Homa",
-        "total": "E",
+        "position": "T-6",
+        "name": "Sungjae Im",
+        "total": "-1",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
-        "name": "Rickie Fowler",
-        "total": "E",
+        "position": "T-6",
+        "name": "Daniel Brown",
+        "total": "-1",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
-        "name": "David Duval",
-        "total": "E",
+        "position": "T-6",
+        "name": "Hennie Du Plessis",
+        "total": "-1",
         "round_score": "-",
         "thru": "0"
       }
