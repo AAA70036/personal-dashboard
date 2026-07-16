@@ -4,14 +4,21 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "1",
-        "name": "Alex Smalley",
+        "position": "T-1",
+        "name": "Daniel Brown",
         "total": "-4",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "2",
+        "position": "T-1",
+        "name": "Sungjae Im",
+        "total": "-4",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
         "name": "Thomas Detry",
         "total": "-3",
         "round_score": "-",
@@ -20,56 +27,49 @@
       {
         "position": "T-3",
         "name": "Robert MacIntyre",
-        "total": "-2",
+        "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-3",
-        "name": "Alex Fitzpatrick",
-        "total": "-2",
+        "name": "Alex Smalley",
+        "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-3",
-        "name": "Bryson DeChambeau",
+        "name": "Scottie Scheffler",
+        "total": "-3",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-7",
+        "name": "Henrik Stenson",
         "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Andy Sullivan",
-        "total": "-1",
+        "position": "T-7",
+        "name": "Matthew Southgate",
+        "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Joe Dean",
-        "total": "-1",
+        "position": "T-7",
+        "name": "Francesco Molinari",
+        "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Sungjae Im",
-        "total": "-1",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Daniel Brown",
-        "total": "-1",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Hennie Du Plessis",
-        "total": "-1",
+        "position": "T-7",
+        "name": "Ben Griffin",
+        "total": "-2",
         "round_score": "-",
         "thru": "0"
       }
