@@ -1,10 +1,28 @@
 {
   "items": [
     {
+      "title": "White House says ICE traffic stops will continue after deadly shootings",
+      "link": "https://www.npr.org/2026/07/16/nx-s1-5896396/ice-traffic-stops-shootings",
+      "source": "NPR",
+      "published": "2026-07-16T21:31:23+00:00"
+    },
+    {
+      "title": "Flood sirens blare in southcentral Texas as rivers reach perilous heights",
+      "link": "https://www.npr.org/2026/07/16/nx-s1-5896458/flood-sirens-texas-rivers-reach-dangerous-heights",
+      "source": "NPR",
+      "published": "2026-07-16T21:30:03+00:00"
+    },
+    {
       "title": "Iran War Live Updates: U.S. and Iran Trade Strikes, Escalating Tensions Over Strait of Hormuz",
       "link": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz",
       "source": "NYT",
-      "published": "2026-07-16T20:25:50+00:00"
+      "published": "2026-07-16T21:21:40+00:00"
+    },
+    {
+      "title": "After years of false claims on voting, Trump to give an address on election integrity",
+      "link": "https://www.npr.org/2026/07/16/nx-s1-5896448/trump-election-address",
+      "source": "NPR",
+      "published": "2026-07-16T20:50:26+00:00"
     },
     {
       "title": "Fifa 'assessing match reports' over Falklands banner",
@@ -41,24 +59,6 @@
       "link": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html",
       "source": "NYT",
       "published": "2026-07-16T16:19:50+00:00"
-    },
-    {
-      "title": "Couples free to marry at the beach or the pub in England and Wales under new plans",
-      "link": "https://www.bbc.co.uk/news/articles/ckgvwxygpv2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-16T15:50:35+00:00"
-    },
-    {
-      "title": "Hong Kong official warns booksellers on security risks after raids",
-      "link": "https://www.npr.org/2026/07/16/g-s1-133931/hong-kong-official-warns-booksellers-on-security-risks-after-raids",
-      "source": "NPR",
-      "published": "2026-07-16T13:31:33+00:00"
-    },
-    {
-      "title": "In Iran war, Trump Risks Another American \u2018Forever War\u2019",
-      "link": "https://www.nytimes.com/2026/07/16/world/middleeast/forever-war-trump-iran.html",
-      "source": "NYT",
-      "published": "2026-07-16T13:20:24+00:00"
     }
   ]
 }
