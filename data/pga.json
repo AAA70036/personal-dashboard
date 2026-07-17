@@ -11,66 +11,66 @@
         "thru": "F"
       },
       {
-        "position": "T-2",
+        "position": "2",
+        "name": "Bryson DeChambeau",
+        "total": "-7",
+        "round_score": "-4",
+        "thru": "F"
+      },
+      {
+        "position": "T-3",
         "name": "Cameron Young",
         "total": "-6",
         "round_score": "-3",
         "thru": "F"
       },
       {
-        "position": "T-2",
+        "position": "T-3",
         "name": "Jackson Suber",
         "total": "-6",
         "round_score": "-1",
         "thru": "F"
       },
       {
-        "position": "T-4",
+        "position": "T-5",
         "name": "Sam Burns",
         "total": "-5",
         "round_score": "-8",
         "thru": "F"
       },
       {
-        "position": "T-4",
-        "name": "Bryson DeChambeau",
+        "position": "T-5",
+        "name": "Si Woo Kim",
         "total": "-5",
-        "round_score": "-2",
-        "thru": "13"
+        "round_score": "-3",
+        "thru": "17"
       },
       {
-        "position": "T-6",
+        "position": "T-5",
+        "name": "Ryan Gerard",
+        "total": "-5",
+        "round_score": "-2",
+        "thru": "16"
+      },
+      {
+        "position": "T-8",
         "name": "Matt Wallace",
         "total": "-4",
         "round_score": "-3",
         "thru": "F"
       },
       {
-        "position": "T-6",
+        "position": "T-8",
         "name": "Alex Fitzpatrick",
         "total": "-4",
         "round_score": "-3",
         "thru": "F"
       },
       {
-        "position": "T-6",
+        "position": "T-8",
         "name": "Bud Cauley",
         "total": "-4",
         "round_score": "-2",
-        "thru": "F"
-      },
-      {
-        "position": "T-6",
-        "name": "Thomas Detry",
-        "total": "-4",
-        "round_score": "-1",
-        "thru": "F"
-      },
-      {
-        "position": "T-6",
-        "name": "Robert MacIntyre",
-        "total": "-4",
-        "round_score": "-1",
         "thru": "F"
       }
     ]
