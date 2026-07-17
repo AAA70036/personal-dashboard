@@ -8,7 +8,7 @@
         "name": "Lucas Herbert",
         "total": "-8",
         "round_score": "-8",
-        "thru": "14"
+        "thru": "F"
       },
       {
         "position": "2",
@@ -19,59 +19,59 @@
       },
       {
         "position": "T-3",
-        "name": "Pierceson Coody",
+        "name": "Sam Burns",
         "total": "-5",
-        "round_score": "-2",
-        "thru": "16"
-      },
-      {
-        "position": "T-3",
-        "name": "Bud Cauley",
-        "total": "-5",
-        "round_score": "-3",
-        "thru": "14"
-      },
-      {
-        "position": "T-3",
-        "name": "Collin Morikawa",
-        "total": "-5",
-        "round_score": "-3",
-        "thru": "14"
+        "round_score": "-8",
+        "thru": "F"
       },
       {
         "position": "T-3",
         "name": "Cameron Young",
         "total": "-5",
-        "round_score": "-2",
-        "thru": "12"
+        "round_score": "+1",
+        "thru": "1"
       },
       {
-        "position": "T-7",
+        "position": "T-3",
+        "name": "Sungjae Im",
+        "total": "-5",
+        "round_score": "-1",
+        "thru": "8"
+      },
+      {
+        "position": "T-6",
         "name": "Matt Wallace",
         "total": "-4",
         "round_score": "-3",
         "thru": "F"
       },
       {
-        "position": "T-7",
-        "name": "Patrick Reed",
+        "position": "T-6",
+        "name": "Bud Cauley",
         "total": "-4",
-        "round_score": "-6",
-        "thru": "14"
+        "round_score": "-2",
+        "thru": "F"
       },
       {
-        "position": "T-7",
-        "name": "Daniel Brown",
+        "position": "T-6",
+        "name": "Ludvig \u00c5berg",
         "total": "-4",
-        "round_score": "E",
-        "thru": "1"
+        "round_score": "-5",
+        "thru": "17"
       },
       {
-        "position": "T-7",
-        "name": "Sungjae Im",
+        "position": "T-6",
+        "name": "Francesco Molinari",
         "total": "-4",
-        "round_score": "E",
-        "thru": "1"
+        "round_score": "-1",
+        "thru": "7"
+      },
+      {
+        "position": "T-6",
+        "name": "Ryo Hisatsune",
+        "total": "-4",
+        "round_score": "-2",
+        "thru": "3"
       }
     ]
   }
