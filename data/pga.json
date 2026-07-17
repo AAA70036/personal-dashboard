@@ -25,53 +25,53 @@
         "thru": "F"
       },
       {
-        "position": "4",
+        "position": "T-4",
         "name": "Sam Burns",
         "total": "-5",
         "round_score": "-8",
         "thru": "F"
       },
       {
-        "position": "T-5",
+        "position": "T-4",
+        "name": "Bryson DeChambeau",
+        "total": "-5",
+        "round_score": "-2",
+        "thru": "13"
+      },
+      {
+        "position": "T-6",
         "name": "Matt Wallace",
         "total": "-4",
         "round_score": "-3",
         "thru": "F"
       },
       {
-        "position": "T-5",
+        "position": "T-6",
         "name": "Alex Fitzpatrick",
         "total": "-4",
         "round_score": "-3",
         "thru": "F"
       },
       {
-        "position": "T-5",
+        "position": "T-6",
         "name": "Bud Cauley",
         "total": "-4",
         "round_score": "-2",
         "thru": "F"
       },
       {
-        "position": "T-5",
+        "position": "T-6",
         "name": "Thomas Detry",
         "total": "-4",
         "round_score": "-1",
         "thru": "F"
       },
       {
-        "position": "T-5",
+        "position": "T-6",
         "name": "Robert MacIntyre",
         "total": "-4",
         "round_score": "-1",
         "thru": "F"
-      },
-      {
-        "position": "T-5",
-        "name": "Daniel Brown",
-        "total": "-4",
-        "round_score": "E",
-        "thru": "17"
       }
     ]
   }
