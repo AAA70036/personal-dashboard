@@ -26,31 +26,31 @@
       },
       {
         "position": "T-3",
+        "name": "Ryan Gerard",
+        "total": "-6",
+        "round_score": "-3",
+        "thru": "F"
+      },
+      {
+        "position": "T-3",
         "name": "Jackson Suber",
         "total": "-6",
         "round_score": "-1",
         "thru": "F"
       },
       {
-        "position": "T-5",
+        "position": "T-6",
         "name": "Sam Burns",
         "total": "-5",
         "round_score": "-8",
         "thru": "F"
       },
       {
-        "position": "T-5",
+        "position": "T-6",
         "name": "Si Woo Kim",
         "total": "-5",
         "round_score": "-3",
-        "thru": "17"
-      },
-      {
-        "position": "T-5",
-        "name": "Ryan Gerard",
-        "total": "-5",
-        "round_score": "-2",
-        "thru": "16"
+        "thru": "F"
       },
       {
         "position": "T-8",
@@ -68,9 +68,9 @@
       },
       {
         "position": "T-8",
-        "name": "Bud Cauley",
+        "name": "Tommy Fleetwood",
         "total": "-4",
-        "round_score": "-2",
+        "round_score": "-3",
         "thru": "F"
       }
     ]
