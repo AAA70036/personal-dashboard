@@ -6,72 +6,72 @@
       {
         "position": "1",
         "name": "Lucas Herbert",
-        "total": "-6",
-        "round_score": "-6",
-        "thru": "10"
+        "total": "-8",
+        "round_score": "-8",
+        "thru": "14"
       },
       {
-        "position": "T-2",
+        "position": "2",
         "name": "Jackson Suber",
-        "total": "-5",
-        "round_score": "E",
-        "thru": "15"
+        "total": "-6",
+        "round_score": "-1",
+        "thru": "F"
       },
       {
-        "position": "T-2",
+        "position": "T-3",
+        "name": "Pierceson Coody",
+        "total": "-5",
+        "round_score": "-2",
+        "thru": "16"
+      },
+      {
+        "position": "T-3",
         "name": "Bud Cauley",
         "total": "-5",
         "round_score": "-3",
-        "thru": "10"
+        "thru": "14"
       },
       {
-        "position": "T-4",
+        "position": "T-3",
+        "name": "Collin Morikawa",
+        "total": "-5",
+        "round_score": "-3",
+        "thru": "14"
+      },
+      {
+        "position": "T-3",
+        "name": "Cameron Young",
+        "total": "-5",
+        "round_score": "-2",
+        "thru": "12"
+      },
+      {
+        "position": "T-7",
         "name": "Matt Wallace",
         "total": "-4",
         "round_score": "-3",
         "thru": "F"
       },
       {
-        "position": "T-4",
-        "name": "Pierceson Coody",
+        "position": "T-7",
+        "name": "Patrick Reed",
         "total": "-4",
-        "round_score": "-1",
-        "thru": "12"
+        "round_score": "-6",
+        "thru": "14"
       },
       {
-        "position": "T-4",
-        "name": "Collin Morikawa",
-        "total": "-4",
-        "round_score": "-2",
-        "thru": "8"
-      },
-      {
-        "position": "T-4",
+        "position": "T-7",
         "name": "Daniel Brown",
         "total": "-4",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "E",
+        "thru": "1"
       },
       {
-        "position": "T-4",
+        "position": "T-7",
         "name": "Sungjae Im",
         "total": "-4",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Sepp Straka",
-        "total": "-3",
-        "round_score": "-1",
-        "thru": "16"
-      },
-      {
-        "position": "T-9",
-        "name": "Ludvig \u00c5berg",
-        "total": "-3",
-        "round_score": "-4",
-        "thru": "7"
+        "round_score": "E",
+        "thru": "1"
       }
     ]
   }
