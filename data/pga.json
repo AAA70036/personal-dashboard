@@ -7,71 +7,71 @@
         "position": "1",
         "name": "Lucas Herbert",
         "total": "-8",
-        "round_score": "-8",
-        "thru": "F"
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "2",
-        "name": "Bryson DeChambeau",
-        "total": "-7",
-        "round_score": "-4",
-        "thru": "F"
-      },
-      {
-        "position": "T-3",
+        "position": "T-2",
         "name": "Cameron Young",
         "total": "-6",
-        "round_score": "-3",
-        "thru": "F"
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-2",
         "name": "Ryan Gerard",
         "total": "-6",
-        "round_score": "-3",
-        "thru": "F"
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-2",
         "name": "Jackson Suber",
         "total": "-6",
-        "round_score": "-1",
-        "thru": "F"
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-6",
+        "position": "T-5",
         "name": "Sam Burns",
         "total": "-5",
-        "round_score": "-8",
-        "thru": "F"
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-6",
+        "position": "T-5",
         "name": "Si Woo Kim",
         "total": "-5",
-        "round_score": "-3",
-        "thru": "F"
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-5",
+        "name": "Bryson DeChambeau",
+        "total": "-5",
+        "round_score": "-",
+        "thru": "0"
       },
       {
         "position": "T-8",
         "name": "Matt Wallace",
         "total": "-4",
-        "round_score": "-3",
-        "thru": "F"
+        "round_score": "-",
+        "thru": "0"
       },
       {
         "position": "T-8",
         "name": "Alex Fitzpatrick",
         "total": "-4",
-        "round_score": "-3",
-        "thru": "F"
+        "round_score": "-",
+        "thru": "0"
       },
       {
         "position": "T-8",
         "name": "Tommy Fleetwood",
         "total": "-4",
-        "round_score": "-3",
-        "thru": "F"
+        "round_score": "-",
+        "thru": "0"
       }
     ]
   }
