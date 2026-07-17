@@ -1,22 +1,22 @@
 {
   "items": [
     {
-      "title": "UK heatwave approaches two-week mark",
-      "link": "https://www.bbc.co.uk/weather/articles/ckg4gqlye02o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-16T23:28:21+00:00"
-    },
-    {
-      "title": "Iran War Live Updates: U.S. Launches New Strikes, as Tensions Escalate Over Strait of Hormuz",
+      "title": "Iran War Updates: U.S. Launches New Strikes, as Tensions Escalate Over Strait of Hormuz",
       "link": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz",
       "source": "NYT",
-      "published": "2026-07-16T23:10:05+00:00"
+      "published": "2026-07-17T00:48:11+00:00"
     },
     {
       "title": "Blasts reported in Iran as US launches new wave of strikes",
       "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-07-16T21:44:37+00:00"
+      "published": "2026-07-16T23:57:26+00:00"
+    },
+    {
+      "title": "UK heatwave approaches two-week mark",
+      "link": "https://www.bbc.co.uk/weather/articles/ckg4gqlye02o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-16T23:28:21+00:00"
     },
     {
       "title": "Burnham to promise new path for UK when he becomes new Labour leader",
@@ -31,7 +31,7 @@
       "published": "2026-07-16T21:31:23+00:00"
     },
     {
-      "title": "Flood sirens blare in southcentral Texas as rivers reach perilous heights",
+      "title": "Flood sirens blare in South Central Texas as rivers reach perilous heights",
       "link": "https://www.npr.org/2026/07/16/nx-s1-5896458/flood-sirens-texas-rivers-reach-dangerous-heights",
       "source": "NPR",
       "published": "2026-07-16T21:30:03+00:00"
@@ -41,6 +41,12 @@
       "link": "https://www.npr.org/2026/07/16/nx-s1-5896448/trump-election-address",
       "source": "NPR",
       "published": "2026-07-16T20:50:26+00:00"
+    },
+    {
+      "title": "Dangerous wildfire smoke continues to blanket parts of the U.S.",
+      "link": "https://www.npr.org/2026/07/16/nx-s1-5894857/wildfire-smoke-fires-ontario-minnesota",
+      "source": "NPR",
+      "published": "2026-07-16T20:32:27+00:00"
     },
     {
       "title": "Fifa 'assessing match reports' over Falklands banner",
@@ -53,12 +59,6 @@
       "link": "https://www.npr.org/2026/07/16/g-s1-133961/why-orthodox-jews-are-opposing-the-new-daylight-saving-bill-in-congress",
       "source": "NPR",
       "published": "2026-07-16T17:24:31+00:00"
-    },
-    {
-      "title": "Sadiq Khan among 26 new peers to enter the Lords",
-      "link": "https://www.bbc.co.uk/news/articles/cglj25k94r9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-16T17:20:47+00:00"
     }
   ]
 }
