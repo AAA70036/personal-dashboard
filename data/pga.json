@@ -4,71 +4,71 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "1",
-        "name": "Jackson Suber",
-        "total": "-5",
-        "round_score": "-",
-        "thru": "0"
+        "position": "T-1",
+        "name": "Matt Wallace",
+        "total": "-4",
+        "round_score": "-3",
+        "thru": "12"
       },
       {
-        "position": "T-2",
+        "position": "T-1",
+        "name": "Jackson Suber",
+        "total": "-4",
+        "round_score": "+1",
+        "thru": "7"
+      },
+      {
+        "position": "T-1",
+        "name": "Pierceson Coody",
+        "total": "-4",
+        "round_score": "-1",
+        "thru": "3"
+      },
+      {
+        "position": "T-1",
         "name": "Daniel Brown",
         "total": "-4",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "T-1",
         "name": "Sungjae Im",
         "total": "-4",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
+        "position": "T-6",
         "name": "Thomas Detry",
         "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
+        "position": "T-6",
         "name": "Robert MacIntyre",
         "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
+        "position": "T-6",
         "name": "Francesco Molinari",
         "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
+        "position": "T-6",
         "name": "Alex Smalley",
         "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
+        "position": "T-6",
         "name": "Bryson DeChambeau",
-        "total": "-3",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Ryan Gerard",
-        "total": "-3",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "MJ Daffue",
         "total": "-3",
         "round_score": "-",
         "thru": "0"
