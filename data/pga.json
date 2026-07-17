@@ -4,74 +4,74 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
+        "position": "1",
+        "name": "Lucas Herbert",
+        "total": "-6",
+        "round_score": "-6",
+        "thru": "10"
+      },
+      {
+        "position": "T-2",
+        "name": "Jackson Suber",
+        "total": "-5",
+        "round_score": "E",
+        "thru": "15"
+      },
+      {
+        "position": "T-2",
+        "name": "Bud Cauley",
+        "total": "-5",
+        "round_score": "-3",
+        "thru": "10"
+      },
+      {
+        "position": "T-4",
         "name": "Matt Wallace",
         "total": "-4",
         "round_score": "-3",
-        "thru": "12"
+        "thru": "F"
       },
       {
-        "position": "T-1",
-        "name": "Jackson Suber",
-        "total": "-4",
-        "round_score": "+1",
-        "thru": "7"
-      },
-      {
-        "position": "T-1",
+        "position": "T-4",
         "name": "Pierceson Coody",
         "total": "-4",
         "round_score": "-1",
-        "thru": "3"
+        "thru": "12"
       },
       {
-        "position": "T-1",
+        "position": "T-4",
+        "name": "Collin Morikawa",
+        "total": "-4",
+        "round_score": "-2",
+        "thru": "8"
+      },
+      {
+        "position": "T-4",
         "name": "Daniel Brown",
         "total": "-4",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-4",
         "name": "Sungjae Im",
         "total": "-4",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Thomas Detry",
+        "position": "T-9",
+        "name": "Sepp Straka",
         "total": "-3",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "-1",
+        "thru": "16"
       },
       {
-        "position": "T-6",
-        "name": "Robert MacIntyre",
+        "position": "T-9",
+        "name": "Ludvig \u00c5berg",
         "total": "-3",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Francesco Molinari",
-        "total": "-3",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Alex Smalley",
-        "total": "-3",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Bryson DeChambeau",
-        "total": "-3",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "-4",
+        "thru": "7"
       }
     ]
   }
