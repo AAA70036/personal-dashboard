@@ -40,6 +40,13 @@
       },
       {
         "position": "T-5",
+        "name": "Alex Fitzpatrick",
+        "total": "-4",
+        "round_score": "-3",
+        "thru": "F"
+      },
+      {
+        "position": "T-5",
         "name": "Bud Cauley",
         "total": "-4",
         "round_score": "-2",
@@ -50,28 +57,21 @@
         "name": "Thomas Detry",
         "total": "-4",
         "round_score": "-1",
-        "thru": "16"
+        "thru": "F"
       },
       {
         "position": "T-5",
-        "name": "Alex Fitzpatrick",
-        "total": "-4",
-        "round_score": "-3",
-        "thru": "15"
-      },
-      {
-        "position": "T-5",
-        "name": "Sungjae Im",
-        "total": "-4",
-        "round_score": "E",
-        "thru": "14"
-      },
-      {
-        "position": "T-5",
-        "name": "Francesco Molinari",
+        "name": "Robert MacIntyre",
         "total": "-4",
         "round_score": "-1",
-        "thru": "12"
+        "thru": "F"
+      },
+      {
+        "position": "T-5",
+        "name": "Daniel Brown",
+        "total": "-4",
+        "round_score": "E",
+        "thru": "17"
       }
     ]
   }
