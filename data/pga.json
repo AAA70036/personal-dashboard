@@ -4,39 +4,46 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "1",
+        "position": "T-1",
+        "name": "Ryan Fox",
+        "total": "-8",
+        "round_score": "-8",
+        "thru": "F"
+      },
+      {
+        "position": "T-1",
         "name": "Lucas Herbert",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
-        "name": "Ryan Fox",
-        "total": "-6",
-        "round_score": "-6",
-        "thru": "12"
-      },
-      {
-        "position": "T-2",
+        "position": "T-3",
         "name": "Cameron Young",
         "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "T-3",
         "name": "Ryan Gerard",
         "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "T-3",
         "name": "Jackson Suber",
         "total": "-6",
         "round_score": "-",
         "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Rasmus Neergaard-Petersen",
+        "total": "-5",
+        "round_score": "-3",
+        "thru": "6"
       },
       {
         "position": "T-6",
@@ -60,18 +67,11 @@
         "thru": "0"
       },
       {
-        "position": "T-9",
-        "name": "Josele Ballester",
+        "position": "10",
+        "name": "Xander Schauffele",
         "total": "-4",
-        "round_score": "-5",
-        "thru": "17"
-      },
-      {
-        "position": "T-9",
-        "name": "Matt Wallace",
-        "total": "-4",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "-4",
+        "thru": "F"
       }
     ]
   }
