@@ -4,74 +4,74 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
+        "position": "1",
         "name": "Sam Burns",
-        "total": "-9",
-        "round_score": "-4",
-        "thru": "15"
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Lucas Herbert",
-        "total": "-9",
-        "round_score": "-1",
-        "thru": "14"
-      },
-      {
-        "position": "T-3",
+        "position": "T-2",
         "name": "Ryan Fox",
         "total": "-8",
-        "round_score": "-8",
-        "thru": "F"
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-3",
-        "name": "Jackson Suber",
-        "total": "-8",
-        "round_score": "-2",
-        "thru": "14"
-      },
-      {
-        "position": "T-5",
+        "position": "T-2",
         "name": "Si Woo Kim",
-        "total": "-7",
-        "round_score": "-2",
-        "thru": "16"
+        "total": "-8",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-5",
+        "position": "T-4",
         "name": "Ryan Gerard",
         "total": "-7",
-        "round_score": "-1",
-        "thru": "14"
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-7",
+        "position": "T-4",
+        "name": "Lucas Herbert",
+        "total": "-7",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
         "name": "Ludvig \u00c5berg",
         "total": "-6",
-        "round_score": "-3",
-        "thru": "F"
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-7",
+        "position": "T-6",
         "name": "Bryson DeChambeau",
         "total": "-6",
-        "round_score": "-1",
-        "thru": "15"
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Jackson Suber",
+        "total": "-6",
+        "round_score": "-",
+        "thru": "0"
       },
       {
         "position": "T-9",
         "name": "Rasmus Neergaard-Petersen",
         "total": "-5",
-        "round_score": "-3",
-        "thru": "F"
+        "round_score": "-",
+        "thru": "0"
       },
       {
         "position": "T-9",
         "name": "Tommy Fleetwood",
         "total": "-5",
-        "round_score": "-1",
-        "thru": "F"
+        "round_score": "-",
+        "thru": "0"
       }
     ]
   }
