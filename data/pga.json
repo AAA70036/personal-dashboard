@@ -12,6 +12,13 @@
       },
       {
         "position": "T-2",
+        "name": "Ryan Fox",
+        "total": "-6",
+        "round_score": "-6",
+        "thru": "12"
+      },
+      {
+        "position": "T-2",
         "name": "Cameron Young",
         "total": "-6",
         "round_score": "-",
@@ -32,28 +39,21 @@
         "thru": "0"
       },
       {
-        "position": "T-5",
-        "name": "Ryan Fox",
-        "total": "-5",
-        "round_score": "-5",
-        "thru": "8"
-      },
-      {
-        "position": "T-5",
+        "position": "T-6",
         "name": "Sam Burns",
         "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
+        "position": "T-6",
         "name": "Si Woo Kim",
         "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
+        "position": "T-6",
         "name": "Bryson DeChambeau",
         "total": "-5",
         "round_score": "-",
@@ -61,14 +61,14 @@
       },
       {
         "position": "T-9",
-        "name": "Matt Wallace",
+        "name": "Josele Ballester",
         "total": "-4",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "-5",
+        "thru": "17"
       },
       {
         "position": "T-9",
-        "name": "Alex Fitzpatrick",
+        "name": "Matt Wallace",
         "total": "-4",
         "round_score": "-",
         "thru": "0"
