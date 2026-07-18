@@ -33,6 +33,13 @@
       },
       {
         "position": "T-5",
+        "name": "Ryan Fox",
+        "total": "-5",
+        "round_score": "-5",
+        "thru": "8"
+      },
+      {
+        "position": "T-5",
         "name": "Sam Burns",
         "total": "-5",
         "round_score": "-",
@@ -53,22 +60,15 @@
         "thru": "0"
       },
       {
-        "position": "T-8",
+        "position": "T-9",
         "name": "Matt Wallace",
         "total": "-4",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-8",
+        "position": "T-9",
         "name": "Alex Fitzpatrick",
-        "total": "-4",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-8",
-        "name": "Tommy Fleetwood",
         "total": "-4",
         "round_score": "-",
         "thru": "0"
