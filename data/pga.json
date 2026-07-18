@@ -4,60 +4,60 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "1",
+        "position": "T-1",
+        "name": "Sam Burns",
+        "total": "-9",
+        "round_score": "-4",
+        "thru": "15"
+      },
+      {
+        "position": "T-1",
         "name": "Lucas Herbert",
         "total": "-9",
         "round_score": "-1",
-        "thru": "10"
+        "thru": "14"
       },
       {
-        "position": "T-2",
+        "position": "T-3",
         "name": "Ryan Fox",
         "total": "-8",
         "round_score": "-8",
         "thru": "F"
       },
       {
-        "position": "T-2",
-        "name": "Sam Burns",
+        "position": "T-3",
+        "name": "Jackson Suber",
         "total": "-8",
-        "round_score": "-3",
-        "thru": "12"
+        "round_score": "-2",
+        "thru": "14"
       },
       {
-        "position": "T-4",
+        "position": "T-5",
         "name": "Si Woo Kim",
         "total": "-7",
         "round_score": "-2",
-        "thru": "12"
+        "thru": "16"
       },
       {
-        "position": "T-4",
-        "name": "Jackson Suber",
+        "position": "T-5",
+        "name": "Ryan Gerard",
         "total": "-7",
         "round_score": "-1",
-        "thru": "10"
+        "thru": "14"
       },
       {
-        "position": "T-6",
+        "position": "T-7",
         "name": "Ludvig \u00c5berg",
         "total": "-6",
         "round_score": "-3",
-        "thru": "17"
+        "thru": "F"
       },
       {
-        "position": "T-6",
-        "name": "Tommy Fleetwood",
+        "position": "T-7",
+        "name": "Bryson DeChambeau",
         "total": "-6",
-        "round_score": "-2",
+        "round_score": "-1",
         "thru": "15"
-      },
-      {
-        "position": "T-6",
-        "name": "Cameron Young",
-        "total": "-6",
-        "round_score": "E",
-        "thru": "11"
       },
       {
         "position": "T-9",
@@ -68,10 +68,10 @@
       },
       {
         "position": "T-9",
-        "name": "Cameron John",
+        "name": "Tommy Fleetwood",
         "total": "-5",
-        "round_score": "-2",
-        "thru": "17"
+        "round_score": "-1",
+        "thru": "F"
       }
     ]
   }
