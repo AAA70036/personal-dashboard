@@ -5,6 +5,13 @@
     "players": [
       {
         "position": "1",
+        "name": "Lucas Herbert",
+        "total": "-9",
+        "round_score": "-1",
+        "thru": "10"
+      },
+      {
+        "position": "T-2",
         "name": "Ryan Fox",
         "total": "-8",
         "round_score": "-8",
@@ -12,66 +19,59 @@
       },
       {
         "position": "T-2",
+        "name": "Sam Burns",
+        "total": "-8",
+        "round_score": "-3",
+        "thru": "12"
+      },
+      {
+        "position": "T-4",
         "name": "Si Woo Kim",
         "total": "-7",
         "round_score": "-2",
-        "thru": "7"
+        "thru": "12"
       },
       {
-        "position": "T-2",
-        "name": "Sam Burns",
-        "total": "-7",
-        "round_score": "-2",
-        "thru": "6"
-      },
-      {
-        "position": "T-2",
-        "name": "Cameron Young",
-        "total": "-7",
-        "round_score": "-1",
-        "thru": "5"
-      },
-      {
-        "position": "T-2",
+        "position": "T-4",
         "name": "Jackson Suber",
         "total": "-7",
         "round_score": "-1",
-        "thru": "4"
+        "thru": "10"
       },
       {
-        "position": "T-2",
-        "name": "Lucas Herbert",
-        "total": "-7",
-        "round_score": "+1",
-        "thru": "4"
+        "position": "T-6",
+        "name": "Ludvig \u00c5berg",
+        "total": "-6",
+        "round_score": "-3",
+        "thru": "17"
       },
       {
-        "position": "7",
+        "position": "T-6",
         "name": "Tommy Fleetwood",
         "total": "-6",
         "round_score": "-2",
-        "thru": "10"
+        "thru": "15"
       },
       {
-        "position": "T-8",
-        "name": "Scottie Scheffler",
-        "total": "-5",
-        "round_score": "-1",
-        "thru": "10"
-      },
-      {
-        "position": "T-8",
-        "name": "Bryson DeChambeau",
-        "total": "-5",
+        "position": "T-6",
+        "name": "Cameron Young",
+        "total": "-6",
         "round_score": "E",
-        "thru": "6"
+        "thru": "11"
       },
       {
-        "position": "T-8",
-        "name": "Ryan Gerard",
+        "position": "T-9",
+        "name": "Rasmus Neergaard-Petersen",
         "total": "-5",
-        "round_score": "+1",
-        "thru": "5"
+        "round_score": "-3",
+        "thru": "F"
+      },
+      {
+        "position": "T-9",
+        "name": "Cameron John",
+        "total": "-5",
+        "round_score": "-2",
+        "thru": "17"
       }
     ]
   }
