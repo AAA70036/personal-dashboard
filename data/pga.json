@@ -19,17 +19,24 @@
       },
       {
         "position": "T-3",
-        "name": "Cameron Young",
+        "name": "Si Woo Kim",
         "total": "-6",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "-1",
+        "thru": "2"
       },
       {
         "position": "T-3",
         "name": "Ryan Gerard",
         "total": "-6",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "E",
+        "thru": "1"
+      },
+      {
+        "position": "T-3",
+        "name": "Cameron Young",
+        "total": "-6",
+        "round_score": "E",
+        "thru": "1"
       },
       {
         "position": "T-3",
@@ -39,39 +46,32 @@
         "thru": "0"
       },
       {
-        "position": "T-6",
+        "position": "T-7",
         "name": "Rasmus Neergaard-Petersen",
         "total": "-5",
         "round_score": "-3",
-        "thru": "6"
+        "thru": "12"
       },
       {
-        "position": "T-6",
-        "name": "Sam Burns",
+        "position": "T-7",
+        "name": "Tommy Fleetwood",
         "total": "-5",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "-1",
+        "thru": "5"
       },
       {
-        "position": "T-6",
-        "name": "Si Woo Kim",
+        "position": "T-7",
+        "name": "Scottie Scheffler",
         "total": "-5",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "-1",
+        "thru": "5"
       },
       {
-        "position": "T-6",
-        "name": "Bryson DeChambeau",
+        "position": "T-7",
+        "name": "Thomas Detry",
         "total": "-5",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "10",
-        "name": "Xander Schauffele",
-        "total": "-4",
-        "round_score": "-4",
-        "thru": "F"
+        "round_score": "-1",
+        "thru": "3"
       }
     ]
   }
