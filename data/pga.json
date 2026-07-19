@@ -7,71 +7,71 @@
         "position": "1",
         "name": "Sam Burns",
         "total": "-10",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "E",
+        "thru": "1"
       },
       {
         "position": "T-2",
-        "name": "Ryan Fox",
+        "name": "Cameron Young",
         "total": "-8",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "-5",
+        "thru": "12"
       },
       {
         "position": "T-2",
         "name": "Si Woo Kim",
         "total": "-8",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "E",
+        "thru": "2"
       },
       {
-        "position": "T-4",
+        "position": "T-2",
+        "name": "Ryan Fox",
+        "total": "-8",
+        "round_score": "E",
+        "thru": "1"
+      },
+      {
+        "position": "T-5",
+        "name": "Scottie Scheffler",
+        "total": "-7",
+        "round_score": "-3",
+        "thru": "9"
+      },
+      {
+        "position": "T-5",
+        "name": "Tommy Fleetwood",
+        "total": "-7",
+        "round_score": "-2",
+        "thru": "5"
+      },
+      {
+        "position": "T-5",
         "name": "Ryan Gerard",
         "total": "-7",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "E",
+        "thru": "2"
       },
       {
-        "position": "T-4",
+        "position": "T-5",
         "name": "Lucas Herbert",
         "total": "-7",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "E",
+        "thru": "2"
       },
       {
-        "position": "T-6",
-        "name": "Cameron Young",
+        "position": "T-9",
+        "name": "Russell Henley",
         "total": "-6",
-        "round_score": "-3",
-        "thru": "4"
+        "round_score": "-5",
+        "thru": "16"
       },
       {
-        "position": "T-6",
-        "name": "Ludvig \u00c5berg",
+        "position": "T-9",
+        "name": "Kazuma Kobori",
         "total": "-6",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Bryson DeChambeau",
-        "total": "-6",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Jackson Suber",
-        "total": "-6",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-10",
-        "name": "Scottie Scheffler",
-        "total": "-5",
-        "round_score": "-1",
-        "thru": "1"
+        "round_score": "-2",
+        "thru": "6"
       }
     ]
   }
