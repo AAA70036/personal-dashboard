@@ -4,46 +4,46 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "1",
+        "position": "T-1",
         "name": "Cameron Young",
         "total": "-9",
         "round_score": "-6",
         "thru": "F"
       },
       {
-        "position": "T-2",
-        "name": "Scottie Scheffler",
-        "total": "-8",
-        "round_score": "-4",
-        "thru": "17"
+        "position": "T-1",
+        "name": "Ryan Fox",
+        "total": "-9",
+        "round_score": "-1",
+        "thru": "16"
       },
       {
-        "position": "T-2",
-        "name": "Si Woo Kim",
-        "total": "-8",
-        "round_score": "E",
-        "thru": "12"
-      },
-      {
-        "position": "T-2",
+        "position": "3",
         "name": "Sam Burns",
         "total": "-8",
         "round_score": "+2",
-        "thru": "11"
+        "thru": "16"
       },
       {
-        "position": "T-5",
-        "name": "Lucas Herbert",
+        "position": "T-4",
+        "name": "Scottie Scheffler",
         "total": "-7",
-        "round_score": "E",
-        "thru": "12"
+        "round_score": "-3",
+        "thru": "F"
       },
       {
-        "position": "T-5",
-        "name": "Ryan Fox",
+        "position": "T-4",
+        "name": "Tommy Fleetwood",
+        "total": "-7",
+        "round_score": "-2",
+        "thru": "F"
+      },
+      {
+        "position": "T-4",
+        "name": "Si Woo Kim",
         "total": "-7",
         "round_score": "+1",
-        "thru": "11"
+        "thru": "17"
       },
       {
         "position": "T-7",
@@ -54,24 +54,24 @@
       },
       {
         "position": "T-7",
+        "name": "Ludvig \u00c5berg",
+        "total": "-6",
+        "round_score": "E",
+        "thru": "17"
+      },
+      {
+        "position": "T-7",
         "name": "Ryan Gerard",
         "total": "-6",
         "round_score": "+1",
-        "thru": "12"
+        "thru": "17"
       },
       {
-        "position": "T-9",
-        "name": "Russell Henley",
-        "total": "-5",
-        "round_score": "-4",
-        "thru": "F"
-      },
-      {
-        "position": "T-9",
-        "name": "Adam Scott",
-        "total": "-5",
-        "round_score": "-4",
-        "thru": "F"
+        "position": "T-7",
+        "name": "Lucas Herbert",
+        "total": "-6",
+        "round_score": "+1",
+        "thru": "17"
       }
     ]
   }
