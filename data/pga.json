@@ -1,28 +1,28 @@
 {
   "leaderboard": {
     "tournament": "The Open",
-    "status": "In Progress",
+    "status": "Final",
     "players": [
       {
-        "position": "T-1",
+        "position": "1",
+        "name": "Ryan Fox",
+        "total": "-10",
+        "round_score": "-2",
+        "thru": "F"
+      },
+      {
+        "position": "2",
         "name": "Cameron Young",
         "total": "-9",
         "round_score": "-6",
         "thru": "F"
       },
       {
-        "position": "T-1",
-        "name": "Ryan Fox",
-        "total": "-9",
-        "round_score": "-1",
-        "thru": "16"
-      },
-      {
         "position": "3",
         "name": "Sam Burns",
         "total": "-8",
         "round_score": "+2",
-        "thru": "16"
+        "thru": "F"
       },
       {
         "position": "T-4",
@@ -39,39 +39,39 @@
         "thru": "F"
       },
       {
-        "position": "T-4",
-        "name": "Si Woo Kim",
-        "total": "-7",
-        "round_score": "+1",
-        "thru": "17"
-      },
-      {
-        "position": "T-7",
+        "position": "T-6",
         "name": "Casey Jarvis",
         "total": "-6",
         "round_score": "-4",
         "thru": "F"
       },
       {
-        "position": "T-7",
-        "name": "Ludvig \u00c5berg",
-        "total": "-6",
-        "round_score": "E",
-        "thru": "17"
-      },
-      {
-        "position": "T-7",
-        "name": "Ryan Gerard",
-        "total": "-6",
-        "round_score": "+1",
-        "thru": "17"
-      },
-      {
-        "position": "T-7",
+        "position": "T-6",
         "name": "Lucas Herbert",
         "total": "-6",
         "round_score": "+1",
-        "thru": "17"
+        "thru": "F"
+      },
+      {
+        "position": "T-6",
+        "name": "Si Woo Kim",
+        "total": "-6",
+        "round_score": "+2",
+        "thru": "F"
+      },
+      {
+        "position": "T-9",
+        "name": "Russell Henley",
+        "total": "-5",
+        "round_score": "-4",
+        "thru": "F"
+      },
+      {
+        "position": "T-9",
+        "name": "Adam Scott",
+        "total": "-5",
+        "round_score": "-4",
+        "thru": "F"
       }
     ]
   }
