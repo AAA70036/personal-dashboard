@@ -40,6 +40,13 @@
       },
       {
         "position": "T-6",
+        "name": "Cameron Young",
+        "total": "-6",
+        "round_score": "-3",
+        "thru": "4"
+      },
+      {
+        "position": "T-6",
         "name": "Ludvig \u00c5berg",
         "total": "-6",
         "round_score": "-",
@@ -60,18 +67,11 @@
         "thru": "0"
       },
       {
-        "position": "T-9",
-        "name": "Rasmus Neergaard-Petersen",
+        "position": "T-10",
+        "name": "Scottie Scheffler",
         "total": "-5",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Tommy Fleetwood",
-        "total": "-5",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "-1",
+        "thru": "1"
       }
     ]
   }
