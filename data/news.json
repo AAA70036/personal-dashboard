@@ -1,10 +1,40 @@
 {
   "items": [
     {
-      "title": "Trump imposes 50% tariff on Canadian imports",
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-21T02:41:28+00:00"
+    },
+    {
+      "title": "Inside the Deadly U.S. Airstrike on a Shadow Fleet Tanker",
+      "link": "https://www.nytimes.com/2026/07/20/world/middleeast/inside-the-deadly-us-airstrike-on-a-shadow-fleet-tanker.html",
+      "source": "NYT",
+      "published": "2026-07-21T02:28:31+00:00"
+    },
+    {
+      "title": "Another U.S. Service Member Is Killed as Iran War Expands",
+      "link": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
+      "source": "NYT",
+      "published": "2026-07-21T02:20:18+00:00"
+    },
+    {
+      "title": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
+      "link": "https://www.npr.org/2026/07/20/nx-s1-5901356/fda-focused-taylor-farms-lettuce-cyclospora-source-despite-retracted-test",
+      "source": "NPR",
+      "published": "2026-07-21T00:36:28+00:00"
+    },
+    {
+      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
       "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-07-21T00:03:37+00:00"
+      "published": "2026-07-21T00:34:47+00:00"
+    },
+    {
+      "title": "Who's in Andy Burnham's cabinet?",
+      "link": "https://www.bbc.co.uk/news/articles/ckg4we9g58do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-20T23:16:54+00:00"
     },
     {
       "title": "Trump Says Netanyahu Will Not Be Arrested in the U.S.",
@@ -19,46 +49,16 @@
       "published": "2026-07-20T22:00:57+00:00"
     },
     {
-      "title": "Another U.S. Service Member Is Killed as Iran War Expands",
-      "link": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
-      "source": "NYT",
-      "published": "2026-07-20T20:36:28+00:00"
-    },
-    {
-      "title": "10 things that wowed us at the 2026 World Cup",
-      "link": "https://www.npr.org/2026/07/20/nx-s1-5892511/2026-world-cup-fifa-spain-argentina-tournament",
+      "title": "At Mississippi funeral, Civil Rights leaders call for justice for Nolan Wells, 18",
+      "link": "https://www.npr.org/2026/07/20/nx-s1-5897559/nolan-wells-sharpton-crump-funeral",
       "source": "NPR",
-      "published": "2026-07-20T19:56:44+00:00"
+      "published": "2026-07-20T20:55:52+00:00"
     },
     {
-      "title": "Inside Andy Burnham\u2019s 1st Day as U.K. Prime Minister",
-      "link": "https://www.nytimes.com/2026/07/20/world/europe/andy-burnham-uk.html",
-      "source": "NYT",
-      "published": "2026-07-20T19:35:10+00:00"
-    },
-    {
-      "title": "Man, 28, charged with murder of Ann Widdecombe",
-      "link": "https://www.bbc.co.uk/news/articles/cn4n2erympvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-20T19:02:04+00:00"
-    },
-    {
-      "title": "In Venezuela\u2019s Rubble, a Search for the Family Pets",
-      "link": "https://www.nytimes.com/2026/07/20/world/americas/venezuela-earthquakes-volunteer-pets.html",
-      "source": "NYT",
-      "published": "2026-07-20T18:51:24+00:00"
-    },
-    {
-      "title": "Inside the Deadly U.S. Airstrike on a Shadow Fleet Tanker",
-      "link": "https://www.nytimes.com/2026/07/20/world/middleeast/inside-the-deadly-us-airstrike-on-a-shadow-fleet-tanker.html",
-      "source": "NYT",
-      "published": "2026-07-20T18:13:58+00:00"
-    },
-    {
-      "title": "Court ruling freezes Paramount-Warner Bros. merger for now",
-      "link": "https://www.npr.org/2026/07/20/nx-s1-5900888/paramount-wbd-tro-restraining-lawsuit",
+      "title": "World Cup: Spain's homecoming heroes",
+      "link": "https://www.npr.org/2026/07/20/nx-s1-5900868/world-cup-spains-homecoming-heroes",
       "source": "NPR",
-      "published": "2026-07-20T17:55:31+00:00"
+      "published": "2026-07-20T20:50:42+00:00"
     }
   ]
 }
