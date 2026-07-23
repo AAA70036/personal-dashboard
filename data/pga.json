@@ -4,50 +4,50 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
+        "position": "1",
+        "name": "Emiliano Grillo",
+        "total": "-7",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
         "name": "Scottie Scheffler",
         "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-2",
         "name": "Lucas Glover",
         "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Emiliano Grillo",
-        "total": "-6",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Chandler Phillips",
-        "total": "-6",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "5",
+        "position": "T-2",
         "name": "Michael Brennan",
+        "total": "-6",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "Kevin Roy",
+        "total": "-6",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Denny McCarthy",
         "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "6",
-        "name": "Denny McCarthy",
-        "total": "-4",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "7",
-        "name": "Trace Crowe",
+        "position": "T-6",
+        "name": "Chandler Phillips",
         "total": "-5",
         "round_score": "-",
         "thru": "0"
@@ -68,7 +68,7 @@
       },
       {
         "position": "T-8",
-        "name": "Kevin Roy",
+        "name": "Marcelo Rozo",
         "total": "-4",
         "round_score": "-",
         "thru": "0"
