@@ -1,32 +1,11 @@
 {
   "leaderboard": {
     "tournament": "3M Open",
-    "status": "Scheduled",
+    "status": "In Progress",
     "players": [
       {
         "position": "T-1",
-        "name": "Mackenzie Hughes",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
         "name": "Taylor Moore",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Max Greyserman",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Rasmus H\u00f8jgaard",
         "total": "E",
         "round_score": "-",
         "thru": "0"
@@ -41,6 +20,27 @@
       {
         "position": "T-1",
         "name": "Vince Whaley",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
+        "name": "Mackenzie Hughes",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
+        "name": "Max Greyserman",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
+        "name": "Rasmus H\u00f8jgaard",
         "total": "E",
         "round_score": "-",
         "thru": "0"
