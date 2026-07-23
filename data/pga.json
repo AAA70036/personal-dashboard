@@ -5,7 +5,7 @@
     "players": [
       {
         "position": "T-1",
-        "name": "Taylor Moore",
+        "name": "Vince Whaley",
         "total": "E",
         "round_score": "-",
         "thru": "0"
@@ -18,58 +18,58 @@
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Vince Whaley",
-        "total": "E",
+        "position": "T-3",
+        "name": "Emiliano Grillo",
+        "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Mackenzie Hughes",
-        "total": "E",
+        "position": "T-3",
+        "name": "Kevin Roy",
+        "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Max Greyserman",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
+        "position": "5",
         "name": "Rasmus H\u00f8jgaard",
+        "total": "-2",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "6",
+        "name": "Hideki Matsuyama",
         "total": "E",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Rafael Campos",
-        "total": "E",
+        "position": "T-7",
+        "name": "Karl Vilips",
+        "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Harry Higgs",
-        "total": "E",
+        "position": "T-7",
+        "name": "Michael Brennan",
+        "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Thorbj\u00f8rn Olesen",
-        "total": "E",
+        "position": "T-7",
+        "name": "Trace Crowe",
+        "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Jordan Smith",
-        "total": "E",
+        "position": "10",
+        "name": "Tyler Duncan",
+        "total": "-1",
         "round_score": "-",
         "thru": "0"
       }
