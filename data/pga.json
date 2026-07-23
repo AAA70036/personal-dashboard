@@ -5,71 +5,71 @@
     "players": [
       {
         "position": "1",
+        "name": "Ben Kohles",
+        "total": "-9",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "2",
         "name": "Emiliano Grillo",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "T-3",
         "name": "Scottie Scheffler",
         "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "T-3",
         "name": "Lucas Glover",
         "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "T-3",
         "name": "Michael Brennan",
         "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "T-3",
         "name": "Kevin Roy",
         "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
+        "position": "T-3",
+        "name": "Jackson Koivun",
+        "total": "-6",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-8",
         "name": "Denny McCarthy",
         "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
+        "position": "T-8",
         "name": "Chandler Phillips",
         "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Ben Kohles",
+        "position": "T-8",
+        "name": "Matti Schmid",
         "total": "-5",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Vince Whaley",
-        "total": "-4",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Rico Hoey",
-        "total": "-4",
         "round_score": "-",
         "thru": "0"
       }
