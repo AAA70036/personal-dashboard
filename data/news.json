@@ -1,16 +1,34 @@
 {
   "items": [
     {
+      "title": "US announces tariffs on dozens of trade partners over 'forced labour' imports",
+      "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-23T22:34:36+00:00"
+    },
+    {
       "title": "Iran War Live Updates: Red Sea Turmoil Pushes Oil Past $100 a Barrel",
       "link": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump",
       "source": "NYT",
-      "published": "2026-07-23T21:34:53+00:00"
+      "published": "2026-07-23T22:23:14+00:00"
+    },
+    {
+      "title": "Trump to impose double-digit tariffs on dozens of countries",
+      "link": "https://www.npr.org/2026/07/23/g-s1-135388/trump-tariffs-trade-country",
+      "source": "NPR",
+      "published": "2026-07-23T22:06:50+00:00"
     },
     {
       "title": "PM to spend first day working from northern branch of No 10",
       "link": "https://www.bbc.co.uk/news/articles/ckgvyr76973o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-07-23T21:31:03+00:00"
+    },
+    {
+      "title": "How to keep an ancient text interesting to students? Make it a summer blockbuster",
+      "link": "https://www.npr.org/2026/07/23/nx-s1-5903075/odyssey-movie-english-teachers-school",
+      "source": "NPR",
+      "published": "2026-07-23T20:37:47+00:00"
     },
     {
       "title": "Egyptian warrior princesses, ancient avocados, and more science news",
@@ -31,12 +49,6 @@
       "published": "2026-07-23T20:33:18+00:00"
     },
     {
-      "title": "Trump allies are poised to weaken protections for historic sites \u2014 not just in D.C.",
-      "link": "https://www.npr.org/2026/07/23/nx-s1-5904435/section-106-review-trump-historic-preservation-council",
-      "source": "NPR",
-      "published": "2026-07-23T20:14:58+00:00"
-    },
-    {
       "title": "Burnham pauses plan to release some prisoners early from September",
       "link": "https://www.bbc.co.uk/news/articles/cx2lpjw516eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -47,18 +59,6 @@
       "link": "https://www.nytimes.com/2026/07/23/world/asia/india-modi-protests-economy-cockroach-party.html",
       "source": "NYT",
       "published": "2026-07-23T17:59:45+00:00"
-    },
-    {
-      "title": "Saudis must recognise Israel for nuclear deal, says Trump",
-      "link": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-23T17:58:02+00:00"
-    },
-    {
-      "title": "For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump",
-      "link": "https://www.npr.org/2026/07/23/nx-s1-5904515/congress-iran-war-powers-vote",
-      "source": "NPR",
-      "published": "2026-07-23T17:35:02+00:00"
     }
   ]
 }
