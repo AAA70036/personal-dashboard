@@ -4,72 +4,72 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "1",
-        "name": "Lucas Glover",
-        "total": "-3",
+        "position": "T-1",
+        "name": "Scottie Scheffler",
+        "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "2",
+        "position": "T-1",
+        "name": "Lucas Glover",
+        "total": "-6",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
         "name": "Emiliano Grillo",
+        "total": "-6",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
+        "name": "Chandler Phillips",
+        "total": "-6",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "5",
+        "name": "Michael Brennan",
         "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "3",
-        "name": "John VanDerLaan",
-        "total": "E",
+        "position": "6",
+        "name": "Denny McCarthy",
+        "total": "-4",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "4",
+        "position": "7",
         "name": "Trace Crowe",
         "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "5",
-        "name": "Lee Hodges",
-        "total": "-2",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
+        "position": "T-8",
         "name": "Vince Whaley",
-        "total": "-3",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Rico Hoey",
-        "total": "-3",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Scottie Scheffler",
-        "total": "-3",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "9",
-        "name": "Chandler Phillips",
         "total": "-4",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "10",
-        "name": "Harry Higgs",
-        "total": "-2",
+        "position": "T-8",
+        "name": "Rico Hoey",
+        "total": "-4",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-8",
+        "name": "Kevin Roy",
+        "total": "-4",
         "round_score": "-",
         "thru": "0"
       }
