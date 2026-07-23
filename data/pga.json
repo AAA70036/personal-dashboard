@@ -4,72 +4,72 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
-        "name": "Vince Whaley",
-        "total": "E",
+        "position": "1",
+        "name": "Lucas Glover",
+        "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Lee Hodges",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
+        "position": "2",
         "name": "Emiliano Grillo",
-        "total": "-3",
+        "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
-        "name": "Kevin Roy",
-        "total": "-3",
+        "position": "3",
+        "name": "John VanDerLaan",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "4",
+        "name": "Trace Crowe",
+        "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "5",
-        "name": "Rasmus H\u00f8jgaard",
+        "name": "Lee Hodges",
         "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "6",
-        "name": "Hideki Matsuyama",
-        "total": "E",
+        "position": "T-6",
+        "name": "Vince Whaley",
+        "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-7",
-        "name": "Karl Vilips",
-        "total": "-2",
+        "position": "T-6",
+        "name": "Rico Hoey",
+        "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-7",
-        "name": "Michael Brennan",
-        "total": "-2",
+        "position": "T-6",
+        "name": "Scottie Scheffler",
+        "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-7",
-        "name": "Trace Crowe",
-        "total": "-2",
+        "position": "9",
+        "name": "Chandler Phillips",
+        "total": "-4",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "10",
-        "name": "Tyler Duncan",
-        "total": "-1",
+        "name": "Harry Higgs",
+        "total": "-2",
         "round_score": "-",
         "thru": "0"
       }
