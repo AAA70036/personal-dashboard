@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "US signs landmark nuclear deal with Saudi Arabia",
+      "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-23T00:21:53+00:00"
+    },
+    {
+      "title": "Hope for thousands of MS patients as 'life-changing' drug now on NHS in England",
+      "link": "https://www.bbc.co.uk/news/articles/cgmkygjk9g2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-22T23:38:58+00:00"
+    },
+    {
       "title": "Why Are Young People in India Protesting?",
       "link": "https://www.nytimes.com/2026/07/22/world/asia/india-youth-protest-modi-cockroach-janta-party.html",
       "source": "NYT",
@@ -47,18 +59,6 @@
       "link": "https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal-123-agreement.html",
       "source": "NYT",
       "published": "2026-07-22T20:43:49+00:00"
-    },
-    {
-      "title": "What to know about Ukraine's military shakeup",
-      "link": "https://www.npr.org/2026/07/22/g-s1-134813/ukraine-military-shakeup-zelenskyy",
-      "source": "NPR",
-      "published": "2026-07-22T18:01:18+00:00"
-    },
-    {
-      "title": "A strange transmissible cancer is spreading through the catfish in this lake",
-      "link": "https://www.npr.org/2026/07/22/nx-s1-5901135/transmissible-cancer-catfish-melanoma-tumors",
-      "source": "NPR",
-      "published": "2026-07-22T17:33:15+00:00"
     }
   ]
 }
