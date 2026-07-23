@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
+      "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-23T03:48:27+00:00"
+    },
+    {
       "title": "US signs landmark nuclear deal with Saudi Arabia",
       "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -11,6 +17,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cgmkygjk9g2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-07-22T23:38:58+00:00"
+    },
+    {
+      "title": "Rain to return this weekend as parts of UK on brink of drought",
+      "link": "https://www.bbc.co.uk/weather/articles/cx2rvej7lk7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-22T23:32:02+00:00"
     },
     {
       "title": "Why Are Young People in India Protesting?",
@@ -47,18 +59,6 @@
       "link": "https://www.npr.org/2026/07/22/nx-s1-5903293/trump-saudi-arabia-nuclear-deal",
       "source": "NPR",
       "published": "2026-07-22T21:17:24+00:00"
-    },
-    {
-      "title": "Dubai Firm Cuts Deal for New Port to Bypass Strait of Hormuz",
-      "link": "https://www.nytimes.com/2026/07/22/world/dubai-cuts-deal-for-new-port-to-bypass-strait-of-hormuz.html",
-      "source": "NYT",
-      "published": "2026-07-22T20:50:44+00:00"
-    },
-    {
-      "title": "How the Trump Administration\u2019s Nuclear Deal With Saudi Arabia May Work",
-      "link": "https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal-123-agreement.html",
-      "source": "NYT",
-      "published": "2026-07-22T20:43:49+00:00"
     }
   ]
 }
