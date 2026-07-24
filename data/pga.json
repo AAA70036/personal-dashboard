@@ -12,7 +12,7 @@
       },
       {
         "position": "T-2",
-        "name": "Emiliano Grillo",
+        "name": "Gary Woodland",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
@@ -26,50 +26,50 @@
       },
       {
         "position": "T-2",
-        "name": "Gary Woodland",
+        "name": "Emiliano Grillo",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
-        "name": "Scottie Scheffler",
-        "total": "-6",
+        "position": "5",
+        "name": "Billy Horschel",
+        "total": "-4",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
-        "name": "Lucas Glover",
-        "total": "-6",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Michael Brennan",
-        "total": "-6",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Kevin Roy",
-        "total": "-6",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
+        "position": "T-6",
         "name": "Jesper Svensson",
         "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-10",
-        "name": "Denny McCarthy",
-        "total": "-5",
+        "position": "T-6",
+        "name": "Scottie Scheffler",
+        "total": "-6",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Lucas Glover",
+        "total": "-6",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Michael Brennan",
+        "total": "-6",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Kevin Roy",
+        "total": "-6",
         "round_score": "-",
         "thru": "0"
       }
