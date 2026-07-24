@@ -5,71 +5,71 @@
     "players": [
       {
         "position": "1",
+        "name": "Michael Kim",
+        "total": "-14",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "2",
         "name": "Ben Kohles",
         "total": "-11",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "2",
-        "name": "Michael Kim",
+        "position": "3",
+        "name": "Zac Blair",
         "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "3",
-        "name": "Jackson Koivun",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
         "position": "4",
-        "name": "Gary Woodland",
-        "total": "-7",
+        "name": "Jackson Koivun",
+        "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "5",
-        "name": "Austin Smotherman",
+        "name": "Troy Merritt",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "6",
-        "name": "Billy Horschel",
-        "total": "-6",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "7",
-        "name": "Troy Merritt",
-        "total": "-5",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "8",
-        "name": "Emiliano Grillo",
+        "position": "T-6",
+        "name": "Jesper Svensson",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-9",
-        "name": "Sam Stevens",
-        "total": "-6",
+        "position": "T-6",
+        "name": "Billy Horschel",
+        "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-9",
+        "position": "T-6",
+        "name": "Christiaan Bezuidenhout",
+        "total": "-7",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Kevin Yu",
+        "total": "-7",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
         "name": "Kevin Streelman",
-        "total": "-6",
+        "total": "-7",
         "round_score": "-",
         "thru": "0"
       }
