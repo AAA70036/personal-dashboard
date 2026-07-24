@@ -18,58 +18,58 @@
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "3",
+        "name": "Chandler Phillips",
+        "total": "-9",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
         "name": "Troy Merritt",
         "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-4",
         "name": "Jackson Koivun",
         "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
+        "position": "T-4",
+        "name": "Emiliano Grillo",
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-7",
         "name": "Zac Blair",
         "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
+        "position": "T-7",
         "name": "Billy Horschel",
         "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
-        "name": "Scottie Scheffler",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "8",
-        "name": "Emiliano Grillo",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
         "position": "9",
-        "name": "Chandler Phillips",
-        "total": "-5",
+        "name": "Jesper Svensson",
+        "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-10",
-        "name": "Jesper Svensson",
-        "total": "-8",
+        "name": "Michael Brennan",
+        "total": "-7",
         "round_score": "-",
         "thru": "0"
       }
