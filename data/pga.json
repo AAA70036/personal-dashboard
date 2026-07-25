@@ -4,72 +4,72 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
+        "position": "1",
+        "name": "Jackson Koivun",
+        "total": "-17",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "Michael Brennan",
+        "total": "-16",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "Ben Kohles",
+        "total": "-16",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "4",
+        "name": "Denny McCarthy",
+        "total": "-15",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-5",
         "name": "Davis Thompson",
         "total": "-14",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-5",
         "name": "S\u00e9amus Power",
         "total": "-14",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Michael Brennan",
-        "total": "-14",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Ben Kohles",
-        "total": "-14",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Michael Kim",
-        "total": "-14",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Hideki Matsuyama",
-        "total": "-13",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
+        "position": "T-5",
         "name": "Scottie Scheffler",
-        "total": "-13",
+        "total": "-14",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Denny McCarthy",
-        "total": "-13",
+        "position": "T-5",
+        "name": "Brian Harman",
+        "total": "-14",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Jackson Koivun",
-        "total": "-13",
+        "position": "T-5",
+        "name": "Billy Horschel",
+        "total": "-14",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Emiliano Grillo",
-        "total": "-13",
+        "position": "T-5",
+        "name": "Chandler Phillips",
+        "total": "-14",
         "round_score": "-",
         "thru": "0"
       }
