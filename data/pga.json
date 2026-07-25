@@ -11,65 +11,65 @@
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "2",
+        "name": "Davis Thompson",
+        "total": "-12",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Davis Chatfield",
+        "total": "-11",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Hideki Matsuyama",
+        "total": "-11",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
         "name": "Chandler Phillips",
         "total": "-11",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "T-3",
         "name": "Emiliano Grillo",
         "total": "-11",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "T-3",
         "name": "Ben Kohles",
         "total": "-11",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
+        "position": "T-8",
         "name": "Chris Kirk",
         "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
-        "name": "Davis Chatfield",
+        "position": "T-8",
+        "name": "Lee Hodges",
         "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
-        "name": "Troy Merritt",
+        "position": "T-8",
+        "name": "Brian Harman",
         "total": "-10",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Jackson Koivun",
-        "total": "-10",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Mark Hubbard",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "John VanDerLaan",
-        "total": "-9",
         "round_score": "-",
         "thru": "0"
       }
