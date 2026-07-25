@@ -1,10 +1,16 @@
 {
   "items": [
     {
+      "title": "Biden ghostwriter tapes to be released",
+      "link": "https://www.npr.org/2026/07/25/nx-s1-5906749/biden-ghostwriter-tapes-justice-department-trump-debate",
+      "source": "NPR",
+      "published": "2026-07-25T19:36:18+00:00"
+    },
+    {
       "title": "Live Updates: Hundreds of Thousands Flee as Fires Rage in Spain and France",
       "link": "https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations",
       "source": "NYT",
-      "published": "2026-07-25T18:06:23+00:00"
+      "published": "2026-07-25T19:25:49+00:00"
     },
     {
       "title": "Cairngorm residents say wildfire response 'too slow'",
@@ -53,12 +59,6 @@
       "link": "https://www.nytimes.com/2026/07/25/world/middleeast/bus-collision-syria.html",
       "source": "NYT",
       "published": "2026-07-25T14:25:19+00:00"
-    },
-    {
-      "title": "Tourists tell BBC how their holiday turned into race to escape fires",
-      "link": "https://www.bbc.co.uk/news/articles/c80ny93xlrvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-25T14:18:32+00:00"
     }
   ]
 }
