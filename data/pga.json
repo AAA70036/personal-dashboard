@@ -33,6 +33,20 @@
       },
       {
         "position": "T-5",
+        "name": "Chris Kirk",
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-5",
+        "name": "Davis Chatfield",
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-5",
         "name": "Troy Merritt",
         "total": "-10",
         "round_score": "-",
@@ -46,30 +60,16 @@
         "thru": "0"
       },
       {
-        "position": "T-7",
-        "name": "Brian Harman",
+        "position": "T-9",
+        "name": "Mark Hubbard",
         "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-7",
-        "name": "Zac Blair",
+        "position": "T-9",
+        "name": "John VanDerLaan",
         "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-7",
-        "name": "Billy Horschel",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-10",
-        "name": "Chris Kirk",
-        "total": "-8",
         "round_score": "-",
         "thru": "0"
       }
