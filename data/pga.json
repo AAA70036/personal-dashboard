@@ -6,72 +6,72 @@
       {
         "position": "1",
         "name": "Jackson Koivun",
-        "total": "-23",
-        "round_score": "-3",
-        "thru": "10"
+        "total": "-24",
+        "round_score": "-4",
+        "thru": "15"
       },
       {
         "position": "2",
         "name": "Scottie Scheffler",
+        "total": "-22",
+        "round_score": "-8",
+        "thru": "F"
+      },
+      {
+        "position": "T-3",
+        "name": "Hideki Matsuyama",
+        "total": "-20",
+        "round_score": "-7",
+        "thru": "F"
+      },
+      {
+        "position": "T-3",
+        "name": "Brian Harman",
         "total": "-20",
         "round_score": "-6",
-        "thru": "13"
+        "thru": "F"
       },
       {
-        "position": "3",
-        "name": "Brian Harman",
+        "position": "T-5",
+        "name": "Denny McCarthy",
         "total": "-19",
-        "round_score": "-5",
-        "thru": "13"
-      },
-      {
-        "position": "T-4",
-        "name": "Gary Woodland",
-        "total": "-17",
-        "round_score": "-6",
+        "round_score": "-4",
         "thru": "17"
       },
       {
-        "position": "T-4",
-        "name": "Billy Horschel",
-        "total": "-17",
-        "round_score": "-2",
-        "thru": "12"
-      },
-      {
-        "position": "T-4",
-        "name": "Denny McCarthy",
-        "total": "-17",
-        "round_score": "-2",
-        "thru": "11"
-      },
-      {
-        "position": "T-4",
+        "position": "T-5",
         "name": "Chandler Phillips",
-        "total": "-17",
-        "round_score": "-1",
-        "thru": "11"
+        "total": "-19",
+        "round_score": "-3",
+        "thru": "16"
       },
       {
-        "position": "T-4",
-        "name": "Ben Kohles",
-        "total": "-17",
-        "round_score": "E",
-        "thru": "10"
+        "position": "T-7",
+        "name": "Davis Thompson",
+        "total": "-18",
+        "round_score": "-4",
+        "thru": "17"
+      },
+      {
+        "position": "T-7",
+        "name": "Emiliano Grillo",
+        "total": "-18",
+        "round_score": "-1",
+        "thru": "15"
       },
       {
         "position": "T-9",
-        "name": "Jake Knapp",
-        "total": "-16",
-        "round_score": "-9",
+        "name": "Gary Woodland",
+        "total": "-17",
+        "round_score": "-6",
         "thru": "F"
       },
       {
         "position": "T-9",
-        "name": "Hideki Matsuyama",
-        "total": "-16",
+        "name": "S\u00e9amus Power",
+        "total": "-17",
         "round_score": "-3",
-        "thru": "14"
+        "thru": "17"
       }
     ]
   }
