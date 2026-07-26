@@ -1,22 +1,28 @@
 {
   "items": [
     {
-      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-      "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-26T16:30:22+00:00"
-    },
-    {
       "title": "Live Updates: Extreme Heat and Strong Winds Fuel New Wildfires in France and Spain",
       "link": "https://www.nytimes.com/live/2026/07/26/world/france-spain-wildfires-evacutions",
       "source": "NYT",
-      "published": "2026-07-26T16:19:36+00:00"
+      "published": "2026-07-26T17:40:51+00:00"
     },
     {
       "title": "Gatwick Airport left without running water after major outage",
       "link": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-07-26T15:59:08+00:00"
+      "published": "2026-07-26T17:20:44+00:00"
+    },
+    {
+      "title": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
+      "link": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
+      "source": "NPR",
+      "published": "2026-07-26T17:16:06+00:00"
+    },
+    {
+      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+      "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-26T16:48:16+00:00"
     },
     {
       "title": "20 Years After Its Own Outbreak, an Ugandan Town Beats Back Ebola",
@@ -51,12 +57,6 @@
     {
       "title": "Rage-giving, innovation and cuts: How public media has survived without federal funds",
       "link": "https://www.npr.org/2026/07/26/nx-s1-5884022/pbs-npr-public-radio-tv-funding-trump",
-      "source": "NPR",
-      "published": "2026-07-26T10:00:00+00:00"
-    },
-    {
-      "title": "Lebanese displaced by war turn to satellites to check their homes",
-      "link": "https://www.npr.org/2026/07/26/g-s1-124672/lebanon-israel-war-homes-satellite",
       "source": "NPR",
       "published": "2026-07-26T10:00:00+00:00"
     }

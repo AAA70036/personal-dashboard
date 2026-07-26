@@ -11,14 +11,14 @@
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "2",
         "name": "Ben Kohles",
-        "total": "-17",
-        "round_score": "-",
-        "thru": "0"
+        "total": "-18",
+        "round_score": "-1",
+        "thru": "1"
       },
       {
-        "position": "T-2",
+        "position": "3",
         "name": "Emiliano Grillo",
         "total": "-17",
         "round_score": "-",
@@ -26,52 +26,52 @@
       },
       {
         "position": "T-4",
-        "name": "Michael Brennan",
+        "name": "Jake Knapp",
         "total": "-16",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "-9",
+        "thru": "F"
       },
       {
         "position": "T-4",
-        "name": "Chandler Phillips",
+        "name": "Michael Kim",
         "total": "-16",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "-1",
+        "thru": "2"
       },
       {
-        "position": "T-6",
+        "position": "T-4",
         "name": "Denny McCarthy",
-        "total": "-15",
-        "round_score": "-",
-        "thru": "0"
+        "total": "-16",
+        "round_score": "-1",
+        "thru": "1"
       },
       {
-        "position": "T-6",
+        "position": "T-7",
+        "name": "Scottie Scheffler",
+        "total": "-15",
+        "round_score": "-1",
+        "thru": "4"
+      },
+      {
+        "position": "T-7",
+        "name": "Brian Harman",
+        "total": "-15",
+        "round_score": "-1",
+        "thru": "4"
+      },
+      {
+        "position": "T-7",
+        "name": "S\u00e9amus Power",
+        "total": "-15",
+        "round_score": "-1",
+        "thru": "3"
+      },
+      {
+        "position": "T-7",
         "name": "Billy Horschel",
         "total": "-15",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Michael Kim",
-        "total": "-15",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Davis Thompson",
-        "total": "-14",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "S\u00e9amus Power",
-        "total": "-14",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "E",
+        "thru": "2"
       }
     ]
   }
