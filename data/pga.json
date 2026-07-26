@@ -1,14 +1,14 @@
 {
   "leaderboard": {
     "tournament": "3M Open",
-    "status": "In Progress",
+    "status": "Final",
     "players": [
       {
         "position": "1",
         "name": "Jackson Koivun",
-        "total": "-24",
-        "round_score": "-4",
-        "thru": "15"
+        "total": "-25",
+        "round_score": "-5",
+        "thru": "F"
       },
       {
         "position": "2",
@@ -32,46 +32,46 @@
         "thru": "F"
       },
       {
-        "position": "T-5",
+        "position": "T-3",
         "name": "Denny McCarthy",
-        "total": "-19",
-        "round_score": "-4",
-        "thru": "17"
+        "total": "-20",
+        "round_score": "-5",
+        "thru": "F"
       },
       {
-        "position": "T-5",
+        "position": "T-3",
         "name": "Chandler Phillips",
-        "total": "-19",
-        "round_score": "-3",
-        "thru": "16"
+        "total": "-20",
+        "round_score": "-4",
+        "thru": "F"
       },
       {
         "position": "T-7",
         "name": "Davis Thompson",
-        "total": "-18",
-        "round_score": "-4",
-        "thru": "17"
+        "total": "-19",
+        "round_score": "-5",
+        "thru": "F"
       },
       {
         "position": "T-7",
         "name": "Emiliano Grillo",
-        "total": "-18",
-        "round_score": "-1",
-        "thru": "15"
+        "total": "-19",
+        "round_score": "-2",
+        "thru": "F"
       },
       {
-        "position": "T-9",
+        "position": "9",
+        "name": "Ben Kohles",
+        "total": "-18",
+        "round_score": "-1",
+        "thru": "F"
+      },
+      {
+        "position": "T-10",
         "name": "Gary Woodland",
         "total": "-17",
         "round_score": "-6",
         "thru": "F"
-      },
-      {
-        "position": "T-9",
-        "name": "S\u00e9amus Power",
-        "total": "-17",
-        "round_score": "-3",
-        "thru": "17"
       }
     ]
   }
