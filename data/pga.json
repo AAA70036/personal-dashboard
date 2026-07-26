@@ -6,72 +6,72 @@
       {
         "position": "1",
         "name": "Jackson Koivun",
-        "total": "-20",
-        "round_score": "-",
-        "thru": "0"
+        "total": "-22",
+        "round_score": "-2",
+        "thru": "5"
       },
       {
-        "position": "2",
-        "name": "Ben Kohles",
-        "total": "-18",
+        "position": "T-2",
+        "name": "Davis Thompson",
+        "total": "-17",
+        "round_score": "-3",
+        "thru": "8"
+      },
+      {
+        "position": "T-2",
+        "name": "Scottie Scheffler",
+        "total": "-17",
+        "round_score": "-3",
+        "thru": "8"
+      },
+      {
+        "position": "T-2",
+        "name": "Brian Harman",
+        "total": "-17",
+        "round_score": "-3",
+        "thru": "8"
+      },
+      {
+        "position": "T-2",
+        "name": "Chandler Phillips",
+        "total": "-17",
         "round_score": "-1",
-        "thru": "1"
+        "thru": "6"
       },
       {
-        "position": "3",
+        "position": "T-2",
+        "name": "Ben Kohles",
+        "total": "-17",
+        "round_score": "E",
+        "thru": "5"
+      },
+      {
+        "position": "T-2",
         "name": "Emiliano Grillo",
         "total": "-17",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "E",
+        "thru": "5"
       },
       {
-        "position": "T-4",
+        "position": "T-8",
         "name": "Jake Knapp",
         "total": "-16",
         "round_score": "-9",
         "thru": "F"
       },
       {
-        "position": "T-4",
-        "name": "Michael Kim",
+        "position": "T-8",
+        "name": "Patrick Fishburn",
         "total": "-16",
-        "round_score": "-1",
-        "thru": "2"
+        "round_score": "-7",
+        "thru": "16"
       },
       {
-        "position": "T-4",
-        "name": "Denny McCarthy",
-        "total": "-16",
-        "round_score": "-1",
-        "thru": "1"
-      },
-      {
-        "position": "T-7",
-        "name": "Scottie Scheffler",
-        "total": "-15",
-        "round_score": "-1",
-        "thru": "4"
-      },
-      {
-        "position": "T-7",
-        "name": "Brian Harman",
-        "total": "-15",
-        "round_score": "-1",
-        "thru": "4"
-      },
-      {
-        "position": "T-7",
+        "position": "T-8",
         "name": "S\u00e9amus Power",
-        "total": "-15",
-        "round_score": "-1",
-        "thru": "3"
-      },
-      {
-        "position": "T-7",
-        "name": "Billy Horschel",
-        "total": "-15",
-        "round_score": "E",
-        "thru": "2"
+        "total": "-16",
+        "round_score": "-2",
+        "thru": "8"
       }
     ]
   }

@@ -1,16 +1,40 @@
 {
   "items": [
     {
+      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+      "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-26T18:40:08+00:00"
+    },
+    {
+      "title": "Water returning to Gatwick Airport after major outage",
+      "link": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-26T18:38:26+00:00"
+    },
+    {
       "title": "Live Updates: Extreme Heat and Strong Winds Fuel New Wildfires in France and Spain",
       "link": "https://www.nytimes.com/live/2026/07/26/world/france-spain-wildfires-evacutions",
       "source": "NYT",
-      "published": "2026-07-26T17:40:51+00:00"
+      "published": "2026-07-26T18:35:11+00:00"
     },
     {
-      "title": "Gatwick Airport left without running water after major outage",
-      "link": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
+      "title": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
+      "link": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
+      "source": "NYT",
+      "published": "2026-07-26T18:22:00+00:00"
+    },
+    {
+      "title": "Tadej Poga\u010dar of Slovenia wins the 2026 Tour de France, his fifth victory in the race",
+      "link": "https://www.npr.org/2026/07/26/nx-s1-5908503/tadej-pogacar-tour-de-france-2026-winner-wildfires",
+      "source": "NPR",
+      "published": "2026-07-26T18:13:30+00:00"
+    },
+    {
+      "title": "What we know so far about the Berlin Pride ramming attack",
+      "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-07-26T17:20:44+00:00"
+      "published": "2026-07-26T17:45:30+00:00"
     },
     {
       "title": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
@@ -19,28 +43,10 @@
       "published": "2026-07-26T17:16:06+00:00"
     },
     {
-      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-      "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-26T16:48:16+00:00"
-    },
-    {
       "title": "20 Years After Its Own Outbreak, an Ugandan Town Beats Back Ebola",
       "link": "https://www.nytimes.com/2026/07/26/world/africa/ebola-uganda-congo-border.html",
       "source": "NYT",
       "published": "2026-07-26T15:47:15+00:00"
-    },
-    {
-      "title": "Officials Call Attack Near Berlin Pride Celebration a \u2018Terror Attack\u2019",
-      "link": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
-      "source": "NYT",
-      "published": "2026-07-26T15:09:44+00:00"
-    },
-    {
-      "title": "What we know so far about the Berlin Pride ramming attack",
-      "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-26T13:40:29+00:00"
     },
     {
       "title": "U.S.-Iran War Pauses for 2nd Straight Day With Both Sides Holding Off on Strikes",
@@ -53,12 +59,6 @@
       "link": "https://www.nytimes.com/2026/07/26/world/asia/india-protests-cockroach-janta-party-abhijeet-dipke.html",
       "source": "NYT",
       "published": "2026-07-26T12:18:35+00:00"
-    },
-    {
-      "title": "Rage-giving, innovation and cuts: How public media has survived without federal funds",
-      "link": "https://www.npr.org/2026/07/26/nx-s1-5884022/pbs-npr-public-radio-tv-funding-trump",
-      "source": "NPR",
-      "published": "2026-07-26T10:00:00+00:00"
     }
   ]
 }
