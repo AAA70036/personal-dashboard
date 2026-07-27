@@ -1,16 +1,40 @@
 {
   "items": [
     {
-      "title": "Extreme Heat and Strong Winds Fuel New Wildfires in France and Spain",
-      "link": "https://www.nytimes.com/live/2026/07/26/world/france-spain-wildfires-evacutions",
-      "source": "NYT",
-      "published": "2026-07-27T02:33:42+00:00"
+      "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
+      "link": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-27T06:48:02+00:00"
     },
     {
-      "title": "Macron calls crisis meeting as wildfires threaten Bordeaux and heatwave looms",
-      "link": "https://www.bbc.co.uk/news/articles/c2350zlyy1yo?at_medium=RSS&at_campaign=rss",
+      "title": "Can the U.S. and Iran take the off-ramp?",
+      "link": "https://www.npr.org/2026/07/27/g-s1-135611/can-the-u-s-and-iran-take-the-off-ramp",
+      "source": "NPR",
+      "published": "2026-07-27T05:57:59+00:00"
+    },
+    {
+      "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
+      "link": "https://www.npr.org/2026/07/27/nx-s1-5907379/2026-midterm-election-senate-races",
+      "source": "NPR",
+      "published": "2026-07-27T05:13:24+00:00"
+    },
+    {
+      "title": "Laura Kuenssberg: Our exclusive behind-the-scenes access at No 10 as Andy Burnham became PM",
+      "link": "https://www.bbc.co.uk/news/articles/c79gdjlv78wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-07-27T02:04:10+00:00"
+      "published": "2026-07-27T05:00:13+00:00"
+    },
+    {
+      "title": "NHS 'will collapse' without social care reform, PM tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cn0n5xpzlz2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-27T05:00:07+00:00"
+    },
+    {
+      "title": "Girlguiding unveils first major uniform redesign since 1990",
+      "link": "https://www.bbc.co.uk/news/articles/c2dkez2g07po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-26T23:06:21+00:00"
     },
     {
       "title": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
@@ -19,10 +43,10 @@
       "published": "2026-07-26T22:00:25+00:00"
     },
     {
-      "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
-      "link": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-26T21:30:20+00:00"
+      "title": "Flames Advance on Bordeaux, Where Evacuees Balance Dread and Hope",
+      "link": "https://www.nytimes.com/2026/07/26/world/europe/france-fires-bordeaux.html",
+      "source": "NYT",
+      "published": "2026-07-26T21:25:31+00:00"
     },
     {
       "title": "The Accidental Hero Who Faced Down India\u2019s Government",
@@ -31,34 +55,10 @@
       "published": "2026-07-26T21:12:46+00:00"
     },
     {
-      "title": "Trump paused attacks on Iran to make space for talks, US ambassador says",
-      "link": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-26T21:10:58+00:00"
-    },
-    {
-      "title": "Badenoch says PM must rule out tax rises to fund social care reform",
-      "link": "https://www.bbc.co.uk/news/articles/c0jlzqe9z9vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-26T21:00:27+00:00"
-    },
-    {
       "title": "Berlin Pride attack suspect shot and killed during police operation",
       "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-07-26T19:21:26+00:00"
-    },
-    {
-      "title": "Tadej Poga\u010dar of Slovenia wins the 2026 Tour de France, his fifth victory in the race",
-      "link": "https://www.npr.org/2026/07/26/nx-s1-5908503/tadej-pogacar-tour-de-france-2026-winner-wildfires",
-      "source": "NPR",
-      "published": "2026-07-26T18:13:30+00:00"
-    },
-    {
-      "title": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
-      "link": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
-      "source": "NPR",
-      "published": "2026-07-26T17:16:06+00:00"
     }
   ]
 }
