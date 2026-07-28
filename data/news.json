@@ -1,10 +1,34 @@
 {
   "items": [
     {
-      "title": "Schools to offer technical subjects to pupils from age 14, Burnham says",
+      "title": "Zelensky and Trump Will Meet at the White House. Has Their Relationship Thawed?",
+      "link": "https://www.nytimes.com/2026/07/28/world/europe/zelensky-trump-meeting-ukraine-war-russia.html",
+      "source": "NYT",
+      "published": "2026-07-28T08:00:38+00:00"
+    },
+    {
+      "title": "Netanyahu to meet Trump in a first encounter since the Iran war began",
+      "link": "https://www.npr.org/2026/07/28/g-s1-135833/trump-netanyahu-iran-war",
+      "source": "NPR",
+      "published": "2026-07-28T07:42:11+00:00"
+    },
+    {
+      "title": "Schools to offer technical subjects from age 14 in England, Burnham says",
       "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-07-28T05:13:42+00:00"
+      "published": "2026-07-28T07:06:04+00:00"
+    },
+    {
+      "title": "With wildfires raging in France and Spain, fire crews race against next heat wave",
+      "link": "https://www.npr.org/2026/07/28/g-s1-135828/europe-wildfires",
+      "source": "NPR",
+      "published": "2026-07-28T06:25:18+00:00"
+    },
+    {
+      "title": "Drilling for Oil the Old-Fashioned Way in \u2018Little Texas,\u2019 Indonesia",
+      "link": "https://www.nytimes.com/2026/07/28/world/asia/indonesia-crude-oil-wells-drilling.html",
+      "source": "NYT",
+      "published": "2026-07-28T05:35:52+00:00"
     },
     {
       "title": "On the front line of Ecuador's drugs war, police fight gangs, guns and corruption",
@@ -13,52 +37,28 @@
       "published": "2026-07-28T05:01:19+00:00"
     },
     {
-      "title": "Spain and France brace for new heatwaves as wildfire closes in on Bordeaux",
-      "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-28T04:51:27+00:00"
+      "title": "Massive Wildfires Draw Close to Madrid",
+      "link": "https://www.nytimes.com/2026/07/28/world/europe/spain-wildfires-madrid.html",
+      "source": "NYT",
+      "published": "2026-07-28T04:01:36+00:00"
     },
     {
-      "title": "Europe Wildfires Updates: New Heat Wave Could Worsen France and Spain\u2019s \u2018Unprecedented\u2019 Fire Season",
-      "link": "https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions",
-      "source": "NYT",
-      "published": "2026-07-28T04:15:00+00:00"
+      "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
+      "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-28T01:53:58+00:00"
+    },
+    {
+      "title": "Fourth heatwave grips parts of UK with 35C forecast",
+      "link": "https://www.bbc.co.uk/weather/articles/cg4d190z6xko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-28T00:18:58+00:00"
     },
     {
       "title": "Rand Paul releases Anthony Fauci's pandemic-era diary notes. Here's what they tell us",
       "link": "https://www.npr.org/2026/07/27/nx-s1-5909531/rand-paul-anthony-fauci-coronavirus-diary-lab-leak-origin",
       "source": "NPR",
       "published": "2026-07-28T00:05:31+00:00"
-    },
-    {
-      "title": "Reform UK reports Zack Polanski to police over guillotine T-shirt post",
-      "link": "https://www.bbc.co.uk/news/articles/c5y063yqlleo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-27T21:57:08+00:00"
-    },
-    {
-      "title": "Platner energized Maine's Democrats. Jackson's challenge will be to keep them engaged",
-      "link": "https://www.npr.org/2026/07/27/nx-s1-5902276/platner-energized-maines-democrats-jacksons-challenge-will-be-to-keep-them-engaged",
-      "source": "NPR",
-      "published": "2026-07-27T21:29:27+00:00"
-    },
-    {
-      "title": "In Washington, Netanyahu Faces a Delicate Balancing Act",
-      "link": "https://www.nytimes.com/2026/07/27/world/middleeast/trump-netanyahu-relationship-iran.html",
-      "source": "NYT",
-      "published": "2026-07-27T21:11:42+00:00"
-    },
-    {
-      "title": "How the Iran-Backed Houthis Cornered Saudi Arabia Into a New Conflict",
-      "link": "https://www.nytimes.com/2026/07/27/world/middleeast/houthis-saudi-arabia-iran-war.html",
-      "source": "NYT",
-      "published": "2026-07-27T20:57:07+00:00"
-    },
-    {
-      "title": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling",
-      "link": "https://www.npr.org/2026/07/27/nx-s1-5904606/anthropic-vs-bartz-ai-copyright-lawsuit-pros-cons",
-      "source": "NPR",
-      "published": "2026-07-27T20:49:57+00:00"
     }
   ]
 }
