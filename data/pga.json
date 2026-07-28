@@ -1,77 +1,77 @@
 {
   "leaderboard": {
-    "tournament": "3M Open",
-    "status": "Final",
+    "tournament": "Rocket Classic",
+    "status": "Scheduled",
     "players": [
       {
-        "position": "1",
-        "name": "Jackson Koivun",
-        "total": "-25",
-        "round_score": "-5",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Brendon Todd",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "2",
-        "name": "Scottie Scheffler",
-        "total": "-22",
-        "round_score": "-8",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Lanto Griffin",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-3",
-        "name": "Hideki Matsuyama",
-        "total": "-20",
-        "round_score": "-7",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Joel Dahmen",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-3",
-        "name": "Brian Harman",
-        "total": "-20",
-        "round_score": "-6",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Eric Cole",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-3",
-        "name": "Denny McCarthy",
-        "total": "-20",
-        "round_score": "-5",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Max McGreevy",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-3",
-        "name": "Chandler Phillips",
-        "total": "-20",
-        "round_score": "-4",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Nick Dunlap",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-7",
-        "name": "Davis Thompson",
-        "total": "-19",
-        "round_score": "-5",
-        "thru": "F"
-      },
-      {
-        "position": "T-7",
+        "position": "T-1",
         "name": "Emiliano Grillo",
-        "total": "-19",
-        "round_score": "-2",
-        "thru": "F"
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "9",
-        "name": "Ben Kohles",
-        "total": "-18",
-        "round_score": "-1",
-        "thru": "F"
+        "position": "T-1",
+        "name": "S\u00e9amus Power",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-10",
-        "name": "Gary Woodland",
-        "total": "-17",
-        "round_score": "-6",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Michael Kim",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
+        "name": "Zac Blair",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       }
     ]
   }
