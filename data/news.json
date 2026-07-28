@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "title": "Japan Mounts Rescues in Buildings That Collapsed After Strong Quake",
+      "link": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami",
+      "source": "NYT",
+      "published": "2026-07-28T21:43:17+00:00"
+    },
+    {
       "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
       "link": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -11,6 +17,12 @@
       "link": "https://www.npr.org/2026/07/28/nx-s1-5909198/spain-wildfires-politicians-climate-change",
       "source": "NPR",
       "published": "2026-07-28T20:31:54+00:00"
+    },
+    {
+      "title": "Artist Betye Saar, who used repurposed objects to reclaim identity, has died at 99",
+      "link": "https://www.npr.org/2026/07/28/nx-s1-5910539/betye-saar-dead",
+      "source": "NPR",
+      "published": "2026-07-28T20:31:06+00:00"
     },
     {
       "title": "Keiko Fujimori is inaugurated as Peru's president following a narrow election victory",
@@ -31,12 +43,6 @@
       "published": "2026-07-28T20:10:18+00:00"
     },
     {
-      "title": "Many Feared Trapped in Mall Collapse After Japan Earthquake, Officials Say",
-      "link": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami",
-      "source": "NYT",
-      "published": "2026-07-28T19:41:47+00:00"
-    },
-    {
       "title": "Zelensky and Trump Meet at the White House. Has Their Relationship Thawed?",
       "link": "https://www.nytimes.com/2026/07/28/world/europe/zelensky-trump-meeting-ukraine-war-russia.html",
       "source": "NYT",
@@ -53,12 +59,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-07-28T17:32:56+00:00"
-    },
-    {
-      "title": "France and Spain Race to Contain Fires Before Some Areas Reach 104 Degrees",
-      "link": "https://www.nytimes.com/2026/07/28/world/europe/wildfires-france-spain.html",
-      "source": "NYT",
-      "published": "2026-07-28T17:14:59+00:00"
     }
   ]
 }
