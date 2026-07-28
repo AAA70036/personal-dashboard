@@ -2,14 +2,14 @@
   "indexes": {
     "S&P 500": {
       "symbol": "^GSPC",
-      "price": 7429.22,
-      "change": 16.04,
-      "pct_change": 0.22
+      "price": 7428.78,
+      "change": 15.6,
+      "pct_change": 0.21
     },
     "Dow": {
       "symbol": "^DJI",
-      "price": 52747.53,
-      "change": 537.45,
+      "price": 52747.32,
+      "change": 537.24,
       "pct_change": 1.03
     },
     "Nasdaq": {
@@ -22,35 +22,35 @@
   "gainers": [
     {
       "symbol": "MA",
-      "price": 562.76,
-      "change": 20.66,
+      "price": 562.75,
+      "change": 20.65,
       "pct_change": 3.81
     },
     {
       "symbol": "BRK-B",
-      "price": 512.38,
-      "change": 15.76,
+      "price": 512.37,
+      "change": 15.75,
       "pct_change": 3.17
     },
     {
       "symbol": "UNH",
-      "price": 429.05,
-      "change": 11.45,
-      "pct_change": 2.74
+      "price": 428.79,
+      "change": 11.19,
+      "pct_change": 2.68
     }
   ],
   "losers": [
     {
       "symbol": "JNJ",
-      "price": 266.75,
-      "change": -3.86,
+      "price": 266.73,
+      "change": -3.88,
       "pct_change": -1.43
     },
     {
       "symbol": "XOM",
-      "price": 153.2,
-      "change": -1.55,
-      "pct_change": -1.0
+      "price": 153.04,
+      "change": -1.71,
+      "pct_change": -1.11
     },
     {
       "symbol": "META",
