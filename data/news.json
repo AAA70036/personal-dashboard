@@ -1,25 +1,55 @@
 {
   "items": [
     {
+      "title": "Homes and caravan park evacuated due to major heath fire in Suffolk",
+      "link": "https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-30T07:05:04+00:00"
+    },
+    {
+      "title": "Two children among eight dead in Russian strikes on Ukraine, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-07-30T06:22:37+00:00"
+    },
+    {
+      "title": "U.S.-Saudi Attack on Iraqi Militias Risks Drawing Them into War",
+      "link": "https://www.nytimes.com/2026/07/30/world/europe/iraqi-militias-iran-war-saudi-arabia-us.html",
+      "source": "NYT",
+      "published": "2026-07-30T06:20:03+00:00"
+    },
+    {
+      "title": "Senate panel delays vote on Blanche's nomination as key Republicans withhold support",
+      "link": "https://www.npr.org/2026/07/30/g-s1-136265/senate-blanche-nomination",
+      "source": "NPR",
+      "published": "2026-07-30T05:56:51+00:00"
+    },
+    {
       "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
       "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-07-30T03:33:01+00:00"
+      "published": "2026-07-30T05:36:27+00:00"
     },
     {
-      "title": "Iran War Live Updates: U.S. Strikes Iran as Fighting Reignites Across Region",
-      "link": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
+      "title": "Man convicted in terrorism trial over the 2022 stabbing of author Salman Rushdie",
+      "link": "https://www.npr.org/2026/07/30/g-s1-136257/stabbing-conviction-salman-rushdie",
+      "source": "NPR",
+      "published": "2026-07-30T05:33:00+00:00"
+    },
+    {
+      "title": "Hope dwindles for rescue in southwestern Japan quake as death toll climbs to 23",
+      "link": "https://www.npr.org/2026/07/30/nx-s1-5913050/japan-earthquake-updates",
+      "source": "NPR",
+      "published": "2026-07-30T05:18:58+00:00"
+    },
+    {
+      "title": "As Wildfires Plague Europe, Scotland Races to Save a Cherished National Park",
+      "link": "https://www.nytimes.com/2026/07/30/world/europe/scotland-wildfire-cairngorms-highlands.html",
       "source": "NYT",
-      "published": "2026-07-30T03:13:48+00:00"
+      "published": "2026-07-30T04:01:06+00:00"
     },
     {
-      "title": "Burnham says nuclear sub investment will protect UK and boost jobs",
-      "link": "https://www.bbc.co.uk/news/articles/crl70x0nxr9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-30T02:36:53+00:00"
-    },
-    {
-      "title": "Cooler conditions on way for parts of UK - but still no rain for drought-hit areas",
+      "title": "Cooler conditions on the way for parts of UK - but still no rain for drought-hit areas",
       "link": "https://www.bbc.co.uk/weather/articles/c1k183p9ddpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-07-30T01:40:07+00:00"
@@ -29,36 +59,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-07-29T23:33:01+00:00"
-    },
-    {
-      "title": "Animal spillover? Lab leak? What the science says about the origins of COVID-19",
-      "link": "https://www.npr.org/2026/07/29/g-s1-136142/rand-paul-anthony-fauci-lab-leak-spillover-pandemic-origin",
-      "source": "NPR",
-      "published": "2026-07-29T23:02:53+00:00"
-    },
-    {
-      "title": "The Trump administration's move to end subsidies for Medicare drug plans could cost consumers",
-      "link": "https://www.npr.org/2026/07/29/nx-s1-5912039/the-trump-administrations-move-to-end-subsidies-for-medicare-drug-plans-could-cost-consumers",
-      "source": "NPR",
-      "published": "2026-07-29T20:58:03+00:00"
-    },
-    {
-      "title": "Oregon is on track for its worst wildfire season yet",
-      "link": "https://www.npr.org/2026/07/29/nx-s1-5910624/oregon-is-on-track-for-its-worst-wildfire-season-yet",
-      "source": "NPR",
-      "published": "2026-07-29T20:28:44+00:00"
-    },
-    {
-      "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-29T18:41:31+00:00"
-    },
-    {
-      "title": "'Taiwan Travelogue' rethinks history, colonialism, and identity",
-      "link": "https://www.npr.org/2026/07/29/g-s1-136110/taiwan-travelogue-rethinks-history-colonialism-and-identity",
-      "source": "NPR",
-      "published": "2026-07-29T16:55:54+00:00"
     }
   ]
 }
