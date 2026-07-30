@@ -1,74 +1,74 @@
 {
   "leaderboard": {
     "tournament": "Rocket Classic",
-    "status": "Scheduled",
+    "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
-        "name": "Brendon Todd",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Lanto Griffin",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Joel Dahmen",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Eric Cole",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Max McGreevy",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Nick Dunlap",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Emiliano Grillo",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
+        "position": "1",
         "name": "S\u00e9amus Power",
         "total": "E",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-2",
+        "name": "Mark Hubbard",
+        "total": "-1",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "Peter Malnati",
+        "total": "-1",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Joel Dahmen",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
         "name": "Michael Kim",
         "total": "E",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-4",
         "name": "Zac Blair",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Brendon Todd",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Lanto Griffin",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Eric Cole",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Emiliano Grillo",
         "total": "E",
         "round_score": "-",
         "thru": "0"
