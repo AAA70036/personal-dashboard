@@ -1,13 +1,19 @@
 {
   "items": [
     {
-      "title": "Live Updates: Most of the Migrants Who Crossed Into Spanish Territory Have Returned, Officials Say",
+      "title": "Live Updates: After Tens of Thousands of Migrants Enter Spanish Territory, Most Return to Morocco",
       "link": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco",
       "source": "NYT",
-      "published": "2026-07-31T17:57:29+00:00"
+      "published": "2026-07-31T19:49:00+00:00"
     },
     {
-      "title": "Google adds AI to satellite images, raising fears of deepfakes in the sky",
+      "title": "At Least 34 Dead From Coal Mine Blast in Pakistan",
+      "link": "https://www.nytimes.com/2026/07/31/world/asia/pakistan-coal-mine-explosion.html",
+      "source": "NYT",
+      "published": "2026-07-31T18:52:05+00:00"
+    },
+    {
+      "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
       "link": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky",
       "source": "NPR",
       "published": "2026-07-31T17:48:26+00:00"
@@ -53,12 +59,6 @@
       "link": "https://www.npr.org/2026/07/31/nx-s1-5913947/medicaid-trump-work-requirements-big-beautiful-bill-nebraska",
       "source": "NPR",
       "published": "2026-07-31T13:22:40+00:00"
-    },
-    {
-      "title": "A Ton of Space Junk Tumbles Unpredictably to Earth Every Week",
-      "link": "https://www.nytimes.com/2026/07/31/world/asia/space-debris-falling-crashing-earth-risk.html",
-      "source": "NYT",
-      "published": "2026-07-31T12:57:23+00:00"
     }
   ]
 }
