@@ -1,64 +1,64 @@
 {
   "items": [
     {
-      "title": "British man accused of spying on Cyprus RAF base for Iran",
-      "link": "https://www.bbc.co.uk/news/articles/ce853y7yq7yo?at_medium=RSS&at_campaign=rss",
+      "title": "Live Updates: Spanish Leader Rushes to Ceuta After Thousands of Migrants Burst Into Enclave",
+      "link": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco",
+      "source": "NYT",
+      "published": "2026-07-31T09:40:13+00:00"
+    },
+    {
+      "title": "Asian nations join growing opposition to Fifa's controversial World Cup investment plan",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-07-31T06:42:16+00:00"
+      "published": "2026-07-31T09:38:28+00:00"
     },
     {
-      "title": "Fifa says 'nobody selling football' and will continue plans to sell World Cup stakes",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-31T06:31:44+00:00"
+      "title": "Political Turmoil Will Not Derail Killer Robot Program, Ousted Minister Says",
+      "link": "https://www.nytimes.com/2026/07/31/world/europe/federov-ukraine-killer-robots.html",
+      "source": "NYT",
+      "published": "2026-07-31T09:25:39+00:00"
     },
     {
-      "title": "Spain deploys military to Ceuta after thousands of people breach Morocco's border",
-      "link": "https://www.npr.org/2026/07/31/g-s1-136507/morocco-spain-migration",
-      "source": "NPR",
-      "published": "2026-07-31T06:02:00+00:00"
-    },
-    {
-      "title": "Death toll from southwestern Japan quake climbs to 34",
-      "link": "https://www.npr.org/2026/07/31/g-s1-136503/japan-quake-death-toll",
-      "source": "NPR",
-      "published": "2026-07-31T05:40:16+00:00"
-    },
-    {
-      "title": "Trump announces a deal for Hamas to disarm, but many hurdles and uncertainty remain",
-      "link": "https://www.npr.org/2026/07/31/g-s1-136500/trump-hamas-gaza",
-      "source": "NPR",
-      "published": "2026-07-31T05:20:19+00:00"
-    },
-    {
-      "title": "Satellite images show impact of heatwaves and drought on UK landscape",
-      "link": "https://www.bbc.co.uk/news/articles/ckgv657e1yko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-31T05:07:08+00:00"
-    },
-    {
-      "title": "Anthropic's Claude AI escapes tests to hack three organisations",
+      "title": "Anthropic's Claude AI escapes to hack into three organisations",
       "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-07-31T04:31:30+00:00"
+      "published": "2026-07-31T09:03:37+00:00"
     },
     {
-      "title": "Saudis Form Military Alliance to Protect Red Sea Shipping",
-      "link": "https://www.nytimes.com/live/2026/07/30/world/iran-war-strikes-trump",
+      "title": "German Authorities Knew of Pride Attacker\u2019s Extremism",
+      "link": "https://www.nytimes.com/2026/07/31/world/europe/germany-pride-attack-extremism.html",
       "source": "NYT",
-      "published": "2026-07-31T00:46:08+00:00"
+      "published": "2026-07-31T09:03:16+00:00"
     },
     {
-      "title": "Why China\u2019s A.I. Models Could Threaten the Communist Party",
-      "link": "https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html",
+      "title": "Selling Burritos Back to Mexico: Chipotle\u2019s Bold Expansion",
+      "link": "https://www.nytimes.com/2026/07/31/world/americas/chipotle-restaurant-mexico.html",
       "source": "NYT",
-      "published": "2026-07-30T23:31:47+00:00"
+      "published": "2026-07-31T09:01:43+00:00"
     },
     {
-      "title": "Andy Burnham to give regional mayors share of income tax",
-      "link": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-07-30T21:32:09+00:00"
+      "title": "Who's driving a bookmobile full of Epstein files? The quiz knows!",
+      "link": "https://www.npr.org/2026/07/31/g-s1-136290/epstein-trump-fauci-grammys-bts-news-quiz",
+      "source": "NPR",
+      "published": "2026-07-31T09:01:00+00:00"
+    },
+    {
+      "title": "At Least 34 Dead From Coal Mine Blast in Pakistan",
+      "link": "https://www.nytimes.com/2026/07/31/world/asia/pakistan-coal-mine-explosion.html",
+      "source": "NYT",
+      "published": "2026-07-31T09:00:09+00:00"
+    },
+    {
+      "title": "One Big Beautiful Bill cut healthcare funds. Now, Republicans have to sell the costs",
+      "link": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
+      "source": "NPR",
+      "published": "2026-07-31T09:00:00+00:00"
+    },
+    {
+      "title": "Democrats show divisions on Israel amid competitive midterm elections",
+      "link": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections",
+      "source": "NPR",
+      "published": "2026-07-31T09:00:00+00:00"
     }
   ]
 }
