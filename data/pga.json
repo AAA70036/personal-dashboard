@@ -4,71 +4,71 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "1",
+        "position": "T-1",
+        "name": "Cameron Young",
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
         "name": "Patrick Cantlay",
         "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "T-3",
         "name": "Matt Wallace",
         "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
-        "name": "Cameron Young",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-2",
-        "name": "Peter Malnati",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Michael Thorbjornsen",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Justin Lower",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Luke Clanton",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Jackson Suber",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
+        "position": "T-3",
         "name": "Rickie Fowler",
-        "total": "-7",
+        "total": "-9",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-5",
+        "name": "Michael Brennan",
+        "total": "-8",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-5",
+        "name": "Michael Kim",
+        "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-5",
         "name": "Ryan Gerard",
+        "total": "-8",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-8",
+        "name": "Michael Thorbjornsen",
+        "total": "-7",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-8",
+        "name": "Justin Lower",
+        "total": "-7",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-8",
+        "name": "Jacob Bridgeman",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
