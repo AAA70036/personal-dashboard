@@ -12,14 +12,14 @@
       },
       {
         "position": "T-1",
-        "name": "Patrick Cantlay",
+        "name": "Patrick Fishburn",
         "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-1",
-        "name": "Patrick Fishburn",
+        "name": "Patrick Cantlay",
         "total": "-10",
         "round_score": "-",
         "thru": "0"
@@ -54,14 +54,7 @@
       },
       {
         "position": "T-6",
-        "name": "Michael Brennan",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Michael Kim",
+        "name": "Doug Ghim",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
@@ -69,6 +62,13 @@
       {
         "position": "T-6",
         "name": "Chris Kirk",
+        "total": "-8",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Michael Kim",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
