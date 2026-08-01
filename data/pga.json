@@ -6,70 +6,70 @@
       {
         "position": "1",
         "name": "Michael Brennan",
+        "total": "-15",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "2",
+        "name": "Davis Riley",
         "total": "-14",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "T-3",
         "name": "Rasmus H\u00f8jgaard",
         "total": "-12",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
-        "name": "Davis Riley",
+        "position": "T-3",
+        "name": "Chris Kirk",
         "total": "-12",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
+        "position": "T-3",
+        "name": "Michael Kim",
+        "total": "-12",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Cameron Young",
+        "total": "-12",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-7",
         "name": "Kristoffer Ventura",
         "total": "-11",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
-        "name": "Luke Clanton",
+        "position": "T-7",
+        "name": "Michael Thorbjornsen",
         "total": "-11",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
-        "name": "Chris Kirk",
+        "position": "T-7",
+        "name": "Xander Schauffele",
         "total": "-11",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
-        "name": "Michael Kim",
+        "position": "T-7",
+        "name": "Rickie Fowler",
         "total": "-11",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Cameron Young",
-        "total": "-11",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Si Woo Kim",
-        "total": "-10",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Ben James",
-        "total": "-10",
         "round_score": "-",
         "thru": "0"
       }
