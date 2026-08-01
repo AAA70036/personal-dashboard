@@ -4,71 +4,71 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
+        "position": "1",
+        "name": "Rasmus H\u00f8jgaard",
+        "total": "-11",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
         "name": "Cameron Young",
         "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-2",
         "name": "Patrick Fishburn",
         "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-2",
         "name": "Patrick Cantlay",
         "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
+        "position": "T-5",
+        "name": "Adam Schenk",
+        "total": "-9",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-5",
         "name": "Matt Wallace",
         "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
+        "position": "T-5",
         "name": "Rickie Fowler",
         "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
+        "position": "T-8",
+        "name": "Si Woo Kim",
+        "total": "-8",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-8",
         "name": "Davis Riley",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
+        "position": "T-8",
         "name": "Xander Schauffele",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Doug Ghim",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Chris Kirk",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Michael Kim",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
