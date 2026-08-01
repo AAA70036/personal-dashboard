@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "title": "'Sopranos' actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80",
+      "link": "https://www.npr.org/2026/08/01/nx-s1-5916418/vincent-pastore-sopranos-obit",
+      "source": "NPR",
+      "published": "2026-08-01T22:32:44+00:00"
+    },
+    {
+      "title": "Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers",
+      "link": "https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche",
+      "source": "NPR",
+      "published": "2026-08-01T22:23:39+00:00"
+    },
+    {
+      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-01T22:23:20+00:00"
+    },
+    {
       "title": "Improvised Bomb Kills 3 at an Upscale Moscow Restaurant",
       "link": "https://www.nytimes.com/2026/08/01/world/europe/deadly-bombing-moscow-restaurant.html",
       "source": "NYT",
@@ -41,24 +59,6 @@
       "link": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
       "source": "NYT",
       "published": "2026-08-01T20:14:08+00:00"
-    },
-    {
-      "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-      "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-01T20:09:27+00:00"
-    },
-    {
-      "title": "Spain's Pedro S\u00e1nchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
-      "link": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants",
-      "source": "NPR",
-      "published": "2026-08-01T18:33:27+00:00"
-    },
-    {
-      "title": "Call for 'full review' as pressure grows on Infantino",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-01T17:07:46+00:00"
     }
   ]
 }
