@@ -6,7 +6,21 @@
       {
         "position": "1",
         "name": "Rasmus H\u00f8jgaard",
-        "total": "-11",
+        "total": "-12",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "Kevin Yu",
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "Si Woo Kim",
+        "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
@@ -32,43 +46,29 @@
         "thru": "0"
       },
       {
-        "position": "T-5",
+        "position": "T-7",
         "name": "Adam Schenk",
         "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
+        "position": "T-7",
         "name": "Matt Wallace",
         "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
+        "position": "T-7",
         "name": "Rickie Fowler",
         "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-8",
-        "name": "Si Woo Kim",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-8",
-        "name": "Davis Riley",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-8",
-        "name": "Xander Schauffele",
+        "position": "T-10",
+        "name": "Mac Meissner",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
