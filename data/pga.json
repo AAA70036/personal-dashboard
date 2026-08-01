@@ -5,14 +5,14 @@
     "players": [
       {
         "position": "1",
-        "name": "Michael Brennan",
+        "name": "Davis Riley",
         "total": "-15",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "2",
-        "name": "Davis Riley",
+        "name": "Michael Brennan",
         "total": "-14",
         "round_score": "-",
         "thru": "0"
@@ -33,7 +33,7 @@
       },
       {
         "position": "T-3",
-        "name": "Michael Kim",
+        "name": "Rickie Fowler",
         "total": "-12",
         "round_score": "-",
         "thru": "0"
@@ -68,7 +68,7 @@
       },
       {
         "position": "T-7",
-        "name": "Rickie Fowler",
+        "name": "Michael Kim",
         "total": "-11",
         "round_score": "-",
         "thru": "0"
