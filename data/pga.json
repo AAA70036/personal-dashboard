@@ -4,72 +4,72 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "1",
+        "position": "T-1",
         "name": "Rasmus H\u00f8jgaard",
         "total": "-12",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "2",
-        "name": "Si Woo Kim",
+        "position": "T-1",
+        "name": "Michael Brennan",
+        "total": "-12",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "3",
+        "name": "Xander Schauffele",
         "total": "-11",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
-        "name": "Corey Conners",
+        "position": "T-4",
+        "name": "Si Woo Kim",
         "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-4",
+        "name": "Ben James",
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Kristoffer Ventura",
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Adrien Saddier",
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Davis Riley",
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
         "name": "Cameron Young",
         "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
-        "name": "Patrick Fishburn",
-        "total": "-10",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
+        "position": "T-4",
         "name": "Patrick Cantlay",
         "total": "-10",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-7",
-        "name": "Kevin Yu",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-7",
-        "name": "Ben James",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-7",
-        "name": "Kevin Roy",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-7",
-        "name": "Kristoffer Ventura",
-        "total": "-9",
         "round_score": "-",
         "thru": "0"
       }
