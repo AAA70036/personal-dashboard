@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-02T03:05:16+00:00"
+    },
+    {
       "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
       "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -53,12 +59,6 @@
       "link": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html",
       "source": "NYT",
       "published": "2026-08-01T20:26:35+00:00"
-    },
-    {
-      "title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
-      "link": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
-      "source": "NYT",
-      "published": "2026-08-01T20:14:08+00:00"
     }
   ]
 }
