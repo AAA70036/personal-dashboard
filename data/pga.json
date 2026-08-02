@@ -4,72 +4,72 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "1",
-        "name": "Michael Brennan",
-        "total": "-16",
-        "round_score": "-2",
-        "thru": "6"
+        "position": "T-1",
+        "name": "Michael Thorbjornsen",
+        "total": "-15",
+        "round_score": "-4",
+        "thru": "12"
       },
       {
-        "position": "2",
-        "name": "Chris Kirk",
+        "position": "T-1",
+        "name": "Xander Schauffele",
+        "total": "-15",
+        "round_score": "-4",
+        "thru": "12"
+      },
+      {
+        "position": "T-1",
+        "name": "Rasmus H\u00f8jgaard",
         "total": "-15",
         "round_score": "-3",
-        "thru": "6"
+        "thru": "11"
       },
       {
-        "position": "3",
-        "name": "Rasmus H\u00f8jgaard",
+        "position": "T-1",
+        "name": "Davis Riley",
+        "total": "-15",
+        "round_score": "E",
+        "thru": "11"
+      },
+      {
+        "position": "T-5",
+        "name": "Michael Kim",
+        "total": "-14",
+        "round_score": "-3",
+        "thru": "13"
+      },
+      {
+        "position": "T-5",
+        "name": "Kristoffer Ventura",
+        "total": "-14",
+        "round_score": "-3",
+        "thru": "12"
+      },
+      {
+        "position": "T-5",
+        "name": "Chris Kirk",
         "total": "-14",
         "round_score": "-2",
-        "thru": "6"
+        "thru": "12"
       },
       {
-        "position": "T-4",
-        "name": "Michael Kim",
+        "position": "T-5",
+        "name": "Michael Brennan",
+        "total": "-14",
+        "round_score": "E",
+        "thru": "11"
+      },
+      {
+        "position": "T-9",
+        "name": "Hideki Matsuyama",
         "total": "-13",
-        "round_score": "-2",
-        "thru": "8"
+        "round_score": "-6",
+        "thru": "F"
       },
       {
-        "position": "T-4",
-        "name": "Kristoffer Ventura",
+        "position": "T-9",
+        "name": "Patrick Cantlay",
         "total": "-13",
-        "round_score": "-2",
-        "thru": "7"
-      },
-      {
-        "position": "T-4",
-        "name": "Michael Thorbjornsen",
-        "total": "-13",
-        "round_score": "-2",
-        "thru": "7"
-      },
-      {
-        "position": "T-4",
-        "name": "Xander Schauffele",
-        "total": "-13",
-        "round_score": "-2",
-        "thru": "7"
-      },
-      {
-        "position": "T-4",
-        "name": "Rickie Fowler",
-        "total": "-13",
-        "round_score": "-1",
-        "thru": "6"
-      },
-      {
-        "position": "T-4",
-        "name": "Davis Riley",
-        "total": "-13",
-        "round_score": "+2",
-        "thru": "6"
-      },
-      {
-        "position": "T-10",
-        "name": "Doug Ghim",
-        "total": "-11",
         "round_score": "-3",
         "thru": "15"
       }
