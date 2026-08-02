@@ -1,28 +1,34 @@
 {
   "items": [
     {
+      "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
+      "link": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html",
+      "source": "NYT",
+      "published": "2026-08-02T14:53:42+00:00"
+    },
+    {
+      "title": "Man admits killing Scottish woman found in suitcase, Greek police say",
+      "link": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-02T14:28:15+00:00"
+    },
+    {
+      "title": "Prolonged drought could cause shortage of some foods, farmers' union head says",
+      "link": "https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-02T14:15:07+00:00"
+    },
+    {
       "title": "Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta",
       "link": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html",
       "source": "NYT",
-      "published": "2026-08-02T13:50:26+00:00"
+      "published": "2026-08-02T13:50:27+00:00"
     },
     {
       "title": "Thousands of people under evacuation order from wildfires in Spokane, Wash.",
       "link": "https://www.npr.org/2026/08/02/g-s1-136814/washington-state-wildfires-old-trails-fire-spokane",
       "source": "NPR",
       "published": "2026-08-02T13:35:43+00:00"
-    },
-    {
-      "title": "Continued drought could cause shortage of some foods, farmers' union head says",
-      "link": "https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-02T12:41:28+00:00"
-    },
-    {
-      "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
-      "link": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html",
-      "source": "NYT",
-      "published": "2026-08-02T12:29:07+00:00"
     },
     {
       "title": "New video evidence upends the unsolved killing of a Black teen at a Seattle protest",
@@ -53,12 +59,6 @@
       "link": "https://www.npr.org/2026/08/02/g-s1-135946/premature-birth-slum-pakistan",
       "source": "NPR",
       "published": "2026-08-02T11:03:47+00:00"
-    },
-    {
-      "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
-      "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-02T10:11:26+00:00"
     }
   ]
 }
