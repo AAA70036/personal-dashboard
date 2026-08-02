@@ -4,74 +4,74 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
+        "position": "1",
         "name": "Michael Thorbjornsen",
-        "total": "-15",
-        "round_score": "-4",
-        "thru": "12"
+        "total": "-17",
+        "round_score": "-6",
+        "thru": "16"
       },
       {
-        "position": "T-1",
+        "position": "2",
+        "name": "Davis Riley",
+        "total": "-16",
+        "round_score": "-1",
+        "thru": "14"
+      },
+      {
+        "position": "T-3",
         "name": "Xander Schauffele",
         "total": "-15",
         "round_score": "-4",
-        "thru": "12"
+        "thru": "16"
       },
       {
-        "position": "T-1",
+        "position": "T-3",
         "name": "Rasmus H\u00f8jgaard",
         "total": "-15",
         "round_score": "-3",
-        "thru": "11"
+        "thru": "14"
       },
       {
-        "position": "T-1",
-        "name": "Davis Riley",
-        "total": "-15",
-        "round_score": "E",
-        "thru": "11"
-      },
-      {
-        "position": "T-5",
-        "name": "Michael Kim",
-        "total": "-14",
-        "round_score": "-3",
-        "thru": "13"
-      },
-      {
-        "position": "T-5",
-        "name": "Kristoffer Ventura",
-        "total": "-14",
-        "round_score": "-3",
-        "thru": "12"
-      },
-      {
-        "position": "T-5",
-        "name": "Chris Kirk",
-        "total": "-14",
-        "round_score": "-2",
-        "thru": "12"
-      },
-      {
-        "position": "T-5",
+        "position": "5",
         "name": "Michael Brennan",
         "total": "-14",
         "round_score": "E",
-        "thru": "11"
+        "thru": "14"
       },
       {
-        "position": "T-9",
+        "position": "T-6",
         "name": "Hideki Matsuyama",
         "total": "-13",
         "round_score": "-6",
         "thru": "F"
       },
       {
-        "position": "T-9",
-        "name": "Patrick Cantlay",
+        "position": "T-6",
+        "name": "Michael Kim",
         "total": "-13",
-        "round_score": "-3",
+        "round_score": "-2",
+        "thru": "17"
+      },
+      {
+        "position": "T-6",
+        "name": "Kristoffer Ventura",
+        "total": "-13",
+        "round_score": "-2",
+        "thru": "16"
+      },
+      {
+        "position": "T-6",
+        "name": "Cameron Young",
+        "total": "-13",
+        "round_score": "-1",
         "thru": "15"
+      },
+      {
+        "position": "T-10",
+        "name": "Davis Thompson",
+        "total": "-12",
+        "round_score": "-4",
+        "thru": "F"
       }
     ]
   }
