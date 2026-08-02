@@ -47,6 +47,13 @@
       },
       {
         "position": "T-7",
+        "name": "Patrick Cantlay",
+        "total": "-11",
+        "round_score": "-1",
+        "thru": "1"
+      },
+      {
+        "position": "T-7",
         "name": "Kristoffer Ventura",
         "total": "-11",
         "round_score": "-",
@@ -62,13 +69,6 @@
       {
         "position": "T-7",
         "name": "Michael Kim",
-        "total": "-11",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-7",
-        "name": "Xander Schauffele",
         "total": "-11",
         "round_score": "-",
         "thru": "0"
