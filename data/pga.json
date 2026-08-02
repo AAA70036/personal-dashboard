@@ -1,7 +1,7 @@
 {
   "leaderboard": {
     "tournament": "Rocket Classic",
-    "status": "In Progress",
+    "status": "Final",
     "players": [
       {
         "position": "1",
@@ -18,18 +18,18 @@
         "thru": "F"
       },
       {
-        "position": "T-3",
-        "name": "Rasmus H\u00f8jgaard",
-        "total": "-15",
-        "round_score": "-3",
-        "thru": "17"
-      },
-      {
-        "position": "T-3",
+        "position": "3",
         "name": "Davis Riley",
         "total": "-15",
         "round_score": "E",
-        "thru": "17"
+        "thru": "F"
+      },
+      {
+        "position": "4",
+        "name": "Rasmus H\u00f8jgaard",
+        "total": "-14",
+        "round_score": "-2",
+        "thru": "F"
       },
       {
         "position": "T-5",
