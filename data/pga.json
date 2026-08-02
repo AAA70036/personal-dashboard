@@ -4,74 +4,74 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
+        "position": "1",
         "name": "Michael Brennan",
-        "total": "-15",
-        "round_score": "-1",
-        "thru": "2"
+        "total": "-16",
+        "round_score": "-2",
+        "thru": "6"
       },
       {
-        "position": "T-1",
-        "name": "Davis Riley",
+        "position": "2",
+        "name": "Chris Kirk",
         "total": "-15",
-        "round_score": "E",
-        "thru": "2"
+        "round_score": "-3",
+        "thru": "6"
       },
       {
         "position": "3",
-        "name": "Chris Kirk",
-        "total": "-13",
-        "round_score": "-1",
-        "thru": "3"
-      },
-      {
-        "position": "T-4",
-        "name": "Doug Ghim",
-        "total": "-12",
-        "round_score": "-4",
-        "thru": "11"
-      },
-      {
-        "position": "T-4",
-        "name": "Patrick Cantlay",
-        "total": "-12",
+        "name": "Rasmus H\u00f8jgaard",
+        "total": "-14",
         "round_score": "-2",
         "thru": "6"
       },
       {
         "position": "T-4",
-        "name": "Luke Clanton",
-        "total": "-12",
-        "round_score": "-2",
-        "thru": "5"
-      },
-      {
-        "position": "T-4",
         "name": "Michael Kim",
-        "total": "-12",
-        "round_score": "-1",
-        "thru": "4"
+        "total": "-13",
+        "round_score": "-2",
+        "thru": "8"
       },
       {
         "position": "T-4",
         "name": "Kristoffer Ventura",
-        "total": "-12",
-        "round_score": "-1",
-        "thru": "3"
+        "total": "-13",
+        "round_score": "-2",
+        "thru": "7"
       },
       {
         "position": "T-4",
         "name": "Michael Thorbjornsen",
-        "total": "-12",
-        "round_score": "-1",
-        "thru": "3"
+        "total": "-13",
+        "round_score": "-2",
+        "thru": "7"
+      },
+      {
+        "position": "T-4",
+        "name": "Xander Schauffele",
+        "total": "-13",
+        "round_score": "-2",
+        "thru": "7"
       },
       {
         "position": "T-4",
         "name": "Rickie Fowler",
-        "total": "-12",
-        "round_score": "E",
-        "thru": "3"
+        "total": "-13",
+        "round_score": "-1",
+        "thru": "6"
+      },
+      {
+        "position": "T-4",
+        "name": "Davis Riley",
+        "total": "-13",
+        "round_score": "+2",
+        "thru": "6"
+      },
+      {
+        "position": "T-10",
+        "name": "Doug Ghim",
+        "total": "-11",
+        "round_score": "-3",
+        "thru": "15"
       }
     ]
   }
