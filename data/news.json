@@ -1,16 +1,46 @@
 {
   "items": [
     {
-      "title": "Iran denies Trump's claim that new talks will begin on Monday",
-      "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-03T12:44:09+00:00"
+      "title": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
+      "link": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html",
+      "source": "NYT",
+      "published": "2026-08-03T16:11:52+00:00"
     },
     {
-      "title": "Reform says it would use Navy to stop small boats",
+      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+      "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-03T15:59:48+00:00"
+    },
+    {
+      "title": "France hits out at Reform UK plan to return migrants using Navy",
       "link": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-08-03T12:20:53+00:00"
+      "published": "2026-08-03T15:59:27+00:00"
+    },
+    {
+      "title": "Inside city gripped by deadly protests in Pakistan-administered Kashmir",
+      "link": "https://www.bbc.co.uk/news/videos/cm2gwmy9gppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-03T15:29:13+00:00"
+    },
+    {
+      "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+      "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-03T14:38:48+00:00"
+    },
+    {
+      "title": "Washington wildfires destroy homes, force thousands to evacuate",
+      "link": "https://www.npr.org/2026/08/03/nx-s1-5918018/washington-spokane-wildfires-evacuations",
+      "source": "NPR",
+      "published": "2026-08-03T14:28:44+00:00"
+    },
+    {
+      "title": "U.S. men's national team coach Mauricio Pochettino will stay through 2030 World Cup",
+      "link": "https://www.npr.org/2026/08/03/nx-s1-5917999/us-soccer-mauricio-pochettino-coach-2030",
+      "source": "NPR",
+      "published": "2026-08-03T14:05:24+00:00"
     },
     {
       "title": "Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran",
@@ -29,36 +59,6 @@
       "link": "https://www.npr.org/2026/08/03/nx-s1-5913381/health-fda-peptides-product-regulation",
       "source": "NPR",
       "published": "2026-08-03T11:00:00+00:00"
-    },
-    {
-      "title": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
-      "link": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html",
-      "source": "NYT",
-      "published": "2026-08-03T10:41:47+00:00"
-    },
-    {
-      "title": "For those with criminal records, AI is breaking down barriers to employment",
-      "link": "https://www.npr.org/2026/08/03/nx-s1-5892484/ai-legal-tech-jobs-clean-slate",
-      "source": "NPR",
-      "published": "2026-08-03T09:42:28+00:00"
-    },
-    {
-      "title": "Rare photos of ex-Myanmar leader Aung San Suu Kyi give her family hope",
-      "link": "https://www.npr.org/2026/08/03/nx-s1-5917915/aung-san-suu-kyi-myanmar-rare-photos-kim-aris",
-      "source": "NPR",
-      "published": "2026-08-03T09:42:04+00:00"
-    },
-    {
-      "title": "Ceuta Migration Crisis Exposes Despair Among Morocco\u2019s Young People",
-      "link": "https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html",
-      "source": "NYT",
-      "published": "2026-08-03T09:05:12+00:00"
-    },
-    {
-      "title": "After Trump Pardon, Former Honduras President Hern\u00e1ndez Faces Charges in His Home Country",
-      "link": "https://www.nytimes.com/2026/08/03/world/americas/juan-orlando-hernandez-trump-honduras.html",
-      "source": "NYT",
-      "published": "2026-08-03T09:00:47+00:00"
     }
   ]
 }
