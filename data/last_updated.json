@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-08-04T13:10:14.865690+00:00",
+  "timestamp": "2026-08-04T15:35:47.097944+00:00",
   "statuses": {
     "markets": "ok",
     "news": "ok",
-    "golf": "ok"
+    "golf": "failed: HTTP Error 403: Forbidden"
   }
 }
