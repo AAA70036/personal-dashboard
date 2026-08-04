@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "title": "SpaceX's revenue rises as its once-soaring stock price drifts back to Earth",
+      "link": "https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo",
+      "source": "NPR",
+      "published": "2026-08-04T22:02:03+00:00"
+    },
+    {
       "title": "Oregon's wildfire season is pushing ranchers to evacuate their cattle",
       "link": "https://www.npr.org/2026/08/04/nx-s1-5919329/ranchers-evacuate-cattle",
       "source": "NPR",
@@ -25,6 +31,12 @@
       "published": "2026-08-04T19:45:58+00:00"
     },
     {
+      "title": "House Ethics Committee will investigate Ohio Republican Max Miller",
+      "link": "https://www.npr.org/2026/08/04/g-s1-137389/max-miller-congress-house-ethics-committee-investigation",
+      "source": "NPR",
+      "published": "2026-08-04T19:40:02+00:00"
+    },
+    {
       "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
       "link": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -47,18 +59,6 @@
       "link": "https://www.npr.org/2026/08/04/g-s1-137287/us-patriot-missiles-ukraine-middle-east-iran-war",
       "source": "NPR",
       "published": "2026-08-04T18:01:04+00:00"
-    },
-    {
-      "title": "Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein",
-      "link": "https://www.npr.org/2026/08/04/nx-s1-5919238/jeffrey-epstein-jpmorgan-bank-of-america-deutsche-bank-senate-democrats",
-      "source": "NPR",
-      "published": "2026-08-04T17:43:06+00:00"
-    },
-    {
-      "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-      "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-04T17:26:06+00:00"
     }
   ]
 }
