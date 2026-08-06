@@ -1,10 +1,52 @@
 {
   "items": [
     {
-      "title": "University of Cambridge professor at centre of plagiarism row resigns",
+      "title": "Venezuela\u2019s Response to Earthquakes Exposes Government\u2019s Shortcomings",
+      "link": "https://www.nytimes.com/2026/08/06/world/americas/venezuela-earthquakes-response-rodriguez.html",
+      "source": "NYT",
+      "published": "2026-08-06T09:02:25+00:00"
+    },
+    {
+      "title": "Celebrity culture is one thing. For TMZ, Congress is the new 'reality show'",
+      "link": "https://www.npr.org/2026/08/06/nx-s1-5922731/tmz-congress",
+      "source": "NPR",
+      "published": "2026-08-06T09:00:00+00:00"
+    },
+    {
+      "title": "Gianni Infantino gets internal support at crisis meeting to remain as FIFA president",
+      "link": "https://www.npr.org/2026/08/06/nx-s1-5923233/infantino-crisis-meeting-fifa",
+      "source": "NPR",
+      "published": "2026-08-06T08:52:16+00:00"
+    },
+    {
+      "title": "Morning news brief",
+      "link": "https://www.npr.org/2026/08/06/nx-s1-5921225/morning-news-brief",
+      "source": "NPR",
+      "published": "2026-08-06T08:43:07+00:00"
+    },
+    {
+      "title": "Budget Airline Jetstar to Charge Fees for Using the Overhead Bin",
+      "link": "https://www.nytimes.com/2026/08/06/world/australia/jetstar-overhead-bin-compartment-baggage-fees.html",
+      "source": "NYT",
+      "published": "2026-08-06T08:34:26+00:00"
+    },
+    {
+      "title": "Senate committee set to vote on whether to hold Fauci in contempt of Congress",
+      "link": "https://www.npr.org/2026/08/06/nx-s1-5921383/anthony-fauci-contempt-of-congress-vote",
+      "source": "NPR",
+      "published": "2026-08-06T07:16:22+00:00"
+    },
+    {
+      "title": "Cambridge professor at centre of plagiarism row resigns",
       "link": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-08-06T05:50:34+00:00"
+      "published": "2026-08-06T06:28:03+00:00"
+    },
+    {
+      "title": "Meta becomes latest firm to say its AI hacked another company",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-06T05:53:58+00:00"
     },
     {
       "title": "Drone with explosives found at German airport, official sees 'new quality' of threat",
@@ -17,48 +59,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cj639rx147eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-06T05:00:13+00:00"
-    },
-    {
-      "title": "Young women tell BBC of rape, assault and harassment at Army training college for teenagers",
-      "link": "https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-06T05:00:09+00:00"
-    },
-    {
-      "title": "Half of vaccines are binned - 'fridge-free' versions could change that",
-      "link": "https://www.bbc.co.uk/news/articles/ce85qe8j0nzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-05T23:14:22+00:00"
-    },
-    {
-      "title": "Infantino sorry for errors but stays Fifa president",
-      "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-05T21:37:08+00:00"
-    },
-    {
-      "title": "Ousted Bangladeshi leader vows to return from exile despite facing a death sentence",
-      "link": "https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence",
-      "source": "NPR",
-      "published": "2026-08-05T20:43:29+00:00"
-    },
-    {
-      "title": "Small Texas law firm set to receive $150M to represent unaccompanied migrant children",
-      "link": "https://www.npr.org/2026/08/05/nx-s1-5922451/150-million-contract-to-represent-migrant-children-awarded-to-trump-texas-law-firm",
-      "source": "NPR",
-      "published": "2026-08-05T20:23:02+00:00"
-    },
-    {
-      "title": "Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum",
-      "link": "https://www.npr.org/2026/08/05/nx-s1-5920379/cdc-director-confirmed-erica-schwartz",
-      "source": "NPR",
-      "published": "2026-08-05T20:00:24+00:00"
-    },
-    {
-      "title": "Houthis Threaten to Expand Red Sea Attacks, and Claim Strikes on Saudi Tankers",
-      "link": "https://www.nytimes.com/2026/08/05/world/middleeast/houthis-claim-attack-saudi-arabia-tanker.html",
-      "source": "NYT",
-      "published": "2026-08-05T19:46:50+00:00"
     }
   ]
 }
