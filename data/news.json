@@ -1,10 +1,22 @@
 {
   "items": [
     {
-      "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
-      "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+      "title": "Thailand School Shooting Leaves 7 Dead",
+      "link": "https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html",
+      "source": "NYT",
+      "published": "2026-08-07T12:18:15+00:00"
+    },
+    {
+      "title": "A new vaccine could vanquish a major cause of deadly diarrheal disease",
+      "link": "https://www.npr.org/2026/08/07/g-s1-137456/diarrhea-disease-vaccine-childhood-deaths-shigella",
+      "source": "NPR",
+      "published": "2026-08-07T11:36:33+00:00"
+    },
+    {
+      "title": "Academics call for independent inquiry into Jason Arday's Cambridge appointment",
+      "link": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-08-07T11:17:59+00:00"
+      "published": "2026-08-07T11:03:57+00:00"
     },
     {
       "title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
@@ -31,7 +43,7 @@
       "published": "2026-08-07T10:04:01+00:00"
     },
     {
-      "title": "Hospital Video Captures Chaos as Earthquake Strikes Mid-Surgery",
+      "title": "Video Captures Chaos as Earthquake Strikes Japan Hospital Mid-Surgery",
       "link": "https://www.nytimes.com/2026/08/07/world/asia/hospital-video-earthquake-surgery.html",
       "source": "NYT",
       "published": "2026-08-07T10:02:55+00:00"
@@ -47,18 +59,6 @@
       "link": "https://www.npr.org/2026/08/07/nx-s1-5922746/menopause-hormone-therapy-hrt-heart",
       "source": "NPR",
       "published": "2026-08-07T10:00:00+00:00"
-    },
-    {
-      "title": "Thailand School Shooting Leaves at Least Eight Dead",
-      "link": "https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html",
-      "source": "NYT",
-      "published": "2026-08-07T09:49:53+00:00"
-    },
-    {
-      "title": "England footballer Ivan Toney charged with assault at Soho nightclub",
-      "link": "https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-07T09:30:30+00:00"
     }
   ]
 }
