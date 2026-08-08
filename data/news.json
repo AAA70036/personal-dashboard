@@ -1,10 +1,16 @@
 {
   "items": [
     {
-      "title": "Wildfire Forces Evacuation of 18,000 From Summerland, British Columbia",
+      "title": "Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia",
       "link": "https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html",
       "source": "NYT",
-      "published": "2026-08-08T22:02:20+00:00"
+      "published": "2026-08-08T22:08:08+00:00"
+    },
+    {
+      "title": "Tanker sailors still face danger in the Strait of Hormuz",
+      "link": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
+      "source": "NPR",
+      "published": "2026-08-08T21:19:54+00:00"
     },
     {
       "title": "Whirling Like Dervishes in Turkey, but Open to Everyone",
@@ -53,12 +59,6 @@
       "link": "https://www.npr.org/2026/08/08/nx-s1-5899791/k-pop-chile-bts",
       "source": "NPR",
       "published": "2026-08-08T13:34:45+00:00"
-    },
-    {
-      "title": "Opinion: Europe's summer of heat",
-      "link": "https://www.npr.org/2026/08/08/nx-s1-5916351/opinion-europes-summer-of-heat",
-      "source": "NPR",
-      "published": "2026-08-08T12:00:00+00:00"
     }
   ]
 }
