@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Data centers are a political issue crossing party lines, driving voters to candidates",
+      "link": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms",
+      "source": "NPR",
+      "published": "2026-08-08T09:00:00+00:00"
+    },
+    {
+      "title": "Senate votes to confirm Todd Blanche as attorney general",
+      "link": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
+      "source": "NPR",
+      "published": "2026-08-08T08:46:39+00:00"
+    },
+    {
       "title": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
       "link": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -37,7 +49,7 @@
       "published": "2026-08-08T04:01:17+00:00"
     },
     {
-      "title": "The phone book that led us to Assad's spy chief in hiding",
+      "title": "Inside our hunt for Syria\u2019s fugitive spy chief - and where he\u2019s hiding",
       "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-07T23:23:12+00:00"
@@ -47,18 +59,6 @@
       "link": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-07T22:50:58+00:00"
-    },
-    {
-      "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-      "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-07T22:13:55+00:00"
-    },
-    {
-      "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
-      "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-07T22:07:00+00:00"
     }
   ]
 }
