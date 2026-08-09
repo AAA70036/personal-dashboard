@@ -1,10 +1,16 @@
 {
   "items": [
     {
-      "title": "Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia",
-      "link": "https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html",
+      "title": "Perez Hilton faces long recovery after self-harm livestream",
+      "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-09T04:32:06+00:00"
+    },
+    {
+      "title": "How a Drone \u2018Hellscape\u2019 Might Stop a Chinese Invasion of Taiwan",
+      "link": "https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html",
       "source": "NYT",
-      "published": "2026-08-09T01:12:03+00:00"
+      "published": "2026-08-09T04:01:14+00:00"
     },
     {
       "title": "Solar eclipse to occur next week. Here is what to know",
@@ -53,12 +59,6 @@
       "link": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
       "source": "NYT",
       "published": "2026-08-08T19:04:41+00:00"
-    },
-    {
-      "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
-      "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-08T19:00:22+00:00"
     }
   ]
 }
