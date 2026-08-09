@@ -1,16 +1,16 @@
 {
   "items": [
     {
+      "title": "Israel Rejects Trump\u2019s 15-Point Plan to Disarm Hamas",
+      "link": "https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html",
+      "source": "NYT",
+      "published": "2026-08-09T16:39:14+00:00"
+    },
+    {
       "title": "Syria Agrees to Reorganized Russian Military Presence",
       "link": "https://www.nytimes.com/2026/08/09/world/middleeast/syria-reorganized-russian-military-presence.html",
       "source": "NYT",
       "published": "2026-08-09T15:57:53+00:00"
-    },
-    {
-      "title": "Israel Rejects Trump\u2019s 15-Point Plan to Disarm Hamas",
-      "link": "https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html",
-      "source": "NYT",
-      "published": "2026-08-09T15:48:57+00:00"
     },
     {
       "title": "Iran, Holding Firm to Hormuz, Pushes for Return to June MOU",
@@ -29,12 +29,6 @@
       "link": "https://www.npr.org/2026/08/09/nx-s1-5925960/trump-hoover-iran",
       "source": "NPR",
       "published": "2026-08-09T12:39:47+00:00"
-    },
-    {
-      "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
-      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-09T12:39:18+00:00"
     },
     {
       "title": "Ancient Roman shipwreck discovered off Sicily coast",
@@ -59,6 +53,12 @@
       "link": "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news",
       "source": "NPR",
       "published": "2026-08-09T09:44:02+00:00"
+    },
+    {
+      "title": "As the Climate Warms, Beavers are Coming for Canada\u2019s Arctic",
+      "link": "https://www.nytimes.com/2026/08/09/world/canada/arctic-beavers-canada-climate-umiujaq-quebec.html",
+      "source": "NYT",
+      "published": "2026-08-09T09:00:42+00:00"
     }
   ]
 }
