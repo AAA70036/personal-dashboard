@@ -1,10 +1,34 @@
 {
   "items": [
     {
-      "title": "Live Updates: Powerful 7.4 Earthquake Strikes Colombia",
+      "title": "Live Updates: Powerful 7.4 Earthquake Strikes Colombia, Killing Dozens",
       "link": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
       "source": "NYT",
-      "published": "2026-08-10T17:21:15+00:00"
+      "published": "2026-08-10T18:19:57+00:00"
+    },
+    {
+      "title": "Netanyahu Walks Tightrope on Trump\u2019s Gaza Disarmament Deal",
+      "link": "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html",
+      "source": "NYT",
+      "published": "2026-08-10T17:57:26+00:00"
+    },
+    {
+      "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-10T17:50:29+00:00"
+    },
+    {
+      "title": "More than two-thirds of England now in drought",
+      "link": "https://www.bbc.co.uk/news/articles/c70gk2dl5jyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-10T17:41:39+00:00"
+    },
+    {
+      "title": "'The Nerd Reich' tracks the 'unmasking of Silicon Valley's true politics'",
+      "link": "https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics",
+      "source": "NPR",
+      "published": "2026-08-10T17:38:12+00:00"
     },
     {
       "title": "30 years later, a former rival will stand trial for Tupac's murder",
@@ -19,22 +43,10 @@
       "published": "2026-08-10T16:08:06+00:00"
     },
     {
-      "title": "Netanyahu Walks Tightrope on Trump\u2019s Gaza Disarmament Deal",
-      "link": "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html",
-      "source": "NYT",
-      "published": "2026-08-10T15:40:38+00:00"
-    },
-    {
       "title": "Ukraine Drone Attack on Industrial City in Russia Kills at Least 13",
       "link": "https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html",
       "source": "NYT",
       "published": "2026-08-10T15:17:41+00:00"
-    },
-    {
-      "title": "Ex-Cambridge professor Jason Arday cancels live event after plagiarism row",
-      "link": "https://www.bbc.co.uk/news/articles/cd7lj3703epo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-10T14:58:24+00:00"
     },
     {
       "title": "Record 230 people cross Channel in one small boat",
@@ -43,22 +55,10 @@
       "published": "2026-08-10T14:51:06+00:00"
     },
     {
-      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-      "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-10T14:34:25+00:00"
-    },
-    {
       "title": "Does spending money make you feel bad? Read this comic",
       "link": "https://www.npr.org/2026/08/10/nx-s1-5860936/does-spending-money-make-you-feel-bad-read-this-comic",
       "source": "NPR",
       "published": "2026-08-10T14:20:35+00:00"
-    },
-    {
-      "title": "Consortium including Jeff Bezos advances talks for stake in Liverpool FC",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-10T13:16:51+00:00"
     }
   ]
 }
