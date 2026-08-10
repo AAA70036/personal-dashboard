@@ -1,34 +1,46 @@
 {
   "items": [
     {
+      "title": "'Dust devil' spins through London park",
+      "link": "https://www.bbc.co.uk/news/videos/c07r0njvpm1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-10T11:14:50+00:00"
+    },
+    {
+      "title": "How Taiwan Simulated a Potential Chinese Attack",
+      "link": "https://www.nytimes.com/2026/08/10/world/asia/taiwan-internet-china-invasion-drill.html",
+      "source": "NYT",
+      "published": "2026-08-10T11:08:25+00:00"
+    },
+    {
       "title": "Record 230 people cross Channel in one small boat",
       "link": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-08-10T10:13:00+00:00"
+      "published": "2026-08-10T11:01:39+00:00"
     },
     {
-      "title": "Ban on 'subscription traps' brought forward by three months",
-      "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-10T09:57:54+00:00"
+      "title": "Some disabled people want to advance their careers. They say Medicaid rules stop them",
+      "link": "https://www.npr.org/2026/08/10/nx-s1-5910791/disabilities-people-work-requirements-medicaid-income-caps-buy-in",
+      "source": "NPR",
+      "published": "2026-08-10T11:00:00+00:00"
+    },
+    {
+      "title": "Ukraine Drone Attack on Industrial City in Russia Kills at Least 13",
+      "link": "https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html",
+      "source": "NYT",
+      "published": "2026-08-10T10:50:59+00:00"
     },
     {
       "title": "Thames Water gave finance boss a \u00a31m signing-on fee",
       "link": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-08-10T09:34:20+00:00"
+      "published": "2026-08-10T10:35:47+00:00"
     },
     {
-      "title": "Voters are sick of the two-party system. A new poll shows they're open to big changes",
-      "link": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll",
-      "source": "NPR",
-      "published": "2026-08-10T09:00:00+00:00"
-    },
-    {
-      "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
-      "link": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
-      "source": "NPR",
-      "published": "2026-08-10T09:00:00+00:00"
+      "title": "Southern Iran Bears Brunt of U.S. Bombing",
+      "link": "https://www.nytimes.com/2026/08/10/world/middleeast/iran-south-bombing-strait-hormuz.html",
+      "source": "NYT",
+      "published": "2026-08-10T09:02:27+00:00"
     },
     {
       "title": "An arts school where Epstein allegedly preyed on students reveals decades of abuse",
@@ -43,22 +55,10 @@
       "published": "2026-08-10T09:00:00+00:00"
     },
     {
-      "title": "Who really needs testosterone?",
-      "link": "https://www.npr.org/2026/08/10/nx-s1-5920359/health-men-safety-testosterone-fda-hormone-therapy",
+      "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
+      "link": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
       "source": "NPR",
       "published": "2026-08-10T09:00:00+00:00"
-    },
-    {
-      "title": "Malaysia Was Confident in Its Social Media Ban, but Kids Are Still Logged In",
-      "link": "https://www.nytimes.com/2026/08/10/world/asia/malaysia-social-media-ban-delayed.html",
-      "source": "NYT",
-      "published": "2026-08-10T08:27:16+00:00"
-    },
-    {
-      "title": "Typhoon Dolphin Barrels Into China, Prompting Mass Evacuations",
-      "link": "https://www.nytimes.com/2026/08/10/world/asia/typhoon-dolphin-china-evacuations.html",
-      "source": "NYT",
-      "published": "2026-08-10T08:23:05+00:00"
     }
   ]
 }
