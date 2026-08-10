@@ -1,16 +1,40 @@
 {
   "items": [
     {
-      "title": "Strong earthquake causes significant damage and injuries in Colombia",
-      "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+      "title": "Here\u2019s the latest.",
+      "link": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali/colombia-earthquake",
+      "source": "NYT",
+      "published": "2026-08-10T15:15:55+00:00"
+    },
+    {
+      "title": "Ex-Cambridge professor Jason Arday cancels live event after plagiarism row",
+      "link": "https://www.bbc.co.uk/news/articles/cd7lj3703epo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-08-10T13:54:53+00:00"
+      "published": "2026-08-10T14:58:24+00:00"
     },
     {
       "title": "Record 230 people cross Channel in one small boat",
       "link": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-08-10T13:27:38+00:00"
+      "published": "2026-08-10T14:51:06+00:00"
+    },
+    {
+      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+      "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-10T14:34:25+00:00"
+    },
+    {
+      "title": "Does spending money make you feel bad? Read this comic",
+      "link": "https://www.npr.org/2026/08/10/nx-s1-5860936/does-spending-money-make-you-feel-bad-read-this-comic",
+      "source": "NPR",
+      "published": "2026-08-10T14:20:35+00:00"
+    },
+    {
+      "title": "Consortium including Jeff Bezos advances talks for stake in Liverpool FC",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-10T13:16:51+00:00"
     },
     {
       "title": "Ukraine Drone Attack on Industrial City in Russia Kills at Least 13",
@@ -25,40 +49,16 @@
       "published": "2026-08-10T12:39:05+00:00"
     },
     {
-      "title": "Thames Water gave finance boss a \u00a31m signing-on fee",
-      "link": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-10T11:48:54+00:00"
-    },
-    {
       "title": "Decades of abuse revealed at Michigan art school. And, the Iran war's impact on midterms",
       "link": "https://www.npr.org/2026/08/10/g-s1-138013/up-first-newsletter-epstein-interlochen-center-for-the-arts-trump-iran-midterms-wildfires",
       "source": "NPR",
       "published": "2026-08-10T11:42:58+00:00"
     },
     {
-      "title": "Iran Insists Strait of Hormuz Will Stay Closed Until Trump Agrees to Demands",
-      "link": "https://www.nytimes.com/2026/08/10/world/middleeast/iran-strait-of-hormuz-us-oman-talks.html",
-      "source": "NYT",
-      "published": "2026-08-10T11:34:13+00:00"
-    },
-    {
-      "title": "Ex-Cambridge professor Jason Arday cancels live event after plagiarism row",
-      "link": "https://www.bbc.co.uk/news/articles/cd7lj3703epo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-10T11:14:51+00:00"
-    },
-    {
       "title": "How Taiwan Simulated a Potential Chinese Attack",
       "link": "https://www.nytimes.com/2026/08/10/world/asia/taiwan-internet-china-invasion-drill.html",
       "source": "NYT",
       "published": "2026-08-10T11:08:25+00:00"
-    },
-    {
-      "title": "Some disabled people want to advance their careers. They say Medicaid rules stop them",
-      "link": "https://www.npr.org/2026/08/10/nx-s1-5910791/disabilities-people-work-requirements-medicaid-income-caps-buy-in",
-      "source": "NPR",
-      "published": "2026-08-10T11:00:00+00:00"
     }
   ]
 }
