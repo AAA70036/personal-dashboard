@@ -1,16 +1,22 @@
 {
   "items": [
     {
+      "title": "Russian Civilian Deaths Are Growing Rapidly as Ukraine Expands Its Air War",
+      "link": "https://www.nytimes.com/2026/08/11/world/europe/russia-ukraine-civilian-casualties.html",
+      "source": "NYT",
+      "published": "2026-08-11T11:43:18+00:00"
+    },
+    {
+      "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
+      "link": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
+      "source": "NPR",
+      "published": "2026-08-11T11:11:14+00:00"
+    },
+    {
       "title": "What We Know About the Earthquake in Colombia",
       "link": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-cali-medellin-deaths.html",
       "source": "NYT",
       "published": "2026-08-11T10:52:24+00:00"
-    },
-    {
-      "title": "Russian Civilian Deaths Are Growing Rapidly as Ukraine Expands Its Air War",
-      "link": "https://www.nytimes.com/2026/08/11/world/europe/russia-ukraine-civilian-casualties.html",
-      "source": "NYT",
-      "published": "2026-08-11T10:42:26+00:00"
     },
     {
       "title": "Amber Met Office extreme heat warning issued as temperatures could reach 38C",
@@ -25,7 +31,7 @@
       "published": "2026-08-11T10:30:00+00:00"
     },
     {
-      "title": "Watch: Family escapes home during Colombia earthquake",
+      "title": "Watch: Family narrowly escapes home during Colombia earthquake",
       "link": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-11T10:12:21+00:00"
@@ -53,12 +59,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-11T09:39:58+00:00"
-    },
-    {
-      "title": "The Eclipse Is Coming, and Iceland Is \u2026 Mostly Ready",
-      "link": "https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-iceland.html",
-      "source": "NYT",
-      "published": "2026-08-11T09:36:35+00:00"
     }
   ]
 }
