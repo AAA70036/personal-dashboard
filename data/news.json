@@ -1,10 +1,16 @@
 {
   "items": [
     {
+      "title": "Trump says he switched planes after Nato summit because of possible threat",
+      "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-12T02:45:01+00:00"
+    },
+    {
       "title": "As Death Toll From Colombia Earthquake Rises to at Least 181, Rescuers Hunt for Survivors",
       "link": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html",
       "source": "NYT",
-      "published": "2026-08-11T23:48:47+00:00"
+      "published": "2026-08-12T00:44:28+00:00"
     },
     {
       "title": "More weather records as UK heat set to spike again",
@@ -19,7 +25,7 @@
       "published": "2026-08-11T23:17:15+00:00"
     },
     {
-      "title": "In South Carolina, GOP Voters decide who they want to replace the late Sen. Lindsey Graham",
+      "title": "In South Carolina, Sen. Darline Graham advances to a GOP special primary runoff for U.S. Senate",
       "link": "https://www.npr.org/2026/08/11/nx-s1-5928375/2026-south-carolina-special-primary-election-lindsey-graham-vacancy",
       "source": "NPR",
       "published": "2026-08-11T22:39:22+00:00"
@@ -29,6 +35,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cwyrkz9ryr5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-11T21:21:44+00:00"
+    },
+    {
+      "title": "The death toll climbs from Monday's 7.4 magnitude earthquake in Colombia",
+      "link": "https://www.npr.org/2026/08/11/nx-s1-5928036/the-death-toll-climbs-from-mondays-7-4-magnitude-earthquake-in-colombia",
+      "source": "NPR",
+      "published": "2026-08-11T21:12:05+00:00"
     },
     {
       "title": "A judge expands a block on U.S. Postal Service work on Trump's mail-in voting order",
@@ -47,18 +59,6 @@
       "link": "https://www.npr.org/2026/08/11/nx-s1-5928311/chuck-redd-kennedy-center",
       "source": "NPR",
       "published": "2026-08-11T20:23:07+00:00"
-    },
-    {
-      "title": "5 questions parents may have after Trump's latest vaccine move",
-      "link": "https://www.npr.org/2026/08/11/nx-s1-5928121/vaccine-schedule-trump-executive-order-parents-confusion",
-      "source": "NPR",
-      "published": "2026-08-11T20:20:25+00:00"
-    },
-    {
-      "title": "How Ra\u00fal Castro\u2019s Grandson, Ra\u00fal G. Rodr\u00edguez Castro, Became a Power Broker",
-      "link": "https://www.nytimes.com/2026/08/11/world/americas/raul-castro-trump-cuba.html",
-      "source": "NYT",
-      "published": "2026-08-11T16:30:30+00:00"
     }
   ]
 }
