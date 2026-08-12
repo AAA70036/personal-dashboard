@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Here\u2019s the latest on the eclipse.",
+      "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/solar-eclipse-europe",
+      "source": "NYT",
+      "published": "2026-08-12T11:27:51+00:00"
+    },
+    {
+      "title": "Takeaways from Tuesday primaries. And, Iran threat prompted Trump's secret plane swap",
+      "link": "https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias",
+      "source": "NPR",
+      "published": "2026-08-12T11:25:11+00:00"
+    },
+    {
+      "title": "Burnham says disposable BBQ ban under consideration",
+      "link": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-12T11:18:38+00:00"
+    },
+    {
+      "title": "Andrew Tate's extradition fight tests his influence with Trump's America",
+      "link": "https://www.npr.org/2026/08/12/nx-s1-5902974/andrew-tate-tristan-extradition-maga-trump-political-ties",
+      "source": "NPR",
+      "published": "2026-08-12T10:47:30+00:00"
+    },
+    {
       "title": "Ecuadorean Fishing Boats Hit by Mystery Attackers",
       "link": "https://www.nytimes.com/2026/08/12/world/americas/ecuador-fishing-boat-strikes.html",
       "source": "NYT",
@@ -25,20 +49,8 @@
       "published": "2026-08-12T09:00:00+00:00"
     },
     {
-      "title": "Here's how gyms, salons and ice cream are changing America's Main Streets",
-      "link": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
-      "source": "NPR",
-      "published": "2026-08-12T09:00:00+00:00"
-    },
-    {
       "title": "Nuclear power push ramps up uranium mill \u2014 and tribal health concerns",
       "link": "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns",
-      "source": "NPR",
-      "published": "2026-08-12T09:00:00+00:00"
-    },
-    {
-      "title": "How a road could change West Africa's urban future",
-      "link": "https://www.npr.org/2026/08/12/nx-s1-5901327/west-africa-trade-growth-economy-nigeria-ghana-lagos",
       "source": "NPR",
       "published": "2026-08-12T09:00:00+00:00"
     },
@@ -47,18 +59,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-12T08:57:44+00:00"
-    },
-    {
-      "title": "Burnham to chair Cobra meeting on extreme heat as temperatures surge again",
-      "link": "https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-12T08:08:43+00:00"
-    },
-    {
-      "title": "How Nigel Farage Ended Up Running Against Count Binface in Clacton",
-      "link": "https://www.nytimes.com/2026/08/12/world/europe/count-binface-nigel-farage-clacton.html",
-      "source": "NYT",
-      "published": "2026-08-12T07:59:50+00:00"
     }
   ]
 }
