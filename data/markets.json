@@ -2,61 +2,61 @@
   "indexes": {
     "S&P 500": {
       "symbol": "^GSPC",
-      "price": 7744.47,
-      "change": 17.06,
-      "pct_change": 0.22
+      "price": 7746.28,
+      "change": 18.87,
+      "pct_change": 0.24
     },
     "Dow": {
       "symbol": "^DJI",
-      "price": 53770.72,
-      "change": -14.47,
-      "pct_change": -0.03
+      "price": 53821.06,
+      "change": 35.87,
+      "pct_change": 0.07
     },
     "Nasdaq": {
       "symbol": "^IXIC",
-      "price": 26574.07,
-      "change": 128.63,
-      "pct_change": 0.49
+      "price": 26570.7,
+      "change": 125.26,
+      "pct_change": 0.47
     }
   },
   "gainers": [
     {
       "symbol": "NVDA",
-      "price": 223.42,
-      "change": 5.38,
-      "pct_change": 2.47
-    },
-    {
-      "symbol": "WMT",
-      "price": 115.26,
-      "change": 2.11,
-      "pct_change": 1.86
+      "price": 223.73,
+      "change": 5.69,
+      "pct_change": 2.61
     },
     {
       "symbol": "MRK",
-      "price": 132.49,
-      "change": 1.98,
-      "pct_change": 1.52
+      "price": 133.59,
+      "change": 3.08,
+      "pct_change": 2.36
+    },
+    {
+      "symbol": "ORCL",
+      "price": 150.55,
+      "change": 3.35,
+      "pct_change": 2.28
     }
   ],
   "losers": [
     {
-      "symbol": "HD",
-      "price": 346.01,
-      "change": -8.99,
-      "pct_change": -2.53
-    },
-    {
-      "symbol": "TSLA",
-      "price": 325.01,
-      "change": -7.98,
-      "pct_change": -2.4
-    },
-    {
       "symbol": "META",
-      "price": 585.81,
-      "change": -14.0,
-      "pct_change": -2.33
+      "price": 580.9,
+      "change": -18.91,
+      "pct_change": -3.15
+    },
+    {
+      "symbol": "HD",
+      "price": 347.17,
+      "change": -7.83,
+      "pct_change": -2.2
+    },
+    {
+      "symbol": "MSFT",
+      "price": 492.34,
+      "change": -10.0,
+      "pct_change": -1.99
     }
   ]
 }
