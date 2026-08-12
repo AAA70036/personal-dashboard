@@ -1,10 +1,28 @@
 {
   "items": [
     {
+      "title": "How Nigel Farage Ended Up Running Against Count Binface in Clacton",
+      "link": "https://www.nytimes.com/2026/08/12/world/europe/count-binface-nigel-farage-clacton.html",
+      "source": "NYT",
+      "published": "2026-08-12T07:59:50+00:00"
+    },
+    {
+      "title": "In Bali, a Quest to Restore the Sacred Glow of Fireflies",
+      "link": "https://www.nytimes.com/2026/08/12/world/asia/bali-restore-fireflies.html",
+      "source": "NYT",
+      "published": "2026-08-12T07:35:11+00:00"
+    },
+    {
       "title": "Burnham to chair Cobra meeting on extreme heat as temperatures surge again",
       "link": "https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-08-12T05:49:39+00:00"
+      "published": "2026-08-12T07:10:24+00:00"
+    },
+    {
+      "title": "Early release scheme risks more serious crimes, probation chief warns",
+      "link": "https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-12T06:52:15+00:00"
     },
     {
       "title": "Former U.S. Marine held in Russia on disputed charges has been released",
@@ -19,10 +37,16 @@
       "published": "2026-08-12T05:13:06+00:00"
     },
     {
-      "title": "Early release scheme risks more serious crimes, probation chief warns",
-      "link": "https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-12T05:00:23+00:00"
+      "title": "Zambia Election: President Hichilema Faces Backlash Ahead of Vote",
+      "link": "https://www.nytimes.com/2026/08/12/world/africa/zambia-presidential-election-hichilema.html",
+      "source": "NYT",
+      "published": "2026-08-12T04:01:20+00:00"
+    },
+    {
+      "title": "In Europe, the Total Solar Eclipse Is Hours Away",
+      "link": "https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-europe.html",
+      "source": "NYT",
+      "published": "2026-08-12T04:01:13+00:00"
     },
     {
       "title": "Progressive Peggy Flanagan wins Democratic Senate primary in Minnesota",
@@ -35,30 +59,6 @@
       "link": "https://www.npr.org/2026/08/11/nx-s1-5928394/2026-minnesota-governor-primary-election-lisa-demuth-mike-lindell",
       "source": "NPR",
       "published": "2026-08-12T03:28:31+00:00"
-    },
-    {
-      "title": "As Death Toll From Colombia Earthquake Rises to at Least 181, Rescuers Hunt for Survivors",
-      "link": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html",
-      "source": "NYT",
-      "published": "2026-08-12T00:44:28+00:00"
-    },
-    {
-      "title": "UK to get best eclipse since 1999 as Moon blocks out Sun across Europe",
-      "link": "https://www.bbc.co.uk/news/articles/cx2jr1ew2v1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-11T23:17:15+00:00"
-    },
-    {
-      "title": "In South Carolina, Sen. Darline Graham advances to a GOP special primary runoff for U.S. Senate",
-      "link": "https://www.npr.org/2026/08/11/nx-s1-5928375/2026-south-carolina-special-primary-election-lindsey-graham-vacancy",
-      "source": "NPR",
-      "published": "2026-08-11T22:39:22+00:00"
-    },
-    {
-      "title": "Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again",
-      "link": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-11T21:00:46+00:00"
     }
   ]
 }

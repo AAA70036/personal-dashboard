@@ -21,42 +21,42 @@
   },
   "gainers": [
     {
-      "symbol": "HD",
-      "price": 354.48,
-      "change": 2.91,
-      "pct_change": 0.83
+      "symbol": "MSFT",
+      "price": 503.81,
+      "change": 1.47,
+      "pct_change": 0.29
     },
     {
-      "symbol": "META",
-      "price": 599.12,
-      "change": 4.92,
-      "pct_change": 0.83
+      "symbol": "PG",
+      "price": 145.21,
+      "change": 0.19,
+      "pct_change": 0.13
     },
     {
-      "symbol": "TSLA",
-      "price": 332.81,
-      "change": 2.51,
-      "pct_change": 0.76
+      "symbol": "XOM",
+      "price": 159.8,
+      "change": 0.18,
+      "pct_change": 0.11
     }
   ],
   "losers": [
     {
-      "symbol": "GOOGL",
-      "price": 343.8,
-      "change": -12.75,
-      "pct_change": -3.58
-    },
-    {
       "symbol": "ORCL",
       "price": 145.48,
-      "change": -4.07,
-      "pct_change": -2.72
+      "change": -1.72,
+      "pct_change": -1.17
     },
     {
-      "symbol": "BRK-B",
-      "price": 516.38,
-      "change": -13.42,
-      "pct_change": -2.53
+      "symbol": "MA",
+      "price": 561.44,
+      "change": -3.46,
+      "pct_change": -0.61
+    },
+    {
+      "symbol": "GOOGL",
+      "price": 343.8,
+      "change": -1.28,
+      "pct_change": -0.37
     }
   ]
 }
