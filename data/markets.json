@@ -22,9 +22,9 @@
   "gainers": [
     {
       "symbol": "ORCL",
-      "price": 153.23,
-      "change": 6.03,
-      "pct_change": 4.1
+      "price": 153.28,
+      "change": 6.08,
+      "pct_change": 4.13
     },
     {
       "symbol": "NVDA",
