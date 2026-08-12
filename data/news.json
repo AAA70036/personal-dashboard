@@ -1,20 +1,32 @@
 {
   "items": [
     {
+      "title": "Ecuadorean Fishing Boats Hit by Mystery Attackers",
+      "link": "https://www.nytimes.com/2026/08/12/world/americas/ecuador-fishing-boat-strikes.html",
+      "source": "NYT",
+      "published": "2026-08-12T09:02:30+00:00"
+    },
+    {
+      "title": "Trump Tariffs Force Some Canadian Companies to Move South of the Border",
+      "link": "https://www.nytimes.com/2026/08/12/world/canada/canada-tariffs-manufacturing-trade-trump.html",
+      "source": "NYT",
+      "published": "2026-08-12T09:02:04+00:00"
+    },
+    {
       "title": "Feel so busy you don't even realize you're busy? Try doing a time audit",
       "link": "https://www.npr.org/2026/08/12/nx-s1-5896356/find-time-for-things-that-matter-time-audit",
       "source": "NPR",
       "published": "2026-08-12T09:02:00+00:00"
     },
     {
-      "title": "AI chatbots are offering financial advice. Should you trust them?",
-      "link": "https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice",
+      "title": "Are hacks of U.S. water facilities a new front in the Iran war?",
+      "link": "https://www.npr.org/2026/08/12/nx-s1-5927437/cyberattack-water-iran-war",
       "source": "NPR",
       "published": "2026-08-12T09:00:00+00:00"
     },
     {
-      "title": "Are hacks of U.S. water facilities a new front in the Iran war?",
-      "link": "https://www.npr.org/2026/08/12/nx-s1-5927437/cyberattack-water-iran-war",
+      "title": "Here's how gyms, salons and ice cream are changing America's Main Streets",
+      "link": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
       "source": "NPR",
       "published": "2026-08-12T09:00:00+00:00"
     },
@@ -25,8 +37,8 @@
       "published": "2026-08-12T09:00:00+00:00"
     },
     {
-      "title": "Here's how gyms, salons and ice cream are changing America's Main Streets",
-      "link": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
+      "title": "How a road could change West Africa's urban future",
+      "link": "https://www.npr.org/2026/08/12/nx-s1-5901327/west-africa-trade-growth-economy-nigeria-ghana-lagos",
       "source": "NPR",
       "published": "2026-08-12T09:00:00+00:00"
     },
@@ -47,18 +59,6 @@
       "link": "https://www.nytimes.com/2026/08/12/world/europe/count-binface-nigel-farage-clacton.html",
       "source": "NYT",
       "published": "2026-08-12T07:59:50+00:00"
-    },
-    {
-      "title": "In Bali, a Quest to Restore the Sacred Glow of Fireflies",
-      "link": "https://www.nytimes.com/2026/08/12/world/asia/bali-restore-fireflies.html",
-      "source": "NYT",
-      "published": "2026-08-12T07:35:12+00:00"
-    },
-    {
-      "title": "Zambia Election: President Hichilema Faces Backlash Ahead of Vote",
-      "link": "https://www.nytimes.com/2026/08/12/world/africa/zambia-presidential-election-hichilema.html",
-      "source": "NYT",
-      "published": "2026-08-12T04:01:20+00:00"
     }
   ]
 }
