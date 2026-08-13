@@ -1,7 +1,13 @@
 {
   "items": [
     {
-      "title": "Watch: Houses engulfed in flames across Stourbridge",
+      "title": "Two seriously hurt as passenger train derails in East Sussex",
+      "link": "https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-13T21:36:39+00:00"
+    },
+    {
+      "title": "Watch: Aerial footage shows homes engulfed in flames in Stourbridge",
       "link": "https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-13T20:26:25+00:00"
@@ -53,12 +59,6 @@
       "link": "https://www.bbc.co.uk/news/articles/clyqpqxv04go?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-13T16:49:28+00:00"
-    },
-    {
-      "title": "Vladimir Putin's first visit to disputed Pacific islands draws Tokyo protest",
-      "link": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
-      "source": "NPR",
-      "published": "2026-08-13T16:40:26+00:00"
     }
   ]
 }
