@@ -1,22 +1,28 @@
 {
   "items": [
     {
-      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-      "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+      "title": "3 men set for lethal injection on same day in Tennessee, Alabama and Oklahoma",
+      "link": "https://www.npr.org/2026/08/13/g-s1-138552/us-same-day-executions",
+      "source": "NPR",
+      "published": "2026-08-13T05:43:43+00:00"
+    },
+    {
+      "title": "First Total Eclipse in Europe in Decades Turns Day to Night",
+      "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates",
+      "source": "NYT",
+      "published": "2026-08-13T04:58:02+00:00"
+    },
+    {
+      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-08-13T03:28:56+00:00"
+      "published": "2026-08-13T04:55:58+00:00"
     },
     {
       "title": "Temperatures to soar to 38C as amber extreme heat warning comes into force",
       "link": "https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-13T02:31:39+00:00"
-    },
-    {
-      "title": "First Total Eclipse in Europe in Decades Turns Day to Night",
-      "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates",
-      "source": "NYT",
-      "published": "2026-08-13T02:10:34+00:00"
     },
     {
       "title": "Photos: See the best photos from the solar eclipse",
@@ -29,6 +35,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-13T01:19:23+00:00"
+    },
+    {
+      "title": "Leading doctor rebukes NHS chiefs over transplants",
+      "link": "https://www.bbc.co.uk/news/articles/crl711557e6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-13T01:03:15+00:00"
     },
     {
       "title": "Europeans, Braced for 5th Heat Wave of 2026, Have Had Enough",
@@ -47,18 +59,6 @@
       "link": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-12T21:53:45+00:00"
-    },
-    {
-      "title": "How Nigel Farage Ended Up Running Against Count Binface in Clacton",
-      "link": "https://www.nytimes.com/2026/08/12/world/europe/count-binface-nigel-farage-clacton.html",
-      "source": "NYT",
-      "published": "2026-08-12T20:37:58+00:00"
-    },
-    {
-      "title": "Trump sued over service selling faster access to Truth Social posts",
-      "link": "https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit",
-      "source": "NPR",
-      "published": "2026-08-12T20:33:10+00:00"
     }
   ]
 }
