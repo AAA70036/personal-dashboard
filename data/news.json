@@ -1,16 +1,40 @@
 {
   "items": [
     {
+      "title": "What to Know About Today\u2019s U.K. Special Election: Farage vs. Binface",
+      "link": "https://www.nytimes.com/2026/08/13/world/europe/farage-binface-uk-byelection-clacton.html",
+      "source": "NYT",
+      "published": "2026-08-13T07:46:39+00:00"
+    },
+    {
+      "title": "\u2018An English Summer Is Not the Same Anymore\u2019",
+      "link": "https://www.nytimes.com/2026/08/13/world/europe/britain-heat-records.html",
+      "source": "NYT",
+      "published": "2026-08-13T06:39:59+00:00"
+    },
+    {
+      "title": "Polls open in Clacton by-election",
+      "link": "https://www.bbc.co.uk/news/articles/cp308xpwv34o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-13T06:28:40+00:00"
+    },
+    {
+      "title": "New indictment alleges Nick Reiner was lying in wait before killing his parents",
+      "link": "https://www.npr.org/2026/08/13/g-s1-138566/reiner-indictment",
+      "source": "NPR",
+      "published": "2026-08-13T06:21:25+00:00"
+    },
+    {
+      "title": "Millions crowd cities to see Spain's first total solar eclipse in over a century",
+      "link": "https://www.npr.org/2026/08/13/g-s1-138556/spain-solar-eclipse",
+      "source": "NPR",
+      "published": "2026-08-13T06:04:38+00:00"
+    },
+    {
       "title": "3 men set for lethal injection on same day in Tennessee, Alabama and Oklahoma",
       "link": "https://www.npr.org/2026/08/13/g-s1-138552/us-same-day-executions",
       "source": "NPR",
       "published": "2026-08-13T05:43:43+00:00"
-    },
-    {
-      "title": "First Total Eclipse in Europe in Decades Turns Day to Night",
-      "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates",
-      "source": "NYT",
-      "published": "2026-08-13T04:58:02+00:00"
     },
     {
       "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
@@ -19,46 +43,22 @@
       "published": "2026-08-13T04:55:58+00:00"
     },
     {
-      "title": "Temperatures to soar to 38C as amber extreme heat warning comes into force",
-      "link": "https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-13T02:31:39+00:00"
+      "title": "The Man on a Mission to Build India\u2019s Most Livable City",
+      "link": "https://www.nytimes.com/2026/08/13/world/asia/india-amravati-livable-city-andhra-pradesh.html",
+      "source": "NYT",
+      "published": "2026-08-13T04:12:21+00:00"
+    },
+    {
+      "title": "Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies",
+      "link": "https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html",
+      "source": "NYT",
+      "published": "2026-08-13T04:01:08+00:00"
     },
     {
       "title": "Photos: See the best photos from the solar eclipse",
       "link": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse",
       "source": "NPR",
       "published": "2026-08-13T01:38:01+00:00"
-    },
-    {
-      "title": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
-      "link": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-13T01:19:23+00:00"
-    },
-    {
-      "title": "Leading doctor rebukes NHS chiefs over transplants",
-      "link": "https://www.bbc.co.uk/news/articles/crl711557e6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-13T01:03:15+00:00"
-    },
-    {
-      "title": "Europeans, Braced for 5th Heat Wave of 2026, Have Had Enough",
-      "link": "https://www.nytimes.com/2026/08/12/world/europe/europe-fifth-heat-wave.html",
-      "source": "NYT",
-      "published": "2026-08-13T00:44:00+00:00"
-    },
-    {
-      "title": "ICE plans to outfit officers with electric shock gloves",
-      "link": "https://www.npr.org/2026/08/12/nx-s1-5929545/ice-buys-electric-shock-gloves",
-      "source": "NPR",
-      "published": "2026-08-12T22:13:57+00:00"
-    },
-    {
-      "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
-      "link": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-12T21:53:45+00:00"
     }
   ]
 }
