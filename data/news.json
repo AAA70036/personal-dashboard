@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Fill in the blank on this week's quiz: Rep. AOC is documenting ____ on Instagram",
+      "link": "https://www.npr.org/2026/08/14/g-s1-138426/trump-aoc-primaries-comedy-kalshi-pope-news-quiz",
+      "source": "NPR",
+      "published": "2026-08-14T09:01:00+00:00"
+    },
+    {
+      "title": "ICE uses controversial program to boost deportations. Here's how it works in 1 county",
+      "link": "https://www.npr.org/2026/08/14/nx-s1-5911838/ice-immigration-enforcement-local-police",
+      "source": "NPR",
+      "published": "2026-08-14T09:00:00+00:00"
+    },
+    {
+      "title": "Morning news brief",
+      "link": "https://www.npr.org/2026/08/14/nx-s1-5927062/morning-news-brief",
+      "source": "NPR",
+      "published": "2026-08-14T08:45:41+00:00"
+    },
+    {
+      "title": "Farage's by-election victory won't stop questions about finances",
+      "link": "https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-14T08:18:02+00:00"
+    },
+    {
       "title": "Farage Wins Special U.K. Election That He Initiated, as Expected",
       "link": "https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html",
       "source": "NYT",
@@ -13,7 +37,13 @@
       "published": "2026-08-14T07:26:53+00:00"
     },
     {
-      "title": "'Unprecedented' rains in Japan kill six people",
+      "title": "Another Day of Extreme Heat Bakes Europe, but Relief Is on the Horizon",
+      "link": "https://www.nytimes.com/2026/08/14/weather/europe-extreme-weather-heat-wave.html",
+      "source": "NYT",
+      "published": "2026-08-14T07:02:22+00:00"
+    },
+    {
+      "title": "'Unprecedented' rain in Japan kills six people",
       "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-14T07:00:56+00:00"
@@ -29,36 +59,6 @@
       "link": "https://www.npr.org/2026/08/14/g-s1-138721/trump-antisemitism-harvard",
       "source": "NPR",
       "published": "2026-08-14T06:15:54+00:00"
-    },
-    {
-      "title": "Judge drops Nevada case against electors accused of forging certificate in 2020 election",
-      "link": "https://www.npr.org/2026/08/14/nx-s1-5931179/judge-drops-nevada-case-against-electors-accused-of-forging-certificate-in-2020-election",
-      "source": "NPR",
-      "published": "2026-08-14T05:42:35+00:00"
-    },
-    {
-      "title": "Farage's by-election victory won't stop questions about finances",
-      "link": "https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-14T05:22:27+00:00"
-    },
-    {
-      "title": "NHS service admits data breach due to pager use",
-      "link": "https://www.bbc.co.uk/news/articles/clyj92j210do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-14T05:12:44+00:00"
-    },
-    {
-      "title": "Afghan Women Erased From Public Life in Five Years of Taliban Rule",
-      "link": "https://www.nytimes.com/2026/08/13/world/asia/afghan-women-taliban-rule.html",
-      "source": "NYT",
-      "published": "2026-08-14T05:08:37+00:00"
-    },
-    {
-      "title": "Will Sudan\u2019s El Obeid Become the Next El Fasher? What to Know.",
-      "link": "https://www.nytimes.com/2026/08/14/world/africa/el-obeid-sudan-war-el-fasher.html",
-      "source": "NYT",
-      "published": "2026-08-14T04:01:06+00:00"
     }
   ]
 }
