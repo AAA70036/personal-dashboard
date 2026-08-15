@@ -1,16 +1,16 @@
 {
   "items": [
     {
+      "title": "Professor\u2019s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
+      "link": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
+      "source": "NYT",
+      "published": "2026-08-15T11:38:00+00:00"
+    },
+    {
       "title": "Analysis: Arday's death will send shockwaves through a divided academia",
       "link": "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-15T11:21:10+00:00"
-    },
-    {
-      "title": "Heathrow Airport burst main causes travel disruption",
-      "link": "https://www.bbc.co.uk/news/articles/cgmkdr3gy07o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-15T11:20:11+00:00"
     },
     {
       "title": "Jason Arday death 'tragedy on so many levels' says PM",
@@ -23,12 +23,6 @@
       "link": "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html",
       "source": "NYT",
       "published": "2026-08-15T11:00:50+00:00"
-    },
-    {
-      "title": "Professor\u2019s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
-      "link": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
-      "source": "NYT",
-      "published": "2026-08-15T10:35:44+00:00"
     },
     {
       "title": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
@@ -59,6 +53,12 @@
       "link": "https://www.npr.org/2026/08/15/nx-s1-5897606/afghanistan-visa-green-card-deport",
       "source": "NPR",
       "published": "2026-08-15T09:00:00+00:00"
+    },
+    {
+      "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+      "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-15T08:52:55+00:00"
     }
   ]
 }
