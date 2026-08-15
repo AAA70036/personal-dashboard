@@ -1,16 +1,28 @@
 {
   "items": [
     {
-      "title": "Heathrow Airport warns of disruption following floods",
-      "link": "https://www.bbc.co.uk/news/articles/cgmkdr3gy07o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-15T08:16:07+00:00"
-    },
-    {
-      "title": "At Least 20 Dead as 7.7-Magnitude Earthquake Rocks Indonesia",
+      "title": "At Least 38 Dead as 7.7-Magnitude Earthquake Rocks Indonesia",
       "link": "https://www.nytimes.com/2026/08/15/world/asia/earthquake-indonesia-flores-tsunami.html",
       "source": "NYT",
-      "published": "2026-08-15T07:55:54+00:00"
+      "published": "2026-08-15T09:01:27+00:00"
+    },
+    {
+      "title": "Heathrow Airport pipe leak causes flood disruption",
+      "link": "https://www.bbc.co.uk/news/articles/cgmkdr3gy07o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-15T08:52:13+00:00"
+    },
+    {
+      "title": "Professor\u2019s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
+      "link": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
+      "source": "NYT",
+      "published": "2026-08-15T08:50:20+00:00"
+    },
+    {
+      "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 20",
+      "link": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
+      "source": "NPR",
+      "published": "2026-08-15T08:29:20+00:00"
     },
     {
       "title": "Tributes paid to Jason Arday after ex-Cambridge professor found dead",
@@ -47,18 +59,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-15T00:01:53+00:00"
-    },
-    {
-      "title": "Russia Campaigned to Derail Moldova\u2019s Pro-Western Government",
-      "link": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html",
-      "source": "NYT",
-      "published": "2026-08-14T23:55:21+00:00"
-    },
-    {
-      "title": "How Americans deceive ourselves about slavery",
-      "link": "https://www.npr.org/2026/08/14/nx-s1-5928227/how-americans-deceive-ourselves-about-slavery",
-      "source": "NPR",
-      "published": "2026-08-14T18:13:00+00:00"
     }
   ]
 }
