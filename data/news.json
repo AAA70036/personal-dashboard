@@ -1,10 +1,34 @@
 {
   "items": [
     {
+      "title": "At Least 20 Dead as 7.7-Magnitude Earthquake Rocks Indonesia",
+      "link": "https://www.nytimes.com/2026/08/15/world/asia/earthquake-indonesia-flores-tsunami.html",
+      "source": "NYT",
+      "published": "2026-08-15T06:37:25+00:00"
+    },
+    {
       "title": "Heathrow Airport warns of disruption following floods",
       "link": "https://www.bbc.co.uk/news/articles/cgmkdr3gy07o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-15T06:06:02+00:00"
+    },
+    {
+      "title": "Entrenched, Embattled and Defiant, the Taliban Celebrate 5 Years in Power",
+      "link": "https://www.nytimes.com/2026/08/15/world/asia/entrenched-embattled-and-defiant-the-taliban-celebrate-5-years-in-power.html",
+      "source": "NYT",
+      "published": "2026-08-15T04:01:19+00:00"
+    },
+    {
+      "title": "Heat Deaths in a \u2018Cold\u2019 Country Are a Warning to the Rest of Europe",
+      "link": "https://www.nytimes.com/2026/08/15/world/europe/heat-deaths-in-a-cold-country-are-a-warning-to-the-rest-of-europe.html",
+      "source": "NYT",
+      "published": "2026-08-15T04:01:10+00:00"
+    },
+    {
+      "title": "Wary of Trump, Europe Seeks Role in Eventual Russia-Ukraine Talks",
+      "link": "https://www.nytimes.com/2026/08/15/world/europe/wary-of-trump-europe-seeks-role-in-any-russia-ukraine-talks.html",
+      "source": "NYT",
+      "published": "2026-08-15T04:01:09+00:00"
     },
     {
       "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
@@ -25,12 +49,6 @@
       "published": "2026-08-15T01:41:24+00:00"
     },
     {
-      "title": "Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead",
-      "link": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html",
-      "source": "NYT",
-      "published": "2026-08-15T01:00:46+00:00"
-    },
-    {
       "title": "Russia Campaigned to Derail Moldova\u2019s Pro-Western Government",
       "link": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html",
       "source": "NYT",
@@ -41,24 +59,6 @@
       "link": "https://www.npr.org/2026/08/14/nx-s1-5928227/how-americans-deceive-ourselves-about-slavery",
       "source": "NPR",
       "published": "2026-08-14T18:13:00+00:00"
-    },
-    {
-      "title": "Five years after the Taliban swept to power, does the West have any influence?",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-14T17:00:14+00:00"
-    },
-    {
-      "title": "As speed cameras spread to more states, so does the backlash from drivers",
-      "link": "https://www.npr.org/2026/08/14/nx-s1-5927506/speed-cameras-ticket-backlash",
-      "source": "NPR",
-      "published": "2026-08-14T16:54:58+00:00"
-    },
-    {
-      "title": "Is there a summer COVID-19 surge this year? Yep, it's ramping up again",
-      "link": "https://www.npr.org/2026/08/14/nx-s1-5927115/summer-vaccine-covid-19-surge",
-      "source": "NPR",
-      "published": "2026-08-14T16:37:54+00:00"
     }
   ]
 }
