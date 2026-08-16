@@ -1,16 +1,22 @@
 {
   "items": [
     {
+      "title": "Art Heist: 4 Antonello da Messina Paintings Stolen From Sicily",
+      "link": "https://www.nytimes.com/2026/08/16/world/europe/italy-renaissance-art-heist.html",
+      "source": "NYT",
+      "published": "2026-08-16T14:40:05+00:00"
+    },
+    {
+      "title": "Calls for public inquiry into Jason Arday 'witchhunt'",
+      "link": "https://www.bbc.co.uk/news/articles/cwymmp30711o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-16T14:22:52+00:00"
+    },
+    {
       "title": "People who fled Stourbridge fires start to return home",
       "link": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-16T14:21:05+00:00"
-    },
-    {
-      "title": "With Priests Scarce in Rural Italy, an African Pastor Is Filling the Void",
-      "link": "https://www.nytimes.com/2026/08/16/world/europe/italy-priest-shortage.html",
-      "source": "NYT",
-      "published": "2026-08-16T13:42:50+00:00"
     },
     {
       "title": "Murder inquiry after man bitten by dog dies",
@@ -53,12 +59,6 @@
       "link": "https://www.nytimes.com/2026/08/16/world/americas/trump-americas-visas.html",
       "source": "NYT",
       "published": "2026-08-16T09:00:11+00:00"
-    },
-    {
-      "title": "NPR Senior Podcast Challenge: Official Rules",
-      "link": "https://www.npr.org/2026/08/16/nx-s1-5929441/npr-senior-podcast-challenge-official-rules",
-      "source": "NPR",
-      "published": "2026-08-16T09:00:00+00:00"
     }
   ]
 }
