@@ -1,10 +1,28 @@
 {
   "items": [
     {
+      "title": "Murder inquiry after man bitten by dog dies",
+      "link": "https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-16T12:36:11+00:00"
+    },
+    {
+      "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
+      "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-16T12:18:09+00:00"
+    },
+    {
       "title": "People who fled Stourbridge fires start to return home",
       "link": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-08-16T11:45:39+00:00"
+      "published": "2026-08-16T12:14:44+00:00"
+    },
+    {
+      "title": "As Trump blocks Medicaid funds, one trans teen's mom asks: What's next?",
+      "link": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
+      "source": "NPR",
+      "published": "2026-08-16T11:54:19+00:00"
     },
     {
       "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
@@ -41,24 +59,6 @@
       "link": "https://www.npr.org/2026/08/16/nx-s1-5931964/lindsay-clancy-trial-postpartum-psychosis-diagnosis",
       "source": "NPR",
       "published": "2026-08-16T09:00:00+00:00"
-    },
-    {
-      "title": "65 and older? Have a story to tell? Hit 'record' and send NPR your podcast",
-      "link": "https://www.npr.org/2026/08/16/nx-s1-5911853/npr-senior-podcast-challenge-for-65-and-older",
-      "source": "NPR",
-      "published": "2026-08-16T09:00:00+00:00"
-    },
-    {
-      "title": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
-      "link": "https://www.npr.org/2026/08/16/nx-s1-5928398/endangered-sea-stars-release-pacific-ocean",
-      "source": "NPR",
-      "published": "2026-08-16T09:00:00+00:00"
-    },
-    {
-      "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
-      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-16T08:49:32+00:00"
     }
   ]
 }
