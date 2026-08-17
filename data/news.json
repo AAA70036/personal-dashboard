@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "title": "UK to turn cooler with rain after exceptional heat and dry spell",
+      "link": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-17T02:08:56+00:00"
+    },
+    {
       "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
       "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -53,12 +59,6 @@
       "link": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
       "source": "NYT",
       "published": "2026-08-16T17:39:39+00:00"
-    },
-    {
-      "title": "A good \u2013 and bad \u2013 week for Italy's art police and museum security",
-      "link": "https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma",
-      "source": "NPR",
-      "published": "2026-08-16T16:27:54+00:00"
     }
   ]
 }
