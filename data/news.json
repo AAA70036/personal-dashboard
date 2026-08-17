@@ -1,10 +1,52 @@
 {
   "items": [
     {
-      "title": "Morning news brief",
-      "link": "https://www.npr.org/2026/08/17/nx-s1-5930235/morning-news-brief",
+      "title": "Iran\u2019s Supreme Leader Signals Intention to Keep Country on a War Footing",
+      "link": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html",
+      "source": "NYT",
+      "published": "2026-08-17T09:42:00+00:00"
+    },
+    {
+      "title": "Trump\u2019s Overture to North Korea Strains Alliance With the South",
+      "link": "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html",
+      "source": "NYT",
+      "published": "2026-08-17T09:05:33+00:00"
+    },
+    {
+      "title": "How Ukraine\u2019s Satellites Help Drive Its War Drones",
+      "link": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html",
+      "source": "NYT",
+      "published": "2026-08-17T09:02:10+00:00"
+    },
+    {
+      "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
+      "link": "https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection",
       "source": "NPR",
-      "published": "2026-08-17T08:49:18+00:00"
+      "published": "2026-08-17T09:00:00+00:00"
+    },
+    {
+      "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
+      "link": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
+      "source": "NPR",
+      "published": "2026-08-17T09:00:00+00:00"
+    },
+    {
+      "title": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
+      "link": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
+      "source": "NPR",
+      "published": "2026-08-17T09:00:00+00:00"
+    },
+    {
+      "title": "Car problems? No childcare? How an app is helping people get to work",
+      "link": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
+      "source": "NPR",
+      "published": "2026-08-17T09:00:00+00:00"
+    },
+    {
+      "title": "Elon Musk's Starbase wants to expand in south Texas",
+      "link": "https://www.npr.org/2026/08/17/nx-s1-5910496/elon-musk-starbase-texas-spacex",
+      "source": "NPR",
+      "published": "2026-08-17T09:00:00+00:00"
     },
     {
       "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
@@ -13,52 +55,10 @@
       "published": "2026-08-17T08:43:12+00:00"
     },
     {
-      "title": "Burnham exchanged messages with White House imposter",
+      "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
       "link": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-17T08:38:10+00:00"
-    },
-    {
-      "title": "Iran\u2019s Supreme Leader Signals Intention to Keep Country on a War Footing",
-      "link": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html",
-      "source": "NYT",
-      "published": "2026-08-17T08:29:54+00:00"
-    },
-    {
-      "title": "Post-mortems due on five boys killed in crash on wrong side of motorway that injured four in Ireland",
-      "link": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-17T06:48:29+00:00"
-    },
-    {
-      "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
-      "link": "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea",
-      "source": "NPR",
-      "published": "2026-08-17T05:21:39+00:00"
-    },
-    {
-      "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
-      "link": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-17T05:03:31+00:00"
-    },
-    {
-      "title": "U.S. and Iran Blow Through Deadline to Agree to a Broad Deal to End War",
-      "link": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html",
-      "source": "NYT",
-      "published": "2026-08-17T04:01:19+00:00"
-    },
-    {
-      "title": "\u2018Posh George,\u2019 the Convicted Fraudster in Nigel Farage\u2019s Inner Circle",
-      "link": "https://www.nytimes.com/2026/08/17/world/europe/posh-george-nigel-farage-reform.html",
-      "source": "NYT",
-      "published": "2026-08-17T04:01:15+00:00"
-    },
-    {
-      "title": "China Wants Its Data to Power the World\u2019s A.I.",
-      "link": "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html",
-      "source": "NYT",
-      "published": "2026-08-17T04:01:07+00:00"
     }
   ]
 }
