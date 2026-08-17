@@ -2,14 +2,14 @@
   "indexes": {
     "S&P 500": {
       "symbol": "^GSPC",
-      "price": 7745.37,
-      "change": -40.39,
+      "price": 7745.06,
+      "change": -40.7,
       "pct_change": -0.52
     },
     "Dow": {
       "symbol": "^DJI",
-      "price": 53460.02,
-      "change": -272.39,
+      "price": 53459.78,
+      "change": -272.63,
       "pct_change": -0.51
     },
     "Nasdaq": {
@@ -22,15 +22,15 @@
   "gainers": [
     {
       "symbol": "XOM",
-      "price": 161.51,
-      "change": 1.31,
-      "pct_change": 0.82
+      "price": 161.46,
+      "change": 1.26,
+      "pct_change": 0.79
     },
     {
       "symbol": "JNJ",
-      "price": 262.42,
-      "change": 1.87,
-      "pct_change": 0.72
+      "price": 262.37,
+      "change": 1.82,
+      "pct_change": 0.7
     },
     {
       "symbol": "MRK",
@@ -54,9 +54,9 @@
     },
     {
       "symbol": "ORCL",
-      "price": 146.68,
-      "change": -4.08,
-      "pct_change": -2.7
+      "price": 146.65,
+      "change": -4.11,
+      "pct_change": -2.73
     }
   ]
 }
