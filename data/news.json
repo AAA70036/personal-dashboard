@@ -1,16 +1,34 @@
 {
   "items": [
     {
+      "title": "Morning news brief",
+      "link": "https://www.npr.org/2026/08/17/nx-s1-5930235/morning-news-brief",
+      "source": "NPR",
+      "published": "2026-08-17T08:49:18+00:00"
+    },
+    {
+      "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-17T08:43:12+00:00"
+    },
+    {
+      "title": "Burnham exchanged messages with White House imposter",
+      "link": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-17T08:38:10+00:00"
+    },
+    {
+      "title": "Iran\u2019s Supreme Leader Signals Intention to Keep Country on a War Footing",
+      "link": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html",
+      "source": "NYT",
+      "published": "2026-08-17T08:29:54+00:00"
+    },
+    {
       "title": "Post-mortems due on five boys killed in crash on wrong side of motorway that injured four in Ireland",
       "link": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-17T06:48:29+00:00"
-    },
-    {
-      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-17T06:24:31+00:00"
     },
     {
       "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
@@ -23,12 +41,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-17T05:03:31+00:00"
-    },
-    {
-      "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-17T04:50:56+00:00"
     },
     {
       "title": "U.S. and Iran Blow Through Deadline to Agree to a Broad Deal to End War",
@@ -47,18 +59,6 @@
       "link": "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html",
       "source": "NYT",
       "published": "2026-08-17T04:01:07+00:00"
-    },
-    {
-      "title": "Rain on way for UK with temperatures to drop to overnight lows of 3C in some places",
-      "link": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-17T02:08:56+00:00"
-    },
-    {
-      "title": "Multiple people dead as flooding continues in Indiana",
-      "link": "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths",
-      "source": "NPR",
-      "published": "2026-08-16T20:38:40+00:00"
     }
   ]
 }
