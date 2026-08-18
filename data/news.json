@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "title": "A Mother\u2019s Quest to Rescue Her Son From Russian-Occupied Ukraine",
+      "link": "https://www.nytimes.com/2026/08/18/world/europe/ukraine-russia-rescue.html",
+      "source": "NYT",
+      "published": "2026-08-18T14:51:04+00:00"
+    },
+    {
       "title": "British couple on honeymoon killed in helicopter crash on Greek island",
       "link": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -53,12 +59,6 @@
       "link": "https://www.npr.org/sections/planet-money/2026/08/18/g-s1-138852/grueling-fight-over-who-profits-from-ai-music",
       "source": "NPR",
       "published": "2026-08-18T10:30:00+00:00"
-    },
-    {
-      "title": "Six Years in Provence: An Ancient Castle and a Feud Over a Troublesome Bridge",
-      "link": "https://www.nytimes.com/2026/08/18/world/europe/provence-chateau-village-feud.html",
-      "source": "NYT",
-      "published": "2026-08-18T10:14:17+00:00"
     }
   ]
 }
