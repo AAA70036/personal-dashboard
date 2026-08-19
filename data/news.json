@@ -1,10 +1,16 @@
 {
   "items": [
     {
-      "title": "Chinese Comic Investigated After Singing a Riff of a Patriotic Song",
-      "link": "https://www.nytimes.com/2026/08/19/us/guo-degang-china-comic-investigated.html",
+      "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-19T13:53:51+00:00"
+    },
+    {
+      "title": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
+      "link": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html",
       "source": "NYT",
-      "published": "2026-08-19T13:05:12+00:00"
+      "published": "2026-08-19T13:32:09+00:00"
     },
     {
       "title": "Ukraine\u2019s Ex-Defense Minister Calls for Election, Cementing Break With Zelensky",
@@ -13,10 +19,10 @@
       "published": "2026-08-19T12:53:51+00:00"
     },
     {
-      "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
-      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+      "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-08-19T12:41:46+00:00"
+      "published": "2026-08-19T12:47:53+00:00"
     },
     {
       "title": "With Limited Options, Trump Tries Economic Pressure on Iran \u2014 Again",
@@ -37,10 +43,10 @@
       "published": "2026-08-19T12:04:49+00:00"
     },
     {
-      "title": "PM unveils plan to get rough sleepers off streets for Christmas",
-      "link": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-19T11:45:33+00:00"
+      "title": "U.A.E. Halts Trade Ties With Iran and Says It Was Targeted With Missiles",
+      "link": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
+      "source": "NYT",
+      "published": "2026-08-19T11:24:34+00:00"
     },
     {
       "title": "U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida's primaries",
@@ -53,12 +59,6 @@
       "link": "https://www.npr.org/2026/08/19/g-s1-138787/how-indias-blocking-of-a-film-exposing-real-life-police-abuses-backfired",
       "source": "NPR",
       "published": "2026-08-19T10:02:00+00:00"
-    },
-    {
-      "title": "Striking hospital employees sound alarm over workplace violence",
-      "link": "https://www.npr.org/2026/08/19/nx-s1-5930385/nurses-strike-hospital-workplace-violence-patient-attacks",
-      "source": "NPR",
-      "published": "2026-08-19T10:00:00+00:00"
     }
   ]
 }
