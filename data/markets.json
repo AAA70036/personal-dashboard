@@ -23,8 +23,8 @@
     {
       "symbol": "ORCL",
       "price": 142.79,
-      "change": 1.07,
-      "pct_change": 0.76
+      "change": 1.09,
+      "pct_change": 0.77
     },
     {
       "symbol": "NVDA",
@@ -43,8 +43,8 @@
     {
       "symbol": "HD",
       "price": 337.49,
-      "change": -1.15,
-      "pct_change": -0.34
+      "change": -0.87,
+      "pct_change": -0.26
     },
     {
       "symbol": "WMT",
