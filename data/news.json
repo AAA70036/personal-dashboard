@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "title": "Prince Harry and Meghan to return to UK",
+      "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-19T21:30:01+00:00"
+    },
+    {
+      "title": "Experts raise alarms over Census Bureau report Trump is touting on noncitizen voting",
+      "link": "https://www.npr.org/2026/08/19/nx-s1-5938799/trump-census-bureau-noncitizen-voting",
+      "source": "NPR",
+      "published": "2026-08-19T21:27:51+00:00"
+    },
+    {
+      "title": "Whistleblower Arturo B\u00e9jar leads testimony in landmark trial against Meta",
+      "link": "https://www.npr.org/2026/08/19/nx-s1-5936648/meta-trial-arturo-bejar-whistleblower-testimony",
+      "source": "NPR",
+      "published": "2026-08-19T21:20:15+00:00"
+    },
+    {
       "title": "People smuggler exposed by BBC investigation arrested and charged",
       "link": "https://www.bbc.co.uk/news/articles/cx2ldeg93njo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -41,24 +59,6 @@
       "link": "https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name",
       "source": "NPR",
       "published": "2026-08-19T18:01:03+00:00"
-    },
-    {
-      "title": "Why Aitana's 'Superestrella' is the surprise Latin hit song of the summer",
-      "link": "https://www.npr.org/2026/08/19/nx-s1-5937925/aitana-superestrella-song-of-the-summer",
-      "source": "NPR",
-      "published": "2026-08-19T17:03:41+00:00"
-    },
-    {
-      "title": "Salmonella outbreak: What we know so far",
-      "link": "https://www.bbc.co.uk/news/articles/cp30gqnpqjqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-19T16:43:56+00:00"
-    },
-    {
-      "title": "Why does the U.S. military seem stymied in the war with Iran?",
-      "link": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
-      "source": "NPR",
-      "published": "2026-08-19T16:18:35+00:00"
     }
   ]
 }
