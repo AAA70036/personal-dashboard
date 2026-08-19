@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "title": "California passes toughest wildfire rules in the U.S. for home landscaping",
+      "link": "https://www.npr.org/2026/08/19/nx-s1-5937926/california-wildfire-rules-zone-zero-vegetation",
+      "source": "NPR",
+      "published": "2026-08-19T23:19:12+00:00"
+    },
+    {
       "title": "Prince Harry and Meghan moving back to UK",
       "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -37,7 +43,7 @@
       "published": "2026-08-19T20:18:49+00:00"
     },
     {
-      "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T.",
+      "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T",
       "link": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
       "source": "NPR",
       "published": "2026-08-19T20:09:39+00:00"
@@ -53,12 +59,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-19T18:45:51+00:00"
-    },
-    {
-      "title": "In new filings, Kennedy Center says it won't try to put Trump's name on facade until Sept. 8",
-      "link": "https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name",
-      "source": "NPR",
-      "published": "2026-08-19T18:01:03+00:00"
     }
   ]
 }
