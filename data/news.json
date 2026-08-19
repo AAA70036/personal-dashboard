@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Why does the U.S. military seem stymied in the war with Iran?",
+      "link": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
+      "source": "NPR",
+      "published": "2026-08-19T16:18:35+00:00"
+    },
+    {
+      "title": "U.A.E. Announces Halt to Trade With Iran Amid Trump\u2019s Push To Isolate Tehran",
+      "link": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
+      "source": "NYT",
+      "published": "2026-08-19T16:00:04+00:00"
+    },
+    {
+      "title": "Israel opens up tenders for controversial West Bank settlement project",
+      "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-19T15:50:22+00:00"
+    },
+    {
+      "title": "Salmonella outbreak: What we know so far",
+      "link": "https://www.bbc.co.uk/news/articles/cp30gqnpqjqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-19T15:48:49+00:00"
+    },
+    {
       "title": "This high-speed star is whipping around the black hole in the middle of our galaxy",
       "link": "https://www.npr.org/2026/08/19/nx-s1-5936479/fastest-star-galaxy-black-hole-sagittarius-a-milky-way",
       "source": "NPR",
@@ -13,22 +37,10 @@
       "published": "2026-08-19T15:33:32+00:00"
     },
     {
-      "title": "U.A.E. Announces Halt to Trade With Iran Amid Trump\u2019s Push To Isolate Tehran",
-      "link": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
-      "source": "NYT",
-      "published": "2026-08-19T15:27:01+00:00"
-    },
-    {
-      "title": "Real-world study of Oregon's nonmedical psilocybin program shows promise",
+      "title": "A real-world study of Oregon's nonmedical psilocybin program shows promise",
       "link": "https://www.npr.org/2026/08/19/nx-s1-5936443/oregon-psilocybin-ptsd-depression-anxiety",
       "source": "NPR",
       "published": "2026-08-19T15:22:35+00:00"
-    },
-    {
-      "title": "Jump in energy bills drives UK inflation to highest rate for four months",
-      "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-19T15:19:55+00:00"
     },
     {
       "title": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
@@ -47,18 +59,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-19T14:06:42+00:00"
-    },
-    {
-      "title": "Ukraine\u2019s Ex-Defense Minister Calls for Election, Cementing Break With Zelensky",
-      "link": "https://www.nytimes.com/2026/08/19/world/europe/ukraine-fedorov-zelensky-elections.html",
-      "source": "NYT",
-      "published": "2026-08-19T12:53:51+00:00"
-    },
-    {
-      "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
-      "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-19T12:47:53+00:00"
     }
   ]
 }
