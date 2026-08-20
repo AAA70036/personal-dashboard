@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "title": "Man charged over Manchester synagogue attack",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g5ne37zyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-20T15:45:42+00:00"
+    },
+    {
       "title": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
       "link": "https://www.npr.org/2026/08/20/nx-s1-5939431/dc-indycar-race-museums-art-vibration",
       "source": "NPR",
@@ -53,12 +59,6 @@
       "link": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html",
       "source": "NYT",
       "published": "2026-08-20T10:28:27+00:00"
-    },
-    {
-      "title": "Why are Harry and Meghan returning to the UK?",
-      "link": "https://www.bbc.co.uk/news/videos/cp8eg084n3eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-20T10:16:31+00:00"
     }
   ]
 }
