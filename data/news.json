@@ -1,10 +1,28 @@
 {
   "items": [
     {
-      "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
+      "title": "At least 12 killed in Kyiv as Ukraine grapples with air defence shortages",
       "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-08-20T05:25:23+00:00"
+      "published": "2026-08-20T06:44:20+00:00"
+    },
+    {
+      "title": "Prince Harry and Meghan are returning to the U.K. with their children",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5939320/harry-meghan-return-uk",
+      "source": "NPR",
+      "published": "2026-08-20T06:17:42+00:00"
+    },
+    {
+      "title": "Prince Harry and Meghan moving back to UK later this month",
+      "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-20T06:08:34+00:00"
+    },
+    {
+      "title": "Israeli military launches criminal probes into killings of 5-year-old and paramedics",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5939310/israeli-military-criminal-probes",
+      "source": "NPR",
+      "published": "2026-08-20T05:50:53+00:00"
     },
     {
       "title": "U.A.E. Announces Halt to Trade With Iran Amid Trump\u2019s Push To Isolate Tehran",
@@ -25,12 +43,6 @@
       "published": "2026-08-20T02:00:51+00:00"
     },
     {
-      "title": "Prince Harry and Meghan moving back to UK later this month",
-      "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-20T01:14:29+00:00"
-    },
-    {
       "title": "Trump and Canada\u2019s Carney Seem to Make Progress on a Tariff Deal, but Questions Linger",
       "link": "https://www.nytimes.com/2026/08/19/world/canada/trump-canada-tariffs-carney-deal-trade.html",
       "source": "NYT",
@@ -47,18 +59,6 @@
       "link": "https://www.npr.org/2026/08/19/nx-s1-5938799/trump-census-bureau-noncitizen-voting",
       "source": "NPR",
       "published": "2026-08-19T21:27:51+00:00"
-    },
-    {
-      "title": "Whistleblower Arturo B\u00e9jar leads testimony in landmark trial against Meta",
-      "link": "https://www.npr.org/2026/08/19/nx-s1-5936648/meta-trial-arturo-bejar-whistleblower-testimony",
-      "source": "NPR",
-      "published": "2026-08-19T21:20:15+00:00"
-    },
-    {
-      "title": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
-      "link": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html",
-      "source": "NYT",
-      "published": "2026-08-19T20:18:49+00:00"
     }
   ]
 }
