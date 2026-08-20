@@ -1,10 +1,34 @@
 {
   "items": [
     {
-      "title": "At least 12 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
       "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-08-20T06:44:20+00:00"
+      "published": "2026-08-20T07:37:55+00:00"
+    },
+    {
+      "title": "Chinese court sentences founder of property developer Evergrande to life in prison",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
+      "source": "NPR",
+      "published": "2026-08-20T07:31:55+00:00"
+    },
+    {
+      "title": "Travelodge boss steps down after security issues in rooms",
+      "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-20T07:27:21+00:00"
+    },
+    {
+      "title": "Prince Harry and Meghan moving back to UK later this month",
+      "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-20T07:21:03+00:00"
+    },
+    {
+      "title": "China Sentences Evergrande Founder to Life in Prison",
+      "link": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html",
+      "source": "NYT",
+      "published": "2026-08-20T06:39:52+00:00"
     },
     {
       "title": "Prince Harry and Meghan are returning to the U.K. with their children",
@@ -13,52 +37,28 @@
       "published": "2026-08-20T06:17:42+00:00"
     },
     {
-      "title": "Prince Harry and Meghan moving back to UK later this month",
-      "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-20T06:08:34+00:00"
-    },
-    {
       "title": "Israeli military launches criminal probes into killings of 5-year-old and paramedics",
       "link": "https://www.npr.org/2026/08/20/nx-s1-5939310/israeli-military-criminal-probes",
       "source": "NPR",
       "published": "2026-08-20T05:50:53+00:00"
     },
     {
-      "title": "U.A.E. Announces Halt to Trade With Iran Amid Trump\u2019s Push To Isolate Tehran",
-      "link": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
+      "title": "Hating Matcha, Yet Loving Life, Made Him a TikTok Star at 89",
+      "link": "https://www.nytimes.com/2026/08/20/world/europe/elder-opa-influencer-tiktok-star-matcha.html",
       "source": "NYT",
-      "published": "2026-08-20T04:46:27+00:00"
+      "published": "2026-08-20T04:01:09+00:00"
+    },
+    {
+      "title": "Bad Plot, Worse Graphics: Chinese Moviegoers Flock to a Low-Budget Hit",
+      "link": "https://www.nytimes.com/2026/08/20/world/asia/niu-lai-chinese-movie-box-office.html",
+      "source": "NYT",
+      "published": "2026-08-20T04:01:05+00:00"
     },
     {
       "title": "Giant whales move into Greenland waters as ice disappears",
       "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-20T02:05:20+00:00"
-    },
-    {
-      "title": "Harry and Meghan are experts in surprise - but is their UK return forever?",
-      "link": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-20T02:00:51+00:00"
-    },
-    {
-      "title": "Trump and Canada\u2019s Carney Seem to Make Progress on a Tariff Deal, but Questions Linger",
-      "link": "https://www.nytimes.com/2026/08/19/world/canada/trump-canada-tariffs-carney-deal-trade.html",
-      "source": "NYT",
-      "published": "2026-08-20T00:22:17+00:00"
-    },
-    {
-      "title": "California passes toughest wildfire rules in the U.S. for home landscaping",
-      "link": "https://www.npr.org/2026/08/19/nx-s1-5937926/california-wildfire-rules-zone-zero-vegetation",
-      "source": "NPR",
-      "published": "2026-08-19T23:19:12+00:00"
-    },
-    {
-      "title": "Experts raise alarms over Census Bureau report Trump is touting on noncitizen voting",
-      "link": "https://www.npr.org/2026/08/19/nx-s1-5938799/trump-census-bureau-noncitizen-voting",
-      "source": "NPR",
-      "published": "2026-08-19T21:27:51+00:00"
     }
   ]
 }
