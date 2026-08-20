@@ -1,28 +1,52 @@
 {
   "items": [
     {
-      "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
-      "source": "NPR",
-      "published": "2026-08-20T09:00:00+00:00"
+      "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-20T09:37:31+00:00"
     },
     {
-      "title": "Disabled adults learn and work in their communities. That right is under threat",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
-      "source": "NPR",
-      "published": "2026-08-20T09:00:00+00:00"
+      "title": "Prince Harry and Meghan moving back to UK later this month",
+      "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-20T09:35:58+00:00"
     },
     {
-      "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
-      "source": "NPR",
-      "published": "2026-08-20T09:00:00+00:00"
+      "title": "Russian Missiles Kill at Least 13 in Kyiv as Air Defenses Falter",
+      "link": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html",
+      "source": "NYT",
+      "published": "2026-08-20T09:29:28+00:00"
     },
     {
-      "title": "Here's how the system to report problems in ICE detention has failed immigrants",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+      "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
+      "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-20T09:29:20+00:00"
+    },
+    {
+      "title": "Bare Grocery Shelves Are a New Wartime Hardship for Ukrainians",
+      "link": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-grocery-stores-shortages.html",
+      "source": "NYT",
+      "published": "2026-08-20T09:28:09+00:00"
+    },
+    {
+      "title": "North Korea fires a suspected missile toward the sea, Japan says",
+      "link": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
       "source": "NPR",
-      "published": "2026-08-20T09:00:00+00:00"
+      "published": "2026-08-20T09:24:45+00:00"
+    },
+    {
+      "title": "As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?",
+      "link": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html",
+      "source": "NYT",
+      "published": "2026-08-20T09:04:07+00:00"
+    },
+    {
+      "title": "The Indian City Where AI Is Creating Jobs for Humans",
+      "link": "https://www.nytimes.com/2026/08/20/world/asia/ai-jobs-data-annotation-india-karur.html",
+      "source": "NYT",
+      "published": "2026-08-20T09:02:45+00:00"
     },
     {
       "title": "Privacy advocates call on Maryland to investigate data brokers",
@@ -31,34 +55,10 @@
       "published": "2026-08-20T09:00:00+00:00"
     },
     {
-      "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-20T08:39:26+00:00"
-    },
-    {
-      "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
-      "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-20T08:19:50+00:00"
-    },
-    {
-      "title": "School 'deeply saddened' by death of family in sea off Shoreham",
-      "link": "https://www.bbc.co.uk/news/articles/c70gpggglllo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-20T08:03:16+00:00"
-    },
-    {
-      "title": "Prince Harry and Meghan moving back to UK later this month",
-      "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-20T07:21:03+00:00"
-    },
-    {
-      "title": "China Sentences Evergrande Founder to Life in Prison",
-      "link": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html",
-      "source": "NYT",
-      "published": "2026-08-20T06:39:53+00:00"
+      "title": "Here's how the system to report problems in ICE detention has failed immigrants",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+      "source": "NPR",
+      "published": "2026-08-20T09:00:00+00:00"
     }
   ]
 }
