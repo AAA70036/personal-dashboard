@@ -1,22 +1,28 @@
 {
   "items": [
     {
+      "title": "School 'deeply saddened' by death of family in sea off Shoreham",
+      "link": "https://www.bbc.co.uk/news/articles/c70gpggglllo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-20T08:03:16+00:00"
+    },
+    {
       "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
       "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-08-20T07:37:55+00:00"
+      "published": "2026-08-20T07:59:55+00:00"
+    },
+    {
+      "title": "Travelodge boss steps down after security issues in rooms",
+      "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-20T07:51:29+00:00"
     },
     {
       "title": "Chinese court sentences founder of property developer Evergrande to life in prison",
       "link": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
       "source": "NPR",
       "published": "2026-08-20T07:31:55+00:00"
-    },
-    {
-      "title": "Travelodge boss steps down after security issues in rooms",
-      "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-20T07:27:21+00:00"
     },
     {
       "title": "Prince Harry and Meghan moving back to UK later this month",
@@ -28,7 +34,7 @@
       "title": "China Sentences Evergrande Founder to Life in Prison",
       "link": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html",
       "source": "NYT",
-      "published": "2026-08-20T06:39:52+00:00"
+      "published": "2026-08-20T06:39:53+00:00"
     },
     {
       "title": "Prince Harry and Meghan are returning to the U.K. with their children",
@@ -53,12 +59,6 @@
       "link": "https://www.nytimes.com/2026/08/20/world/asia/niu-lai-chinese-movie-box-office.html",
       "source": "NYT",
       "published": "2026-08-20T04:01:05+00:00"
-    },
-    {
-      "title": "Giant whales move into Greenland waters as ice disappears",
-      "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-20T02:05:20+00:00"
     }
   ]
 }
