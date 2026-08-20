@@ -8,8 +8,8 @@
     },
     "Dow": {
       "symbol": "^DJI",
-      "price": 53463.05,
-      "change": 119.65,
+      "price": 53463.1,
+      "change": 119.7,
       "pct_change": 0.22
     },
     "Nasdaq": {
@@ -29,7 +29,7 @@
     {
       "symbol": "LLY",
       "price": 1280.34,
-      "change": 55.78,
+      "change": 55.79,
       "pct_change": 4.56
     },
     {
@@ -49,8 +49,8 @@
     {
       "symbol": "UNH",
       "price": 388.61,
-      "change": -5.01,
-      "pct_change": -1.27
+      "change": -5.26,
+      "pct_change": -1.34
     },
     {
       "symbol": "WMT",

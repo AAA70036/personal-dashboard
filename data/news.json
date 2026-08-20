@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "title": "Giant whales move into Greenland waters as ice disappears",
+      "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-20T02:05:20+00:00"
+    },
+    {
       "title": "Harry and Meghan are experts in surprise - but is their UK return forever?",
       "link": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -53,12 +59,6 @@
       "link": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
       "source": "NPR",
       "published": "2026-08-19T20:09:39+00:00"
-    },
-    {
-      "title": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records",
-      "link": "https://www.npr.org/2026/08/19/nx-s1-5936636/covid-research-fauci-morens-foia-guilty",
-      "source": "NPR",
-      "published": "2026-08-19T19:45:11+00:00"
     }
   ]
 }
