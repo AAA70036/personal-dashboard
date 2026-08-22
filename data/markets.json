@@ -8,8 +8,8 @@
     },
     "Dow": {
       "symbol": "^DJI",
-      "price": 53277.0,
-      "change": 517.79,
+      "price": 53277.01,
+      "change": 517.8,
       "pct_change": 0.98
     },
     "Nasdaq": {
