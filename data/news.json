@@ -1,22 +1,40 @@
 {
   "items": [
     {
-      "title": "Multiple deaths after collision between police vehicle and car",
+      "title": "Multiple deaths after crash between police vehicle and car",
       "link": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-08-22T08:45:06+00:00"
+      "published": "2026-08-22T09:28:10+00:00"
+    },
+    {
+      "title": "Close and Loving, or Oppressive? A Novelist Takes Aim at Italian Families.",
+      "link": "https://www.nytimes.com/2026/08/22/world/europe/italian-families-novel-anniversary-bajani.html",
+      "source": "NYT",
+      "published": "2026-08-22T09:17:14+00:00"
+    },
+    {
+      "title": "Carney Stands Up to Trump in U.S.-Canada Trade War",
+      "link": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
+      "source": "NYT",
+      "published": "2026-08-22T09:14:04+00:00"
     },
     {
       "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
       "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-08-22T08:17:58+00:00"
+      "published": "2026-08-22T09:09:41+00:00"
     },
     {
-      "title": "Mexican Governor, Accused by U.S. of Helping Cartel, Returns to His Job",
-      "link": "https://www.nytimes.com/2026/08/21/world/americas/mexico-sinaloa-governor-cartels.html",
+      "title": "Lebanon\u2019s Efforts to Tame Hezbollah Stall Amid Israel War",
+      "link": "https://www.nytimes.com/2026/08/22/world/middleeast/lebanon-hezbollah-israel-diplomacy.html",
       "source": "NYT",
-      "published": "2026-08-22T06:42:24+00:00"
+      "published": "2026-08-22T09:02:01+00:00"
+    },
+    {
+      "title": "How \u2018The Rest Is History\u2019 Podcast Conquered the World",
+      "link": "https://www.nytimes.com/2026/08/22/world/europe/rest-is-history-podcast-sandbrook-holland.html",
+      "source": "NYT",
+      "published": "2026-08-22T09:00:58+00:00"
     },
     {
       "title": "Canada-U.S. Trade War Escalates as Talks Collapse",
@@ -37,28 +55,10 @@
       "published": "2026-08-22T04:36:27+00:00"
     },
     {
-      "title": "Cities Compete in Dizzying \u2018Gold Rush\u2019 to Be Japan\u2019s Backup Capital",
-      "link": "https://www.nytimes.com/2026/08/22/world/asia/japan-capital-osaka.html",
-      "source": "NYT",
-      "published": "2026-08-22T04:01:07+00:00"
-    },
-    {
       "title": "More students planning to live at home for university over 'insane' living costs",
       "link": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-21T23:01:58+00:00"
-    },
-    {
-      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-      "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-21T22:36:12+00:00"
-    },
-    {
-      "title": "A battle over 'Italian brainrot' could shape who owns AI art",
-      "link": "https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur",
-      "source": "NPR",
-      "published": "2026-08-21T22:16:46+00:00"
     }
   ]
 }
