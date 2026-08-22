@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Multiple deaths after collision between police vehicle and car",
+      "link": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-22T08:45:06+00:00"
+    },
+    {
+      "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
+      "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-22T08:17:58+00:00"
+    },
+    {
+      "title": "Mexican Governor, Accused by U.S. of Helping Cartel, Returns to His Job",
+      "link": "https://www.nytimes.com/2026/08/21/world/americas/mexico-sinaloa-governor-cartels.html",
+      "source": "NYT",
+      "published": "2026-08-22T06:42:24+00:00"
+    },
+    {
+      "title": "Canada-U.S. Trade War Escalates as Talks Collapse",
+      "link": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
+      "source": "NYT",
+      "published": "2026-08-22T05:13:58+00:00"
+    },
+    {
       "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
       "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -13,10 +37,10 @@
       "published": "2026-08-22T04:36:27+00:00"
     },
     {
-      "title": "Burnham economic adviser O'Neill rules out government job",
-      "link": "https://www.bbc.co.uk/news/articles/cwym4m4j848o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-22T02:53:22+00:00"
+      "title": "Cities Compete in Dizzying \u2018Gold Rush\u2019 to Be Japan\u2019s Backup Capital",
+      "link": "https://www.nytimes.com/2026/08/22/world/asia/japan-capital-osaka.html",
+      "source": "NYT",
+      "published": "2026-08-22T04:01:07+00:00"
     },
     {
       "title": "More students planning to live at home for university over 'insane' living costs",
@@ -31,34 +55,10 @@
       "published": "2026-08-21T22:36:12+00:00"
     },
     {
-      "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
-      "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-21T22:28:37+00:00"
-    },
-    {
       "title": "A battle over 'Italian brainrot' could shape who owns AI art",
       "link": "https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur",
       "source": "NPR",
       "published": "2026-08-21T22:16:46+00:00"
-    },
-    {
-      "title": "Supreme Court allows Trump's ballroom construction to continue for now",
-      "link": "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
-      "source": "NPR",
-      "published": "2026-08-21T18:47:48+00:00"
-    },
-    {
-      "title": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center",
-      "link": "https://www.npr.org/2026/08/21/nx-s1-5940799/kennedy-center-president-trump-filing",
-      "source": "NPR",
-      "published": "2026-08-21T16:40:59+00:00"
-    },
-    {
-      "title": "Why China Thinks It Can Resist Trump\u2019s Economic Threats on Iran",
-      "link": "https://www.nytimes.com/2026/08/21/world/asia/china-iran-trump-economic-threats.html",
-      "source": "NYT",
-      "published": "2026-08-21T14:48:14+00:00"
     }
   ]
 }
