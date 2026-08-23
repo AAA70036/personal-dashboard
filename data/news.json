@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "title": "What to Know About the Ebola Outbreak Centered in Congo",
+      "link": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html",
+      "source": "NYT",
+      "published": "2026-08-23T18:04:38+00:00"
+    },
+    {
       "title": "Iran Warns Gulf States Not to Join Trump\u2019s Economic War",
       "link": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html",
       "source": "NYT",
@@ -19,10 +25,10 @@
       "published": "2026-08-23T16:15:30+00:00"
     },
     {
-      "title": "ECB investigating England bowler Brydon Carse for 'nightclub incident'",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cg5l53d2ejmo?at_medium=RSS&at_campaign=rss",
+      "title": "Newcastle and Liverpool united in tribute to legend Keegan",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-08-23T15:07:04+00:00"
+      "published": "2026-08-23T15:53:38+00:00"
     },
     {
       "title": "Police aborted pursuit about 10 seconds before fatal crash, watchdog says",
@@ -53,12 +59,6 @@
       "link": "https://www.npr.org/2026/08/23/nx-s1-5941143/california-governor-xavier-becerra-health-insurance",
       "source": "NPR",
       "published": "2026-08-23T12:50:09+00:00"
-    },
-    {
-      "title": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala",
-      "link": "https://www.npr.org/2026/08/23/nx-s1-5941769/tropical-storm-moke-hawaii",
-      "source": "NPR",
-      "published": "2026-08-23T12:48:05+00:00"
     }
   ]
 }
