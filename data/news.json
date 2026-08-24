@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "title": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
+      "link": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
+      "source": "NPR",
+      "published": "2026-08-24T20:53:45+00:00"
+    },
+    {
       "title": "Charity? Acting? The Cotswolds? What will Harry and Meghan's UK life look like?",
       "link": "https://www.bbc.co.uk/news/articles/c6243glyqv7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -53,12 +59,6 @@
       "link": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html",
       "source": "NYT",
       "published": "2026-08-24T14:24:53+00:00"
-    },
-    {
-      "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
-      "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
-      "source": "NPR",
-      "published": "2026-08-24T12:26:00+00:00"
     }
   ]
 }
