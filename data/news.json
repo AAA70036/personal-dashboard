@@ -1,16 +1,22 @@
 {
   "items": [
     {
+      "title": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
+      "link": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html",
+      "source": "NYT",
+      "published": "2026-08-24T17:04:04+00:00"
+    },
+    {
+      "title": "How the deadly A66 crash unfolded leaving seven dead",
+      "link": "https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-24T16:55:42+00:00"
+    },
+    {
       "title": "Snooker champion Graeme Dott guilty of child sex abuse",
       "link": "https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-24T16:33:40+00:00"
-    },
-    {
-      "title": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
-      "link": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html",
-      "source": "NYT",
-      "published": "2026-08-24T16:25:48+00:00"
     },
     {
       "title": "Can \u2018Argentina\u2019s Texas\u2019 Save the Country\u2019s Economy?",
@@ -53,12 +59,6 @@
       "link": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html",
       "source": "NYT",
       "published": "2026-08-24T11:49:32+00:00"
-    },
-    {
-      "title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
-      "link": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban",
-      "source": "NPR",
-      "published": "2026-08-24T11:27:44+00:00"
     }
   ]
 }
