@@ -2,14 +2,14 @@
   "indexes": {
     "S&P 500": {
       "symbol": "^GSPC",
-      "price": 7652.96,
-      "change": -21.41,
+      "price": 7652.86,
+      "change": -21.51,
       "pct_change": -0.28
     },
     "Dow": {
       "symbol": "^DJI",
-      "price": 53416.99,
-      "change": 139.98,
+      "price": 53417.16,
+      "change": 140.15,
       "pct_change": 0.26
     },
     "Nasdaq": {
@@ -22,14 +22,14 @@
   "gainers": [
     {
       "symbol": "MA",
-      "price": 599.8,
-      "change": 19.75,
+      "price": 599.86,
+      "change": 19.81,
       "pct_change": 3.41
     },
     {
       "symbol": "V",
-      "price": 382.44,
-      "change": 11.19,
+      "price": 382.41,
+      "change": 11.16,
       "pct_change": 3.01
     },
     {
