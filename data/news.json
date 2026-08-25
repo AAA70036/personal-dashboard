@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "U.S. Campaign on Iran\u2019s Economy May Still Risk Regional Military Escalation",
+      "link": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-economy-sanctions.html",
+      "source": "NYT",
+      "published": "2026-08-25T09:46:41+00:00"
+    },
+    {
+      "title": "Trump Administration to Return Diplomats to Middle East Embassies",
+      "link": "https://www.nytimes.com/2026/08/25/world/middleeast/us-diplomats-middle-east-embassies.html",
+      "source": "NYT",
+      "published": "2026-08-25T09:32:55+00:00"
+    },
+    {
       "title": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
       "link": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html",
       "source": "NYT",
@@ -19,20 +31,20 @@
       "published": "2026-08-25T09:07:09+00:00"
     },
     {
-      "title": "How to understand this heat wave (as told by NPR's senior climate editor)",
-      "link": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
-      "source": "NPR",
-      "published": "2026-08-25T09:00:00+00:00"
+      "title": "Christian Convert Who Fled Iran and Was Deported By Trump Finds New Home",
+      "link": "https://www.nytimes.com/2026/08/25/world/middleeast/christian-convert-who-fled-iran-and-was-ousted-from-us-finds-a-new-home.html",
+      "source": "NYT",
+      "published": "2026-08-25T09:02:25+00:00"
     },
     {
-      "title": "Spokane wildfire evacuees return home, but it's 'still a hazmat situation'",
-      "link": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
-      "source": "NPR",
-      "published": "2026-08-25T09:00:00+00:00"
+      "title": "What Happened to the Coveted Western Tanks Sent to Ukraine?",
+      "link": "https://www.nytimes.com/2026/08/25/world/europe/ukraine-russia-tanks.html",
+      "source": "NYT",
+      "published": "2026-08-25T09:01:55+00:00"
     },
     {
-      "title": "Kids with brain injuries thrive at this camp. But federal research funding is in flux",
-      "link": "https://www.npr.org/2026/08/25/nx-s1-5936617/camp-cranium-tbi-act-brain-injury-concussion-trauma-cdc",
+      "title": "At least 25% of former NFL players who died between 2016 and 2021 had CTE, study finds",
+      "link": "https://www.npr.org/2026/08/25/nx-s1-5943168/cte-nfl-concussions-deaths-study",
       "source": "NPR",
       "published": "2026-08-25T09:00:00+00:00"
     },
@@ -43,22 +55,10 @@
       "published": "2026-08-25T09:00:00+00:00"
     },
     {
-      "title": "What We Know About Australia\u2019s Bird Flu, Which Has Crossed Over to Mammals",
-      "link": "https://www.nytimes.com/2026/08/25/world/australia/bird-flu-h5n1-mammals.html",
-      "source": "NYT",
-      "published": "2026-08-25T08:36:08+00:00"
-    },
-    {
-      "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
-      "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-25T08:25:36+00:00"
-    },
-    {
-      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-25T08:08:26+00:00"
+      "title": "Kids with brain injuries thrive at this camp. But federal research funding is in flux",
+      "link": "https://www.npr.org/2026/08/25/nx-s1-5936617/camp-cranium-tbi-act-brain-injury-concussion-trauma-cdc",
+      "source": "NPR",
+      "published": "2026-08-25T09:00:00+00:00"
     }
   ]
 }
