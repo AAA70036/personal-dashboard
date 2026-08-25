@@ -1,10 +1,46 @@
 {
   "items": [
     {
-      "title": "Morning news brief",
-      "link": "https://www.npr.org/2026/08/25/nx-s1-5942903/morning-news-brief",
+      "title": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
+      "link": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html",
+      "source": "NYT",
+      "published": "2026-08-25T09:28:26+00:00"
+    },
+    {
+      "title": "Lockerbie bombing trial postponed days before it was due to start",
+      "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-25T09:08:13+00:00"
+    },
+    {
+      "title": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
+      "link": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
       "source": "NPR",
-      "published": "2026-08-25T08:44:36+00:00"
+      "published": "2026-08-25T09:07:09+00:00"
+    },
+    {
+      "title": "How to understand this heat wave (as told by NPR's senior climate editor)",
+      "link": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
+      "source": "NPR",
+      "published": "2026-08-25T09:00:00+00:00"
+    },
+    {
+      "title": "Spokane wildfire evacuees return home, but it's 'still a hazmat situation'",
+      "link": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
+      "source": "NPR",
+      "published": "2026-08-25T09:00:00+00:00"
+    },
+    {
+      "title": "Kids with brain injuries thrive at this camp. But federal research funding is in flux",
+      "link": "https://www.npr.org/2026/08/25/nx-s1-5936617/camp-cranium-tbi-act-brain-injury-concussion-trauma-cdc",
+      "source": "NPR",
+      "published": "2026-08-25T09:00:00+00:00"
+    },
+    {
+      "title": "When is suspending students discrimination? Education Dept. renews an old fight",
+      "link": "https://www.npr.org/2026/08/25/nx-s1-5936474/discrimination-school-discipline-suspension-race-education-department-civil-rights",
+      "source": "NPR",
+      "published": "2026-08-25T09:00:00+00:00"
     },
     {
       "title": "What We Know About Australia\u2019s Bird Flu, Which Has Crossed Over to Mammals",
@@ -23,42 +59,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-25T08:08:26+00:00"
-    },
-    {
-      "title": "Australia Bans Generative A.I. From Official Music Charts",
-      "link": "https://www.nytimes.com/2026/08/25/world/australia/australia-ai-music-chart-ban.html",
-      "source": "NYT",
-      "published": "2026-08-25T08:04:49+00:00"
-    },
-    {
-      "title": "Lockerbie bombing trial postponed days before it was due to start",
-      "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-25T06:59:03+00:00"
-    },
-    {
-      "title": "Chinese Artist Sentenced to Three Years in Prison for Mao Sculptures",
-      "link": "https://www.nytimes.com/2026/08/25/world/asia/china-artist-gao-zhen-jailed-mao-sculpture.html",
-      "source": "NYT",
-      "published": "2026-08-25T05:32:54+00:00"
-    },
-    {
-      "title": "Indonesians brave choking smoke to pray for rain as country battles wildfires",
-      "link": "https://www.npr.org/2026/08/25/nx-s1-5944062/indonesia-battles-wildfires",
-      "source": "NPR",
-      "published": "2026-08-25T05:24:16+00:00"
-    },
-    {
-      "title": "The UK will help Ukraine make long-range missiles by sharing classified tech information",
-      "link": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information",
-      "source": "NPR",
-      "published": "2026-08-25T05:14:03+00:00"
-    },
-    {
-      "title": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
-      "link": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html",
-      "source": "NYT",
-      "published": "2026-08-25T05:12:26+00:00"
     }
   ]
 }

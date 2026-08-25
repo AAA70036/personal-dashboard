@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-08-25T08:52:51.833860+00:00",
+  "timestamp": "2026-08-25T09:37:37.146859+00:00",
   "statuses": {
-    "markets": "ok",
+    "markets": "failed: Too Many Requests. Rate limited. Try after a while.",
     "news": "ok",
     "golf": "failed: HTTP Error 403: Forbidden"
   }
