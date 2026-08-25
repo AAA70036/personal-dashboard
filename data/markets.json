@@ -2,14 +2,14 @@
   "indexes": {
     "S&P 500": {
       "symbol": "^GSPC",
-      "price": 7677.2,
-      "change": 24.34,
+      "price": 7677.28,
+      "change": 24.42,
       "pct_change": 0.32
     },
     "Dow": {
       "symbol": "^DJI",
-      "price": 53577.17,
-      "change": 160.01,
+      "price": 53577.4,
+      "change": 160.24,
       "pct_change": 0.3
     },
     "Nasdaq": {
@@ -24,7 +24,7 @@
       "symbol": "MRK",
       "price": 156.45,
       "change": 5.78,
-      "pct_change": 3.83
+      "pct_change": 3.84
     },
     {
       "symbol": "NVDA",
@@ -42,9 +42,9 @@
   "losers": [
     {
       "symbol": "XOM",
-      "price": 160.62,
-      "change": -3.44,
-      "pct_change": -2.1
+      "price": 160.64,
+      "change": -3.42,
+      "pct_change": -2.09
     },
     {
       "symbol": "LLY",
