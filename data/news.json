@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+      "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-25T19:48:14+00:00"
+    },
+    {
       "title": "Israeli Lawmaker Smashes Palestinian Monument in West Bank",
       "link": "https://www.nytimes.com/2026/08/25/world/middleeast/israel-lawmaker-palestinian-monument.html",
       "source": "NYT",
@@ -53,12 +59,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-25T17:30:40+00:00"
-    },
-    {
-      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-      "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-25T16:56:20+00:00"
     }
   ]
 }
