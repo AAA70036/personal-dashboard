@@ -2,61 +2,61 @@
   "indexes": {
     "S&P 500": {
       "symbol": "^GSPC",
-      "price": 7685.59,
-      "change": 8.31,
-      "pct_change": 0.11
+      "price": 7676.87,
+      "change": -0.41,
+      "pct_change": -0.01
     },
     "Dow": {
       "symbol": "^DJI",
-      "price": 53591.16,
-      "change": 13.76,
-      "pct_change": 0.03
+      "price": 53459.51,
+      "change": -117.89,
+      "pct_change": -0.22
     },
     "Nasdaq": {
       "symbol": "^IXIC",
-      "price": 26167.59,
-      "change": 16.29,
-      "pct_change": 0.06
+      "price": 26108.42,
+      "change": -42.88,
+      "pct_change": -0.16
     }
   },
   "gainers": [
     {
+      "symbol": "META",
+      "price": 585.65,
+      "change": 17.89,
+      "pct_change": 3.15
+    },
+    {
       "symbol": "ORCL",
-      "price": 149.62,
-      "change": 4.7,
-      "pct_change": 3.24
+      "price": 147.65,
+      "change": 2.73,
+      "pct_change": 1.88
     },
     {
       "symbol": "UNH",
-      "price": 404.46,
-      "change": 8.16,
-      "pct_change": 2.06
-    },
-    {
-      "symbol": "MSFT",
-      "price": 495.07,
-      "change": 5.42,
-      "pct_change": 1.11
+      "price": 401.33,
+      "change": 5.03,
+      "pct_change": 1.27
     }
   ],
   "losers": [
     {
+      "symbol": "TSLA",
+      "price": 344.5,
+      "change": -6.2,
+      "pct_change": -1.77
+    },
+    {
       "symbol": "LLY",
-      "price": 1204.47,
-      "change": -27.41,
-      "pct_change": -2.23
+      "price": 1214.67,
+      "change": -17.21,
+      "pct_change": -1.4
     },
     {
       "symbol": "MRK",
-      "price": 154.1,
-      "change": -2.4,
-      "pct_change": -1.54
-    },
-    {
-      "symbol": "GOOGL",
-      "price": 343.61,
-      "change": -2.69,
-      "pct_change": -0.78
+      "price": 154.44,
+      "change": -2.06,
+      "pct_change": -1.32
     }
   ]
 }
