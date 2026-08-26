@@ -42,15 +42,15 @@
   "losers": [
     {
       "symbol": "LLY",
-      "price": 1189.21,
-      "change": -42.67,
-      "pct_change": -3.46
+      "price": 1189.41,
+      "change": -42.47,
+      "pct_change": -3.45
     },
     {
       "symbol": "MRK",
-      "price": 153.09,
-      "change": -3.41,
-      "pct_change": -2.18
+      "price": 153.1,
+      "change": -3.4,
+      "pct_change": -2.17
     },
     {
       "symbol": "NVDA",
