@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Soaring summer power bills spark protests -- and even disconnections",
+      "link": "https://www.npr.org/2026/08/26/nx-s1-5943289/electric-bills-summer-heat-oklahoma-power",
+      "source": "NPR",
+      "published": "2026-08-26T09:01:00+00:00"
+    },
+    {
+      "title": "Hollywood's summer box office is glowing, but the numbers come with startling caveats",
+      "link": "https://www.npr.org/2026/08/26/nx-s1-5923629/movie-summer-box-office",
+      "source": "NPR",
+      "published": "2026-08-26T09:00:00+00:00"
+    },
+    {
       "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
       "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -25,12 +37,6 @@
       "published": "2026-08-26T05:45:58+00:00"
     },
     {
-      "title": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead",
-      "link": "https://www.npr.org/2026/08/26/nx-s1-5944787/50-kidnapped-haiti-gang-attack-47-dead",
-      "source": "NPR",
-      "published": "2026-08-26T05:45:34+00:00"
-    },
-    {
       "title": "Dad of woman who took her own life says Treasury failed in its duty of care",
       "link": "https://www.bbc.co.uk/news/articles/c0rewr790jyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -53,12 +59,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cj63jyl09jxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-25T23:13:34+00:00"
-    },
-    {
-      "title": "Yellow warnings in force as rain and thunderstorms hit parts of UK",
-      "link": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-25T23:11:15+00:00"
     }
   ]
 }
