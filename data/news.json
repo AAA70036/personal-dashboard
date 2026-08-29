@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "title": "Milo Yiannopoulos, far-right critic of U.S. immigration, is deported from U.S.",
+      "link": "https://www.npr.org/2026/08/29/nx-s1-5948731/milo-yiannopoulos-arrested-overstaying-us-visa",
+      "source": "NPR",
+      "published": "2026-08-29T21:09:14+00:00"
+    },
+    {
+      "title": "Vessel in distress with five people onboard in Channel",
+      "link": "https://www.bbc.co.uk/news/articles/czeznrgyd1go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-29T20:44:49+00:00"
+    },
+    {
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-29T20:13:16+00:00"
+    },
+    {
+      "title": "Nepal Rescuers Bore Through Tunnels to Try to Reach 900 Workers Missing After Floods",
+      "link": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-hydropower-tunnels-rescue-missing-workers.html",
+      "source": "NYT",
+      "published": "2026-08-29T20:07:50+00:00"
+    },
+    {
+      "title": "Thieves Smash Museum Case for Diamond Necklace Worth Millions in Vienna",
+      "link": "https://www.nytimes.com/2026/08/29/world/europe/diamond-necklace-theft-vienna.html",
+      "source": "NYT",
+      "published": "2026-08-29T19:49:54+00:00"
+    },
+    {
+      "title": "Norway's new king remembers 'my dear father' in first speech",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-08-29T19:06:28+00:00"
+    },
+    {
       "title": "37 Killed After Russian Strike on Weapons Depot as Ukraine Blames Negligence",
       "link": "https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html",
       "source": "NYT",
@@ -23,42 +59,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-29T16:24:39+00:00"
-    },
-    {
-      "title": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
-      "link": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv",
-      "source": "NPR",
-      "published": "2026-08-29T15:54:40+00:00"
-    },
-    {
-      "title": "Football fans pay tribute to crash death officers at Middlesbrough match",
-      "link": "https://www.bbc.co.uk/news/articles/c5y5727d02xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-29T15:43:43+00:00"
-    },
-    {
-      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-      "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-29T15:27:56+00:00"
-    },
-    {
-      "title": "Photos: See the aftermath of deadly flash floods in Nepal",
-      "link": "https://www.npr.org/2026/08/29/nx-s1-5948209/photos-see-the-aftermath-of-deadly-flash-floods-in-nepal",
-      "source": "NPR",
-      "published": "2026-08-29T14:22:19+00:00"
-    },
-    {
-      "title": "Christian festival 'devastated' as man dies after sign falls",
-      "link": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-29T14:12:30+00:00"
-    },
-    {
-      "title": "Opinion: Remembering Dolly Parton",
-      "link": "https://www.npr.org/2026/08/29/nx-s1-5941650/opinion-remembering-dolly-parton",
-      "source": "NPR",
-      "published": "2026-08-29T12:00:00+00:00"
     }
   ]
 }
