@@ -1,10 +1,28 @@
 {
   "items": [
     {
+      "title": "Trump officials cut political interference ban after unusual Census Bureau report",
+      "link": "https://www.npr.org/2026/08/31/nx-s1-5948057/department-commerce-census-bureau-scientific-integrity",
+      "source": "NPR",
+      "published": "2026-08-31T22:24:12+00:00"
+    },
+    {
+      "title": "\u2018The Nest of Snakes\u2019: Warring Cartels Target Women in Mexico",
+      "link": "https://www.nytimes.com/2026/08/31/world/americas/warring-cartels-target-women-in-mexico.html",
+      "source": "NYT",
+      "published": "2026-08-31T22:12:27+00:00"
+    },
+    {
       "title": "Hundreds remember Heaton Park synagogue attack victims at memorial event",
       "link": "https://www.bbc.co.uk/news/articles/cx2z4wlxj04o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-08-31T20:36:54+00:00"
+      "published": "2026-08-31T21:05:10+00:00"
+    },
+    {
+      "title": "Whatever happened to the U.S. famine alert system that Trump shut down, then reopened",
+      "link": "https://www.npr.org/2026/09/01/nx-s1-5944472/famine-usaid-fews-net",
+      "source": "NPR",
+      "published": "2026-08-31T20:42:17+00:00"
     },
     {
       "title": "Mel Stride and Priti Patel replaced in major Tory reshuffle",
@@ -19,6 +37,12 @@
       "published": "2026-08-31T20:25:59+00:00"
     },
     {
+      "title": "Kalshi bans former congressman George Santos for life after State of the Union trades",
+      "link": "https://www.npr.org/2026/08/31/nx-s1-5950432/george-santos-kalshi-ban-prediction-markets",
+      "source": "NPR",
+      "published": "2026-08-31T20:21:47+00:00"
+    },
+    {
       "title": "The U.S. sues Amazon again",
       "link": "https://www.npr.org/2026/08/31/nx-s1-5950482/ftc-amazon-advertising-lawsuit",
       "source": "NPR",
@@ -31,34 +55,10 @@
       "published": "2026-08-31T18:44:21+00:00"
     },
     {
-      "title": "\u2018The Nest of Snakes\u2019: Warring Cartels Target Women in Mexico",
-      "link": "https://www.nytimes.com/2026/08/31/world/americas/warring-cartels-target-women-in-mexico.html",
-      "source": "NYT",
-      "published": "2026-08-31T17:52:03+00:00"
-    },
-    {
       "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
       "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-08-31T17:30:47+00:00"
-    },
-    {
-      "title": "Paperwork, lines, hours on hold: There's a 'Time Tax' on Americans who need help most",
-      "link": "https://www.npr.org/2026/08/31/nx-s1-5946449/time-tax-annie-lowrey-government-assistance-unemployment",
-      "source": "NPR",
-      "published": "2026-08-31T17:06:39+00:00"
-    },
-    {
-      "title": "AI could cause global economic downturn, Bank of England chief warns",
-      "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-08-31T16:49:11+00:00"
-    },
-    {
-      "title": "Lionel Messi says he's retiring from playing internationally for Argentina",
-      "link": "https://www.npr.org/2026/08/31/nx-s1-5950427/lionel-messi-retires-international-soccer",
-      "source": "NPR",
-      "published": "2026-08-31T16:37:05+00:00"
     }
   ]
 }
