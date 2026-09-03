@@ -1,13 +1,55 @@
 {
   "items": [
     {
+      "title": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic",
+      "link": "https://www.nytimes.com/2026/09/03/world/europe/norway-russian-research-ship-arctic.html",
+      "source": "NYT",
+      "published": "2026-09-03T21:12:44+00:00"
+    },
+    {
+      "title": "Farage senior aide filmed suggesting way to avoid donations law",
+      "link": "https://www.bbc.co.uk/news/articles/cr50ddzl97qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-03T21:07:58+00:00"
+    },
+    {
+      "title": "Trump asks Supreme Court to lift block on USPS plan to restrict mail voting",
+      "link": "https://www.npr.org/2026/09/03/nx-s1-5955614/trump-mail-in-voting-ruling-court-usps",
+      "source": "NPR",
+      "published": "2026-09-03T20:48:21+00:00"
+    },
+    {
+      "title": "British army told to stop non-essential training exercises to save money",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyqey6rlyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-03T19:56:14+00:00"
+    },
+    {
+      "title": "Tributes to Gloria Steinem are flooding in, from Hollywood to Capitol Hill",
+      "link": "https://www.npr.org/2026/09/03/nx-s1-5955579/gloria-steinem-tributes",
+      "source": "NPR",
+      "published": "2026-09-03T19:04:19+00:00"
+    },
+    {
+      "title": "Fifa accuses Uefa of 'smear campaign' against Infantino",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-03T19:01:43+00:00"
+    },
+    {
+      "title": "Later in life, Gloria Steinem found herself free of the 'demands of gender'",
+      "link": "https://www.npr.org/2026/09/03/nx-s1-5955479/gloria-steinem-fresh-air",
+      "source": "NPR",
+      "published": "2026-09-03T18:42:39+00:00"
+    },
+    {
       "title": "Spain\u2019s Leader Questions Morocco Border Control During Ceuta Migrant Surge",
       "link": "https://www.nytimes.com/2026/09/03/world/europe/spain-morocco-ceuta-sanchez.html",
       "source": "NYT",
-      "published": "2026-09-03T18:30:40+00:00"
+      "published": "2026-09-03T18:38:47+00:00"
     },
     {
-      "title": "ICE officer faces federal charges for lying about shooting of Venezuelan immigrant",
+      "title": "ICE officer faces federal charges for lying over shooting of Venezuelan immigrant",
       "link": "https://www.npr.org/2026/09/03/nx-s1-5955654/justice-department-charges-castro-ice-officer",
       "source": "NPR",
       "published": "2026-09-03T18:14:53+00:00"
@@ -17,48 +59,6 @@
       "link": "https://www.npr.org/2026/09/03/nx-s1-5955645/maria-bartiromo-fox-news",
       "source": "NPR",
       "published": "2026-09-03T18:05:57+00:00"
-    },
-    {
-      "title": "Watch: Gloria Steinem dedicated her life to fight for women's equality",
-      "link": "https://www.bbc.co.uk/news/videos/c9865l26097o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-09-03T17:35:31+00:00"
-    },
-    {
-      "title": "Kissing apes, anti-splash urinals: This year's Ig Nobels showcase surprising science",
-      "link": "https://www.npr.org/2026/09/03/nx-s1-5950370/ig-nobel-awards-kissing-urinals-move-switzerland",
-      "source": "NPR",
-      "published": "2026-09-03T17:00:00+00:00"
-    },
-    {
-      "title": "Badenoch accuses Burnham of kicking defence spending into the long grass",
-      "link": "https://www.bbc.co.uk/news/articles/crk3xdv0z71o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-09-03T16:23:16+00:00"
-    },
-    {
-      "title": "Burnham and Macron agree to scale up action on small boats in first meeting",
-      "link": "https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-09-03T15:46:49+00:00"
-    },
-    {
-      "title": "Schools to close early for A66 crash funeral amid safety concerns",
-      "link": "https://www.bbc.co.uk/news/articles/c2kwv0dypnwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-09-03T15:19:28+00:00"
-    },
-    {
-      "title": "For Russia and Ukraine, an Escalating Spiral With No End in Sight",
-      "link": "https://www.nytimes.com/2026/09/03/world/europe/russia-ukraine-escalation.html",
-      "source": "NYT",
-      "published": "2026-09-03T11:35:44+00:00"
-    },
-    {
-      "title": "Dems demand DHS fund election security. And, journalist Gloria Steinem has died",
-      "link": "https://www.npr.org/2026/09/03/g-s1-141784/up-first-newsletter-election-security-venezuela-oil-lindsay-clancy-gloria-steinem",
-      "source": "NPR",
-      "published": "2026-09-03T11:17:01+00:00"
     }
   ]
 }
