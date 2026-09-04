@@ -1,10 +1,34 @@
 {
   "items": [
     {
+      "title": "BBC visits area at heart of police investigation after A66 crash",
+      "link": "https://www.bbc.co.uk/news/videos/cvgy7y1ww89o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-04T20:10:23+00:00"
+    },
+    {
+      "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
+      "link": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-04T19:50:01+00:00"
+    },
+    {
       "title": "UN votes to adopt new world map to reflect Africa's true size",
       "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-09-04T17:26:40+00:00"
+      "published": "2026-09-04T19:44:40+00:00"
+    },
+    {
+      "title": "Farage threatens to overhaul Lords and judges to meet his pledges",
+      "link": "https://www.bbc.co.uk/news/articles/clyeq5jvd2po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-04T19:20:18+00:00"
+    },
+    {
+      "title": "Russian Drone Strikes Office of Ukraine\u2019s Intelligence Chief",
+      "link": "https://www.nytimes.com/2026/09/04/world/europe/russia-drone-attack-kyiv-security-service.html",
+      "source": "NYT",
+      "published": "2026-09-04T18:42:04+00:00"
     },
     {
       "title": "Whatever happened to the U.S. campaign to ban child marriage?",
@@ -13,28 +37,10 @@
       "published": "2026-09-04T17:01:24+00:00"
     },
     {
-      "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
-      "link": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-09-04T16:50:00+00:00"
-    },
-    {
-      "title": "Not a mistrial, yet. Clancy's lawyer asks for emergency appeal in her murder trial",
+      "title": "With jury deadlocked, judge declares a mistrial in Lindsay Clancy's murder case",
       "link": "https://www.npr.org/2026/09/04/nx-s1-5950421/lindsay-clancy-trial-verdict-mistrial",
       "source": "NPR",
       "published": "2026-09-04T16:20:30+00:00"
-    },
-    {
-      "title": "Farage says his aides' donor comments were 'loose pub talk'",
-      "link": "https://www.bbc.co.uk/news/articles/c3eqvyj5qg5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-09-04T16:08:29+00:00"
-    },
-    {
-      "title": "Russian Drone Strikes Office of Ukraine\u2019s Intelligence Chief",
-      "link": "https://www.nytimes.com/2026/09/04/world/europe/russia-drone-attack-kyiv-security-service.html",
-      "source": "NYT",
-      "published": "2026-09-04T15:41:24+00:00"
     },
     {
       "title": "Pulling the SNAP lever + Why Gen Zers bet (invest?) differently",
@@ -53,12 +59,6 @@
       "link": "https://www.npr.org/2026/09/04/g-s1-142016/philippine-vice-president-is-ordered-arrested-for-threats-against-the-president",
       "source": "NPR",
       "published": "2026-09-04T13:42:10+00:00"
-    },
-    {
-      "title": "Myanmar military head visits Vietnam to normalize relations",
-      "link": "https://www.npr.org/2026/09/04/g-s1-142014/myanmar-military-head-visits-vietnam-to-normalize-relations",
-      "source": "NPR",
-      "published": "2026-09-04T13:35:39+00:00"
     }
   ]
 }
