@@ -1,22 +1,52 @@
 {
   "items": [
     {
+      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
+      "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-06T08:05:22+00:00"
+    },
+    {
+      "title": "Elections in Germany Could Produce First Far-Right State Government Since Nazi Era: What to Know",
+      "link": "https://www.nytimes.com/2026/09/06/world/europe/germany-election-afd-saxony-anhalt.html",
+      "source": "NYT",
+      "published": "2026-09-06T07:58:55+00:00"
+    },
+    {
+      "title": "Nepal Floods Buried a House. The Woman Inside Was Still Alive.",
+      "link": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html",
+      "source": "NYT",
+      "published": "2026-09-06T06:27:16+00:00"
+    },
+    {
+      "title": "Temperatures could climb to 28C in late burst of warmth",
+      "link": "https://www.bbc.co.uk/weather/articles/cvgydp1247ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-06T04:08:41+00:00"
+    },
+    {
+      "title": "In Germany, Ulrich Siegmund Is Bringing the AfD to the Cusp of Power",
+      "link": "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-election-ulrich-siegmund.html",
+      "source": "NYT",
+      "published": "2026-09-06T04:01:32+00:00"
+    },
+    {
+      "title": "China\u2019s New Graduates, Facing a Dire Job Market, Must Also Contend With A.I.",
+      "link": "https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html",
+      "source": "NYT",
+      "published": "2026-09-06T04:01:15+00:00"
+    },
+    {
       "title": "Putin Meets Witkoff and Kushner in Moscow to Discuss Ukraine War",
       "link": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html",
       "source": "NYT",
       "published": "2026-09-06T02:49:50+00:00"
     },
     {
-      "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
+      "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
       "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-09-06T02:24:16+00:00"
-    },
-    {
-      "title": "U.S. Strikes Three Iranian \u2018Shadow Network\u2019 Oil Tankers, Military Says",
-      "link": "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html",
-      "source": "NYT",
-      "published": "2026-09-05T23:47:38+00:00"
     },
     {
       "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
@@ -25,40 +55,10 @@
       "published": "2026-09-05T23:20:00+00:00"
     },
     {
-      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-09-05T22:44:07+00:00"
-    },
-    {
-      "title": "Huckabee Condemns \u2018Terrorist\u2019 Attacks on Palestinians in West Bank Town Hall",
-      "link": "https://www.nytimes.com/2026/09/05/world/middleeast/huckabee-west-bank-settler-attacks.html",
-      "source": "NYT",
-      "published": "2026-09-05T22:40:27+00:00"
-    },
-    {
-      "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
-      "link": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-09-05T21:29:02+00:00"
-    },
-    {
       "title": "Jazz legend John Coltrane's Philadelphia house to become a cultural heritage site",
       "link": "https://www.npr.org/2026/09/05/nx-s1-5955500/saxophone-legend-john-coltranes-philadelphia-house-to-become-a-cultural-heritage-site",
       "source": "NPR",
       "published": "2026-09-05T21:01:10+00:00"
-    },
-    {
-      "title": "Nepal Floods Buried a House. The Woman Inside Was Still Alive.",
-      "link": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html",
-      "source": "NYT",
-      "published": "2026-09-05T18:15:57+00:00"
-    },
-    {
-      "title": "U.S. strikes Iranian oil tankers in retaliation for missile attacks on Navy ships",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
-      "source": "NPR",
-      "published": "2026-09-05T15:05:08+00:00"
     }
   ]
 }
