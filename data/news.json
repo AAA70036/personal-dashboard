@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "title": "AI is becoming harder to control \u2013 can humans stay in charge?",
+      "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-09T23:17:33+00:00"
+    },
+    {
       "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
       "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -53,12 +59,6 @@
       "link": "https://www.nytimes.com/2026/09/09/world/middleeast/syria-weapons-depot-blast.html",
       "source": "NYT",
       "published": "2026-09-09T18:24:17+00:00"
-    },
-    {
-      "title": "Air traffic failure was avoidable, says transport secretary",
-      "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-09-09T18:21:16+00:00"
     }
   ]
 }
