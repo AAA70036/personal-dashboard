@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Anthropic blocks 'malicious use' of AI that could develop biological weapons",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-11T02:46:30+00:00"
+    },
+    {
+      "title": "MPs to vote on legalising assisted dying in England and Wales",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-11T02:05:23+00:00"
+    },
+    {
       "title": "Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas",
       "link": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -17,12 +29,6 @@
       "link": "https://www.npr.org/2026/09/10/nx-s1-5963899/august-heat-summer-hottest",
       "source": "NPR",
       "published": "2026-09-10T21:30:52+00:00"
-    },
-    {
-      "title": "Labour mayors in England vow to cap tourist tax at 5%",
-      "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-09-10T21:22:06+00:00"
     },
     {
       "title": "Lawsuit challenges intimidation of DHS observers across the country",
@@ -46,19 +52,13 @@
       "title": "Houthis Seize Strategic Red Sea Port, a Major Victory for Iranian Ally",
       "link": "https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html",
       "source": "NYT",
-      "published": "2026-09-10T19:31:30+00:00"
+      "published": "2026-09-10T19:31:31+00:00"
     },
     {
       "title": "Moscow Claims Ukraine Planned to Start a War Between Russia and the U.K.",
       "link": "https://www.nytimes.com/2026/09/10/world/europe/russia-ukraine-uk-embassy.html",
       "source": "NYT",
       "published": "2026-09-10T18:47:10+00:00"
-    },
-    {
-      "title": "A fossil feather from the age of dinosaurs may explain why only some birds survived",
-      "link": "https://www.npr.org/2026/09/10/nx-s1-5963519/best-fossilized-bird-feather-dinosaur-feces-extinction",
-      "source": "NPR",
-      "published": "2026-09-10T18:07:57+00:00"
     }
   ]
 }
