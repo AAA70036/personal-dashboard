@@ -23,40 +23,40 @@
     {
       "symbol": "GOOGL",
       "price": 349.39,
-      "change": 11.0,
-      "pct_change": 3.25
+      "change": 1.92,
+      "pct_change": 0.55
     },
     {
-      "symbol": "META",
-      "price": 665.6,
-      "change": 18.02,
-      "pct_change": 2.78
+      "symbol": "ORCL",
+      "price": 144.79,
+      "change": 0.42,
+      "pct_change": 0.29
     },
     {
       "symbol": "MSFT",
       "price": 505.41,
-      "change": 10.52,
-      "pct_change": 2.13
+      "change": 1.41,
+      "pct_change": 0.28
     }
   ],
   "losers": [
     {
       "symbol": "NVDA",
       "price": 210.96,
-      "change": -7.3,
-      "pct_change": -3.34
+      "change": -1.08,
+      "pct_change": -0.51
     },
     {
-      "symbol": "ORCL",
-      "price": 144.79,
-      "change": -3.02,
-      "pct_change": -2.04
+      "symbol": "TSLA",
+      "price": 358.97,
+      "change": -0.92,
+      "pct_change": -0.26
     },
     {
-      "symbol": "JPM",
-      "price": 350.13,
-      "change": -6.47,
-      "pct_change": -1.81
+      "symbol": "XOM",
+      "price": 165.08,
+      "change": -0.35,
+      "pct_change": -0.21
     }
   ]
 }
