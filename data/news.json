@@ -1,16 +1,40 @@
 {
   "items": [
     {
+      "title": "US interest rates raised for first time in three years",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-17T00:40:17+00:00"
+    },
+    {
+      "title": "E.U.-Canada Ambitions Face Reality Check as Trump Bristles",
+      "link": "https://www.nytimes.com/2026/09/16/world/canada/eu-canada-associate-member-trade.html",
+      "source": "NYT",
+      "published": "2026-09-17T00:18:02+00:00"
+    },
+    {
+      "title": "New hope for breast cancer patients as life-extending drug now on NHS in England",
+      "link": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-16T23:50:56+00:00"
+    },
+    {
+      "title": "Interest rates hold expected but Bank of England facing tough choices",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-16T23:15:01+00:00"
+    },
+    {
+      "title": "Here's why an Arizona medical examiner is working to track heat-related deaths",
+      "link": "https://www.npr.org/2024/05/30/nx-s1-4854224/death-heat-arizona-climate-change-medical-examiner",
+      "source": "NPR",
+      "published": "2026-09-16T23:07:40+00:00"
+    },
+    {
       "title": "House passes Russia sanctions, sending bill named for Lindsey Graham to Trump's desk",
       "link": "https://www.npr.org/2026/09/16/nx-s1-5971289/russia-sanctions-house-vote-lindsey-graham",
       "source": "NPR",
       "published": "2026-09-16T22:30:46+00:00"
-    },
-    {
-      "title": "US interest rates raised for first time in three years",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-09-16T22:16:51+00:00"
     },
     {
       "title": "You'd expect homeowners to save their stuff. Federal policy pays them to leave it",
@@ -19,7 +43,7 @@
       "published": "2026-09-16T21:20:59+00:00"
     },
     {
-      "title": "House holds billionaire Leon Black in contempt of Congress",
+      "title": "Committee investigating Epstein holds billionaire Leon Black in contempt of Congress",
       "link": "https://www.npr.org/2026/09/16/nx-s1-5954258/leon-black-jeffrey-epstein-contempt-congress",
       "source": "NPR",
       "published": "2026-09-16T21:12:27+00:00"
@@ -31,34 +55,10 @@
       "published": "2026-09-16T20:55:54+00:00"
     },
     {
-      "title": "The 'burnerverse' exploiting young women in college",
-      "link": "https://www.npr.org/2026/09/16/nx-s1-5971222/the-burnerverse-exploiting-young-women-in-college",
-      "source": "NPR",
-      "published": "2026-09-16T20:50:17+00:00"
-    },
-    {
       "title": "'Grief can colour memory': Palace responds after Earl Spencer's claim in Diana book",
       "link": "https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-09-16T20:46:30+00:00"
-    },
-    {
-      "title": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
-      "link": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
-      "source": "NYT",
-      "published": "2026-09-16T20:13:21+00:00"
-    },
-    {
-      "title": "E.U.-Canada Ambitions Face Reality Check",
-      "link": "https://www.nytimes.com/2026/09/16/world/canada/eu-canada-associate-member-trade.html",
-      "source": "NYT",
-      "published": "2026-09-16T19:30:23+00:00"
-    },
-    {
-      "title": "Belarus Frees 25 Political Prisoners in Exchange for U.S. Sanctions Relief",
-      "link": "https://www.nytimes.com/2026/09/16/world/europe/belarus-political-prisoner-release-us-sanctions.html",
-      "source": "NYT",
-      "published": "2026-09-16T19:25:40+00:00"
     }
   ]
 }
