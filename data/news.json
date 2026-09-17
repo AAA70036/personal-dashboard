@@ -1,28 +1,40 @@
 {
   "items": [
     {
-      "title": "US interest rates raised for first time in three years",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+      "title": "Bank of England expected to hold interest rates as it faces tough choices",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-09-17T00:40:17+00:00"
+      "published": "2026-09-17T06:06:49+00:00"
     },
     {
       "title": "E.U.-Canada Ambitions Face Reality Check as Trump Bristles",
       "link": "https://www.nytimes.com/2026/09/16/world/canada/eu-canada-associate-member-trade.html",
       "source": "NYT",
-      "published": "2026-09-17T00:18:02+00:00"
+      "published": "2026-09-17T05:33:41+00:00"
+    },
+    {
+      "title": "Palace in war of words with Earl Spencer over claims in Diana book",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-17T05:00:21+00:00"
+    },
+    {
+      "title": "Assad regime planned US journalist Austin Tice's kidnap for weeks, BBC finds",
+      "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-17T05:00:18+00:00"
+    },
+    {
+      "title": "Ed Sheeran asked me to donate $2m in aid, Robert Kraft says after Macklemore backlash",
+      "link": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-17T04:09:17+00:00"
     },
     {
       "title": "New hope for breast cancer patients as life-extending drug now on NHS in England",
       "link": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-09-16T23:50:56+00:00"
-    },
-    {
-      "title": "Interest rates hold expected but Bank of England facing tough choices",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-09-16T23:15:01+00:00"
     },
     {
       "title": "Here's why an Arizona medical examiner is working to track heat-related deaths",
@@ -47,18 +59,6 @@
       "link": "https://www.npr.org/2026/09/16/nx-s1-5954258/leon-black-jeffrey-epstein-contempt-congress",
       "source": "NPR",
       "published": "2026-09-16T21:12:27+00:00"
-    },
-    {
-      "title": "Trump administration plans ideological warning signs for Smithsonian",
-      "link": "https://www.npr.org/2026/09/16/nx-s1-5971420/trump-administration-smithsonian-warning-signs",
-      "source": "NPR",
-      "published": "2026-09-16T20:55:54+00:00"
-    },
-    {
-      "title": "'Grief can colour memory': Palace responds after Earl Spencer's claim in Diana book",
-      "link": "https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-09-16T20:46:30+00:00"
     }
   ]
 }
