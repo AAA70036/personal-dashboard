@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Donald Trump says he is banning CNN and Politico from White House",
+      "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-18T19:54:41+00:00"
+    },
+    {
+      "title": "Protests Erupt in Nigeria After Police Pack 66 Miners Into One Cell",
+      "link": "https://www.nytimes.com/2026/09/18/world/africa/nigeria-miners-dead-police-minna.html",
+      "source": "NYT",
+      "published": "2026-09-18T19:45:51+00:00"
+    },
+    {
+      "title": "When Trump and Xi meet they will discuss AI. 'Track Two' talks are already buzzing",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5971481/trump-xi-meeting-ai-track-two-talks",
+      "source": "NPR",
+      "published": "2026-09-18T19:14:15+00:00"
+    },
+    {
+      "title": "Syrian regime planned American journalist's kidnapping for weeks",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5974166/assad-austin-tice-kidnapping-bbc-embedded",
+      "source": "NPR",
+      "published": "2026-09-18T19:13:52+00:00"
+    },
+    {
+      "title": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportees",
+      "link": "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html",
+      "source": "NYT",
+      "published": "2026-09-18T19:06:40+00:00"
+    },
+    {
       "title": "What expensive sulfur means for your dinner table",
       "link": "https://www.npr.org/sections/planet-money/2026/09/18/nx-s1-5974103/what-expensive-sulfur-means-for-your-dinner-table",
       "source": "NPR",
@@ -29,36 +59,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-09-18T15:59:21+00:00"
-    },
-    {
-      "title": "Flight chaos caused by software defect in space of a millisecond, report says",
-      "link": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-09-18T15:48:58+00:00"
-    },
-    {
-      "title": "37 Miners in Nigeria Die in Police Custody, Sparking Protests",
-      "link": "https://www.nytimes.com/2026/09/18/world/africa/nigeria-miners-dead-police-minna.html",
-      "source": "NYT",
-      "published": "2026-09-18T15:27:09+00:00"
-    },
-    {
-      "title": "Why Autocrats Care What People Think",
-      "link": "https://www.nytimes.com/2026/09/18/world/europe/putin-russia-election-ideas.html",
-      "source": "NYT",
-      "published": "2026-09-18T15:14:31+00:00"
-    },
-    {
-      "title": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportations",
-      "link": "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html",
-      "source": "NYT",
-      "published": "2026-09-18T15:10:35+00:00"
-    },
-    {
-      "title": "German Art Institutions Prepare for a Fight as Far Right Looks to Take Power",
-      "link": "https://www.nytimes.com/2026/09/18/world/europe/germany-afd-bauhaus-culture.html",
-      "source": "NYT",
-      "published": "2026-09-18T14:51:06+00:00"
     }
   ]
 }
