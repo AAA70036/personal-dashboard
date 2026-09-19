@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "title": "Major seaside hotel fire treated as suspicious",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-19T16:43:21+00:00"
+    },
+    {
+      "title": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
+      "link": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban",
+      "source": "NPR",
+      "published": "2026-09-19T15:26:31+00:00"
+    },
+    {
+      "title": "Journalists report being denied White House access after Trump bans some outlets",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-19T15:19:39+00:00"
+    },
+    {
+      "title": "Davey says Lib Dems are 'firewall against Farage' as conference begins",
+      "link": "https://www.bbc.co.uk/news/articles/cq8jdkmgn7n1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-19T15:00:32+00:00"
+    },
+    {
+      "title": "Smoke seen near Riyadh airport after air raid alerts in Saudi capital",
+      "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-19T14:43:46+00:00"
+    },
+    {
+      "title": "Reported Explosions Put Saudi Capital on Edge Amid Conflict With Houthis",
+      "link": "https://www.nytimes.com/2026/09/19/world/middleeast/saudi-arabia-riyadh-houthis.html",
+      "source": "NYT",
+      "published": "2026-09-19T13:36:13+00:00"
+    },
+    {
       "title": "\u2018Nervous and Skeptical,\u2019 Greenlanders Question the New Deal With Trump",
       "link": "https://www.nytimes.com/2026/09/19/world/europe/greenland-trump-deal.html",
       "source": "NYT",
@@ -23,42 +59,6 @@
       "link": "https://www.nytimes.com/2026/09/19/world/europe/uk-israel-west-bank-sanctions.html",
       "source": "NYT",
       "published": "2026-09-19T11:44:11+00:00"
-    },
-    {
-      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
-      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-09-19T11:36:55+00:00"
-    },
-    {
-      "title": "Ancient teeth pose a mystery: What made those strange grooves?",
-      "link": "https://www.npr.org/2026/09/19/g-s1-144054/ancient-teeth-betel-nuts-mind-altering-drugs",
-      "source": "NPR",
-      "published": "2026-09-19T11:21:56+00:00"
-    },
-    {
-      "title": "The Kremlin Has Put Lots of Veterans on the Ballot. Could It Backfire?",
-      "link": "https://www.nytimes.com/2026/09/19/world/europe/russia-kremlin-election-veterans.html",
-      "source": "NYT",
-      "published": "2026-09-19T09:02:22+00:00"
-    },
-    {
-      "title": "An Alaska storm scattered artifacts. Archaeologists are racing to save what's left",
-      "link": "https://www.npr.org/2026/09/19/nx-s1-5966568/ex-typhoon-halong-nunallaq-artifacts-archaeological-dig-site-alaska-quinhagak",
-      "source": "NPR",
-      "published": "2026-09-19T09:01:00+00:00"
-    },
-    {
-      "title": "A Small Country\u2019s Huge Windfall from the War in Iran",
-      "link": "https://www.nytimes.com/2026/09/19/world/americas/guyana-oil-boom.html",
-      "source": "NYT",
-      "published": "2026-09-19T09:00:55+00:00"
-    },
-    {
-      "title": "Ever wonder how the Fed's interest rate actually works? We've got answers",
-      "link": "https://www.npr.org/2026/09/19/nx-s1-5969816/federal-reserve-interest-rate-inflation-economy",
-      "source": "NPR",
-      "published": "2026-09-19T09:00:00+00:00"
     }
   ]
 }
