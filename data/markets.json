@@ -15,7 +15,7 @@
     "Nasdaq": {
       "symbol": "^IXIC",
       "price": 27122.09,
-      "change": 599.55,
+      "change": 599.54,
       "pct_change": 2.26
     }
   },
@@ -23,7 +23,7 @@
     {
       "symbol": "META",
       "price": 741.25,
-      "change": 72.69,
+      "change": 72.7,
       "pct_change": 10.87
     },
     {
