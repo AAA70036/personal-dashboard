@@ -2,14 +2,14 @@
   "indexes": {
     "S&P 500": {
       "symbol": "^GSPC",
-      "price": 7706.39,
-      "change": -57.88,
+      "price": 7706.03,
+      "change": -58.61,
       "pct_change": -0.75
     },
     "Dow": {
       "symbol": "^DJI",
-      "price": 51512.42,
-      "change": -353.95,
+      "price": 51511.59,
+      "change": -352.1,
       "pct_change": -0.68
     },
     "Nasdaq": {
@@ -28,15 +28,15 @@
     },
     {
       "symbol": "BRK-B",
-      "price": 507.22,
-      "change": 3.62,
-      "pct_change": 0.72
+      "price": 507.17,
+      "change": 3.57,
+      "pct_change": 0.71
     },
     {
       "symbol": "MA",
-      "price": 559.99,
-      "change": 3.18,
-      "pct_change": 0.57
+      "price": 559.92,
+      "change": 3.11,
+      "pct_change": 0.56
     }
   ],
   "losers": [
@@ -48,9 +48,9 @@
     },
     {
       "symbol": "ORCL",
-      "price": 144.48,
-      "change": -4.62,
-      "pct_change": -3.1
+      "price": 144.56,
+      "change": -4.54,
+      "pct_change": -3.04
     },
     {
       "symbol": "HD",

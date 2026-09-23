@@ -1,13 +1,37 @@
 {
   "items": [
     {
+      "title": "What video footage tells us about RAF training jet crash",
+      "link": "https://www.bbc.co.uk/news/articles/cw8d32vv4l7vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-23T22:48:29+00:00"
+    },
+    {
+      "title": "Judge considers restoring journalists' access to White House after Trump's ban",
+      "link": "https://www.npr.org/2026/09/23/nx-s1-5979101/federal-judge-hearing-trump-ban-cnn-ms-now-politico",
+      "source": "NPR",
+      "published": "2026-09-23T22:40:39+00:00"
+    },
+    {
       "title": "U.N. Live Updates: Zelensky Warns of Growing Global Cost of Russia\u2019s War in Ukraine",
       "link": "https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine",
       "source": "NYT",
-      "published": "2026-09-23T19:54:46+00:00"
+      "published": "2026-09-23T21:58:02+00:00"
     },
     {
-      "title": "Trump set to greet Xi for high-stakes state visit",
+      "title": "Burnham brands ban on football fans drinking alcohol in stands as 'discrimination'",
+      "link": "https://www.bbc.co.uk/news/articles/c933ky0nknxko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-23T21:01:16+00:00"
+    },
+    {
+      "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
+      "link": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-23T21:01:06+00:00"
+    },
+    {
+      "title": "Trump and Xi meet at moment of global consequence",
       "link": "https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china",
       "source": "NPR",
       "published": "2026-09-23T18:23:19+00:00"
@@ -17,12 +41,6 @@
       "link": "https://www.nytimes.com/2026/09/23/world/europe/ancient-wall-paris-rome.html",
       "source": "NYT",
       "published": "2026-09-23T18:16:33+00:00"
-    },
-    {
-      "title": "Iran's president tells Trump it will never 'bend the knee'",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-09-23T18:15:31+00:00"
     },
     {
       "title": "Iran's president gives a rare wartime speech at the U.N.",
@@ -41,24 +59,6 @@
       "link": "https://www.nytimes.com/2026/09/23/world/africa/ethiopia-tigray-airport.html",
       "source": "NYT",
       "published": "2026-09-23T17:31:43+00:00"
-    },
-    {
-      "title": "Home secretary says undetected migrant landings 'unacceptable'",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-09-23T17:18:49+00:00"
-    },
-    {
-      "title": "UK military jamming other nations' satellites to defend itself, BBC told",
-      "link": "https://www.bbc.co.uk/news/articles/c32l8y8kygdvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-09-23T17:01:11+00:00"
-    },
-    {
-      "title": "India\u2019s Election Panel Faces New Scrutiny Over Voter Roll Revisions",
-      "link": "https://www.nytimes.com/2026/09/23/world/asia/india-election-commission-voter-rolls.html",
-      "source": "NYT",
-      "published": "2026-09-23T16:38:56+00:00"
     }
   ]
 }
