@@ -28,9 +28,9 @@
     },
     {
       "symbol": "LLY",
-      "price": 1183.86,
-      "change": 31.74,
-      "pct_change": 2.75
+      "price": 1181.89,
+      "change": 29.77,
+      "pct_change": 2.58
     },
     {
       "symbol": "V",
@@ -42,9 +42,9 @@
   "losers": [
     {
       "symbol": "ORCL",
-      "price": 139.53,
-      "change": -4.8,
-      "pct_change": -3.33
+      "price": 139.54,
+      "change": -4.79,
+      "pct_change": -3.32
     },
     {
       "symbol": "WMT",
