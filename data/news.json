@@ -1,19 +1,43 @@
 {
   "items": [
     {
-      "title": "U.N. Live Updates: Zelensky Warns of Growing Global Cost of Russia\u2019s War in Ukraine",
+      "title": "Judge temporarily overturns Trump's White House media ban",
+      "link": "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-24T06:13:26+00:00"
+    },
+    {
+      "title": "Venezuela's acting leader promises elections at the 'right moment'",
+      "link": "https://www.npr.org/2026/09/24/g-s1-144837/venezuela-leader-un-general-assembly",
+      "source": "NPR",
+      "published": "2026-09-24T05:40:49+00:00"
+    },
+    {
+      "title": "OpenAI's breach of Australian health department website prompts rebuke",
+      "link": "https://www.npr.org/2026/09/24/g-s1-144835/openai-breach-australia",
+      "source": "NPR",
+      "published": "2026-09-24T05:14:11+00:00"
+    },
+    {
+      "title": "Fears of return to war grow in Ethiopia's Tigray region",
+      "link": "https://www.npr.org/2026/09/24/nx-s1-5978861/conflict-ethiopia-tigray",
+      "source": "NPR",
+      "published": "2026-09-24T04:23:38+00:00"
+    },
+    {
+      "title": "Hurricane Polo fuels fears of landslides in Mexico as Nolo closes in on Hawaii",
+      "link": "https://www.npr.org/2026/09/23/nx-s1-5979140/hurricane-polo-mexico-nolo-hawaii",
+      "source": "NPR",
+      "published": "2026-09-24T03:19:45+00:00"
+    },
+    {
+      "title": "U.N. Updates: Zelensky Warns of Growing Global Cost of Russia\u2019s War in Ukraine",
       "link": "https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine",
       "source": "NYT",
-      "published": "2026-09-24T00:52:01+00:00"
+      "published": "2026-09-24T02:41:28+00:00"
     },
     {
-      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-09-24T00:28:46+00:00"
-    },
-    {
-      "title": "A red carpet and military flyover - How Trump welcomed Xi",
+      "title": "Watch: How Trump welcomed China's Xi with red carpet and military flyover",
       "link": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-09-23T23:03:56+00:00"
@@ -31,34 +55,10 @@
       "published": "2026-09-23T22:40:39+00:00"
     },
     {
-      "title": "Burnham brands ban on football fans drinking alcohol in stands as 'discrimination'",
-      "link": "https://www.bbc.co.uk/news/articles/c933ky0nknxko?at_medium=RSS&at_campaign=rss",
+      "title": "Teenagers to be offered new vocational GCSE subjects in school",
+      "link": "https://www.bbc.co.uk/news/articles/c6rerl41evw5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-09-23T21:01:16+00:00"
-    },
-    {
-      "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
-      "link": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-09-23T21:01:06+00:00"
-    },
-    {
-      "title": "Trump and Xi meet at moment of global consequence",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china",
-      "source": "NPR",
-      "published": "2026-09-23T18:23:19+00:00"
-    },
-    {
-      "title": "Ancient Wall Found in Paris Provides Clues to City\u2019s Origins",
-      "link": "https://www.nytimes.com/2026/09/23/world/europe/ancient-wall-paris-rome.html",
-      "source": "NYT",
-      "published": "2026-09-23T18:16:33+00:00"
-    },
-    {
-      "title": "Iran's president gives a rare wartime speech at the U.N.",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5978863/iran-president-united-nations-general-assembly",
-      "source": "NPR",
-      "published": "2026-09-23T18:14:40+00:00"
+      "published": "2026-09-23T21:31:40+00:00"
     }
   ]
 }
