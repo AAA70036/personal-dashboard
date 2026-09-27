@@ -1,34 +1,52 @@
 {
   "items": [
     {
+      "title": "Scientists discover two new species of sea spiders along Canadian coastline",
+      "link": "https://www.npr.org/2026/09/27/nx-s1-5982026/new-sea-spider-species",
+      "source": "NPR",
+      "published": "2026-09-27T22:31:16+00:00"
+    },
+    {
+      "title": "A Transcript From The Times Interview with Prime Minister Mark Carney of Canada",
+      "link": "https://www.nytimes.com/2026/09/27/world/canada/mark-carney-interview-transcript.html",
+      "source": "NYT",
+      "published": "2026-09-27T22:11:12+00:00"
+    },
+    {
       "title": "Iran Still Awaits \u2018Official\u2019 U.S. Response Despite Trump\u2019s Rebuff of Cease-Fire Offer",
       "link": "https://www.nytimes.com/2026/09/27/world/middleeast/iran-trump-ceasefire-strait-of-hormuz.html",
       "source": "NYT",
-      "published": "2026-09-27T20:02:12+00:00"
+      "published": "2026-09-27T21:36:22+00:00"
     },
     {
-      "title": "What we know about RAF base counter-terror investigation",
-      "link": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
+      "title": "Serbia\u2019s Longtime President Aleksandar Vucic Resigns Post",
+      "link": "https://www.nytimes.com/2026/09/27/world/europe/serbia-president-aleksandar-vucicto-resigns.html",
+      "source": "NYT",
+      "published": "2026-09-27T21:22:29+00:00"
+    },
+    {
+      "title": "Inside Yemen's front-line city as Houthis battle for control",
+      "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-09-27T19:47:44+00:00"
+      "published": "2026-09-27T21:16:31+00:00"
     },
     {
       "title": "5 Arrested on Suspicion of Terrorism Near RAF Fairford Air Base in UK",
       "link": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
       "source": "NYT",
-      "published": "2026-09-27T19:19:00+00:00"
+      "published": "2026-09-27T20:20:19+00:00"
     },
     {
-      "title": "No handshakes between Republic of Ireland and Israel",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
+      "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
+      "link": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-09-27T18:58:35+00:00"
+      "published": "2026-09-27T20:10:51+00:00"
     },
     {
-      "title": "The Surprising Reasons China Is Skeptical of A.I. Safety Calls",
-      "link": "https://www.nytimes.com/2026/09/27/world/asia/china-us-ai-distrust.html",
-      "source": "NYT",
-      "published": "2026-09-27T16:07:26+00:00"
+      "title": "What we know about RAF Fairford counter-terror probe",
+      "link": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-27T19:47:44+00:00"
     },
     {
       "title": "Orange Order march row goes to heart of ongoing divisions in Northern Ireland",
@@ -41,24 +59,6 @@
       "link": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-09-27T13:48:05+00:00"
-    },
-    {
-      "title": "Ten NHS staff removed over Noah Woods data breach",
-      "link": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-09-27T13:25:27+00:00"
-    },
-    {
-      "title": "South Africa reels from spate of mass shootings that killed 38 people in a week",
-      "link": "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
-      "source": "NPR",
-      "published": "2026-09-27T13:01:27+00:00"
-    },
-    {
-      "title": "Trump wants to remove a question about race in the census. We look back at the history",
-      "link": "https://www.npr.org/2026/09/27/nx-s1-5966883/trump-wants-to-remove-a-question-about-race-in-the-census-we-look-back-at-the-history",
-      "source": "NPR",
-      "published": "2026-09-27T12:17:31+00:00"
     }
   ]
 }
