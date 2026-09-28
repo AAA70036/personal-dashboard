@@ -1,10 +1,34 @@
 {
   "items": [
     {
-      "title": "Protesters disperse after blocking contentious Orange Order parade",
-      "link": "https://www.bbc.co.uk/news/articles/c6qjkk55wd47o?at_medium=RSS&at_campaign=rss",
+      "title": "Police block Protestant Orange Order from controversial parade route",
+      "link": "https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-09-28T01:09:19+00:00"
+      "published": "2026-09-28T07:31:29+00:00"
+    },
+    {
+      "title": "Possible Terror Plot at RAF Fairford Air Base in UK: What We Know",
+      "link": "https://www.nytimes.com/2026/09/28/world/europe/raf-fairford-incident-air-base-terrorism-uk.html",
+      "source": "NYT",
+      "published": "2026-09-28T07:20:27+00:00"
+    },
+    {
+      "title": "Eviction of 87-year-old sparks protests in Madrid over housing crisis",
+      "link": "https://www.npr.org/2026/09/28/nx-s1-5983303/encampment-protest-madrid-housing-crisis",
+      "source": "NPR",
+      "published": "2026-09-28T07:20:18+00:00"
+    },
+    {
+      "title": "What we know about RAF Fairford counter-terror probe",
+      "link": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-28T07:04:36+00:00"
+    },
+    {
+      "title": "Thousands of illegal ghost plates on cars revealed by new cameras",
+      "link": "https://www.bbc.co.uk/news/articles/cq9860162dj2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-28T05:02:30+00:00"
     },
     {
       "title": "Nantucket shipwreck uncovered by Nor'easter",
@@ -25,12 +49,6 @@
       "published": "2026-09-27T22:11:12+00:00"
     },
     {
-      "title": "Iran Still Awaits \u2018Official\u2019 U.S. Response Despite Trump\u2019s Rebuff of Cease-Fire Offer",
-      "link": "https://www.nytimes.com/2026/09/27/world/middleeast/iran-trump-ceasefire-strait-of-hormuz.html",
-      "source": "NYT",
-      "published": "2026-09-27T21:36:22+00:00"
-    },
-    {
       "title": "Serbia\u2019s Longtime President Aleksandar Vucic Resigns Post",
       "link": "https://www.nytimes.com/2026/09/27/world/europe/serbia-president-aleksandar-vucicto-resigns.html",
       "source": "NYT",
@@ -41,24 +59,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-09-27T21:16:31+00:00"
-    },
-    {
-      "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
-      "link": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-09-27T21:00:06+00:00"
-    },
-    {
-      "title": "5 Arrested on Suspicion of Terrorism Near RAF Fairford Air Base in UK",
-      "link": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
-      "source": "NYT",
-      "published": "2026-09-27T20:20:19+00:00"
-    },
-    {
-      "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
-      "link": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-09-27T20:10:51+00:00"
     }
   ]
 }
