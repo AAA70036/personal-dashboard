@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-29T01:18:24+00:00"
+    },
+    {
+      "title": "Burnham to unveil public body to invest in electricity grid",
+      "link": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-29T00:40:29+00:00"
+    },
+    {
       "title": "UK tries to stop Trump's diesel export ban",
       "link": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -37,13 +49,7 @@
       "published": "2026-09-28T19:16:26+00:00"
     },
     {
-      "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
-      "link": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-09-28T18:07:25+00:00"
-    },
-    {
-      "title": "Prosecutors are reexamining a Cornell fraternity rape case. Here's what we know",
+      "title": "Prosecutors are reopening a Cornell fraternity rape case. Here's what we know",
       "link": "https://www.npr.org/2026/09/28/nx-s1-5983480/cornell-fraternity-rape-chi-phi-case-updates",
       "source": "NPR",
       "published": "2026-09-28T17:14:25+00:00"
@@ -53,12 +59,6 @@
       "link": "https://www.nytimes.com/2026/09/28/world/europe/germany-stumbling-stones-holocaust-memorial-ban.html",
       "source": "NYT",
       "published": "2026-09-28T16:46:58+00:00"
-    },
-    {
-      "title": "Trump's immigration push has largely spared farms. Idaho dairymen worry it won't last.",
-      "link": "https://www.npr.org/2026/09/28/nx-s1-5976810/trumps-immigration-idaho-dairy-industry",
-      "source": "NPR",
-      "published": "2026-09-28T16:27:30+00:00"
     }
   ]
 }
