@@ -22,9 +22,9 @@
   "gainers": [
     {
       "symbol": "XOM",
-      "price": 162.88,
-      "change": 1.59,
-      "pct_change": 0.99
+      "price": 162.75,
+      "change": 1.46,
+      "pct_change": 0.91
     },
     {
       "symbol": "AAPL",
@@ -42,9 +42,9 @@
   "losers": [
     {
       "symbol": "MRK",
-      "price": 145.39,
-      "change": -4.61,
-      "pct_change": -3.07
+      "price": 145.31,
+      "change": -4.69,
+      "pct_change": -3.13
     },
     {
       "symbol": "WMT",
