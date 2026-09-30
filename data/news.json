@@ -1,16 +1,28 @@
 {
   "items": [
     {
+      "title": "Israeli Settlers Stop Soldiers From Returning Palestinians to Their Home",
+      "link": "https://www.nytimes.com/2026/09/29/world/middleeast/west-bank-israel-settlers-attack-soldiers-palestinians.html",
+      "source": "NYT",
+      "published": "2026-09-30T00:19:18+00:00"
+    },
+    {
+      "title": "One of the five men arrested near RAF Fairford called 999 himself",
+      "link": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-09-30T00:12:24+00:00"
+    },
+    {
       "title": "Household energy bills forecast to see biggest rise in four years",
       "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-09-29T23:03:13+00:00"
     },
     {
-      "title": "'Quantity of petrol' but no explosives found in three vehicles near RAF Fairford",
-      "link": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-09-29T21:42:58+00:00"
+      "title": "The federal law aimed at protecting college students from sexual abuse",
+      "link": "https://www.npr.org/2026/09/29/nx-s1-5983779/investigating-sexual-abuse-on-campus",
+      "source": "NPR",
+      "published": "2026-09-29T21:29:21+00:00"
     },
     {
       "title": "Why the U.S. Is Imposing New Visa Restrictions on South Africa",
@@ -31,12 +43,6 @@
       "published": "2026-09-29T19:54:07+00:00"
     },
     {
-      "title": "Israeli Settlers Stop Soldiers From Returning Palestinians to Their Home",
-      "link": "https://www.nytimes.com/2026/09/29/world/middleeast/west-bank-israel-settlers-attack-soldiers-palestinians.html",
-      "source": "NYT",
-      "published": "2026-09-29T19:39:44+00:00"
-    },
-    {
       "title": "Dozens Killed in Myanmar Military Bombing",
       "link": "https://www.nytimes.com/2026/09/29/world/asia/myanmar-airstrike-rakhine-market.html",
       "source": "NYT",
@@ -53,12 +59,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-09-29T19:13:14+00:00"
-    },
-    {
-      "title": "Lindsay Clancy's lawyer now questions whether she killed her 3 children",
-      "link": "https://www.npr.org/2026/09/29/g-s1-145539/lindsay-clancy-trial-hearing-lawyer",
-      "source": "NPR",
-      "published": "2026-09-29T18:00:50+00:00"
     }
   ]
 }
