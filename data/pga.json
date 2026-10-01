@@ -1,77 +1,77 @@
 {
   "leaderboard": {
-    "tournament": "Rocket Classic",
-    "status": "Final",
+    "tournament": "Bank of Utah Championship",
+    "status": "In Progress",
     "players": [
       {
         "position": "1",
-        "name": "Michael Thorbjornsen",
-        "total": "-18",
-        "round_score": "-7",
-        "thru": "F"
+        "name": "Steven Fisk",
+        "total": "-5",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "2",
-        "name": "Xander Schauffele",
-        "total": "-16",
-        "round_score": "-5",
-        "thru": "F"
+        "position": "T-2",
+        "name": "Johnny Keefer",
+        "total": "-4",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "3",
+        "position": "T-2",
+        "name": "Sudarshan Yellamaraju",
+        "total": "-4",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "Jackson Suber",
+        "total": "-4",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "David Skinns",
+        "total": "-4",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "David Lipsky",
+        "total": "-4",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "Kevin Yu",
+        "total": "-4",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "Zac Blair",
+        "total": "-4",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "Stephan Jaeger",
+        "total": "-4",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
         "name": "Davis Riley",
-        "total": "-15",
-        "round_score": "E",
-        "thru": "F"
-      },
-      {
-        "position": "4",
-        "name": "Rasmus H\u00f8jgaard",
-        "total": "-14",
-        "round_score": "-2",
-        "thru": "F"
-      },
-      {
-        "position": "T-5",
-        "name": "Hideki Matsuyama",
-        "total": "-13",
-        "round_score": "-6",
-        "thru": "F"
-      },
-      {
-        "position": "T-5",
-        "name": "Matt Wallace",
-        "total": "-13",
-        "round_score": "-3",
-        "thru": "F"
-      },
-      {
-        "position": "T-5",
-        "name": "Kristoffer Ventura",
-        "total": "-13",
-        "round_score": "-2",
-        "thru": "F"
-      },
-      {
-        "position": "T-8",
-        "name": "Davis Thompson",
-        "total": "-12",
-        "round_score": "-4",
-        "thru": "F"
-      },
-      {
-        "position": "T-8",
-        "name": "Ryan Gerard",
-        "total": "-12",
-        "round_score": "-3",
-        "thru": "F"
-      },
-      {
-        "position": "T-8",
-        "name": "Patrick Cantlay",
-        "total": "-12",
-        "round_score": "-2",
-        "thru": "F"
+        "total": "-4",
+        "round_score": "-",
+        "thru": "0"
       }
     ]
   }
