@@ -23,40 +23,40 @@
     {
       "symbol": "XOM",
       "price": 162.75,
-      "change": 1.46,
-      "pct_change": 0.91
+      "change": 0.62,
+      "pct_change": 0.38
     },
     {
-      "symbol": "AAPL",
-      "price": 333.02,
-      "change": 2.81,
-      "pct_change": 0.85
+      "symbol": "ORCL",
+      "price": 137.3,
+      "change": 0.27,
+      "pct_change": 0.2
     },
     {
-      "symbol": "GOOGL",
-      "price": 344.08,
-      "change": 2.6,
-      "pct_change": 0.76
+      "symbol": "MRK",
+      "price": 145.31,
+      "change": -0.0,
+      "pct_change": -0.0
     }
   ],
   "losers": [
     {
-      "symbol": "MRK",
-      "price": 145.31,
-      "change": -4.69,
-      "pct_change": -3.13
+      "symbol": "GOOGL",
+      "price": 344.08,
+      "change": -5.31,
+      "pct_change": -1.52
     },
     {
       "symbol": "WMT",
       "price": 103.92,
-      "change": -3.02,
-      "pct_change": -2.82
+      "change": -1.06,
+      "pct_change": -1.01
     },
     {
-      "symbol": "META",
-      "price": 725.18,
-      "change": -18.22,
-      "pct_change": -2.45
+      "symbol": "NVDA",
+      "price": 228.38,
+      "change": -1.17,
+      "pct_change": -0.51
     }
   ]
 }
