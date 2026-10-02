@@ -5,70 +5,70 @@
     "players": [
       {
         "position": "1",
-        "name": "Zach Bauchou",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-2",
-        "name": "Sudarshan Yellamaraju",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-2",
-        "name": "David Lipsky",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-2",
-        "name": "Stephan Jaeger",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-2",
-        "name": "Steven Fisk",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-2",
         "name": "Jordan Smith",
-        "total": "-8",
+        "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-2",
         "name": "Kevin Roy",
-        "total": "-8",
+        "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-2",
+        "name": "Zach Bauchou",
+        "total": "-9",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
         "name": "Kevin Streelman",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "T-4",
         "name": "Nick Dunlap",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "T-4",
         "name": "Austin Smotherman",
+        "total": "-8",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Sudarshan Yellamaraju",
+        "total": "-8",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "David Lipsky",
+        "total": "-8",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Stephan Jaeger",
+        "total": "-8",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Steven Fisk",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
