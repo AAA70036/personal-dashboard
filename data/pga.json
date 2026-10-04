@@ -6,72 +6,72 @@
       {
         "position": "1",
         "name": "Austin Smotherman",
-        "total": "-23",
-        "round_score": "-",
-        "thru": "0"
+        "total": "-26",
+        "round_score": "-3",
+        "thru": "9"
       },
       {
         "position": "2",
         "name": "Doug Ghim",
-        "total": "-22",
-        "round_score": "-",
-        "thru": "0"
+        "total": "-23",
+        "round_score": "-1",
+        "thru": "9"
       },
       {
-        "position": "T-3",
-        "name": "Ben James",
-        "total": "-18",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
+        "position": "3",
         "name": "Trace Crowe",
-        "total": "-18",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
-        "name": "Kevin Streelman",
-        "total": "-18",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Johnny Keefer",
-        "total": "-17",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Steven Fisk",
-        "total": "-17",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Stephan Jaeger",
-        "total": "-17",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Zac Blair",
-        "total": "-16",
+        "total": "-22",
         "round_score": "-4",
-        "thru": "8"
+        "thru": "10"
       },
       {
-        "position": "T-9",
+        "position": "T-4",
         "name": "Luke Clanton",
-        "total": "-16",
+        "total": "-21",
+        "round_score": "-9",
+        "thru": "F"
+      },
+      {
+        "position": "T-4",
+        "name": "Johnny Keefer",
+        "total": "-21",
         "round_score": "-4",
-        "thru": "8"
+        "thru": "10"
+      },
+      {
+        "position": "T-4",
+        "name": "Ben James",
+        "total": "-21",
+        "round_score": "-3",
+        "thru": "10"
+      },
+      {
+        "position": "T-7",
+        "name": "David Ford",
+        "total": "-20",
+        "round_score": "-4",
+        "thru": "11"
+      },
+      {
+        "position": "T-7",
+        "name": "Kevin Streelman",
+        "total": "-20",
+        "round_score": "-2",
+        "thru": "10"
+      },
+      {
+        "position": "T-9",
+        "name": "Kihei Akina",
+        "total": "-19",
+        "round_score": "-5",
+        "thru": "15"
+      },
+      {
+        "position": "T-9",
+        "name": "Chris Kirk",
+        "total": "-19",
+        "round_score": "-3",
+        "thru": "12"
       }
     ]
   }
