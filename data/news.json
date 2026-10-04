@@ -1,10 +1,34 @@
 {
   "items": [
     {
-      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+      "title": "Japan Protests After U.S. Marine Is Accused of Killing Woman in Okinawa",
+      "link": "https://www.nytimes.com/2026/10/04/world/asia/japan-us-marine-killing-okinawa-woman.html",
+      "source": "NYT",
+      "published": "2026-10-04T08:38:42+00:00"
+    },
+    {
+      "title": "Omani Co-Pilot on FlyDubai Flight Is Said to Have Extremist Views",
+      "link": "https://www.nytimes.com/2026/10/03/world/middleeast/oman-flydubai-flight-1073-pilot-radicalized.html",
+      "source": "NYT",
+      "published": "2026-10-04T08:31:45+00:00"
+    },
+    {
+      "title": "Australia investigating Flydubai co-pilot's links to country",
+      "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-10-04T02:04:11+00:00"
+      "published": "2026-10-04T06:19:17+00:00"
+    },
+    {
+      "title": "Burnham scraps controversial plans to curb jury trials",
+      "link": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-10-04T03:07:30+00:00"
+    },
+    {
+      "title": "When parenting advice becomes too much",
+      "link": "https://www.bbc.co.uk/news/articles/cv4g5267jk8yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-10-04T01:24:05+00:00"
     },
     {
       "title": "Cornell president says university 'must do better' after frat house rape allegations",
@@ -13,7 +37,7 @@
       "published": "2026-10-04T00:11:25+00:00"
     },
     {
-      "title": "Coast Guard searching for missing medical plane carrying 6 people",
+      "title": "Coast Guard finds debris from medical plane carrying 6 people",
       "link": "https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts",
       "source": "NPR",
       "published": "2026-10-03T22:31:04+00:00"
@@ -25,40 +49,16 @@
       "published": "2026-10-03T21:57:34+00:00"
     },
     {
-      "title": "Tories pledge to scrap \u00a3100,000 childcare 'cliff edge'",
-      "link": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
+      "title": "Bellingham unlocks new level and potential to be 'one of the greatest'",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-10-03T21:03:22+00:00"
-    },
-    {
-      "title": "Russia Turns to Striking Kyiv\u2019s Bridges, Threatening a Vital Lifeline",
-      "link": "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html",
-      "source": "NYT",
-      "published": "2026-10-03T20:17:31+00:00"
+      "published": "2026-10-03T21:07:59+00:00"
     },
     {
       "title": "American High School Students Are Selling Guns Bound for Cartels",
       "link": "https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html",
       "source": "NYT",
       "published": "2026-10-03T18:40:49+00:00"
-    },
-    {
-      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-      "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-10-03T17:48:42+00:00"
-    },
-    {
-      "title": "How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
-      "link": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html",
-      "source": "NYT",
-      "published": "2026-10-03T14:59:12+00:00"
-    },
-    {
-      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-10-03T14:27:33+00:00"
     }
   ]
 }
