@@ -6,14 +6,14 @@
       {
         "position": "1",
         "name": "Austin Smotherman",
-        "total": "-21",
+        "total": "-23",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "2",
         "name": "Doug Ghim",
-        "total": "-19",
+        "total": "-22",
         "round_score": "-",
         "thru": "0"
       },
@@ -32,7 +32,14 @@
         "thru": "0"
       },
       {
-        "position": "5",
+        "position": "T-3",
+        "name": "Kevin Streelman",
+        "total": "-18",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
         "name": "Johnny Keefer",
         "total": "-17",
         "round_score": "-",
@@ -40,35 +47,28 @@
       },
       {
         "position": "T-6",
-        "name": "David Ford",
-        "total": "-16",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "A.J. Ewart",
-        "total": "-16",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
         "name": "Steven Fisk",
-        "total": "-16",
+        "total": "-17",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-6",
         "name": "Stephan Jaeger",
+        "total": "-17",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-9",
+        "name": "David Ford",
         "total": "-16",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Kevin Streelman",
+        "position": "T-9",
+        "name": "A.J. Ewart",
         "total": "-16",
         "round_score": "-",
         "thru": "0"
