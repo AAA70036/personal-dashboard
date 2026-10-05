@@ -1,77 +1,77 @@
 {
   "leaderboard": {
     "tournament": "Bank of Utah Championship",
-    "status": "In Progress",
+    "status": "Final",
     "players": [
       {
         "position": "1",
         "name": "Austin Smotherman",
         "total": "-26",
         "round_score": "-3",
-        "thru": "9"
+        "thru": "F"
       },
       {
         "position": "2",
         "name": "Doug Ghim",
-        "total": "-23",
-        "round_score": "-1",
-        "thru": "9"
+        "total": "-24",
+        "round_score": "-2",
+        "thru": "F"
       },
       {
-        "position": "3",
+        "position": "T-3",
+        "name": "David Ford",
+        "total": "-23",
+        "round_score": "-7",
+        "thru": "F"
+      },
+      {
+        "position": "T-3",
         "name": "Trace Crowe",
+        "total": "-23",
+        "round_score": "-5",
+        "thru": "F"
+      },
+      {
+        "position": "T-5",
+        "name": "Ben James",
         "total": "-22",
         "round_score": "-4",
-        "thru": "10"
+        "thru": "F"
       },
       {
-        "position": "T-4",
+        "position": "T-5",
+        "name": "Kevin Streelman",
+        "total": "-22",
+        "round_score": "-4",
+        "thru": "F"
+      },
+      {
+        "position": "T-7",
         "name": "Luke Clanton",
         "total": "-21",
         "round_score": "-9",
         "thru": "F"
       },
       {
-        "position": "T-4",
-        "name": "Johnny Keefer",
+        "position": "T-7",
+        "name": "Steven Fisk",
         "total": "-21",
         "round_score": "-4",
-        "thru": "10"
+        "thru": "F"
       },
       {
-        "position": "T-4",
-        "name": "Ben James",
-        "total": "-21",
-        "round_score": "-3",
-        "thru": "10"
-      },
-      {
-        "position": "T-7",
-        "name": "David Ford",
-        "total": "-20",
-        "round_score": "-4",
-        "thru": "11"
-      },
-      {
-        "position": "T-7",
-        "name": "Kevin Streelman",
-        "total": "-20",
-        "round_score": "-2",
-        "thru": "10"
-      },
-      {
-        "position": "T-9",
+        "position": "9",
         "name": "Kihei Akina",
-        "total": "-19",
-        "round_score": "-5",
-        "thru": "15"
+        "total": "-20",
+        "round_score": "-6",
+        "thru": "F"
       },
       {
-        "position": "T-9",
-        "name": "Chris Kirk",
+        "position": "T-10",
+        "name": "Rico Hoey",
         "total": "-19",
-        "round_score": "-3",
-        "thru": "12"
+        "round_score": "-4",
+        "thru": "F"
       }
     ]
   }
