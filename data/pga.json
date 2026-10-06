@@ -1,77 +1,77 @@
 {
   "leaderboard": {
-    "tournament": "Bank of Utah Championship",
-    "status": "Final",
+    "tournament": "Baycurrent Classic",
+    "status": "Scheduled",
     "players": [
       {
-        "position": "1",
-        "name": "Austin Smotherman",
-        "total": "-26",
-        "round_score": "-3",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Beau Hossler",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "2",
-        "name": "Doug Ghim",
-        "total": "-24",
-        "round_score": "-2",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Ben Kohles",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-3",
-        "name": "David Ford",
-        "total": "-23",
-        "round_score": "-7",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Keith Mitchell",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-3",
-        "name": "Trace Crowe",
-        "total": "-23",
-        "round_score": "-5",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Michael Kim",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-5",
-        "name": "Ben James",
-        "total": "-22",
-        "round_score": "-4",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Ren Yonezawa",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-5",
-        "name": "Kevin Streelman",
-        "total": "-22",
-        "round_score": "-4",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Pierceson Coody",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-7",
-        "name": "Luke Clanton",
-        "total": "-21",
-        "round_score": "-9",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Sanghee Lee",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-7",
-        "name": "Steven Fisk",
-        "total": "-21",
-        "round_score": "-4",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Denny McCarthy",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "9",
-        "name": "Kihei Akina",
-        "total": "-20",
-        "round_score": "-6",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Max Greyserman",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-10",
-        "name": "Rico Hoey",
-        "total": "-19",
-        "round_score": "-4",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Kristoffer Ventura",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       }
     ]
   }
