@@ -19,6 +19,13 @@
       },
       {
         "position": "T-3",
+        "name": "Max Homa",
+        "total": "-6",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
         "name": "Pierceson Coody",
         "total": "-6",
         "round_score": "-",
@@ -39,9 +46,16 @@
         "thru": "0"
       },
       {
-        "position": "T-3",
-        "name": "Max Homa",
-        "total": "-6",
+        "position": "T-7",
+        "name": "Andrew Putnam",
+        "total": "-5",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-7",
+        "name": "David Lipsky",
+        "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
@@ -55,20 +69,6 @@
       {
         "position": "T-7",
         "name": "Kristoffer Ventura",
-        "total": "-5",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-7",
-        "name": "Michael Thorbjornsen",
-        "total": "-5",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-7",
-        "name": "Andrew Putnam",
         "total": "-5",
         "round_score": "-",
         "thru": "0"
