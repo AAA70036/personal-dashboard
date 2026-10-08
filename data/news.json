@@ -1,10 +1,52 @@
 {
   "items": [
     {
+      "title": "Maricarmen, the 87-year-old woman whose eviction shook Spain, has died",
+      "link": "https://www.npr.org/2026/10/08/nx-s1-5994868/maricarmen-eviction-spain-dies",
+      "source": "NPR",
+      "published": "2026-10-08T05:56:02+00:00"
+    },
+    {
+      "title": "Isaias strengthens into the first hurricane of the Atlantic season",
+      "link": "https://www.npr.org/2026/10/08/g-s1-147095/weather-hurricane-season",
+      "source": "NPR",
+      "published": "2026-10-08T05:22:15+00:00"
+    },
+    {
+      "title": "'Every day there is killing': Gazans face Israeli strikes despite ceasefire as peace deal stalls",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-10-08T05:06:09+00:00"
+    },
+    {
+      "title": "Syrian general accused of atrocities paid and protected by US and Lebanon, BBC finds",
+      "link": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-10-08T05:00:44+00:00"
+    },
+    {
       "title": "Burnham to hold security talks with German chancellor in Berlin",
       "link": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-10-07T23:01:31+00:00"
+      "published": "2026-10-08T04:45:56+00:00"
+    },
+    {
+      "title": "'Come all the way' back to EU, French finance minister tells UK",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-10-08T04:02:26+00:00"
+    },
+    {
+      "title": "For Twin Brothers Abducted in the Oct. 7 Attacks, Adjusting to Freedom Is a New Challenge",
+      "link": "https://www.nytimes.com/2026/10/07/world/middleeast/israel-october-7-attacks-hostages-twins-berman.html",
+      "source": "NYT",
+      "published": "2026-10-08T02:00:19+00:00"
+    },
+    {
+      "title": "We spent thousands on a Tui river cruise but ended up on coach trips",
+      "link": "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-10-07T23:05:17+00:00"
     },
     {
       "title": "The WHO seeks more details on the death of a plague research lab employee in Russia",
@@ -13,52 +55,10 @@
       "published": "2026-10-07T21:53:47+00:00"
     },
     {
-      "title": "Christa Pike 'angry and confused' after failed execution, lawyers say",
-      "link": "https://www.bbc.co.uk/news/articles/c617kdle01k9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-10-07T21:51:21+00:00"
-    },
-    {
-      "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
-      "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-10-07T21:40:24+00:00"
-    },
-    {
       "title": "\u2018Maricarmen,\u2019 Whose Eviction Enraged Spaniards, Dies at 87",
       "link": "https://www.nytimes.com/2026/10/07/world/europe/maricarmen-dies-spain-housing-sanchez.html",
       "source": "NYT",
       "published": "2026-10-07T21:14:22+00:00"
-    },
-    {
-      "title": "What is the pneumonic plague?",
-      "link": "https://www.npr.org/2026/10/07/g-s1-146952/pneumonic-plague-russia-siberia-lab-death",
-      "source": "NPR",
-      "published": "2026-10-07T21:06:31+00:00"
-    },
-    {
-      "title": "Watch: What we know about Christa Pike's \u2018shock\u2019 recovery in hospital",
-      "link": "https://www.bbc.co.uk/news/videos/cw99zxxx891yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-10-07T20:01:05+00:00"
-    },
-    {
-      "title": "This surprising mammal fossil is giving scientists something to chew on",
-      "link": "https://www.npr.org/2026/10/07/nx-s1-5991361/fossil-mammal-platypus-chew-swallow-suckle-earliest",
-      "source": "NPR",
-      "published": "2026-10-07T19:59:16+00:00"
-    },
-    {
-      "title": "Canada Halts Plan to Allow Medically Assisted Death for the Mentally Ill",
-      "link": "https://www.nytimes.com/2026/10/07/world/canada/canada-medically-assisted-death-mental-illness.html",
-      "source": "NYT",
-      "published": "2026-10-07T19:57:21+00:00"
-    },
-    {
-      "title": "Rubio Urges Europe to Awaken From \u2018Slumber\u2019 and Uphold Western Dominance",
-      "link": "https://www.nytimes.com/2026/10/07/world/europe/rubio-greece-defense-immigration.html",
-      "source": "NYT",
-      "published": "2026-10-07T19:54:57+00:00"
     }
   ]
 }
