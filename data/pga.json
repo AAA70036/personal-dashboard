@@ -1,73 +1,73 @@
 {
   "leaderboard": {
     "tournament": "Baycurrent Classic",
-    "status": "Scheduled",
+    "status": "In Progress",
     "players": [
       {
         "position": "T-1",
         "name": "Beau Hossler",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Ben Kohles",
-        "total": "E",
+        "total": "-1",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-1",
         "name": "Keith Mitchell",
-        "total": "E",
+        "total": "-1",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-1",
         "name": "Michael Kim",
+        "total": "-1",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Ben Kohles",
         "total": "E",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-4",
         "name": "Ren Yonezawa",
         "total": "E",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-4",
         "name": "Pierceson Coody",
         "total": "E",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-4",
         "name": "Sanghee Lee",
         "total": "E",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-4",
         "name": "Denny McCarthy",
         "total": "E",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-4",
         "name": "Max Greyserman",
         "total": "E",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-4",
         "name": "Kristoffer Ventura",
         "total": "E",
         "round_score": "-",
