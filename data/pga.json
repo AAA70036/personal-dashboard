@@ -5,71 +5,71 @@
     "players": [
       {
         "position": "T-1",
-        "name": "Keith Mitchell",
+        "name": "Zach Bauchou",
         "total": "-11",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-1",
-        "name": "Jacob Bridgeman",
+        "name": "Keith Mitchell",
         "total": "-11",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-3",
+        "name": "Mac Meissner",
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Jacob Bridgeman",
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-5",
+        "name": "Hideki Matsuyama",
+        "total": "-9",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-5",
+        "name": "Ren Yonezawa",
+        "total": "-9",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-5",
+        "name": "Ryan Gerard",
+        "total": "-9",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-5",
+        "name": "Stephan Jaeger",
+        "total": "-9",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-5",
         "name": "Ben Kohles",
         "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
-        "name": "Zach Bauchou",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
+        "position": "T-5",
         "name": "Max Homa",
         "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
-        "name": "Mac Meissner",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-7",
-        "name": "Justin Thomas",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-7",
-        "name": "Stephan Jaeger",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-7",
-        "name": "Min Woo Lee",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-10",
-        "name": "Michael Brennan",
-        "total": "-7",
         "round_score": "-",
         "thru": "0"
       }
