@@ -5,71 +5,71 @@
     "players": [
       {
         "position": "T-1",
-        "name": "Zach Bauchou",
-        "total": "-11",
+        "name": "Michael Brennan",
+        "total": "-13",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-1",
-        "name": "Keith Mitchell",
-        "total": "-11",
+        "name": "Zach Bauchou",
+        "total": "-13",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-1",
+        "name": "Jacob Bridgeman",
+        "total": "-13",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Adam Scott",
+        "total": "-12",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Jordan Smith",
+        "total": "-12",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Stephan Jaeger",
+        "total": "-12",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Justin Thomas",
+        "total": "-12",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Keith Mitchell",
+        "total": "-12",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-9",
+        "name": "Ryan Gerard",
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-9",
         "name": "Mac Meissner",
         "total": "-10",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
-        "name": "Jacob Bridgeman",
-        "total": "-10",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Hideki Matsuyama",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Ren Yonezawa",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Ryan Gerard",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Stephan Jaeger",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Ben Kohles",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Max Homa",
-        "total": "-9",
         "round_score": "-",
         "thru": "0"
       }
