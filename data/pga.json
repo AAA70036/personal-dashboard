@@ -1,77 +1,77 @@
 {
   "leaderboard": {
     "tournament": "Baycurrent Classic",
-    "status": "In Progress",
+    "status": "Final",
     "players": [
       {
-        "position": "T-1",
+        "position": "1",
         "name": "Michael Brennan",
-        "total": "-13",
-        "round_score": "-",
-        "thru": "0"
+        "total": "-16",
+        "round_score": "-3",
+        "thru": "F"
       },
       {
-        "position": "T-1",
-        "name": "Zach Bauchou",
-        "total": "-13",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Jacob Bridgeman",
-        "total": "-13",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Stephan Jaeger",
-        "total": "-12",
-        "round_score": "E",
-        "thru": "1"
-      },
-      {
-        "position": "T-4",
+        "position": "T-2",
         "name": "Keith Mitchell",
-        "total": "-12",
-        "round_score": "E",
-        "thru": "1"
+        "total": "-15",
+        "round_score": "-3",
+        "thru": "F"
+      },
+      {
+        "position": "T-2",
+        "name": "Jacob Bridgeman",
+        "total": "-15",
+        "round_score": "-2",
+        "thru": "F"
       },
       {
         "position": "T-4",
-        "name": "Adam Scott",
-        "total": "-12",
-        "round_score": "-",
-        "thru": "0"
+        "name": "Xander Schauffele",
+        "total": "-13",
+        "round_score": "-4",
+        "thru": "F"
+      },
+      {
+        "position": "T-4",
+        "name": "Brian Harman",
+        "total": "-13",
+        "round_score": "-4",
+        "thru": "F"
+      },
+      {
+        "position": "T-4",
+        "name": "Ryan Gerard",
+        "total": "-13",
+        "round_score": "-3",
+        "thru": "F"
       },
       {
         "position": "T-4",
         "name": "Jordan Smith",
-        "total": "-12",
-        "round_score": "-",
-        "thru": "0"
+        "total": "-13",
+        "round_score": "-1",
+        "thru": "F"
       },
       {
         "position": "T-4",
-        "name": "Justin Thomas",
-        "total": "-12",
-        "round_score": "-",
-        "thru": "0"
+        "name": "Stephan Jaeger",
+        "total": "-13",
+        "round_score": "-1",
+        "thru": "F"
       },
       {
         "position": "T-9",
         "name": "Ren Yonezawa",
-        "total": "-11",
-        "round_score": "-6",
-        "thru": "7"
+        "total": "-12",
+        "round_score": "-7",
+        "thru": "F"
       },
       {
         "position": "T-9",
-        "name": "Brian Harman",
-        "total": "-11",
-        "round_score": "-2",
-        "thru": "3"
+        "name": "Min Woo Lee",
+        "total": "-12",
+        "round_score": "-5",
+        "thru": "F"
       }
     ]
   }
