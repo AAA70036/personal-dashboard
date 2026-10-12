@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "title": "Tropical Storm Rachel downgraded as high winds and rain turn inward",
+      "link": "https://www.npr.org/2026/10/11/nx-s1-5998124/tropical-storm-rachel-downgraded-as-high-winds-and-rain-turn-inward",
+      "source": "NPR",
+      "published": "2026-10-11T23:54:21+00:00"
+    },
+    {
       "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
       "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -53,12 +59,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-10-11T12:38:02+00:00"
-    },
-    {
-      "title": "Hurricane Simon nears Mexico with 155 mph winds and flooding fears",
-      "link": "https://www.npr.org/2026/10/11/nx-s1-5998022/hurricane-simon-nears-mexico-155-mph-winds-flooding-fears",
-      "source": "NPR",
-      "published": "2026-10-11T12:10:54+00:00"
     }
   ]
 }
