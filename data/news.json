@@ -1,16 +1,34 @@
 {
   "items": [
     {
-      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump Hands Victories to Putin, Who Offers More War in Return",
+      "link": "https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html",
+      "source": "NYT",
+      "published": "2026-10-14T05:03:25+00:00"
+    },
+    {
+      "title": "One stolen every four minutes - inside the police battle against vehicle thieves",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-10-14T00:17:00+00:00"
+      "published": "2026-10-14T05:01:07+00:00"
+    },
+    {
+      "title": "Watch: BBC joins police on front line against car theft",
+      "link": "https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-10-14T05:00:37+00:00"
     },
     {
       "title": "Saudi Energy Giant Struck as War Spikes Between Houthis and Saudi Arabia",
       "link": "https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html",
       "source": "NYT",
-      "published": "2026-10-14T00:14:01+00:00"
+      "published": "2026-10-14T00:56:54+00:00"
+    },
+    {
+      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-10-14T00:17:00+00:00"
     },
     {
       "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
@@ -31,12 +49,6 @@
       "published": "2026-10-13T21:42:49+00:00"
     },
     {
-      "title": "Zelensky and Burnham to meet in Downing Street",
-      "link": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-10-13T21:31:30+00:00"
-    },
-    {
       "title": "A Father\u2019s Mission Is to Show the World \u2018What Russia Did to My Family\u2019",
       "link": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-war-soldier-sumy-family.html",
       "source": "NYT",
@@ -47,18 +59,6 @@
       "link": "https://www.npr.org/2026/10/13/nx-s1-5998849/what-an-economics-nobel-prize-winner-knows-about-pricing",
       "source": "NPR",
       "published": "2026-10-13T20:03:35+00:00"
-    },
-    {
-      "title": "Russia Detains Japanese Journalist for Alleged Espionage",
-      "link": "https://www.nytimes.com/2026/10/13/world/europe/russia-detains-japanese-journalist.html",
-      "source": "NYT",
-      "published": "2026-10-13T19:55:42+00:00"
-    },
-    {
-      "title": "Bipartisan group of senators call on Trump to rescind Russian diesel deal",
-      "link": "https://www.npr.org/2026/10/13/g-s1-147871/trump-russia-diesel-deal-congressional-response",
-      "source": "NPR",
-      "published": "2026-10-13T19:52:52+00:00"
     }
   ]
 }
