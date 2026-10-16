@@ -1,7 +1,37 @@
 {
   "items": [
     {
-      "title": "Trump casts doubt on press secretary's future",
+      "title": "Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation",
+      "link": "https://www.nytimes.com/2026/10/16/world/asia/pakistan-peshawar-school-roof-collapse.html",
+      "source": "NYT",
+      "published": "2026-10-16T21:00:27+00:00"
+    },
+    {
+      "title": "Chris Mason: Burnham and Swinney tussle over where power lies in Scotland",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyl889jqzjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-10-16T20:08:07+00:00"
+    },
+    {
+      "title": "Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank",
+      "link": "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html",
+      "source": "NYT",
+      "published": "2026-10-16T19:31:34+00:00"
+    },
+    {
+      "title": "The Rupturing Trump-Zelensky Relationship Stands to Hurt Ukraine and Its European Allies",
+      "link": "https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html",
+      "source": "NYT",
+      "published": "2026-10-16T19:12:25+00:00"
+    },
+    {
+      "title": "Pope Asks Putin for a Cease-Fire for a Ukrainian City Under Siege",
+      "link": "https://www.nytimes.com/2026/10/16/world/europe/pope-leo-putin-ukraine-cease-fire.html",
+      "source": "NYT",
+      "published": "2026-10-16T19:04:56+00:00"
+    },
+    {
+      "title": "Katie Zacharia is 'transitioning out' as press secretary, White House says",
       "link": "https://www.npr.org/2026/10/16/nx-s1-6005317/trump-casts-doubt-on-press-secretarys-future",
       "source": "NPR",
       "published": "2026-10-16T18:08:33+00:00"
@@ -11,12 +41,6 @@
       "link": "https://www.npr.org/2026/10/16/nx-s1-6005201/health-treatment-menopause-hot-flash-night-sweats-insomnia",
       "source": "NPR",
       "published": "2026-10-16T17:45:16+00:00"
-    },
-    {
-      "title": "Watch: BBC follows Ukraine's Operation Vivaldi pushing Russia back on frontline",
-      "link": "https://www.bbc.co.uk/news/videos/cm1ex06026e8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-10-16T17:41:53+00:00"
     },
     {
       "title": "Man killed by tiger may have had medical records breached by NHS staff",
@@ -35,30 +59,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-10-16T16:07:37+00:00"
-    },
-    {
-      "title": "Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'",
-      "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-10-16T15:59:30+00:00"
-    },
-    {
-      "title": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
-      "link": "https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank",
-      "source": "NPR",
-      "published": "2026-10-16T15:57:27+00:00"
-    },
-    {
-      "title": "Houthi Attacks on Saudi Arabia Put In Doubt Kingdom\u2019s Sports and Business Events",
-      "link": "https://www.nytimes.com/2026/10/16/world/middleeast/saudi-arabia-houthi-attack-fii-events.html",
-      "source": "NYT",
-      "published": "2026-10-16T15:52:50+00:00"
-    },
-    {
-      "title": "Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation",
-      "link": "https://www.nytimes.com/2026/10/16/world/asia/pakistan-peshawar-school-roof-collapse.html",
-      "source": "NYT",
-      "published": "2026-10-16T15:22:54+00:00"
     }
   ]
 }
