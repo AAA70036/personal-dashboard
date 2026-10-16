@@ -1,10 +1,28 @@
 {
   "items": [
     {
+      "title": "Same-day test helps doctors detect hidden infections in critically ill children",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-10-16T00:34:45+00:00"
+    },
+    {
       "title": "Houthi Missiles Strike Government Headquarters in Yemen",
       "link": "https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html",
       "source": "NYT",
-      "published": "2026-10-15T21:43:03+00:00"
+      "published": "2026-10-16T00:14:38+00:00"
+    },
+    {
+      "title": "Sparks fly at the Celebrity Traitors round table and a 'terrifying' death march",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g17j1ej95o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-10-15T23:01:49+00:00"
+    },
+    {
+      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-10-15T22:37:21+00:00"
     },
     {
       "title": "Violent Protests in Albania",
@@ -13,22 +31,10 @@
       "published": "2026-10-15T21:40:23+00:00"
     },
     {
-      "title": "Bus hits train stopped on French side of  Channel Tunnel, with 19 injured",
-      "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-10-15T21:12:14+00:00"
-    },
-    {
       "title": "Hit a midlife wall? This test identifies your strengths and what matters to you",
       "link": "https://www.npr.org/2026/10/15/nx-s1-5996678/midlife-wall-reset-test-guide",
       "source": "NPR",
       "published": "2026-10-15T20:50:53+00:00"
-    },
-    {
-      "title": "Why Harry and Meghan's UK relaunch felt so much like a royal engagement",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdnjqpyvmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-10-15T20:24:32+00:00"
     },
     {
       "title": "Suspicious mailings to election officials, congressional offices under investigation",
@@ -53,12 +59,6 @@
       "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-10-15T17:47:22+00:00"
-    },
-    {
-      "title": "Second Ebola Infection Announced in Kenya",
-      "link": "https://www.nytimes.com/2026/10/15/world/africa/kenya-ebola-infections.html",
-      "source": "NYT",
-      "published": "2026-10-15T17:38:52+00:00"
     }
   ]
 }
