@@ -23,40 +23,40 @@
     {
       "symbol": "ORCL",
       "price": 134.47,
-      "change": 7.14,
-      "pct_change": 5.61
+      "change": 1.33,
+      "pct_change": 1.0
     },
     {
-      "symbol": "HD",
-      "price": 308.24,
-      "change": 13.04,
-      "pct_change": 4.42
+      "symbol": "AMZN",
+      "price": 254.76,
+      "change": 1.51,
+      "pct_change": 0.6
     },
     {
-      "symbol": "LLY",
-      "price": 1251.61,
-      "change": 38.61,
-      "pct_change": 3.18
+      "symbol": "MSFT",
+      "price": 539.44,
+      "change": 2.79,
+      "pct_change": 0.52
     }
   ],
   "losers": [
     {
-      "symbol": "MRK",
-      "price": 145.19,
-      "change": -3.31,
-      "pct_change": -2.23
-    },
-    {
-      "symbol": "XOM",
-      "price": 174.68,
-      "change": -3.59,
-      "pct_change": -2.02
-    },
-    {
       "symbol": "JNJ",
       "price": 253.28,
-      "change": -2.72,
-      "pct_change": -1.06
+      "change": -0.53,
+      "pct_change": -0.21
+    },
+    {
+      "symbol": "WMT",
+      "price": 117.87,
+      "change": -0.23,
+      "pct_change": -0.19
+    },
+    {
+      "symbol": "BRK-B",
+      "price": 525.68,
+      "change": -0.82,
+      "pct_change": -0.16
     }
   ]
 }
