@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "title": "Israeli Settlers Attack Palestinians and European Officials in West Bank",
+      "link": "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html",
+      "source": "NYT",
+      "published": "2026-10-17T20:24:21+00:00"
+    },
+    {
+      "title": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
+      "link": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
+      "source": "NYT",
+      "published": "2026-10-17T20:15:40+00:00"
+    },
+    {
+      "title": "What to Know About the Violent Protests in Albania",
+      "link": "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html",
+      "source": "NYT",
+      "published": "2026-10-17T18:57:34+00:00"
+    },
+    {
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-10-17T18:38:57+00:00"
+    },
+    {
+      "title": "Swinney's emotional explanation for his commitment to independence",
+      "link": "https://www.bbc.co.uk/news/articles/cx5yn9n7v5zeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-10-17T18:11:42+00:00"
+    },
+    {
+      "title": "Yemen Fighting Rages as Civilian Toll From Houthi-Saudi Conflict Worsens",
+      "link": "https://www.nytimes.com/2026/10/17/world/middleeast/houthi-saudi-clashes-in-yemen.html",
+      "source": "NYT",
+      "published": "2026-10-17T16:46:15+00:00"
+    },
+    {
       "title": "More NHS staff sacked over attacks victims' records",
       "link": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -13,52 +49,16 @@
       "published": "2026-10-17T16:17:00+00:00"
     },
     {
-      "title": "What to Know About the Violent Protests in Albania",
-      "link": "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html",
-      "source": "NYT",
-      "published": "2026-10-17T16:00:58+00:00"
-    },
-    {
       "title": "Scuffles and fires break out as protesters rally across France, joining students",
       "link": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
       "source": "NPR",
       "published": "2026-10-17T15:57:40+00:00"
     },
     {
-      "title": "Why Are There Protests in France?",
-      "link": "https://www.nytimes.com/2026/10/17/world/europe/france-student-protests-why.html",
-      "source": "NYT",
-      "published": "2026-10-17T15:43:31+00:00"
-    },
-    {
-      "title": "Scotland 'not like Manchester', Swinney says in dig at PM Burnham",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2844n7nepo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-10-17T15:36:05+00:00"
-    },
-    {
       "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
       "link": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
       "source": "NPR",
       "published": "2026-10-17T15:10:14+00:00"
-    },
-    {
-      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
-      "link": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
-      "source": "NPR",
-      "published": "2026-10-17T14:25:10+00:00"
-    },
-    {
-      "title": "Pope discharged from hospital days after lung cancer surgery",
-      "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-10-17T13:51:36+00:00"
-    },
-    {
-      "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
-      "link": "https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-10-17T12:56:09+00:00"
     }
   ]
 }
