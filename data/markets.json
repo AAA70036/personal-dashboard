@@ -29,8 +29,8 @@
     {
       "symbol": "MRK",
       "price": 148.3,
-      "change": 4.45,
-      "pct_change": 3.09
+      "change": 4.59,
+      "pct_change": 3.19
     },
     {
       "symbol": "UNH",
@@ -43,19 +43,19 @@
     {
       "symbol": "META",
       "price": 694.25,
-      "change": -11.35,
-      "pct_change": -1.61
+      "change": -11.23,
+      "pct_change": -1.59
     },
     {
       "symbol": "GOOGL",
-      "price": 340.27,
+      "price": 340.28,
       "change": -4.15,
       "pct_change": -1.2
     },
     {
       "symbol": "AAPL",
       "price": 339.5,
-      "change": -3.54,
+      "change": -3.53,
       "pct_change": -1.03
     }
   ]
