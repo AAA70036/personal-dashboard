@@ -3,20 +3,20 @@
     "S&P 500": {
       "symbol": "^GSPC",
       "price": 7757.17,
-      "change": 44.6,
-      "pct_change": 0.58
+      "change": 45.47,
+      "pct_change": 0.59
     },
     "Dow": {
       "symbol": "^DJI",
       "price": 52856.09,
-      "change": 360.21,
-      "pct_change": 0.69
+      "change": 355.97,
+      "pct_change": 0.68
     },
     "Nasdaq": {
       "symbol": "^IXIC",
       "price": 26702.86,
-      "change": 278.04,
-      "pct_change": 1.05
+      "change": 281.02,
+      "pct_change": 1.06
     }
   },
   "gainers": [
