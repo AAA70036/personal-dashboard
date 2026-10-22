@@ -5,71 +5,71 @@
     "players": [
       {
         "position": "T-1",
-        "name": "Brice Garnett",
-        "total": "-1",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Chandler Phillips",
-        "total": "-1",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Eric Cole",
-        "total": "-1",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Robert Streb",
-        "total": "-1",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Lee Hodges",
-        "total": "-1",
+        "name": "Ben Kohles",
+        "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-1",
         "name": "Ben Silverman",
-        "total": "-1",
+        "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Kevin Roy",
-        "total": "-1",
+        "position": "T-3",
+        "name": "Mackenzie Hughes",
+        "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-8",
-        "name": "Kevin Streelman",
-        "total": "E",
+        "position": "T-3",
+        "name": "Jonathan Byrd",
+        "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-8",
-        "name": "Greyson Sigg",
-        "total": "E",
+        "position": "T-3",
+        "name": "Danny Walker",
+        "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-8",
-        "name": "Cameron Champ",
-        "total": "E",
+        "position": "T-6",
+        "name": "Brice Garnett",
+        "total": "-6",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Eric Cole",
+        "total": "-6",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Austin Smotherman",
+        "total": "-6",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Zac Blair",
+        "total": "-6",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Chan Kim",
+        "total": "-6",
         "round_score": "-",
         "thru": "0"
       }
