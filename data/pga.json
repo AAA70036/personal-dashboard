@@ -4,72 +4,72 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
+        "position": "1",
+        "name": "Chandler Blanchet",
+        "total": "-9",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
         "name": "Ben Kohles",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-2",
         "name": "Ben Silverman",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-2",
         "name": "Danny Walker",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-2",
         "name": "Corey Conners",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
+        "position": "T-6",
         "name": "Mackenzie Hughes",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
+        "position": "T-6",
         "name": "Jonathan Byrd",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
+        "position": "T-6",
         "name": "Chan Kim",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
+        "position": "T-6",
         "name": "Emiliano Grillo",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-9",
-        "name": "Brice Garnett",
-        "total": "-6",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Eric Cole",
-        "total": "-6",
+        "position": "T-6",
+        "name": "Andrew Novak",
+        "total": "-7",
         "round_score": "-",
         "thru": "0"
       }
