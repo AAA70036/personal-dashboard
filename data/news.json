@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "title": "Federal judge restricts DHS field operations looking for noncitizen voters",
+      "link": "https://www.npr.org/2026/10/22/nx-s1-6012682/judge-dhs-noncitizen-voting-operations",
+      "source": "NPR",
+      "published": "2026-10-22T19:16:20+00:00"
+    },
+    {
+      "title": "In the Wake of Riots, the French Authorities Ban Some Protests",
+      "link": "https://www.nytimes.com/2026/10/22/world/europe/france-protests-macron.html",
+      "source": "NYT",
+      "published": "2026-10-22T19:02:04+00:00"
+    },
+    {
+      "title": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
+      "link": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
+      "source": "NYT",
+      "published": "2026-10-22T18:07:36+00:00"
+    },
+    {
+      "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public",
+      "link": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-10-22T17:46:58+00:00"
+    },
+    {
+      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-10-22T17:14:04+00:00"
+    },
+    {
+      "title": "Race to update services' computer systems after cyber-security flaw found",
+      "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-10-22T17:12:51+00:00"
+    },
+    {
+      "title": "Serbian Election Underscores the Region\u2019s Long Political Limbo",
+      "link": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html",
+      "source": "NYT",
+      "published": "2026-10-22T17:03:13+00:00"
+    },
+    {
+      "title": "Russell Brand accuser said alleged rape 'really hurt', court hears",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-10-22T16:45:09+00:00"
+    },
+    {
       "title": "International Criminal Court Wins E.U.\u2019s Top Human Rights Prize",
       "link": "https://www.nytimes.com/2026/10/22/world/europe/icc-sarkharov-eu-trump-sanctions-human-rights.html",
       "source": "NYT",
@@ -11,54 +59,6 @@
       "link": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
       "source": "NYT",
       "published": "2026-10-22T15:22:53+00:00"
-    },
-    {
-      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-10-22T14:28:59+00:00"
-    },
-    {
-      "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
-      "link": "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino",
-      "source": "NPR",
-      "published": "2026-10-22T13:50:55+00:00"
-    },
-    {
-      "title": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
-      "link": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
-      "source": "NYT",
-      "published": "2026-10-22T13:34:27+00:00"
-    },
-    {
-      "title": "In Wake of Riots, French Authorities Ban Some Protests",
-      "link": "https://www.nytimes.com/2026/10/22/france-protests-macron.html",
-      "source": "NYT",
-      "published": "2026-10-22T12:54:19+00:00"
-    },
-    {
-      "title": "Russell Brand accuser said alleged rape 'really hurt', court hears",
-      "link": "https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-10-22T12:34:36+00:00"
-    },
-    {
-      "title": "AI discovered a massive cyber-security flaw - here's what happened",
-      "link": "https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-10-22T12:17:44+00:00"
-    },
-    {
-      "title": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
-      "link": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
-      "source": "NPR",
-      "published": "2026-10-22T11:28:24+00:00"
-    },
-    {
-      "title": "Moment man rescued from sinking car by Australian TV reporter",
-      "link": "https://www.bbc.co.uk/news/videos/cwdr8zm3r5gko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-10-22T11:08:33+00:00"
     }
   ]
 }
