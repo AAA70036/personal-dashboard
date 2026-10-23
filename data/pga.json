@@ -12,6 +12,13 @@
       },
       {
         "position": "T-2",
+        "name": "Corey Conners",
+        "total": "-8",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
         "name": "Ben Kohles",
         "total": "-8",
         "round_score": "-",
@@ -32,29 +39,8 @@
         "thru": "0"
       },
       {
-        "position": "T-2",
-        "name": "Corey Conners",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
         "position": "T-6",
-        "name": "Mackenzie Hughes",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Jonathan Byrd",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
-        "name": "Chan Kim",
+        "name": "Joel Dahmen",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
@@ -69,6 +55,20 @@
       {
         "position": "T-6",
         "name": "Andrew Novak",
+        "total": "-7",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Chris Kirk",
+        "total": "-7",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Kensei Hirata",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
