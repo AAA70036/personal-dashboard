@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Severe flooding hits Four Corners region, more expected through the weekend",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
+      "source": "NPR",
+      "published": "2026-10-24T00:40:42+00:00"
+    },
+    {
+      "title": "UK to invest \u00a3100m in 'world first' AI Biosecurity Lab",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-10-24T00:05:45+00:00"
+    },
+    {
       "title": "Gunmen Open Fire at Church in Jordan, Killing at Least Seven",
       "link": "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html",
       "source": "NYT",
@@ -11,12 +23,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-10-23T21:10:47+00:00"
-    },
-    {
-      "title": "Watch: Trees ripped up as Storm Austen batters Britain",
-      "link": "https://www.bbc.co.uk/news/videos/c6x2qdpnn35po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-10-23T21:01:31+00:00"
     },
     {
       "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
@@ -53,12 +59,6 @@
       "link": "https://www.npr.org/2026/10/23/nx-s1-6010488/east-potomac-trump-golf-hains-point",
       "source": "NPR",
       "published": "2026-10-23T17:35:14+00:00"
-    },
-    {
-      "title": "Meghan statement offers answers after years of questions about her relationship with father",
-      "link": "https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-10-23T17:27:50+00:00"
     }
   ]
 }
