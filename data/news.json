@@ -1,10 +1,40 @@
 {
   "items": [
     {
-      "title": "Live Updates: Protesters March in France Amid Heavy Security",
+      "title": "France Protest Updates: Hundreds of Thousands March Amid Heavy Security",
       "link": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots",
       "source": "NYT",
-      "published": "2026-10-24T15:36:37+00:00"
+      "published": "2026-10-24T18:11:45+00:00"
+    },
+    {
+      "title": "Ukraine says Starlink is back to normal after disruptions",
+      "link": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
+      "source": "NPR",
+      "published": "2026-10-24T17:54:25+00:00"
+    },
+    {
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-10-24T17:21:42+00:00"
+    },
+    {
+      "title": "Mum who died trying to save sons swept away in Bahamas was hero, husband says",
+      "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-10-24T17:11:56+00:00"
+    },
+    {
+      "title": "Why Is the U.S. Accusing Canada of Election Interference?",
+      "link": "https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html",
+      "source": "NYT",
+      "published": "2026-10-24T16:02:21+00:00"
+    },
+    {
+      "title": "UK braces for worst of Storm Boelo as amber warnings due to come into force",
+      "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-10-24T15:13:40+00:00"
     },
     {
       "title": "Israel Cracks Down in West Bank City After Deadly Attack",
@@ -29,36 +59,6 @@
       "link": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
       "source": "NPR",
       "published": "2026-10-24T11:59:08+00:00"
-    },
-    {
-      "title": "\u2018Eagle\u2019s Nest,\u2019 Nazi-Era Guesthouse in German Alps, Is Gutted by Fire",
-      "link": "https://www.nytimes.com/2026/10/24/world/europe/eagles-nest-fire-nazi-germany.html",
-      "source": "NYT",
-      "published": "2026-10-24T11:10:50+00:00"
-    },
-    {
-      "title": "Between quick wins and big dreams lies Burnham's biggest test",
-      "link": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-10-24T11:03:57+00:00"
-    },
-    {
-      "title": "Plan for Northern Olympics to get \u00a37m in Healey's Budget",
-      "link": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-10-24T11:00:48+00:00"
-    },
-    {
-      "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-10-24T10:30:08+00:00"
-    },
-    {
-      "title": "U.S. birth rate drops to record low, but older women are having more babies",
-      "link": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
-      "source": "NPR",
-      "published": "2026-10-24T10:00:00+00:00"
     }
   ]
 }
