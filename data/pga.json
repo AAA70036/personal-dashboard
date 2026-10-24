@@ -4,37 +4,44 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "1",
+        "position": "T-1",
         "name": "Austin Smotherman",
-        "total": "-17",
+        "total": "-16",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
-        "name": "Chris Kirk",
-        "total": "-15",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-2",
-        "name": "Ben Silverman",
-        "total": "-15",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-2",
+        "position": "T-1",
         "name": "S\u00e9amus Power",
-        "total": "-15",
+        "total": "-16",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "5",
+        "position": "T-3",
         "name": "Taylor Moore",
         "total": "-14",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Ben Silverman",
+        "total": "-14",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Corey Conners",
+        "total": "-14",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Chan Kim",
+        "total": "-13",
         "round_score": "-",
         "thru": "0"
       },
@@ -47,7 +54,14 @@
       },
       {
         "position": "T-6",
-        "name": "Corey Conners",
+        "name": "Chris Kirk",
+        "total": "-13",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Danny Walker",
         "total": "-13",
         "round_score": "-",
         "thru": "0"
@@ -56,20 +70,6 @@
         "position": "T-6",
         "name": "Chandler Blanchet",
         "total": "-13",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Luke Clanton",
-        "total": "-12",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Cam Davis",
-        "total": "-12",
         "round_score": "-",
         "thru": "0"
       }
