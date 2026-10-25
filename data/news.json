@@ -1,16 +1,52 @@
 {
   "items": [
     {
-      "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
-      "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+      "title": "Venezuela's opposition leader Mar\u00eda Corina Machado returns after months in exile",
+      "link": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+      "source": "NPR",
+      "published": "2026-10-25T16:18:41+00:00"
+    },
+    {
+      "title": "Israelis have changed. Will they change their leadership?",
+      "link": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
+      "source": "NPR",
+      "published": "2026-10-25T16:00:00+00:00"
+    },
+    {
+      "title": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
+      "link": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
+      "source": "NYT",
+      "published": "2026-10-25T15:50:53+00:00"
+    },
+    {
+      "title": "What makes a good spine-tingler? Stephen Graham Jones says it's all in the ending",
+      "link": "https://www.npr.org/2026/10/25/nx-s1-6007348/what-makes-a-good-spine-tingler-stephen-graham-jones-says-its-all-in-the-ending",
+      "source": "NPR",
+      "published": "2026-10-25T15:03:17+00:00"
+    },
+    {
+      "title": "Couple were celebrating anniversary before Bahamas tragedy",
+      "link": "https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-10-25T11:54:16+00:00"
+      "published": "2026-10-25T14:38:51+00:00"
+    },
+    {
+      "title": "A Day After Renewed Street Clashes in France, Relief and Anxiety Mix",
+      "link": "https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html",
+      "source": "NYT",
+      "published": "2026-10-25T14:34:10+00:00"
+    },
+    {
+      "title": "What to Know About Brazil\u2019s Election as Bolsonaro Faces Off With Lula",
+      "link": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html",
+      "source": "NYT",
+      "published": "2026-10-25T14:08:51+00:00"
     },
     {
       "title": "Burnham open to 'honest discussion' on EU free movement",
       "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-10-25T11:49:08+00:00"
+      "published": "2026-10-25T12:11:23+00:00"
     },
     {
       "title": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians",
@@ -19,46 +55,10 @@
       "published": "2026-10-25T11:24:58+00:00"
     },
     {
-      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-10-25T10:38:15+00:00"
-    },
-    {
       "title": "When a teen posts a selfie, how much filter is 'too much' filter?",
       "link": "https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai",
       "source": "NPR",
       "published": "2026-10-25T10:00:00+00:00"
-    },
-    {
-      "title": "Elon Musk Says Ukraine Violated Starlink\u2019s Rules",
-      "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
-      "source": "NYT",
-      "published": "2026-10-25T09:28:35+00:00"
-    },
-    {
-      "title": "What to Know About Brazil\u2019s Election as Bolsonaro Faces Off With Lula",
-      "link": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html",
-      "source": "NYT",
-      "published": "2026-10-25T09:01:45+00:00"
-    },
-    {
-      "title": "Israel\u2019s High-Stakes Election: What to Know",
-      "link": "https://www.nytimes.com/2026/10/25/world/middleeast/israels-high-stakes-election-what-to-know.html",
-      "source": "NYT",
-      "published": "2026-10-25T09:01:00+00:00"
-    },
-    {
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-10-25T09:00:00+00:00"
-    },
-    {
-      "title": "More dads taking paid family leave for a new baby, sometimes as much as moms are",
-      "link": "https://www.npr.org/2026/10/25/nx-s1-5977810/paid-family-bonding-leave-dads-moms-california-colorado-washington-states",
-      "source": "NPR",
-      "published": "2026-10-25T09:00:00+00:00"
     }
   ]
 }
