@@ -1,22 +1,40 @@
 {
   "items": [
     {
-      "title": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
-      "link": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
+      "title": "Live Updates: Polls Close in Brazil as Presidential Race Comes to Chaotic Close",
+      "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
       "source": "NYT",
-      "published": "2026-10-25T21:39:45+00:00"
+      "published": "2026-10-25T23:41:52+00:00"
     },
     {
-      "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
-      "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-10-25T21:30:15+00:00"
+      "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
+      "link": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
+      "source": "NYT",
+      "published": "2026-10-25T23:10:41+00:00"
     },
     {
-      "title": "Serbia's Vu\u010di\u0107 concedes election defeat to student-led protest movement",
+      "title": "Serbia's veteran ruler Vu\u010di\u0107 concedes election to student-led protest movement",
       "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-10-25T21:25:04+00:00"
+      "published": "2026-10-25T22:54:57+00:00"
+    },
+    {
+      "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
+      "link": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-10-25T22:37:36+00:00"
+    },
+    {
+      "title": "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power",
+      "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-10-25T22:24:16+00:00"
+    },
+    {
+      "title": "Deeply divided Israel braces for pivotal election",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-10-25T22:11:13+00:00"
     },
     {
       "title": "Mar\u00eda Corina Machado Returns to Venezuela",
@@ -41,24 +59,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-10-25T18:38:17+00:00"
-    },
-    {
-      "title": "Venezuelan opposition leader Mar\u00eda Machado returns after months in exile",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-10-25T18:29:00+00:00"
-    },
-    {
-      "title": "A Day After Renewed Street Clashes in France, Relief and Anxiety Mix",
-      "link": "https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html",
-      "source": "NYT",
-      "published": "2026-10-25T17:52:46+00:00"
-    },
-    {
-      "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
-      "link": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
-      "source": "NPR",
-      "published": "2026-10-25T17:50:35+00:00"
     }
   ]
 }
