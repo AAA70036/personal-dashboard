@@ -1,19 +1,19 @@
 {
   "leaderboard": {
     "tournament": "Butterfield Bermuda Championship",
-    "status": "In Progress",
+    "status": "Final",
     "players": [
       {
-        "position": "T-1",
+        "position": "1",
         "name": "Austin Smotherman",
         "total": "-16",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "2",
         "name": "S\u00e9amus Power",
-        "total": "-16",
+        "total": "-15",
         "round_score": "-",
         "thru": "0"
       },
