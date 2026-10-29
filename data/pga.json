@@ -1,75 +1,75 @@
 {
   "leaderboard": {
     "tournament": "VidantaWorld Mexico Open",
-    "status": "Scheduled",
+    "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
-        "name": "Patton Kizzire",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "David Lipsky",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Patrick Rodgers",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
+        "position": "1",
         "name": "Denny McCarthy",
-        "total": "E",
+        "total": "-4",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Danny Walker",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
+        "position": "T-2",
         "name": "Austin Eckroat",
-        "total": "E",
+        "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Camilo Villegas",
-        "total": "E",
+        "position": "T-2",
+        "name": "Jeremy Paul",
+        "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Mark Hubbard",
-        "total": "E",
+        "position": "T-2",
+        "name": "Ben Griffin",
+        "total": "-3",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-2",
+        "name": "Sudarshan Yellamaraju",
+        "total": "-3",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
         "name": "Erik van Rooyen",
-        "total": "E",
+        "total": "-2",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Jordan Smith",
-        "total": "E",
+        "position": "T-6",
+        "name": "Max Homa",
+        "total": "-2",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Beau Hossler",
+        "total": "-2",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Justin Lower",
+        "total": "-2",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Christiaan Bezuidenhout",
+        "total": "-2",
         "round_score": "-",
         "thru": "0"
       }
