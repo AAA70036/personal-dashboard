@@ -5,71 +5,71 @@
     "players": [
       {
         "position": "1",
+        "name": "Karl Vilips",
+        "total": "-9",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "2",
         "name": "Kensei Hirata",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "T-3",
         "name": "Ben Griffin",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "T-3",
         "name": "Marco Penge",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "4",
+        "position": "T-3",
+        "name": "Garrick Higgo",
+        "total": "-7",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Jeffrey Kang",
+        "total": "-7",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Adrien Dumont de Chassart",
+        "total": "-7",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-8",
         "name": "Pierceson Coody",
         "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
-        "name": "Max Homa",
-        "total": "-5",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Sudarshan Yellamaraju",
-        "total": "-5",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Trent Phillips",
-        "total": "-5",
+        "position": "T-8",
+        "name": "Mackenzie Hughes",
+        "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-8",
-        "name": "Denny McCarthy",
-        "total": "-4",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-8",
-        "name": "Jeremy Paul",
-        "total": "-4",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-8",
-        "name": "Steven Fisk",
-        "total": "-4",
+        "name": "Doug Ghim",
+        "total": "-6",
         "round_score": "-",
         "thru": "0"
       }
