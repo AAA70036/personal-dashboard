@@ -5,71 +5,71 @@
     "players": [
       {
         "position": "1",
-        "name": "Karl Vilips",
-        "total": "-9",
+        "name": "Adrien Dumont de Chassart",
+        "total": "-13",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "2",
-        "name": "Kensei Hirata",
-        "total": "-8",
+        "name": "Matthieu Pavon",
+        "total": "-11",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-3",
-        "name": "Garrick Higgo",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
-        "name": "Jeffrey Kang",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
-        "name": "Adrien Dumont de Chassart",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
-        "name": "Ben Griffin",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
-        "name": "Marco Penge",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-8",
         "name": "Mackenzie Hughes",
-        "total": "-6",
+        "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-8",
+        "position": "T-3",
+        "name": "Max Greyserman",
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Kihei Akina",
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Jackson Suber",
+        "total": "-9",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
         "name": "Doug Ghim",
-        "total": "-6",
+        "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-8",
+        "position": "T-6",
         "name": "Alvaro Ortiz",
-        "total": "-6",
+        "total": "-9",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Garrick Higgo",
+        "total": "-9",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Hayden Springer",
+        "total": "-9",
         "round_score": "-",
         "thru": "0"
       }
