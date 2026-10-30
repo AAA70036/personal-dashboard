@@ -19,20 +19,6 @@
       },
       {
         "position": "T-3",
-        "name": "Ben Griffin",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
-        "name": "Marco Penge",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
         "name": "Garrick Higgo",
         "total": "-7",
         "round_score": "-",
@@ -53,9 +39,16 @@
         "thru": "0"
       },
       {
-        "position": "T-8",
-        "name": "Pierceson Coody",
-        "total": "-6",
+        "position": "T-3",
+        "name": "Ben Griffin",
+        "total": "-7",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Marco Penge",
+        "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
@@ -69,6 +62,13 @@
       {
         "position": "T-8",
         "name": "Doug Ghim",
+        "total": "-6",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-8",
+        "name": "Alvaro Ortiz",
         "total": "-6",
         "round_score": "-",
         "thru": "0"
