@@ -6,72 +6,72 @@
       {
         "position": "1",
         "name": "Andrew Novak",
-        "total": "-23",
-        "round_score": "E",
-        "thru": "5"
+        "total": "-25",
+        "round_score": "-2",
+        "thru": "17"
       },
       {
-        "position": "2",
-        "name": "Doug Ghim",
-        "total": "-19",
-        "round_score": "-3",
-        "thru": "5"
-      },
-      {
-        "position": "3",
-        "name": "Matthieu Pavon",
-        "total": "-18",
-        "round_score": "-1",
-        "thru": "5"
-      },
-      {
-        "position": "T-4",
-        "name": "Steven Fisk",
-        "total": "-17",
-        "round_score": "-5",
-        "thru": "9"
-      },
-      {
-        "position": "T-4",
+        "position": "T-2",
         "name": "Kristoffer Ventura",
-        "total": "-17",
-        "round_score": "-5",
-        "thru": "8"
+        "total": "-20",
+        "round_score": "-8",
+        "thru": "F"
       },
       {
-        "position": "T-4",
-        "name": "Brian Campbell",
-        "total": "-17",
+        "position": "T-2",
+        "name": "Steven Fisk",
+        "total": "-20",
+        "round_score": "-8",
+        "thru": "F"
+      },
+      {
+        "position": "T-2",
+        "name": "Doug Ghim",
+        "total": "-20",
         "round_score": "-4",
-        "thru": "7"
+        "thru": "17"
       },
       {
-        "position": "T-4",
+        "position": "5",
         "name": "Mackenzie Hughes",
-        "total": "-17",
+        "total": "-19",
+        "round_score": "-5",
+        "thru": "F"
+      },
+      {
+        "position": "T-6",
+        "name": "Erik van Rooyen",
+        "total": "-18",
+        "round_score": "-7",
+        "thru": "F"
+      },
+      {
+        "position": "T-6",
+        "name": "Brian Campbell",
+        "total": "-18",
+        "round_score": "-5",
+        "thru": "F"
+      },
+      {
+        "position": "T-6",
+        "name": "Tom Kim",
+        "total": "-18",
+        "round_score": "-5",
+        "thru": "F"
+      },
+      {
+        "position": "T-6",
+        "name": "Pierceson Coody",
+        "total": "-18",
         "round_score": "-3",
-        "thru": "6"
+        "thru": "17"
       },
       {
-        "position": "T-4",
-        "name": "Max Greyserman",
-        "total": "-17",
-        "round_score": "-2",
-        "thru": "6"
-      },
-      {
-        "position": "T-4",
+        "position": "T-6",
         "name": "Ben Griffin",
-        "total": "-17",
-        "round_score": "-2",
-        "thru": "5"
-      },
-      {
-        "position": "T-10",
-        "name": "Alvaro Ortiz",
-        "total": "-15",
-        "round_score": "-6",
-        "thru": "12"
+        "total": "-18",
+        "round_score": "-3",
+        "thru": "17"
       }
     ]
   }
