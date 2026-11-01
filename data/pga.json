@@ -7,71 +7,71 @@
         "position": "1",
         "name": "Andrew Novak",
         "total": "-23",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "E",
+        "thru": "5"
       },
       {
         "position": "2",
-        "name": "Matthieu Pavon",
-        "total": "-17",
-        "round_score": "-",
-        "thru": "0"
+        "name": "Doug Ghim",
+        "total": "-19",
+        "round_score": "-3",
+        "thru": "5"
       },
       {
         "position": "3",
-        "name": "Doug Ghim",
-        "total": "-16",
-        "round_score": "-",
-        "thru": "0"
+        "name": "Matthieu Pavon",
+        "total": "-18",
+        "round_score": "-1",
+        "thru": "5"
       },
       {
         "position": "T-4",
-        "name": "Pierceson Coody",
-        "total": "-15",
-        "round_score": "-",
-        "thru": "0"
+        "name": "Steven Fisk",
+        "total": "-17",
+        "round_score": "-5",
+        "thru": "9"
+      },
+      {
+        "position": "T-4",
+        "name": "Kristoffer Ventura",
+        "total": "-17",
+        "round_score": "-5",
+        "thru": "8"
+      },
+      {
+        "position": "T-4",
+        "name": "Brian Campbell",
+        "total": "-17",
+        "round_score": "-4",
+        "thru": "7"
+      },
+      {
+        "position": "T-4",
+        "name": "Mackenzie Hughes",
+        "total": "-17",
+        "round_score": "-3",
+        "thru": "6"
       },
       {
         "position": "T-4",
         "name": "Max Greyserman",
-        "total": "-15",
-        "round_score": "-",
-        "thru": "0"
+        "total": "-17",
+        "round_score": "-2",
+        "thru": "6"
       },
       {
         "position": "T-4",
         "name": "Ben Griffin",
+        "total": "-17",
+        "round_score": "-2",
+        "thru": "5"
+      },
+      {
+        "position": "T-10",
+        "name": "Alvaro Ortiz",
         "total": "-15",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-7",
-        "name": "Mackenzie Hughes",
-        "total": "-14",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-7",
-        "name": "Kihei Akina",
-        "total": "-14",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Brian Campbell",
-        "total": "-13",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Tom Kim",
-        "total": "-13",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "-6",
+        "thru": "12"
       }
     ]
   }
