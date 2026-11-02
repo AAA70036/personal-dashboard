@@ -1,14 +1,14 @@
 {
   "leaderboard": {
     "tournament": "VidantaWorld Mexico Open",
-    "status": "In Progress",
+    "status": "Final",
     "players": [
       {
         "position": "1",
         "name": "Andrew Novak",
         "total": "-25",
         "round_score": "-2",
-        "thru": "17"
+        "thru": "F"
       },
       {
         "position": "T-2",
@@ -25,17 +25,17 @@
         "thru": "F"
       },
       {
-        "position": "T-2",
-        "name": "Doug Ghim",
-        "total": "-20",
-        "round_score": "-4",
-        "thru": "17"
-      },
-      {
-        "position": "5",
+        "position": "T-4",
         "name": "Mackenzie Hughes",
         "total": "-19",
         "round_score": "-5",
+        "thru": "F"
+      },
+      {
+        "position": "T-4",
+        "name": "Ben Griffin",
+        "total": "-19",
+        "round_score": "-4",
         "thru": "F"
       },
       {
@@ -64,14 +64,14 @@
         "name": "Pierceson Coody",
         "total": "-18",
         "round_score": "-3",
-        "thru": "17"
+        "thru": "F"
       },
       {
         "position": "T-6",
-        "name": "Ben Griffin",
+        "name": "Doug Ghim",
         "total": "-18",
-        "round_score": "-3",
-        "thru": "17"
+        "round_score": "-2",
+        "thru": "F"
       }
     ]
   }
