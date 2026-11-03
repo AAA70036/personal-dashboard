@@ -2,6 +2,77 @@
   "leaderboard": {
     "tournament": "World Wide Technology Championship",
     "status": "Scheduled",
-    "players": []
+    "players": [
+      {
+        "position": "T-1",
+        "name": "Brice Garnett",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
+        "name": "Ben Martin",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
+        "name": "Peter Malnati",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
+        "name": "Joel Dahmen",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
+        "name": "Justin Lower",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
+        "name": "Chad Ramey",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
+        "name": "Kevin Streelman",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
+        "name": "David Skinns",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
+        "name": "Matthieu Pavon",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
+        "name": "Rico Hoey",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
+      }
+    ]
   }
 }
