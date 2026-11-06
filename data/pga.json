@@ -12,7 +12,21 @@
       },
       {
         "position": "T-2",
-        "name": "Nick Dunlap",
+        "name": "Beau Hossler",
+        "total": "-8",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "Patton Kizzire",
+        "total": "-8",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "Ben James",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
@@ -25,51 +39,37 @@
         "thru": "0"
       },
       {
-        "position": "T-4",
+        "position": "T-2",
+        "name": "Nick Dunlap",
+        "total": "-8",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-7",
         "name": "Matthieu Pavon",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
+        "position": "T-7",
         "name": "Harry Hall",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
+        "position": "T-7",
         "name": "Taylor Montgomery",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
+        "position": "T-7",
         "name": "Kensei Hirata",
         "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Ben James",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Peter Malnati",
-        "total": "-6",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Ryan Gerard",
-        "total": "-6",
         "round_score": "-",
         "thru": "0"
       }
