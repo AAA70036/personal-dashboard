@@ -5,71 +5,71 @@
     "players": [
       {
         "position": "1",
-        "name": "Chris Kirk",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-2",
-        "name": "Beau Hossler",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-2",
-        "name": "Patton Kizzire",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-2",
         "name": "Ben James",
-        "total": "-8",
+        "total": "-15",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "2",
         "name": "Zac Blair",
-        "total": "-8",
+        "total": "-12",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
-        "name": "Nick Dunlap",
-        "total": "-8",
+        "position": "3",
+        "name": "Stephan Jaeger",
+        "total": "-11",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-7",
-        "name": "Matthieu Pavon",
-        "total": "-7",
+        "position": "T-4",
+        "name": "Sudarshan Yellamaraju",
+        "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-7",
-        "name": "Harry Hall",
-        "total": "-7",
+        "position": "T-4",
+        "name": "Rasmus Neergaard-Petersen",
+        "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-7",
-        "name": "Taylor Montgomery",
-        "total": "-7",
+        "position": "T-4",
+        "name": "Lucas Glover",
+        "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-7",
-        "name": "Kensei Hirata",
-        "total": "-7",
+        "position": "T-4",
+        "name": "Ben Kohles",
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Austin Eckroat",
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Zach Bauchou",
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Peter Malnati",
+        "total": "-10",
         "round_score": "-",
         "thru": "0"
       }
