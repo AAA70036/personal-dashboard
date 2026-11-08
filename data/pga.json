@@ -7,71 +7,71 @@
         "position": "1",
         "name": "Ben James",
         "total": "-21",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "E",
+        "thru": "4"
       },
       {
         "position": "2",
-        "name": "Ryan Gerard",
-        "total": "-17",
-        "round_score": "-",
-        "thru": "0"
+        "name": "Chris Kirk",
+        "total": "-18",
+        "round_score": "-2",
+        "thru": "4"
       },
       {
         "position": "T-3",
-        "name": "Chris Kirk",
-        "total": "-16",
-        "round_score": "-",
-        "thru": "0"
+        "name": "Rico Hoey",
+        "total": "-17",
+        "round_score": "-4",
+        "thru": "6"
+      },
+      {
+        "position": "T-3",
+        "name": "Michael Kim",
+        "total": "-17",
+        "round_score": "-3",
+        "thru": "5"
+      },
+      {
+        "position": "T-3",
+        "name": "Kensei Hirata",
+        "total": "-17",
+        "round_score": "-2",
+        "thru": "5"
+      },
+      {
+        "position": "T-3",
+        "name": "Alvaro Ortiz",
+        "total": "-17",
+        "round_score": "-2",
+        "thru": "4"
       },
       {
         "position": "T-3",
         "name": "Denny McCarthy",
+        "total": "-17",
+        "round_score": "-1",
+        "thru": "4"
+      },
+      {
+        "position": "T-3",
+        "name": "Ryan Gerard",
+        "total": "-17",
+        "round_score": "E",
+        "thru": "4"
+      },
+      {
+        "position": "T-9",
+        "name": "Jackson Koivun",
         "total": "-16",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Alvaro Ortiz",
-        "total": "-15",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Paul Peterson",
-        "total": "-15",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Keith Mitchell",
-        "total": "-15",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Kensei Hirata",
-        "total": "-15",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "-6",
+        "thru": "10"
       },
       {
         "position": "T-9",
-        "name": "Michael Kim",
-        "total": "-14",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "David Ford",
-        "total": "-14",
-        "round_score": "-",
-        "thru": "0"
+        "name": "Blades Brown",
+        "total": "-16",
+        "round_score": "-2",
+        "thru": "5"
       }
     ]
   }
