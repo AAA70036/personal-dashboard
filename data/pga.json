@@ -5,73 +5,73 @@
     "players": [
       {
         "position": "1",
-        "name": "Ben James",
-        "total": "-21",
-        "round_score": "E",
-        "thru": "4"
+        "name": "Blades Brown",
+        "total": "-23",
+        "round_score": "-9",
+        "thru": "F"
       },
       {
         "position": "2",
-        "name": "Chris Kirk",
-        "total": "-18",
-        "round_score": "-2",
-        "thru": "4"
-      },
-      {
-        "position": "T-3",
-        "name": "Rico Hoey",
-        "total": "-17",
-        "round_score": "-4",
-        "thru": "6"
-      },
-      {
-        "position": "T-3",
         "name": "Michael Kim",
-        "total": "-17",
-        "round_score": "-3",
-        "thru": "5"
+        "total": "-22",
+        "round_score": "-8",
+        "thru": "F"
       },
       {
         "position": "T-3",
         "name": "Kensei Hirata",
-        "total": "-17",
-        "round_score": "-2",
-        "thru": "5"
-      },
-      {
-        "position": "T-3",
-        "name": "Alvaro Ortiz",
-        "total": "-17",
-        "round_score": "-2",
-        "thru": "4"
-      },
-      {
-        "position": "T-3",
-        "name": "Denny McCarthy",
-        "total": "-17",
-        "round_score": "-1",
-        "thru": "4"
-      },
-      {
-        "position": "T-3",
-        "name": "Ryan Gerard",
-        "total": "-17",
-        "round_score": "E",
-        "thru": "4"
-      },
-      {
-        "position": "T-9",
-        "name": "Jackson Koivun",
-        "total": "-16",
+        "total": "-21",
         "round_score": "-6",
-        "thru": "10"
+        "thru": "F"
+      },
+      {
+        "position": "T-3",
+        "name": "Ben James",
+        "total": "-21",
+        "round_score": "E",
+        "thru": "16"
+      },
+      {
+        "position": "5",
+        "name": "David Ford",
+        "total": "-20",
+        "round_score": "-6",
+        "thru": "F"
+      },
+      {
+        "position": "T-6",
+        "name": "Alvaro Ortiz",
+        "total": "-19",
+        "round_score": "-4",
+        "thru": "17"
+      },
+      {
+        "position": "T-6",
+        "name": "Denny McCarthy",
+        "total": "-19",
+        "round_score": "-3",
+        "thru": "17"
+      },
+      {
+        "position": "T-6",
+        "name": "Ryan Gerard",
+        "total": "-19",
+        "round_score": "-2",
+        "thru": "16"
       },
       {
         "position": "T-9",
-        "name": "Blades Brown",
-        "total": "-16",
-        "round_score": "-2",
-        "thru": "5"
+        "name": "Jordan Smith",
+        "total": "-18",
+        "round_score": "-9",
+        "thru": "F"
+      },
+      {
+        "position": "T-9",
+        "name": "S\u00e9amus Power",
+        "total": "-18",
+        "round_score": "-6",
+        "thru": "F"
       }
     ]
   }
