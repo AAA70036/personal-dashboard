@@ -1,35 +1,35 @@
 {
   "leaderboard": {
     "tournament": "World Wide Technology Championship",
-    "status": "In Progress",
+    "status": "Final",
     "players": [
       {
         "position": "1",
         "name": "Blades Brown",
-        "total": "-23",
-        "round_score": "-9",
-        "thru": "F"
+        "total": "-25",
+        "round_score": "-",
+        "thru": "0"
       },
       {
         "position": "2",
+        "name": "Ben James",
+        "total": "-24",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "3",
         "name": "Michael Kim",
         "total": "-22",
         "round_score": "-8",
         "thru": "F"
       },
       {
-        "position": "T-3",
+        "position": "4",
         "name": "Kensei Hirata",
         "total": "-21",
         "round_score": "-6",
         "thru": "F"
-      },
-      {
-        "position": "T-3",
-        "name": "Ben James",
-        "total": "-21",
-        "round_score": "E",
-        "thru": "16"
       },
       {
         "position": "5",
@@ -43,34 +43,34 @@
         "name": "Alvaro Ortiz",
         "total": "-19",
         "round_score": "-4",
-        "thru": "17"
+        "thru": "F"
       },
       {
         "position": "T-6",
         "name": "Denny McCarthy",
         "total": "-19",
         "round_score": "-3",
-        "thru": "17"
+        "thru": "F"
       },
       {
-        "position": "T-6",
-        "name": "Ryan Gerard",
-        "total": "-19",
-        "round_score": "-2",
-        "thru": "16"
-      },
-      {
-        "position": "T-9",
+        "position": "T-8",
         "name": "Jordan Smith",
         "total": "-18",
         "round_score": "-9",
         "thru": "F"
       },
       {
-        "position": "T-9",
+        "position": "T-8",
         "name": "S\u00e9amus Power",
         "total": "-18",
         "round_score": "-6",
+        "thru": "F"
+      },
+      {
+        "position": "T-8",
+        "name": "Keith Mitchell",
+        "total": "-18",
+        "round_score": "-3",
         "thru": "F"
       }
     ]
