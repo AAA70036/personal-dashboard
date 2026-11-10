@@ -1,77 +1,77 @@
 {
   "leaderboard": {
-    "tournament": "World Wide Technology Championship",
-    "status": "Final",
+    "tournament": "Austin Championship pres. by Compliance Solutions",
+    "status": "Scheduled",
     "players": [
       {
-        "position": "1",
-        "name": "Blades Brown",
-        "total": "-25",
+        "position": "T-1",
+        "name": "C.T. Pan",
+        "total": "E",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "2",
-        "name": "Ben James",
-        "total": "-24",
+        "position": "T-1",
+        "name": "Erik van Rooyen",
+        "total": "E",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "3",
-        "name": "Michael Kim",
-        "total": "-22",
-        "round_score": "-8",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Nick Hardy",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "4",
-        "name": "Kensei Hirata",
-        "total": "-21",
-        "round_score": "-6",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Takumi Kanaya",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "5",
-        "name": "David Ford",
-        "total": "-20",
-        "round_score": "-6",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Chandler Phillips",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Alvaro Ortiz",
-        "total": "-19",
-        "round_score": "-4",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Mac Meissner",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Denny McCarthy",
-        "total": "-19",
-        "round_score": "-3",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Brendon Todd",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-8",
-        "name": "Jordan Smith",
-        "total": "-18",
-        "round_score": "-9",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Rafael Campos",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-8",
-        "name": "S\u00e9amus Power",
-        "total": "-18",
-        "round_score": "-6",
-        "thru": "F"
+        "position": "T-1",
+        "name": "John Parry",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-8",
-        "name": "Keith Mitchell",
-        "total": "-18",
-        "round_score": "-3",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Andrew Putnam",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       }
     ]
   }
