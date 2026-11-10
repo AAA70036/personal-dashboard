@@ -15,48 +15,48 @@
     "Nasdaq": {
       "symbol": "^IXIC",
       "price": 25253.14,
-      "change": 679.92,
+      "change": 679.93,
       "pct_change": 2.77
     }
   },
   "gainers": [
     {
-      "symbol": "TSLA",
-      "price": 378.05,
-      "change": 18.93,
-      "pct_change": 5.27
+      "symbol": "BRK-B",
+      "price": 575.25,
+      "change": 2.45,
+      "pct_change": 0.43
     },
     {
-      "symbol": "META",
-      "price": 641.37,
-      "change": 30.09,
-      "pct_change": 4.92
+      "symbol": "MSFT",
+      "price": 545.18,
+      "change": 1.48,
+      "pct_change": 0.27
     },
     {
-      "symbol": "LLY",
-      "price": 1411.95,
-      "change": 51.97,
-      "pct_change": 3.82
+      "symbol": "UNH",
+      "price": 397.62,
+      "change": 0.86,
+      "pct_change": 0.22
     }
   ],
   "losers": [
     {
       "symbol": "NVDA",
       "price": 178.67,
-      "change": -9.41,
-      "pct_change": -5.01
+      "change": -1.83,
+      "pct_change": -1.01
     },
     {
-      "symbol": "XOM",
-      "price": 164.73,
-      "change": -1.62,
-      "pct_change": -0.97
+      "symbol": "GOOGL",
+      "price": 288.15,
+      "change": -1.98,
+      "pct_change": -0.68
     },
     {
-      "symbol": "V",
-      "price": 422.16,
-      "change": -0.49,
-      "pct_change": -0.12
+      "symbol": "JNJ",
+      "price": 282.11,
+      "change": -0.54,
+      "pct_change": -0.19
     }
   ]
 }
