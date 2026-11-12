@@ -1,75 +1,75 @@
 {
   "leaderboard": {
     "tournament": "Austin Championship pres. by Compliance Solutions",
-    "status": "Scheduled",
+    "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
-        "name": "C.T. Pan",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
+        "position": "1",
         "name": "Erik van Rooyen",
-        "total": "E",
+        "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Nick Hardy",
-        "total": "E",
+        "position": "T-2",
+        "name": "Kevin Yu",
+        "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Takumi Kanaya",
-        "total": "E",
+        "position": "T-2",
+        "name": "Blades Brown",
+        "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-4",
         "name": "Chandler Phillips",
-        "total": "E",
+        "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Mac Meissner",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Brendon Todd",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
+        "position": "T-4",
         "name": "Rafael Campos",
-        "total": "E",
+        "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "John Parry",
-        "total": "E",
+        "position": "T-4",
+        "name": "Trace Crowe",
+        "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Andrew Putnam",
-        "total": "E",
+        "position": "T-7",
+        "name": "Brice Garnett",
+        "total": "-4",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-7",
+        "name": "Aaron Wise",
+        "total": "-4",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-9",
+        "name": "Nick Hardy",
+        "total": "-3",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-9",
+        "name": "Tyler Duncan",
+        "total": "-3",
         "round_score": "-",
         "thru": "0"
       }
