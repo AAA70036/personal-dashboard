@@ -5,71 +5,71 @@
     "players": [
       {
         "position": "1",
-        "name": "Brian Harman",
+        "name": "Trace Crowe",
+        "total": "-13",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "2",
+        "name": "Kevin Yu",
         "total": "-12",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
+        "position": "T-3",
+        "name": "Brian Harman",
+        "total": "-11",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Kristoffer Ventura",
+        "total": "-11",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-5",
+        "name": "Sami V\u00e4lim\u00e4ki",
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-5",
         "name": "Jordan Smith",
         "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
-        "name": "Rasmus Neergaard-Petersen",
-        "total": "-10",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-2",
-        "name": "Trace Crowe",
+        "position": "T-5",
+        "name": "Erik van Rooyen",
         "total": "-10",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-5",
+        "name": "Neal Shipley",
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-9",
         "name": "Zach Bauchou",
         "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
-        "name": "Max Greyserman",
+        "position": "T-9",
+        "name": "Rasmus Neergaard-Petersen",
         "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Kristoffer Ventura",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Erik van Rooyen",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "9",
-        "name": "Ben Kohles",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-10",
-        "name": "Max McGreevy",
-        "total": "-7",
         "round_score": "-",
         "thru": "0"
       }
