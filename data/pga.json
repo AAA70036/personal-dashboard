@@ -5,71 +5,71 @@
     "players": [
       {
         "position": "1",
+        "name": "Erik van Rooyen",
+        "total": "-14",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
+        "name": "Kevin Yu",
+        "total": "-13",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
         "name": "Trace Crowe",
         "total": "-13",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "2",
-        "name": "Kevin Yu",
+        "position": "T-4",
+        "name": "Miles Russell",
         "total": "-12",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
-        "name": "Brian Harman",
-        "total": "-11",
+        "position": "T-4",
+        "name": "Max Greyserman",
+        "total": "-12",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
-        "name": "Kristoffer Ventura",
-        "total": "-11",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
+        "position": "T-4",
         "name": "Sami V\u00e4lim\u00e4ki",
-        "total": "-10",
+        "total": "-12",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
-        "name": "Jordan Smith",
-        "total": "-10",
+        "position": "T-4",
+        "name": "Brian Harman",
+        "total": "-12",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
-        "name": "Erik van Rooyen",
-        "total": "-10",
+        "position": "T-8",
+        "name": "Zac Blair",
+        "total": "-11",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-5",
-        "name": "Neal Shipley",
-        "total": "-10",
+        "position": "T-8",
+        "name": "Jeffrey Kang",
+        "total": "-11",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-9",
-        "name": "Zach Bauchou",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-9",
-        "name": "Rasmus Neergaard-Petersen",
-        "total": "-9",
+        "position": "T-8",
+        "name": "Chad Ramey",
+        "total": "-11",
         "round_score": "-",
         "thru": "0"
       }
