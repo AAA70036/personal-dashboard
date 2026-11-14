@@ -1,7 +1,25 @@
 {
   "items": [
     {
-      "title": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
+      "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
+      "link": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
+      "source": "NPR",
+      "published": "2026-11-14T05:12:43+00:00"
+    },
+    {
+      "title": "What we know about the longest US nationwide flight ground stop since 9/11",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-14T03:45:21+00:00"
+    },
+    {
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-14T02:47:24+00:00"
+    },
+    {
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
       "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-13T23:40:45+00:00"
@@ -25,6 +43,12 @@
       "published": "2026-11-13T22:36:45+00:00"
     },
     {
+      "title": "What we know about the FAA nationwide ground stop",
+      "link": "https://www.npr.org/2026/11/13/nx-s1-6040388/what-we-know-about-the-faa-nationwide-ground-stop",
+      "source": "NPR",
+      "published": "2026-11-13T22:27:38+00:00"
+    },
+    {
       "title": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
       "link": "https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting",
       "source": "NPR",
@@ -35,30 +59,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-13T22:12:33+00:00"
-    },
-    {
-      "title": "FAA issues nationwide ground stop for all U.S. airports",
-      "link": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
-      "source": "NPR",
-      "published": "2026-11-13T21:55:13+00:00"
-    },
-    {
-      "title": "Eisenkot Accuses Netanyahu of Fueling \u2018Racist\u2019 Hostility Against Arabs",
-      "link": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html",
-      "source": "NYT",
-      "published": "2026-11-13T21:50:12+00:00"
-    },
-    {
-      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-13T21:14:22+00:00"
-    },
-    {
-      "title": "With his challenge to Schumer, Van Hollen forces a debate over Democrats' mandate",
-      "link": "https://www.npr.org/2026/11/13/nx-s1-6040044/dem-senate-leader-fight",
-      "source": "NPR",
-      "published": "2026-11-13T21:06:09+00:00"
     }
   ]
 }
