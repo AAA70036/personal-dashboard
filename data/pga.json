@@ -5,73 +5,73 @@
     "players": [
       {
         "position": "1",
+        "name": "Chad Ramey",
+        "total": "-17",
+        "round_score": "-4",
+        "thru": "11"
+      },
+      {
+        "position": "T-2",
+        "name": "Hayden Springer",
+        "total": "-15",
+        "round_score": "-5",
+        "thru": "13"
+      },
+      {
+        "position": "T-2",
+        "name": "Ben Kohles",
+        "total": "-15",
+        "round_score": "-3",
+        "thru": "12"
+      },
+      {
+        "position": "T-4",
+        "name": "Joel Dahmen",
+        "total": "-14",
+        "round_score": "-7",
+        "thru": "F"
+      },
+      {
+        "position": "T-4",
+        "name": "Blades Brown",
+        "total": "-14",
+        "round_score": "-4",
+        "thru": "15"
+      },
+      {
+        "position": "T-4",
+        "name": "Austin Smotherman",
+        "total": "-14",
+        "round_score": "-3",
+        "thru": "12"
+      },
+      {
+        "position": "T-4",
+        "name": "Max Greyserman",
+        "total": "-14",
+        "round_score": "-2",
+        "thru": "12"
+      },
+      {
+        "position": "T-4",
+        "name": "Sami V\u00e4lim\u00e4ki",
+        "total": "-14",
+        "round_score": "-1",
+        "thru": "11"
+      },
+      {
+        "position": "T-4",
         "name": "Trace Crowe",
         "total": "-14",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "E",
+        "thru": "11"
       },
       {
-        "position": "T-2",
-        "name": "Chad Ramey",
+        "position": "T-10",
+        "name": "Mac Meissner",
         "total": "-13",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-2",
-        "name": "Erik van Rooyen",
-        "total": "-13",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-2",
-        "name": "Sami V\u00e4lim\u00e4ki",
-        "total": "-13",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Max Greyserman",
-        "total": "-12",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-5",
-        "name": "Ben Kohles",
-        "total": "-12",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-7",
-        "name": "Will Gordon",
-        "total": "-11",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-7",
-        "name": "Zac Blair",
-        "total": "-11",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-7",
-        "name": "Austin Smotherman",
-        "total": "-11",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-7",
-        "name": "John VanDerLaan",
-        "total": "-11",
-        "round_score": "-",
-        "thru": "0"
+        "round_score": "-3",
+        "thru": "15"
       }
     ]
   }
