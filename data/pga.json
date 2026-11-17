@@ -1,77 +1,77 @@
 {
   "leaderboard": {
     "tournament": "Austin Championship pres. by Compliance Solutions",
-    "status": "In Progress",
+    "status": "Final",
     "players": [
       {
         "position": "1",
         "name": "Chad Ramey",
-        "total": "-17",
-        "round_score": "-4",
-        "thru": "11"
+        "total": "-20",
+        "round_score": "-7",
+        "thru": "F"
       },
       {
-        "position": "T-2",
-        "name": "Hayden Springer",
-        "total": "-15",
-        "round_score": "-5",
-        "thru": "13"
-      },
-      {
-        "position": "T-2",
+        "position": "2",
         "name": "Ben Kohles",
-        "total": "-15",
+        "total": "-18",
+        "round_score": "-6",
+        "thru": "F"
+      },
+      {
+        "position": "3",
+        "name": "Trace Crowe",
+        "total": "-17",
         "round_score": "-3",
-        "thru": "12"
+        "thru": "F"
       },
       {
         "position": "T-4",
-        "name": "Joel Dahmen",
-        "total": "-14",
-        "round_score": "-7",
+        "name": "Hayden Springer",
+        "total": "-16",
+        "round_score": "-6",
         "thru": "F"
       },
       {
         "position": "T-4",
         "name": "Blades Brown",
-        "total": "-14",
-        "round_score": "-4",
-        "thru": "15"
+        "total": "-16",
+        "round_score": "-6",
+        "thru": "F"
       },
       {
         "position": "T-4",
-        "name": "Austin Smotherman",
-        "total": "-14",
+        "name": "Erik van Rooyen",
+        "total": "-16",
         "round_score": "-3",
-        "thru": "12"
+        "thru": "F"
       },
       {
-        "position": "T-4",
-        "name": "Max Greyserman",
-        "total": "-14",
-        "round_score": "-2",
-        "thru": "12"
+        "position": "T-7",
+        "name": "Jordan Smith",
+        "total": "-15",
+        "round_score": "-5",
+        "thru": "F"
       },
       {
-        "position": "T-4",
+        "position": "T-7",
+        "name": "Austin Smotherman",
+        "total": "-15",
+        "round_score": "-4",
+        "thru": "F"
+      },
+      {
+        "position": "T-7",
         "name": "Sami V\u00e4lim\u00e4ki",
-        "total": "-14",
-        "round_score": "-1",
-        "thru": "11"
-      },
-      {
-        "position": "T-4",
-        "name": "Trace Crowe",
-        "total": "-14",
-        "round_score": "E",
-        "thru": "11"
+        "total": "-15",
+        "round_score": "-2",
+        "thru": "F"
       },
       {
         "position": "T-10",
-        "name": "Mac Meissner",
-        "total": "-13",
-        "round_score": "-3",
-        "thru": "15"
+        "name": "Joel Dahmen",
+        "total": "-14",
+        "round_score": "-7",
+        "thru": "F"
       }
     ]
   }
