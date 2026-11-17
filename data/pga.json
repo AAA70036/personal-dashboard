@@ -1,77 +1,77 @@
 {
   "leaderboard": {
-    "tournament": "Austin Championship pres. by Compliance Solutions",
-    "status": "Final",
+    "tournament": "The RSM Classic",
+    "status": "Scheduled",
     "players": [
       {
-        "position": "1",
-        "name": "Chad Ramey",
-        "total": "-20",
-        "round_score": "-7",
-        "thru": "F"
+        "position": "T-1",
+        "name": "David Skinns",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "2",
-        "name": "Ben Kohles",
-        "total": "-18",
-        "round_score": "-6",
-        "thru": "F"
+        "position": "T-1",
+        "name": "John Parry",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "3",
-        "name": "Trace Crowe",
-        "total": "-17",
-        "round_score": "-3",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Robert Streb",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-4",
-        "name": "Hayden Springer",
-        "total": "-16",
-        "round_score": "-6",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Emiliano Grillo",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-4",
-        "name": "Blades Brown",
-        "total": "-16",
-        "round_score": "-6",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Patrick Rodgers",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-4",
-        "name": "Erik van Rooyen",
-        "total": "-16",
-        "round_score": "-3",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Ben Silverman",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-7",
-        "name": "Jordan Smith",
-        "total": "-15",
-        "round_score": "-5",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Zac Blair",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-7",
-        "name": "Austin Smotherman",
-        "total": "-15",
-        "round_score": "-4",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Max Greyserman",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-7",
-        "name": "Sami V\u00e4lim\u00e4ki",
-        "total": "-15",
-        "round_score": "-2",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Rasmus H\u00f8jgaard",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-10",
-        "name": "Joel Dahmen",
-        "total": "-14",
-        "round_score": "-7",
-        "thru": "F"
+        "position": "T-1",
+        "name": "Max McGreevy",
+        "total": "E",
+        "round_score": "-",
+        "thru": "0"
       }
     ]
   }
