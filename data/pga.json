@@ -4,72 +4,72 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
+        "position": "1",
+        "name": "Jesper Svensson",
+        "total": "-8",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
         "name": "Max Greyserman",
-        "total": "-5",
+        "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Maverick McNealy",
-        "total": "-5",
+        "position": "T-2",
+        "name": "Garrick Higgo",
+        "total": "-7",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
+        "position": "T-4",
+        "name": "Michael Thorbjornsen",
+        "total": "-6",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
         "name": "Emiliano Grillo",
-        "total": "-4",
+        "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-3",
-        "name": "Keith Mitchell",
-        "total": "-4",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-3",
-        "name": "Keegan Bradley",
-        "total": "-4",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-6",
+        "position": "T-4",
         "name": "Lee Hodges",
-        "total": "-3",
+        "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
+        "position": "T-4",
         "name": "Hank Lebioda",
-        "total": "-3",
+        "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Patton Kizzire",
-        "total": "-3",
+        "position": "T-4",
+        "name": "Maverick McNealy",
+        "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Harris English",
-        "total": "-3",
+        "position": "T-4",
+        "name": "Davis Riley",
+        "total": "-6",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-6",
-        "name": "Zecheng Dou",
-        "total": "-3",
+        "position": "T-10",
+        "name": "Keith Mitchell",
+        "total": "-5",
         "round_score": "-",
         "thru": "0"
       }
