@@ -1,75 +1,75 @@
 {
   "leaderboard": {
     "tournament": "The RSM Classic",
-    "status": "Scheduled",
+    "status": "In Progress",
     "players": [
       {
         "position": "T-1",
-        "name": "David Skinns",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "John Parry",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Robert Streb",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Emiliano Grillo",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Patrick Rodgers",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Ben Silverman",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
-        "name": "Zac Blair",
-        "total": "E",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-1",
         "name": "Max Greyserman",
-        "total": "E",
+        "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-1",
-        "name": "Rasmus H\u00f8jgaard",
-        "total": "E",
+        "name": "Maverick McNealy",
+        "total": "-5",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Max McGreevy",
-        "total": "E",
+        "position": "T-3",
+        "name": "Emiliano Grillo",
+        "total": "-4",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Keith Mitchell",
+        "total": "-4",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Keegan Bradley",
+        "total": "-4",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Lee Hodges",
+        "total": "-3",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Hank Lebioda",
+        "total": "-3",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Patton Kizzire",
+        "total": "-3",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Harris English",
+        "total": "-3",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-6",
+        "name": "Zecheng Dou",
+        "total": "-3",
         "round_score": "-",
         "thru": "0"
       }
