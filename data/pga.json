@@ -4,72 +4,72 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "1",
-        "name": "Jesper Svensson",
+        "position": "T-1",
+        "name": "Rasmus Neergaard-Petersen",
+        "total": "-9",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
+        "name": "Marco Penge",
+        "total": "-9",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-1",
+        "name": "Michael Thorbjornsen",
+        "total": "-9",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Adrien Dumont de Chassart",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-2",
-        "name": "Max Greyserman",
-        "total": "-7",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-2",
-        "name": "Garrick Higgo",
-        "total": "-7",
+        "position": "T-4",
+        "name": "Max McGreevy",
+        "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-4",
-        "name": "Michael Thorbjornsen",
-        "total": "-6",
+        "name": "Ricky Castillo",
+        "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-4",
-        "name": "Emiliano Grillo",
-        "total": "-6",
+        "name": "Rasmus H\u00f8jgaard",
+        "total": "-8",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Haotong Li",
+        "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-4",
         "name": "Lee Hodges",
-        "total": "-6",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Hank Lebioda",
-        "total": "-6",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Maverick McNealy",
-        "total": "-6",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Davis Riley",
-        "total": "-6",
+        "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-10",
-        "name": "Keith Mitchell",
-        "total": "-5",
+        "name": "Harry Hall",
+        "total": "-7",
         "round_score": "-",
         "thru": "0"
       }
