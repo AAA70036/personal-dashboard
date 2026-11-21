@@ -5,14 +5,14 @@
     "players": [
       {
         "position": "T-1",
-        "name": "Rasmus Neergaard-Petersen",
+        "name": "Marco Penge",
         "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-1",
-        "name": "Marco Penge",
+        "name": "Rasmus Neergaard-Petersen",
         "total": "-9",
         "round_score": "-",
         "thru": "0"
@@ -26,14 +26,21 @@
       },
       {
         "position": "T-4",
-        "name": "Adrien Dumont de Chassart",
+        "name": "Max McGreevy",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-4",
-        "name": "Max McGreevy",
+        "name": "Lee Hodges",
+        "total": "-8",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-4",
+        "name": "Adrien Dumont de Chassart",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
@@ -60,15 +67,8 @@
         "thru": "0"
       },
       {
-        "position": "T-4",
-        "name": "Lee Hodges",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
         "position": "T-10",
-        "name": "Harry Hall",
+        "name": "Davis Riley",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
