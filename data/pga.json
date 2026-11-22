@@ -4,71 +4,71 @@
     "status": "In Progress",
     "players": [
       {
-        "position": "T-1",
+        "position": "1",
+        "name": "Max Greyserman",
+        "total": "-11",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "2",
+        "name": "Michael Thorbjornsen",
+        "total": "-10",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Harris English",
+        "total": "-9",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Max McGreevy",
+        "total": "-9",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
+        "name": "Rasmus H\u00f8jgaard",
+        "total": "-9",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-3",
         "name": "Marco Penge",
         "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
+        "position": "T-3",
         "name": "Rasmus Neergaard-Petersen",
         "total": "-9",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-1",
-        "name": "Michael Thorbjornsen",
-        "total": "-9",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Max McGreevy",
+        "position": "T-8",
+        "name": "Jackson Koivun",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
-        "position": "T-4",
-        "name": "Lee Hodges",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Adrien Dumont de Chassart",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Ricky Castillo",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Rasmus H\u00f8jgaard",
-        "total": "-8",
-        "round_score": "-",
-        "thru": "0"
-      },
-      {
-        "position": "T-4",
-        "name": "Haotong Li",
+        "position": "T-8",
+        "name": "David Ford",
         "total": "-8",
         "round_score": "-",
         "thru": "0"
       },
       {
         "position": "T-10",
-        "name": "Davis Riley",
+        "name": "Davis Thompson",
         "total": "-7",
         "round_score": "-",
         "thru": "0"
