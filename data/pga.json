@@ -1,77 +1,77 @@
 {
   "leaderboard": {
     "tournament": "The RSM Classic",
-    "status": "In Progress",
+    "status": "Final",
     "players": [
       {
-        "position": "T-1",
-        "name": "Rasmus H\u00f8jgaard",
-        "total": "-13",
-        "round_score": "E",
-        "thru": "2"
-      },
-      {
-        "position": "T-1",
-        "name": "Michael Thorbjornsen",
-        "total": "-13",
-        "round_score": "E",
-        "thru": "2"
-      },
-      {
-        "position": "3",
-        "name": "Max Greyserman",
-        "total": "-12",
-        "round_score": "E",
-        "thru": "2"
-      },
-      {
-        "position": "T-4",
-        "name": "Jackson Koivun",
-        "total": "-11",
-        "round_score": "-1",
-        "thru": "3"
-      },
-      {
-        "position": "T-4",
-        "name": "Rasmus Neergaard-Petersen",
-        "total": "-11",
-        "round_score": "-1",
-        "thru": "3"
-      },
-      {
-        "position": "T-4",
+        "position": "1",
         "name": "Marco Penge",
-        "total": "-11",
-        "round_score": "E",
-        "thru": "3"
+        "total": "-17",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-4",
+        "position": "T-2",
+        "name": "Michael Thorbjornsen",
+        "total": "-16",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-2",
         "name": "Haotong Li",
-        "total": "-11",
-        "round_score": "E",
-        "thru": "2"
+        "total": "-16",
+        "round_score": "-",
+        "thru": "0"
       },
       {
-        "position": "T-8",
-        "name": "Ricky Castillo",
-        "total": "-10",
+        "position": "T-2",
+        "name": "Max Greyserman",
+        "total": "-16",
+        "round_score": "-",
+        "thru": "0"
+      },
+      {
+        "position": "T-5",
+        "name": "Jackson Koivun",
+        "total": "-14",
+        "round_score": "-4",
+        "thru": "F"
+      },
+      {
+        "position": "T-5",
+        "name": "Rasmus H\u00f8jgaard",
+        "total": "-14",
         "round_score": "-1",
-        "thru": "4"
+        "thru": "F"
       },
       {
-        "position": "T-8",
+        "position": "T-7",
+        "name": "Harris English",
+        "total": "-13",
+        "round_score": "-5",
+        "thru": "F"
+      },
+      {
+        "position": "T-7",
         "name": "Adrien Dumont de Chassart",
-        "total": "-10",
-        "round_score": "E",
-        "thru": "3"
+        "total": "-13",
+        "round_score": "-3",
+        "thru": "F"
       },
       {
-        "position": "T-8",
-        "name": "Max McGreevy",
-        "total": "-10",
-        "round_score": "+1",
-        "thru": "2"
+        "position": "9",
+        "name": "Nick Dunlap",
+        "total": "-12",
+        "round_score": "-6",
+        "thru": "F"
+      },
+      {
+        "position": "T-10",
+        "name": "Brooks Koepka",
+        "total": "-11",
+        "round_score": "-3",
+        "thru": "F"
       }
     ]
   }
